@@ -17,10 +17,5 @@ def main():
 
     tt.compare_num_words()
 
-
-
-
-
-
 if __name__ == '__main__':
     main()

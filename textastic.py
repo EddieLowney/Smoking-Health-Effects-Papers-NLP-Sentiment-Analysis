@@ -32,9 +32,6 @@ What get stored:
                               "B" --> wordcounts_B, etc.}
 
         e.g., dict[wordcounts][A] --> wordcounts_A
-
-
-
 """
 
 
@@ -67,12 +64,11 @@ class Textastic:
     def load_stop_words(self, stopwords_file):
         pass
 
-
-
     def load_text(self, filename, label=None, parser=None):
         """ Register a document with the framework.
         Extract and store data to be used later by
         the visualizations """
+
         if parser is None:
             results = self.default_parser(filename)
         else:
