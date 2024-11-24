@@ -59,30 +59,20 @@ class Textinator:
     def pdf_parser(self, filename):
         base_name = os.path.splitext(os.path.basename(filename))[0]
         output_name = f'data/converted_files/{base_name}.txt'
-        fulltext = ''
-        with pdfplumber.open(filename) as pdf:
-            for page in pdf.pages:
-                text = page.extract_text()
-                fulltext += text
+        text = extract_text(filename)
         with open(output_name, 'w') as file:
-            file.write(fulltext)
+            file.write(text)
 
-        words = fulltext.split(" ")
+        words = text.split(" ")
         wc = Counter(words)
         num = len(words)
         return {'wordcount': wc, 'numwords': num}
-
-    def alt_pdf_parser(self, filename):
-        pass
 
 
     def load_stop_words(self, stopwords_file):
         with open(stopwords_file) as infile:
             for i in infile:
                 self.stop_list.append(i.strip())
-
-
-
 
     def filter_words(self):
         # print(self.data['wordcount']["I1"])
@@ -116,19 +106,18 @@ def main():
     T = Textinator()
     T.load_stop_words(STOP_WORDS_FILENAME)
 
-
     T.load_text('data/cig_data/independent_1.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_2.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_3.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_4.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_5.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_6.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/industry_sponsored_1.pdf', 'S1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/industry_sponsored_2.pdf', 'S2', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/industry_sponsored_3.pdf', 'S3', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/industry_sponsored_4.pdf', 'S4', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/industry_sponsored_5.pdf', 'S5', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/industry_sponsored_6.pdf', 'S6')
+    T.load_text('data/cig_data/independent_2.pdf', 'I1', parser=T.pdf_parser)
+    T.load_text('data/cig_data/independent_3.pdf', 'I1', parser=T.pdf_parser)
+    T.load_text('data/cig_data/independent_4.pdf', 'I1', parser=T.pdf_parser)
+    T.load_text('data/cig_data/independent_5.pdf', 'I1', parser=T.pdf_parser)
+    T.load_text('data/cig_data/independent_6.pdf', 'I1', parser=T.pdf_parser)
+    T.load_text('data/cig_data/industry_sponsored_1.pdf', 'S1', parser=T.pdf_parser)
+    T.load_text('data/cig_data/industry_sponsored_2.pdf', 'S2', parser=T.pdf_parser)
+    T.load_text('data/cig_data/industry_sponsored_3.pdf', 'S3', parser=T.pdf_parser)
+    T.load_text('data/cig_data/industry_sponsored_4.pdf', 'S4', parser=T.pdf_parser)
+    T.load_text('data/cig_data/industry_sponsored_5.pdf', 'S5', parser=T.pdf_parser)
+    T.load_text('data/cig_data/industry_sponsored_6.pdf', 'S6')
 
     T.filter_words()
 

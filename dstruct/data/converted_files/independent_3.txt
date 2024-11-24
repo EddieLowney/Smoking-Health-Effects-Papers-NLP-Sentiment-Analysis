@@ -1,344 +1,714 @@
-THIEME
 60
+
+THIEME
+
 E-Cigarettes and Cardiovascular Risk: Beyond
 Science and Mysticism
-Giuseppe Lippi, MD1 Emmanuel J. Favaloro, PhD, FFSc (RCPA)2 Tiziana Meschi, MD3
-Camilla Mattiuzzi, MD4 Loris Borghi, MD3 Gianfranco Cervellin, MD5
-1LaboratoryofClinicalChemistryandHematology,AcademicHospital Addressforcorrespondence GiuseppeLippi,MD,U.O.Diagnostica
-ofParma,Parma,Italy Ematochimica,AziendaOspedaliero-UniversitariadiParma,Via
-2DepartmentofHaematology,InstituteofClinicalPathologyand Gramsci,14,43126-Parma,Italy(e-mail:glippi@ao.pr.it;ulippi@tin.it).
-MedicalResearch(ICPMR),WestmeadHospital,
-NewSouthWales,Australia
-3DepartmentofClinicalSciences,UniversityofParma,Parma,Italy
-4ServiceofClinicalGovernance,GeneralHospitalofTrento,
-Trento,Italy
-5EmergencyDepartment,AcademicHospitalofParma,Parma,Italy
-SeminThrombHemost2014;40:60–65.
-Abstract Cigarettesmokingisthemostimportantcauseofprematuredeath,anditiscurrently
+
+Giuseppe Lippi, MD1
+Camilla Mattiuzzi, MD4
+
+Emmanuel J. Favaloro, PhD, FFSc (RCPA)2 Tiziana Meschi, MD3
+
+Loris Borghi, MD3 Gianfranco Cervellin, MD5
+
+1 Laboratory of Clinical Chemistry and Hematology, Academic Hospital
+
+of Parma, Parma, Italy
+
+2 Department of Haematology, Institute of Clinical Pathology and
+
+Address for correspondence Giuseppe Lippi, MD, U.O. Diagnostica
+Ematochimica, Azienda Ospedaliero-Universitaria di Parma, Via
+Gramsci, 14, 43126-Parma, Italy (e-mail: glippi@ao.pr.it; ulippi@tin.it).
+
+Medical Research (ICPMR), Westmead Hospital,
+New South Wales, Australia
+
+3 Department of Clinical Sciences, University of Parma, Parma, Italy
+4 Service of Clinical Governance, General Hospital of Trento,
+
+Trento, Italy
+
+5 Emergency Department, Academic Hospital of Parma, Parma, Italy
+
+Semin Thromb Hemost 2014;40:60–65.
+
+Abstract
+
+Keywords
+► e-cigarette
+► electronic cigarette
+► cardiovascular disease
+► risk factor
+► tobacco
+
+Cigarette smoking is the most important cause of premature death, and it is currently
 listed as a major independent risk factor for cardiovascular disease. Because of
 restrictive measures and widespread control policies, tobacco companies are now
 using aggressive marketing strategies in favor of smokeless tobacco, including elec-
 tronic nicotine delivery systems, which are also known as electronic cigarettes or e-
 cigarettes. Although the regular use of these devices appears less hazardous than
-traditionalcigarettesorother formsofsmokelesstobacco,recentstudieshaveshown
+traditional cigarettes or other forms of smokeless tobacco, recent studies have shown
 that various potentially harmful substances, especially nicotine, ultraparticles, and
-volatileorganiccompounds,maybeeffectivelyinhaledorliberatedinexhaledairduring
-repeated e-cigarette puffing. This would enhance the risk of cardiac arrhythmias and
+volatile organic compounds, may be effectively inhaled or liberated in exhaled air during
+repeated e-cigarette pufﬁng. This would enhance the risk of cardiac arrhythmias and
 hypertension, which may predispose some users to increased risk of cardiovascular
-events, which may be further magnified by other potential adverse effects such as
-Keywords arrhythmias, increased respiratory, and flow respiratory resistance. Some cases of
-► e-cigarette intoxication have also been described, wherein large amounts of nicotine and other
-► electroniccigarette harmful compounds may be effectively absorbed. As the use of e-cigarettes is
-► cardiovasculardisease continuouslyrising,anditisalsoconsideredapotentiallyeffectivemethodforsmoking
-► risk factor cessation, more focused research is urgently needed to definitely establish the
-► tobacco cardiovascular safeness of thesedevices.
-The Cigarette Smoke Epidemics tobacco smoking causes nearly 19.1% of overall deaths in
+events, which may be further magniﬁed by other potential adverse effects such as
+arrhythmias, increased respiratory, and ﬂow respiratory resistance. Some cases of
+intoxication have also been described, wherein large amounts of nicotine and other
+harmful compounds may be effectively absorbed. As the use of e-cigarettes is
+continuously rising, and it is also considered a potentially effective method for smoking
+cessation, more focused research is urgently needed to deﬁnitely establish the
+cardiovascular safeness of these devices.
+
+The Cigarette Smoke Epidemics
+
+According to the latest available updates released by the
+American Heart Association (AHA), 21.3% of men and 16.7%
+of women aged 18 years or older are current cigarette
+smokers in the United States. Although the percentage of
+current cigarette smokers (i.e., 19.0% overall) has declined by
+nearly one-ﬁfth since 1998, when the rate was 24.1%,1
+
+tobacco smoking causes nearly 19.1% of overall deaths in
 the United States, with approximately one-third of these
-According to the latest available updates released by the attributabletocardiovasculardisease.Evenmoreimpressive
-AmericanHeartAssociation(AHA),21.3%ofmenand 16.7% is that approximately 11% of cigarette smoking–related
-of women aged 18 years or older are current cigarette deaths are reportedly caused by second-hand (so called
-smokers in the United States. Although the percentage of passive)smoke.Thedirectmedicalcostsandlostproductivity
-currentcigarettesmokers(i.e.,19.0%overall)hasdeclinedby costsassociatedwithsmokingareestimatedatapproximate-
-nearly one-fifth since 1998, when the rate was 24.1%,1 ly$96and$97billion,thustotalinganestimated$193billion
-DOI http://dx.doi.org/ Copyright©2016byThiemeMedical
+attributable to cardiovascular disease. Even more impressive
+is that approximately 11% of cigarette smoking–related
+deaths are reportedly caused by second-hand (so called
+passive) smoke. The direct medical costs and lost productivity
+costs associated with smoking are estimated at approximate-
+ly $96 and $97 billion, thus totaling an estimated $193 billion
+
 Issue Theme Hot Topics V;
-10.1055/s-0033-1363468. Publishers,Inc.,333SeventhAvenue,
 Guest Editor, Emmanuel
-ISSN 0094-6176. NewYork,NY10001,USA.
 J. Favaloro, PhD, FFSc (RCPA).
-publishedonline Tel:+1(212)584-4662.
-December 16, 2013E-Cigarettes and Cardiovascular Risk Lippi et al. 61
-peryear.1Cigarettesmoking,eitherinactiveorpassiveform, nicotine(►Fig.1).Therefillkit,whichmaycontainupto1g
-isthereforeconsideredthemostimportantpreventablecause ofnicotineinasmallbottle,isusedtofillthecartridgewith
-of premature death in the United States as well as in most replacement solution at higher doses than originally con-
-industrialized and developing countries and is currently tained.4Withnotabledifferencesamongdifferentbrandsand
-listedasa“major”independentriskfactorforcardiovascular types,thesedevicesalsocontainvariousamountsofhumec-
-disease.2 Cigarette smoke contains thousands of chemicals tants such as propylene glycol or glycerol to produce the
-such as nicotine, carbon monoxide (CO), tar, and several vapor, flavors (e.g., mint, vanilla, fruit, and chocolate),5and
-carcinogens among many others, which contribute to a evendrugssuchasrimonabant(i.e.,asubstancetypicallyused
-kaleidoscopeofnegativeeffectsonhumanbiology,including forweightloss)andaminotadalafil(i.e.,adruganalogofthe
-hypertension, decreased exercise tolerance, progression of commercially approved tadalafil, which is used to treat
-atheroscleroticlesions,andprocoagulanteffects. erectiledysfunction).6
-With regard to the concordance between the content of
-e-cigarette refill bottles and what is stated on the label, Etter
+published online
+December 16, 2013
+
+DOI http://dx.doi.org/
+10.1055/s-0033-1363468.
+ISSN 0094-6176.
+
+Copyright © 2016 by Thieme Medical
+Publishers, Inc., 333 Seventh Avenue,
+New York, NY 10001, USA.
+Tel: +1(212) 584-4662.
+
+per year.1 Cigarette smoking, either in active or passive form,
+is therefore considered the most important preventable cause
+of premature death in the United States as well as in most
+industrialized and developing countries and is currently
+listed as a “major” independent risk factor for cardiovascular
+disease.2 Cigarette smoke contains thousands of chemicals
+such as nicotine, carbon monoxide (CO), tar, and several
+carcinogens among many others, which contribute to a
+kaleidoscope of negative effects on human biology, including
+hypertension, decreased exercise tolerance, progression of
+atherosclerotic lesions, and procoagulant effects.
+
 Smokeless Tobacco
-etalpurchasedandassessed20bottlesof10differentbrands(19
-Smokeless tobacco is a vague term that refers to several wereobtainedfromWebsitesandshippedbyregularmailby
-tobacco products used by means other than smoking and retailers and the remainder was obtained directly from the
-includes snuff (loose tobacco particles or sachets), chewing manufacturer).7Theanalysis,basedonultrahighperformance
-(loose leaf, plug, and twist formulations), spit tobacco, oral liquidchromatographyandgaschromatography,wasaimedto
-compresses,anddrypowders(e.g.,moist,nass,snus,gutkha, quantifynicotinecontent,knownnicotinedegradationproducts
-orgultobacco).Theseproductsusuallycontainseveraladdi- andpotentialimpurities.Therelativenicotinecontentofeach
-tives,someof whichareaddedforflavor(e.g.,nuts,vanilla, bottlewasrathersimilar tothatclaimedbythemanufacturer
-sugar, spices, and oils), and others to enhance pH (e.g., andreportedinthelabel,withameanpercentageconcordance
-ammonium and sodium carbonate) and thus increase the of99.8%(95%confidenceinterval[CI],97.6–101.9%)andarange
-concentration of unprotonated nicotine.3 The nicotine and between85and 121%.Theremarkable concentrationofnico-
-other compounds contained in formulations are typically tine-relatedimpuritiesfoundinthebottles(between0and4.4%
-absorbedacrossthebuccalmucosa,whereasdryfinepowder of nicotine concentration, although most samples exhibited
-formulations of snuff can also be sniffed into the nose. valuesbetween1and2%ofnicotinecontent)suggests,however,
-Becauseofthedifferentmanufacturingtechniques,products that oxidative degradation of the basic compound may have
-mayvarybroadlyinchemicalcompositionandrelativenico- occurredduringmanufacturingofingredientsorfinalliquid,or
-tine content (e.g., approximately 10 mg/g of product in thatnondesirableinteractionswiththepackagingmaterialmay
-chewing tobacco, approximately 17 mg/g of product in dry have occurred along with inadequatehandlingand storage of
-snuff tobacco, approximately 13 mg/g of product in moist bottles.Neitherethyleneglycolnordiethyleneglycolcouldbe
-snufftobacco,ascomparedwith7to13mg/gofproductin detectedinfluids,whichsuggeststhattheoverallqualityofe-
-traditionalcigarettes).3Althoughtheabsorptionofcombus- liquids may be somehow reassuring. Cameron et al analyzed
-tion-derivedcarcinogenicsubstancessuchasbenzo[a]pyrene nicotine solutions contained in seven differente-cigarettes by
-and other polycyclic compounds is expectedly lower, other liquid chromatography/electrospray ionization tandem mass
-carcinogens such as nitrosamines have instead a relatively spectrometry8 and found that the concentration of nicotine
-highconcentrationinsmokelesstobaccoproducts.3 was equivalent to—or lower than—that marked or expected,
-given the manufacturer concentration ranges provided (i.e.,
+
+Smokeless tobacco is a vague term that refers to several
+tobacco products used by means other than smoking and
+includes snuff (loose tobacco particles or sachets), chewing
+(loose leaf, plug, and twist formulations), spit tobacco, oral
+compresses, and dry powders (e.g., moist, nass, snus, gutkha,
+or gul tobacco). These products usually contain several addi-
+tives, some of which are added for ﬂavor (e.g., nuts, vanilla,
+sugar, spices, and oils), and others to enhance pH (e.g.,
+ammonium and sodium carbonate) and thus increase the
+concentration of unprotonated nicotine.3 The nicotine and
+other compounds contained in formulations are typically
+absorbed across the buccal mucosa, whereas dry ﬁne powder
+formulations of snuff can also be sniffed into the nose.
+Because of the different manufacturing techniques, products
+may vary broadly in chemical composition and relative nico-
+tine content (e.g., approximately 10 mg/g of product in
+chewing tobacco, approximately 17 mg/g of product in dry
+snuff tobacco, approximately 13 mg/g of product in moist
+snuff tobacco, as compared with 7 to 13 mg/g of product in
+traditional cigarettes).3 Although the absorption of combus-
+tion-derived carcinogenic substances such as benzo[a]pyrene
+and other polycyclic compounds is expectedly lower, other
+carcinogens such as nitrosamines have instead a relatively
+high concentration in smokeless tobacco products.3
+
 The Electronic Cigarette
-Becauseoftherestrictivemeasuresandwidespreadcontrol
-policies,particularlyindevelopedcountries,tobaccocompa-
-niesarenowusingaggressivemarketingpoliciesinfavorof
-smokelesstobaccoforrecoveryfromeconomicallossdueto
-reducedincomefromtraditionalcigarettesmoke.Alongwith
-moretraditionalandprevalent forms of smokelesstobacco,
+
+Because of the restrictive measures and widespread control
+policies, particularly in developed countries, tobacco compa-
+nies are now using aggressive marketing policies in favor of
+smokeless tobacco for recovery from economical loss due to
+reduced income from traditional cigarette smoke. Along with
+more traditional and prevalent forms of smokeless tobacco,
 electronic nicotine delivery systems—also known as “elec-
-tronic cigarettes” or “e-cigarettes”—were first commercial-
-ized in China nearly10 years ago,and their market rapidly
-grewandspread,firstthroughsalesviatheWeb,andmore
-recently,intobaccoshopsandretailoutlets.Basically,ane-
+tronic cigarettes” or “e-cigarettes”—were ﬁrst commercial-
+ized in China nearly 10 years ago, and their market rapidly
+grew and spread, ﬁrst through sales via the Web, and more
+recently, in tobacco shops and retail outlets. Basically, an e-
 cigarette is a device that looks and should feel like a real
 cigarette, but which does not burn tobacco. Within a tube
-containingamouthpieceandasocketforcartridgeinsertion,
+containing a mouthpiece and a socket for cartridge insertion,
 a conventional e-cigarette also houses a battery, a heating
-element,apowersource,andapressureswitch.Thecartridge,
-Fig.1 Compositionofaconventionalelectroniccigarette
-which is device specific, typically contains 0 to 20mg of (e-cigarette).
-SeminarsinThrombosis&Hemostasis Vol.40 No.1/201462 E-Cigarettes and Cardiovascular Risk Lippi et al.
-between41and93%).Nevertheless,theabsolutelevel(i.e.,from 2.60mg),butstillrepresentsameaningfulquantitythatcanbe
-8.5to22.2mg/mL)wassufficienttobetoxicorlethalshould notably increased byenhancing puff strength or using higher
-theproductbeorallyingestedortransdermallyabsorbedand amounts of refill(s). Taken together, these data provide clear
-considering that thefatal dose of nicotine is 30 to 60mg in evidence that a variety of harmful substances—especially
-adults and 10mg inchildren.5 In another recentstudy, Kim nicotine, ultraparticles, and volatile organic compounds—may
-andShinusedliquidchromatography-tandemmassspectro- be effectively inhaled or liberated in the exhaled air during
-metrictodetectandmeasuretobacco-specificnitrosamines— repeatede-cigarettepuffing(►Fig.2).
+element, a power source, and a pressure switch. The cartridge,
+which is device speciﬁc, typically contains 0 to 20 mg of
+
+E-Cigarettes and Cardiovascular Risk
+
+Lippi et al.
+
+61
+
+nicotine (►Fig. 1). The reﬁll kit, which may contain up to 1 g
+of nicotine in a small bottle, is used to ﬁll the cartridge with
+replacement solution at higher doses than originally con-
+tained.4 With notable differences among different brands and
+types, these devices also contain various amounts of humec-
+tants such as propylene glycol or glycerol to produce the
+vapor, ﬂavors (e.g., mint, vanilla, fruit, and chocolate),5 and
+even drugs such as rimonabant (i.e., a substance typically used
+for weight loss) and amino tadalaﬁl (i.e., a drug analog of the
+commercially approved tadalaﬁl, which is used to treat
+erectile dysfunction).6
+
+With regard to the concordance between the content of
+e-cigarette reﬁll bottles and what is stated on the label, Etter
+et al purchased and assessed 20 bottles of 10 different brands (19
+were obtained from Web sites and shipped by regular mail by
+retailers and the remainder was obtained directly from the
+manufacturer).7 The analysis, based on ultrahigh performance
+liquid chromatography and gas chromatography, was aimed to
+quantify nicotine content, known nicotine degradation products
+and potential impurities. The relative nicotine content of each
+bottle was rather similar to that claimed by the manufacturer
+and reported in the label, with a mean percentage concordance
+of 99.8% (95% conﬁdence interval [CI], 97.6–101.9%) and a range
+between 85 and 121%. The remarkable concentration of nico-
+tine-related impurities found in the bottles (between 0 and 4.4%
+of nicotine concentration, although most samples exhibited
+values between 1 and 2% of nicotine content) suggests, however,
+that oxidative degradation of the basic compound may have
+occurred during manufacturing of ingredients or ﬁnal liquid, or
+that nondesirable interactions with the packaging material may
+have occurred along with inadequate handling and storage of
+bottles. Neither ethylene glycol nor diethylene glycol could be
+detected in ﬂuids, which suggests that the overall quality of e-
+liquids may be somehow reassuring. Cameron et al analyzed
+nicotine solutions contained in seven different e-cigarettes by
+liquid chromatography/electrospray ionization tandem mass
+spectrometry8 and found that the concentration of nicotine
+was equivalent to—or lower than—that marked or expected,
+given the manufacturer concentration ranges provided (i.e.,
+
+Fig. 1 Composition of a conventional electronic cigarette
+(e-cigarette).
+
+Seminars in Thrombosis & Hemostasis
+
+Vol. 40 No. 1/2014
+
+62
+
+E-Cigarettes and Cardiovascular Risk
+
+Lippi et al.
+
+between 41 and 93%). Nevertheless, the absolute level (i.e., from
+8.5 to 22.2 mg/mL) was sufﬁcient to be toxic or lethal should
+the product be orally ingested or transdermally absorbed and
+considering that the fatal dose of nicotine is 30 to 60 mg in
+adults and 10 mg in children.5 In another recent study, Kim
+and Shin used liquid chromatography-tandem mass spectro-
+metric to detect and measure tobacco-speciﬁc nitrosamines—
 which are well-established carcinogenic substances—in 105
 replacement liquids of e-cigarettes produced by 11 compa-
-E-Cigarette and Cardiovascular Disease
 nies.9 The overall rate of detection of one or more of these
-harmful compounds was 93% (varying between 54 and 87% Theuseofthesedevicesformanagementoftobaccodepen-
-accordingtothedifferentspecificsubstance),withamaximum dence is controversial due to a paucity of long-term safety
-concentrationof86.92µg/L,whichwasupto10timeshigher resultsandrandomized,controlleddata.Thetypicalprofileof
-thanthatdeclaredbymanufacturers.Inlinewiththisfinding, ane-cigaretteuserhasbeeninvestigatedbyDawkinsetalin
-Williamsetalfoundsignificantamountsofmetalandsilicate an online survey.16 The vast majority of participants, up to
-particles in cartomizer aerosol, which further supports the 74%,reportednotsmokingforatleastafewweeksasusing
-need for improved quality control in e-cigarette design and thee-cigarette,whereas70%ofthemreportedareducedurge
-manufacture.10 tosmoke.Approximately72%oftheparticipantswereusinga
-Thepharmacokineticsandpharmacodynamicsofe-cigarettes “tank” system, most commonly the eGo-C (Shenzhen
-have been investigated in some studies. Bullen et al earlier JoyetechCo.Ltd.,ShenZhen,China).Themeanperiodofuse
-reported that the use of a 16-mg electronic nicotine delivery was10months.Averylownumberofparticipants(i.e.,1%)
-deviceincreasedserumnicotinetoapeakof1.3ng/mLwithin reported exclusive use of nonnicotine-containing liquid.
-19.6 minutes as compared with 13.4 ng/mL in 14.3 minutes Indeed, the awareness and current use of these devices
-using a traditional tobacco cigarette.11 Vansickel et al also steadily grows. In Great Britain, for example, the current
-assessed plasma nicotine and carbon CO concentration in 32 use of e-cigarettes among the overall general population
-subjectswhotook10puffsof16mgor18mgelectronicnicotine has more than doubled between 2010 and 2012 (i.e., from
-deliverydevicescomparedwithatraditionaltobaccocigarette.12 2.7to6.7%).17
-Themeanplasmanicotineincreasedfromapreadministration Although it isusuallyconsidered lessharmfulthan ciga-
-levelof2.1ng/mLtoapeakof18.8ng/mL5minutesaftertheuse rette smoking for both cancer and cardiovascular disease,
-oftraditionalcigarette,whereasnosignificantchangescouldbe there is increasing evidence supporting the notion that
-observed for either e-cigarette device. Similarly, the mean CO smokeless tobacco may be less safe than conventionally
-increasedfromapreadministrationlevelof5.3partspermillion supposed. The largest epidemiological study regarding the
-(ppm)toapeakof16.2ppm15minutesafteruseoftraditional potential influence of smokeless tobacco on cardiovascular
-cigarette,but again, no significantchangescould befound for riskwaspublishedin2010.Inthislargeprospectivetrial,the
-both e-cigarettes. Passive vaping (vaporizing) has also been incidence of cardiovascular disease was assessed in 14,498
-reported from consumption ofe-cigarettes. Schripp et al ana- participants of the Atherosclerosis Risk in Communities
-lyzedthereleaseofvolatileorganiccompoundsand(ultra)fine (ARIC) Study, aged 45 to 64 years at baseline.18 Smokeless
-particles from an e-cigarette under near-to-real-use condi- tobacco usewas herein defined as “current and past use of
-tions,13 and found a high amount of 1,2-propanediol along chewing tobacco and snuff.” During a median follow-up of
-with moderate levels of 1,2,3-propanetriol, diacetin, nicotine, 16.7 years, 2,572 cardiovascular events (i.e., acute coronary
-and ultrafine particles in exhaled air. Ingebrethsen et al also syndrome or stroke) were recorded. The current use of
-foundthatundilutede-cigaretteaerosolshaveparticlediameters smokelesstobaccoatbaselineconferreda1.27-fold(95%CI,
-averagingbetween250and450nm,withapproximateconcen- 1.06–1.52) greater risk of cardiovascular events than the
-tration of 109 particles/cm3 range, which are figures globally nonuse, even after adjustment for several demographic,
-comparabletothosefoundintobaccoburningcigarettesmoke.14 socioeconomic,lifestyle,andtobacco-relatedvariables.Even
-Finally,Goniewiczetalrecentlyassessednicotinelevelsinvapor
+harmful compounds was 93% (varying between 54 and 87%
+according to the different speciﬁc substance), with a maximum
+concentration of 86.92 µg/L, which was up to 10 times higher
+than that declared by manufacturers. In line with this ﬁnding,
+Williams et al found signiﬁcant amounts of metal and silicate
+particles in cartomizer aerosol, which further supports the
+need for improved quality control in e-cigarette design and
+manufacture.10
+
+The pharmacokinetics and pharmacodynamics of e-cigarettes
+have been investigated in some studies. Bullen et al earlier
+reported that the use of a 16-mg electronic nicotine delivery
+device increased serum nicotine to a peak of 1.3 ng/mL within
+19.6 minutes as compared with 13.4 ng/mL in 14.3 minutes
+using a traditional tobacco cigarette.11 Vansickel et al also
+assessed plasma nicotine and carbon CO concentration in 32
+subjects who took 10 puffs of 16 mg or 18 mg electronic nicotine
+delivery devices compared with a traditional tobacco cigarette.12
+The mean plasma nicotine increased from a preadministration
+level of 2.1 ng/mL to a peak of 18.8 ng/mL 5 minutes after the use
+of traditional cigarette, whereas no signiﬁcant changes could be
+observed for either e-cigarette device. Similarly, the mean CO
+increased from a preadministration level of 5.3 parts per million
+(ppm) to a peak of 16.2 ppm 15 minutes after use of traditional
+cigarette, but again, no signiﬁcant changes could be found for
+both e-cigarettes. Passive vaping (vaporizing) has also been
+reported from consumption of e-cigarettes. Schripp et al ana-
+lyzed the release of volatile organic compounds and (ultra)ﬁne
+particles from an e-cigarette under near-to-real-use condi-
+tions,13 and found a high amount of 1,2-propanediol along
+with moderate levels of 1,2,3-propanetriol, diacetin, nicotine,
+and ultraﬁne particles in exhaled air. Ingebrethsen et al also
+found that undiluted e-cigarette aerosols have particle diameters
+averaging between 250 and 450 nm, with approximate concen-
+tration of 109 particles/cm3 range, which are ﬁgures globally
+comparable to those found in tobacco burning cigarette smoke.14
+Finally, Goniewicz et al recently assessed nicotine levels in vapor
 generated from 16 e-cigarettes differing for brands and mod-
-els.15Themeannicotineamountinoriginalunusedcartridges
-was 10.3mg (95% CI, 7.2–13.4 mg), that contained in refill
-solutionswas15.3mg(95%CI,11.6–18.9mg),andthatreleased
-tovaporwith150puffswas4.0mg(95%CI,2.6–5.4mg).Overall,
-theeffectivevaporizationofnicotinerangedfrom21to85%of
-therelativeamountspresentincartridges.Byassumingthat15
-puffsofe-cigarettemaybemoreorlessequivalenttosmoking
+els.15 The mean nicotine amount in original unused cartridges
+was 10.3 mg (95% CI, 7.2–13.4 mg), that contained in reﬁll
+solutions was 15.3 mg (95% CI, 11.6–18.9 mg), and that released
+to vapor with 150 puffs was 4.0 mg (95% CI, 2.6–5.4 mg). Overall,
+the effective vaporization of nicotine ranged from 21 to 85% of
+the relative amounts present in cartridges. By assuming that 15
+puffs of e-cigarette may be more or less equivalent to smoking
 one tobacco cigarette, the overall amount of nicotine inhaled
-withanelectroniccigarettewouldhencerangebetween0.025
+with an electronic cigarette would hence range between 0.025
 and 0.77 mg. This is a lower amount than that absorbed by
-smokingatraditionaltobaccocigarette(i.e.,between1.54and Fig.2 Potentiallytoxicsubstancesgeneratedbyelectroniccigarettes.
-SeminarsinThrombosis&Hemostasis Vol.40 No.1/2014E-Cigarettes and Cardiovascular Risk Lippi et al. 63
-moreinterestingly,althoughtheriskofcardiovascularevents parameters, except for a modest increase of MV-A wave,
-washigherinsmokersoftraditionalcigarettes(i.e.,1.46;95% whereassmokersofatobaccocigaretteexhibitedavarietyof
-CI,1.29–1.66),thecardiovascularrateassociatedwithcurrent significantabnormalities.Thisledtheauthorstoconcludethat
-useofsmokelesstobaccowasmorethan30%higherthanthat ane-cigarettedoesnottriggeracuteadverseeffectsoncardiac
-forcurrentcigarettesmoking(i.e.,21/1,000 vs.16/1,000per- function.
-son-years),andthishasbeenattributedtoanacuteresponseto Although the e-cigarette may therefore be safer than
-the over 2,000 various chemical compounds contained in traditionaltobaccosmokeandevenothertypesofsmokeless
-smokeless tobacco. In the earlier meta-analysis of Boffetta tobacco when used under ideal conditions, adverse effects
-and Straif the relative risk for ever use of smokeless tobacco togetherwithoccasionalcasesofpoisoningbydevicerefills
-productswas1.13(95%CI,1.06–1.21)formyocardialinfarction have been described. In an interesting study, Hua et al
-and1.40(95%CI,1.28–1.54)forstroke,respectively.19Arecent collected short-term health effects produced by e-cigarette
-Policy Statement by the AHA concluded that data from the use through an analysis oforiginal posts from three online
-majority of available studies do not support an increased e-cigarettes forums.23 Overall, 387 different effects were
-incidence of hypertension or nonfatal and fatal myocardial identified,318ofwhich(82%)werenegative(theremaining
-infarction in users of smokeless tobacco,3 although data werecharacterizedaspositive).Therespiratorysystemwas
-published by Yatsuya and Folsom18 and the outcome of the morefrequentlyaffected(74cases),followedbymouthand
-meta-analysis by Boffetta and Straif19 raise serious doubts throat(n¼68),theneurologicalsystem(n¼52),thesenso-
-aboutthisconclusion. rialsystem(n¼39),thedigestivetract(n¼36),themuscu-
-So, although available data show that smokeless tobacco lar/skeletal(n¼29),andcardiocirculatorysystems(17chest
-maycarryatangiblecardiovascularriskforcurrentusers,these symptoms,2circulatory).Themorefrequentcardiovascular
-findings cannot be automatically translated to e-cigarettes, complaints included chest pain or “pressure,” arrhythmias,
-because of their peculiar manufacturing and composition. and abnormal blood pressure (namely hypertension). More
-Unfortunately, the relatively recent commercialization has specifically,bloodpressurechangeswerereportedbynearly
-not permitted performance of large prospective studies and 4%ofusers,whereinhypertensionwasthemostfrequentsign
-attainmentofanyreliableestimateofthepotentialcardiovas- thatwasdiagnosedbyphysicians.
-cular risk of these devices. Nevertheless, some preliminary Vansickel and Eissenberg assessed plasma nicotine con-
-publicationsandcasereportsshouldraisewidespreadalert- centration, heart rate, and subjective ratings of nicotine/
-nessregardingthecardiovascularsafetyofthesedevices. product effects in eight e-cigarette users at baseline, after
-Vardavasetalinvestigatedwhethertheuseofanelectronic 10puffswitha30-secondinterpuffinterval,after1hourafter
-cigarettefor5minuteswouldproduceasignificanteffecton adlibitumpuffing,and2-hourafterward.24Comparedwith
-pulmonaryfunctionandfractionofexhalednitricoxidein30 baseline, the concentration of plasma nicotine increased
-healthyadultsmokers20andreportedanimmediatedecrease significantly within 5 minutes after the first puff (up to 10
-infractionofexhalednitricoxidealongwithenhancedtotal ng/mL)andpersistedasincreasedthroughouttheadlibitum
-respiratoryandflowrespiratoryresistances.Thesefindingsled puffingperiod(from10–over15ng/mL).Similarly,theheart
-theauthorstoconcludethatthenegativebiologicaleffectsof rate increase from 73(cid:2)2.0 to 78(cid:2)1.9 beats per minute
-short-termuseofe-cigarettesmaybesimilartothoseobserved (bpm) 5 minutes after thefirst puff, and persisted elevated
-with conventional tobacco smoking. Comparable findings throughout thefollowing period. At variancewithprevious
-werereportedbyGennimataetalwhoassessedspirometry, data,showingminimalornonicotinedeliverybye-cigarette,
-static lung volumes, airway resistance, airway conductance, this study has a much higher practical significance, as the
-andasinglebreathnitrogentestin32consecutivesubjects,8 e-cigarette users not only were allowed to provide their
-ofwhomneversmoked,and24ofwhomwereinsteadsmokers preferreddeviceandflavor/nicotineconcentration,butthey
-(11withnormalspirometryand13withchronicobstructive werealsoallowedtofollowtheirtypicalpatternofconsump-
-pulmonarydiseaseandasthma)immediatelyaftersmokingan tion during the 1-hour ad libitum puffing period. Thus,
-e-cigarettefor10minutes.21Astatisticallysignificantincrease effective nicotine delivery had occurred under this more
-wasobservedinairwayresistancecombinedwithasignificant “real-world” situation. A nicotinergic impact has also been
-decrease of airway conductance (especially in smokers and documentedbyFlourisetal25whoreportedthattheeffecton
-nonsmokers) but not in patients with chronic obstructive serumlevelsofcotinine(ametaboliteofnicotine)afteractive
-pulmonarydiseaseandasthma.Theseresultsledtheauthors and passive e-cigarette smoking does not differ from that
-toconcludethatthesuddenincreaseinairwayresistancemay generatedbyaconventionaltobaccocigarette.
-cause immediate harm after using the device, especially in Asmentioned,somecasereportshavebeenpublishedabout
-selected categories of patients, such as those suffering from the potential cardiovascular adverse effects of e-cigarettes,
-coronary artery disease. In a further study, Farsalinos et al mostly attributable to improper use. Monroy et al described
-assessedcardiacfunctionin20healthyyoungdailysmokers thecaseofa70-year-oldwhitewomanwithamedicalhistory
-aged 25 to 45 years, before and after smoking 1 tobacco of hypertension, hyperlipidemia, osteoarthritis, and allergic
-cigarette and 22 daily electronic cigarette users of similar rhinitiswhodeveloped paroxysmalatrialfibrillation,tempo-
-agebeforeandafterusingane-cigarettewithnicotineconcen- rallyassociatedwith e-cigarette use.26 As accurate investiga-
-trationof11mg/mLfor7minutes.22Theuseofthee-cigarette tionsfailedtoshowadditionaltriggers,animproperuseofa
-didnotcausesignificantalterationsinanyechocardiographic full-strengthnicotinereplacementdevicewasidentifiedasthe
-SeminarsinThrombosis&Hemostasis Vol.40 No.1/201464 E-Cigarettes and Cardiovascular Risk Lippi et al.
-mostprobablesourceofarrhythmias.Infact,therefillbottle
-hadneverlastedaslongasexpectedbythepatient,afactthat
-washighlysuggestivefor incorrect (i.e.,excessive) refillofe-
+smoking a traditional tobacco cigarette (i.e., between 1.54 and
+
+Seminars in Thrombosis & Hemostasis
+
+Vol. 40 No. 1/2014
+
+2.60 mg), but still represents a meaningful quantity that can be
+notably increased by enhancing puff strength or using higher
+amounts of reﬁll(s). Taken together, these data provide clear
+evidence that a variety of harmful substances—especially
+nicotine, ultraparticles, and volatile organic compounds—may
+be effectively inhaled or liberated in the exhaled air during
+repeated e-cigarette pufﬁng (►Fig. 2).
+
+E-Cigarette and Cardiovascular Disease
+
+The use of these devices for management of tobacco depen-
+dence is controversial due to a paucity of long-term safety
+results and randomized, controlled data. The typical proﬁle of
+an e-cigarette user has been investigated by Dawkins et al in
+an online survey.16 The vast majority of participants, up to
+74%, reported not smoking for at least a few weeks as using
+the e-cigarette, whereas 70% of them reported a reduced urge
+to smoke. Approximately 72% of the participants were using a
+“tank” system, most commonly the eGo-C (Shenzhen
+Joyetech Co. Ltd., ShenZhen, China). The mean period of use
+was 10 months. A very low number of participants (i.e., 1%)
+reported exclusive use of nonnicotine-containing liquid.
+Indeed, the awareness and current use of these devices
+steadily grows. In Great Britain, for example, the current
+use of e-cigarettes among the overall general population
+has more than doubled between 2010 and 2012 (i.e., from
+2.7 to 6.7%).17
+
+Although it is usually considered less harmful than ciga-
+rette smoking for both cancer and cardiovascular disease,
+there is increasing evidence supporting the notion that
+smokeless tobacco may be less safe than conventionally
+supposed. The largest epidemiological study regarding the
+potential inﬂuence of smokeless tobacco on cardiovascular
+risk was published in 2010. In this large prospective trial, the
+incidence of cardiovascular disease was assessed in 14,498
+participants of the Atherosclerosis Risk in Communities
+(ARIC) Study, aged 45 to 64 years at baseline.18 Smokeless
+tobacco use was herein deﬁned as “current and past use of
+chewing tobacco and snuff.” During a median follow-up of
+16.7 years, 2,572 cardiovascular events (i.e., acute coronary
+syndrome or stroke) were recorded. The current use of
+smokeless tobacco at baseline conferred a 1.27-fold (95% CI,
+1.06–1.52) greater risk of cardiovascular events than the
+nonuse, even after adjustment for several demographic,
+socioeconomic, lifestyle, and tobacco-related variables. Even
+
+Fig. 2 Potentially toxic substances generated by electronic cigarettes.
+
+E-Cigarettes and Cardiovascular Risk
+
+Lippi et al.
+
+63
+
+more interestingly, although the risk of cardiovascular events
+was higher in smokers of traditional cigarettes (i.e., 1.46; 95%
+CI, 1.29–1.66), the cardiovascular rate associated with current
+use of smokeless tobacco was more than 30% higher than that
+for current cigarette smoking (i.e., 21/1,000 vs. 16/1,000 per-
+son-years), and this has been attributed to an acute response to
+the over 2,000 various chemical compounds contained in
+smokeless tobacco. In the earlier meta-analysis of Boffetta
+and Straif the relative risk for ever use of smokeless tobacco
+products was 1.13 (95% CI, 1.06–1.21) for myocardial infarction
+and 1.40 (95% CI, 1.28–1.54) for stroke, respectively.19 A recent
+Policy Statement by the AHA concluded that data from the
+majority of available studies do not support an increased
+incidence of hypertension or nonfatal and fatal myocardial
+infarction in users of smokeless tobacco,3 although data
+published by Yatsuya and Folsom18 and the outcome of the
+meta-analysis by Boffetta and Straif19 raise serious doubts
+about this conclusion.
+
+So, although available data show that smokeless tobacco
+may carry a tangible cardiovascular risk for current users, these
+ﬁndings cannot be automatically translated to e-cigarettes,
+because of their peculiar manufacturing and composition.
+Unfortunately, the relatively recent commercialization has
+not permitted performance of large prospective studies and
+attainment of any reliable estimate of the potential cardiovas-
+cular risk of these devices. Nevertheless, some preliminary
+publications and case reports should raise widespread alert-
+ness regarding the cardiovascular safety of these devices.
+
+Vardavas et al investigated whether the use of an electronic
+cigarette for 5 minutes would produce a signiﬁcant effect on
+pulmonary function and fraction of exhaled nitric oxide in 30
+healthy adult smokers20 and reported an immediate decrease
+in fraction of exhaled nitric oxide along with enhanced total
+respiratory and ﬂow respiratory resistances. These ﬁndings led
+the authors to conclude that the negative biological effects of
+short-term use of e-cigarettes may be similar to those observed
+with conventional tobacco smoking. Comparable ﬁndings
+were reported by Gennimata et al who assessed spirometry,
+static lung volumes, airway resistance, airway conductance,
+and a single breath nitrogen test in 32 consecutive subjects, 8
+of whom never smoked, and 24 of whom were instead smokers
+(11 with normal spirometry and 13 with chronic obstructive
+pulmonary disease and asthma) immediately after smoking an
+e-cigarette for 10 minutes.21 A statistically signiﬁcant increase
+was observed in airway resistance combined with a signiﬁcant
+decrease of airway conductance (especially in smokers and
+nonsmokers) but not in patients with chronic obstructive
+pulmonary disease and asthma. These results led the authors
+to conclude that the sudden increase in airway resistance may
+cause immediate harm after using the device, especially in
+selected categories of patients, such as those suffering from
+coronary artery disease. In a further study, Farsalinos et al
+assessed cardiac function in 20 healthy young daily smokers
+aged 25 to 45 years, before and after smoking 1 tobacco
+cigarette and 22 daily electronic cigarette users of similar
+age before and after using an e-cigarette with nicotine concen-
+tration of 11 mg/mL for 7 minutes.22 The use of the e-cigarette
+did not cause signiﬁcant alterations in any echocardiographic
+
+parameters, except for a modest increase of MV-A wave,
+whereas smokers of a tobacco cigarette exhibited a variety of
+signiﬁcant abnormalities. This led the authors to conclude that
+an e-cigarette does not trigger acute adverse effects on cardiac
+function.
+
+Although the e-cigarette may therefore be safer than
+traditional tobacco smoke and even other types of smokeless
+tobacco when used under ideal conditions, adverse effects
+together with occasional cases of poisoning by device reﬁlls
+have been described.
+In an interesting study, Hua et al
+collected short-term health effects produced by e-cigarette
+use through an analysis of original posts from three online
+e-cigarettes forums.23 Overall, 387 different effects were
+identiﬁed, 318 of which (82%) were negative (the remaining
+were characterized as positive). The respiratory system was
+more frequently affected (74 cases), followed by mouth and
+throat (n ¼ 68), the neurological system (n ¼ 52), the senso-
+rial system (n ¼ 39), the digestive tract (n ¼ 36), the muscu-
+lar/skeletal (n ¼ 29), and cardiocirculatory systems (17 chest
+symptoms, 2 circulatory). The more frequent cardiovascular
+complaints included chest pain or “pressure,” arrhythmias,
+and abnormal blood pressure (namely hypertension). More
+speciﬁcally, blood pressure changes were reported by nearly
+4% of users, wherein hypertension was the most frequent sign
+that was diagnosed by physicians.
+
+Vansickel and Eissenberg assessed plasma nicotine con-
+centration, heart rate, and subjective ratings of nicotine/
+product effects in eight e-cigarette users at baseline, after
+10 puffs with a 30-second interpuff interval, after 1 hour after
+ad libitum pufﬁng, and 2-hour afterward.24 Compared with
+baseline, the concentration of plasma nicotine increased
+signiﬁcantly within 5 minutes after the ﬁrst puff (up to 10
+ng/mL) and persisted as increased throughout the ad libitum
+pufﬁng period (from 10–over 15 ng/mL). Similarly, the heart
+rate increase from 73 (cid:2) 2.0 to 78 (cid:2) 1.9 beats per minute
+(bpm) 5 minutes after the ﬁrst puff, and persisted elevated
+throughout the following period. At variance with previous
+data, showing minimal or no nicotine delivery by e-cigarette,
+this study has a much higher practical signiﬁcance, as the
+e-cigarette users not only were allowed to provide their
+preferred device and ﬂavor/nicotine concentration, but they
+were also allowed to follow their typical pattern of consump-
+tion during the 1-hour ad libitum pufﬁng period. Thus,
+effective nicotine delivery had occurred under this more
+“real-world” situation. A nicotinergic impact has also been
+documented by Flouris et al25 who reported that the effect on
+serum levels of cotinine (a metabolite of nicotine) after active
+and passive e-cigarette smoking does not differ from that
+generated by a conventional tobacco cigarette.
+
+As mentioned, some case reports have been published about
+the potential cardiovascular adverse effects of e-cigarettes,
+mostly attributable to improper use. Monroy et al described
+the case of a 70-year-old white woman with a medical history
+of hypertension, hyperlipidemia, osteoarthritis, and allergic
+rhinitis who developed paroxysmal atrial ﬁbrillation, tempo-
+rally associated with e-cigarette use.26 As accurate investiga-
+tions failed to show additional triggers, an improper use of a
+full-strength nicotine replacement device was identiﬁed as the
+
+Seminars in Thrombosis & Hemostasis
+
+Vol. 40 No. 1/2014
+
+64
+
+E-Cigarettes and Cardiovascular Risk
+
+Lippi et al.
+
+most probable source of arrhythmias. In fact, the reﬁll bottle
+had never lasted as long as expected by the patient, a fact that
+was highly suggestive for incorrect (i.e., excessive) reﬁll of e-
 cigarette cartridge, thus exposing her to a very high dose of
-nicotine,whichisotherwiseassociatedwithawell-established
-proarrhythmic effect. When the patientceased to usethe e-
-cigarette,nofurtherepisodesofparoxysmalatrialfibrillation
+nicotine, which is otherwise associated with a well-established
+proarrhythmic effect. When the patient ceased to use the e-
+cigarette, no further episodes of paroxysmal atrial ﬁbrillation
 were reported. We have also recently described the case of
-nicotinepoisoningina22-year-oldgirl,whoreportedtohave
-mixedthecontentofanelectroniccigaretterefillwith60mLof
+nicotine poisoning in a 22-year-old girl, who reported to have
+mixed the content of an electronic cigarette reﬁll with 60 mL of
 methadone, improperly bottled in a generic vial.27 The spec-
-trumofsymptomsobservedinthepatientincludedtachycardia
+trum of symptoms observed in the patient included tachycardia
 (115 bpm and sinus tachycardia at the electrocardiograph),
-hypertension(150/105mmHg),flushing,salivation,andnau-
-Fig.3 Potentiallyharmfuleffectsofelectroniccigarettesonhuman
+hypertension (150/105 mm Hg), ﬂushing, salivation, and nau-
 sea. Although the young girl had a favorable outcome, the
-biology.
-smallvolumeoftherefillcontentsusedhighlighttheserious
-riskofeasyingestionorinjectionofharmful—potentiallylethal
+small volume of the reﬁll contents used highlight the serious
+risk of easy ingestion or injection of harmful—potentially lethal
 —doses of nicotine, thus posing a substantial threat over
-widespread and under regulated marketing of these devices has also publicly discouraged the use of these devices in
-andtheirrefills(e.g.,atypical30mLbottlerefillsolutionmay July2009,raisingseriousconcernsthate-cigarettesmaybe
-containupto18mg/mLnicotine,whichapproximatelycorre- marketed to young people and lack appropriate health
-spondsto540mgofnicotine). warnings.
+widespread and under regulated marketing of these devices
+and their reﬁlls (e.g., a typical 30 mL bottle reﬁll solution may
+contain up to 18 mg/mL nicotine, which approximately corre-
+sponds to 540 mg of nicotine).
+
+Conclusions
+
+Strongly propelled by easy availability through the Web, the
+worldwide market of e-cigarettes continues to grow, despite
+limited information on their safety, adverse effects, and even
+efﬁcacy for smoking cessation. Although e-cigarettes are
+expected to generate and/or release fewer dangerous sub-
+stances than conventional tobacco cigarettes, and current
+evidence provides limited support for a comparative lessened
+increased cardiovascular risk in current users, there are some
+important issues that should be emphasized about the cur-
+rently claimed safety of these devices.
+
+Thus, although the use of e-cigarette appears more favor-
+able than traditional cigarettes or smokeless tobacco prod-
+ucts, recent data conversely attests that the more typical
+patterns of use may be associated with signiﬁcant release of
+nicotine,24 thus producing a plasma nicotine concentration
+which may ultimately approximate that of traditional ciga-
+rette smoking, because the minute nicotine particles con-
+tained in the vapor allow fast and effective delivery into the
+bloodstream. This would explain the enhanced risk of cardiac
+arrhythmias and hypertension, which may predispose some
+users—especially those with coronary atherosclerosis or
+other known cardiovascular risk factors—to a substantial
+risk of acute coronary syndrome, which may be further
+magniﬁed by other potential adverse effects (i.e., arrhyth-
+mias, increased respiratory, and ﬂow respiratory resistance)
+(►Fig. 3). Some cases of intoxication, wherein an amount of
+nicotine and other harmful compounds may be absorbed at a
+much larger extent than with traditional cigarettes, have also
+been reported. According to this data, e-cigarettes have been
+classiﬁed as “drug delivery devices” in several countries, and
+their marketing has been temporarily limited or even sus-
+pended until safety proﬁle and efﬁcacy will be ﬁnally estab-
+lished in clinical trials. The US Food and Drug Administration
+
+Seminars in Thrombosis & Hemostasis
+
+Vol. 40 No. 1/2014
+
+Fig. 3 Potentially harmful effects of electronic cigarettes on human
+biology.
+
+has also publicly discouraged the use of these devices in
+July 2009, raising serious concerns that e-cigarettes may be
+marketed to young people and lack appropriate health
+warnings.
+
 Basically, their large and easy availability on the Web, a
 phenomenon that has several points in common with the
-Conclusions
-“blackmarket”ofdopingsubstances,28,29combinedwiththe
-StronglypropelledbyeasyavailabilitythroughtheWeb,the existence of a clear dose–response relationship effect on
-worldwidemarketofe-cigarettescontinuestogrow,despite cardiovascular risk suggests that major caution regarding
-limitedinformationontheirsafety,adverseeffects,andeven theuseofthesedevicesshouldbeused,especiallyinpersons
-efficacy for smoking cessation. Although e-cigarettes are at increased risk of developing cardiovascular events. The
-expected to generate and/or release fewer dangerous sub- effects on blood pressure and heart rate are particularly
-stances than conventional tobacco cigarettes, and current concerning,ashypertensionisawell-establishedcardiovas-
-evidenceprovideslimitedsupportforacomparativelessened cularriskfactor,2whereasheartrateisasignificantpredictor
-increasedcardiovascularriskincurrentusers,therearesome ofmortalityinpatientswithknowncardiovasculardisease.30
-important issuesthatshould be emphasized about the cur- Itisalsonoteworthythate-cigarettesrequirestrongervacu-
-rentlyclaimedsafetyofthesedevices. ums(suction) than conventional tobaccocigarette,and this
-Thus,althoughtheuseofe-cigaretteappearsmorefavor- effectremainsunclearonenhancedabsorptionofdangerous
-able than traditional cigarettes or smokeless tobacco prod- substancesandhumanhealth.31Astheuseofe-cigarettesis
-ucts, recent data conversely attests that the more typical continuously rising, and it may be a potentially effective
-patternsofusemaybeassociatedwithsignificantreleaseof approach for smoking cessation, more focused research is
-nicotine,24 thus producing a plasma nicotine concentration urgently needed to definitely establish the cardiovascular
-which may ultimately approximate that of traditional ciga- safety of these devices. Should e-cigarettes be less harmful
-rette smoking, because the minute nicotine particles con- thantraditionaltobaccosmokingorsmokelesstobacco,then
-tainedinthevaporallowfastandeffectivedeliveryintothe this would represent a favorable alternative for tobacco
-bloodstream.Thiswouldexplaintheenhancedriskofcardiac addictions,butmayconverselyposeseriousthreatonmore
-arrhythmiasandhypertension,whichmaypredisposesome fragile members of the society such as children and teens,
-users—especially those with coronary atherosclerosis or whomaybepersuadedtostartusingelectroniccigarettewith
-other known cardiovascular risk factors—to a substantial unprovenassumptionofsafety,becomeaddictedtonicotine
-risk of acute coronary syndrome, which may be further and eventuallybegin tosmoketobaccocigarettes,or worse
-magnified by other potential adverse effects (i.e., arrhyth- abuse the level of active compounds in refill bottles with
-mias,increasedrespiratory,andflowrespiratoryresistance) potentialcatastrophicoutcome.
-(►Fig.3).Somecasesofintoxication,whereinanamountof
-nicotineandotherharmfulcompoundsmaybeabsorbedata
-muchlargerextentthanwithtraditionalcigarettes,havealso
+“black market” of doping substances,28,29 combined with the
+existence of a clear dose–response relationship effect on
+cardiovascular risk suggests that major caution regarding
+the use of these devices should be used, especially in persons
+at increased risk of developing cardiovascular events. The
+effects on blood pressure and heart rate are particularly
+concerning, as hypertension is a well-established cardiovas-
+cular risk factor,2 whereas heart rate is a signiﬁcant predictor
+of mortality in patients with known cardiovascular disease.30
+It is also noteworthy that e-cigarettes require stronger vacu-
+ums (suction) than conventional tobacco cigarette, and this
+effect remains unclear on enhanced absorption of dangerous
+substances and human health.31 As the use of e-cigarettes is
+continuously rising, and it may be a potentially effective
+approach for smoking cessation, more focused research is
+urgently needed to deﬁnitely establish the cardiovascular
+safety of these devices. Should e-cigarettes be less harmful
+than traditional tobacco smoking or smokeless tobacco, then
+this would represent a favorable alternative for tobacco
+addictions, but may conversely pose serious threat on more
+fragile members of the society such as children and teens,
+who may be persuaded to start using electronic cigarette with
+unproven assumption of safety, become addicted to nicotine
+and eventually begin to smoke tobacco cigarettes, or worse
+abuse the level of active compounds in reﬁll bottles with
+potential catastrophic outcome.
+
 References
-beenreported.Accordingtothisdata,e-cigaretteshavebeen
-classifiedas“drugdeliverydevices”inseveralcountries,and 1 GoAS,MozaffarianD,RogerVL,etal;AmericanHeartAssocia-
-tionStatisticsCommitteeandStrokeStatisticsSubcommittee.
-their marketing has been temporarily limited or even sus- Heartdiseaseandstrokestatistics—2013update:areportfrom
-pendeduntilsafetyprofileandefficacywillbefinallyestab-
+1 Go AS, Mozaffarian D, Roger VL, et al; American Heart Associa-
+tion Statistics Committee and Stroke Statistics Subcommittee.
+Heart disease and stroke statistics—2013 update: a report from
 the American Heart Association. Circulation 2013;127(1):
-lishedinclinicaltrials.TheUSFoodandDrugAdministration e6–e245
-SeminarsinThrombosis&Hemostasis Vol.40 No.1/2014E-Cigarettes and Cardiovascular Risk Lippi et al. 65
-2 Greenland P, Alpert JS, Beller GA, et al; American College of 16 Dawkins L, Turner J, Roberts A, Soar K. ’Vaping’ profiles and
-Cardiology Foundation/American Heart Association Task Force preferences:anonlinesurveyofelectroniccigaretteusers.Addic-
-onPracticeGuidelines.2010ACCF/AHAguidelineforassessment tion2013;108(6):1115–1125
-of cardiovascular risk in asymptomatic adults: a report of the 17 DockrellM,MorrisonR,BauldL,McNeillA.E-cigarettes:preva-
-AmericanCollegeofCardiologyFoundation/AmericanHeartAs- lenceandattitudesinGreatBritain.NicotineTobRes2013;15(10):
-sociation Task Force on Practice Guidelines. Circulation 2010; 1737–1744[Epubaheadofprint]
-122(25):e584–e636 18 YatsuyaH,FolsomAR;ARICInvestigators.Riskofincidentcardio-
-3 Piano MR, Benowitz NL, Fitzgerald GA, et al; American Heart vasculardiseaseamongusersofsmokelesstobaccointheAthero-
-AssociationCouncilonCardiovascularNursing.Impactofsmokeless sclerosisRiskinCommunities(ARIC)study.AmJEpidemiol2010;
-tobaccoproductsoncardiovasculardisease:implicationsforpolicy, 172(5):600–605
-prevention,andtreatment:apolicystatementfromtheAmerican 19 BoffettaP,StraifK.Useofsmokelesstobaccoandriskofmyocardial
-HeartAssociation.Circulation2010;122(15):1520–1544 infarctionandstroke:systematicreviewwithmeta-analysis.BMJ
-4 CobbNK,AbramsDB.E-cigaretteordrug-deliverydevice?Regu- 2009;339:b3060
-latingnovelnicotineproducts.NEnglJMed2011;365(3):193–195 20 Vardavas CI, Anagnostopoulos N, Kougias M, Evangelopoulou V,
-5 EtterJF,BullenC,FlourisAD,LaugesenM,EissenbergT.Electronic ConnollyGN,BehrakisPK.Short-termpulmonaryeffectsofusingan
-nicotinedeliverysystems:aresearchagenda.TobControl2011; electroniccigarette:impactonrespiratoryflowresistance,imped-
-20(3):243–248 ance,andexhalednitricoxide.Chest2012;141(6):1400–1406
-6 HadwigerME,TrehyML,YeW,MooreT,AllgireJ,WestenbergerB. 21 GennimataSA,PalamidasA,KaltsakasG,etal.Acuteeffectofe-
-Identification of amino-tadalafil and rimonabant in electronic cigaretteonpulmonaryfunctioninhealthysubjectsandsmokers.
-cigarette products using high pressure liquid chromatography [Abstract]EurRespirJ2012;40(Suppl56):189S
-with diode array and tandem mass spectrometric detection. J 22 FarsalinosK,TsiaprasD,KyrzopoulosS,etal.Acuteeffectsofusing
-ChromatogrA2010;1217(48):7547–7555 anelectronicnicotine-deliverydevice(e-cigarette)onmyocardial
-7 EtterJF,ZätherE,SvenssonS.Analysisofrefillliquidsforelectronic function: comparison with the effects of regular cigarettes. .
-cigarettes.Addiction2013;108(9):1671–1679 [Abstract]EurHeartJ2012;33(Suppl1):203
-8 CameronJM,HowellDN,WhiteJR,AndrenyakDM,LaytonME,Roll 23 HuaM,Alfi M,TalbotP.Health-relatedeffectsreportedbyelec-
-JM.Variableandpotentiallyfatalamountsofnicotineine-ciga- troniccigaretteusersinonlineforums.JMedInternetRes2013;
-rettenicotinesolutions.TobControl2013;[Epubaheadofprint] 15(4):e59
-9 KimHJ,ShinHS.Determinationoftobacco-specificnitrosaminesin 24 VansickelAR,EissenbergT.Electroniccigarettes:effectivenicotine
-replacementliquidsofelectroniccigarettesbyliquidchromatogra- deliveryafteracuteadministration.NicotineTobRes2013;15(1):
-phy-tandemmassspectrometry.JChromatogrA2013;1291:48–55 267–270
-10 Williams M, Villarreal A, Bozhilov K, Lin S, Talbot P. Metal and 25 FlourisAD,ChortiMS,PoulianitiKP,etal.Acuteimpactofactive
-silicateparticlesincludingnanoparticlesarepresentinelectronic andpassiveelectroniccigarettesmokingonserumcotinineand
-cigarettecartomizerfluidandaerosol.PLoSONE2013;8(3):e57987 lungfunction.InhalToxicol2013;25(2):91–101
-11 BullenC,McRobbieH,ThornleyS,GloverM,LinR,LaugesenM. 26 Monroy AE, Hommel E, Smith ST, Raji M. Paroxysmal atrial
-Effectofanelectronicnicotinedeliverydevice(ecigarette)ondesire fibrillationfollowingelectroniccigaretteuseinanelderlywoman.
-tosmokeandwithdrawal,userpreferencesandnicotinedelivery: ClinGeriatr2012;20(3):28–32
-randomisedcross-overtrial.TobControl2010;19(2):98–103 27 CervellinG,LuciM,BelliniC,LippiG.Badnewsaboutanoldpoison.A
-12 Vansickel AR, Cobb CO, Weaver MF, Eissenberg TE. A clinical caseofnicotinepoisoningduetobothingestionandinjectionofthe
-laboratory model for evaluating the acute effects of electronic contentofanelectroniccigaretterefill.EmergCareJ2013;9(2):
-“cigarettes”: nicotine delivery profile and cardiovascular and 28 Lippi G, Franchini M, Banfi G. Biochemistry and physiology of
-subjective effects. Cancer Epidemiol Biomarkers Prev 2010; anabolicandrogenicsteroidsdoping.MiniRevMedChem2011;
-19(8):1945–1953 11(5):362–373
-13 SchrippT,MarkewitzD,UhdeE,SalthammerT.Doese-cigarette 29 LippiG,BanfiG.Dopingandthrombosisinsports.SeminThromb
-consumptioncausepassivevaping?IndoorAir2013;23(1):25–31 Hemost2011;37(8):918–928
-14 IngebrethsenBJ,ColeSK,AldermanSL.Electroniccigaretteaerosol 30 LippiG,Sanchis-GomarF,CervellinG.Restheartrateandmortality:
-particle size distribution measurements. Inhal Toxicol 2012; morephysicalexercisefortherabbit?IntJCardiol2013;165(2):358
-24(14):976–984 31 TrtchounianA,WilliamsM,TalbotP.Conventionalandelectronic
-15 GoniewiczML,KumaT,GawronM,KnysakJ,KosmiderL.Nicotine cigarettes (e-cigarettes) have different smoking characteristics.
-levelsinelectroniccigarettes.NicotineTobRes2013;15(1):158–166 NicotineTobRes2010;12(9):905–912
-SeminarsinThrombosis&Hemostasis Vol.40 No.1/2014
+e6–e245
+
+E-Cigarettes and Cardiovascular Risk
+
+Lippi et al.
+
+65
+
+2 Greenland P, Alpert JS, Beller GA, et al; American College of
+Cardiology Foundation/American Heart Association Task Force
+on Practice Guidelines. 2010 ACCF/AHA guideline for assessment
+of cardiovascular risk in asymptomatic adults: a report of the
+American College of Cardiology Foundation/American Heart As-
+sociation Task Force on Practice Guidelines. Circulation 2010;
+122(25):e584–e636
+
+3 Piano MR, Benowitz NL, Fitzgerald GA, et al; American Heart
+Association Council on Cardiovascular Nursing. Impact of smokeless
+tobacco products on cardiovascular disease: implications for policy,
+prevention, and treatment: a policy statement from the American
+Heart Association. Circulation 2010;122(15):1520–1544
+
+4 Cobb NK, Abrams DB. E-cigarette or drug-delivery device? Regu-
+lating novel nicotine products. N Engl J Med 2011;365(3):193–195
+5 Etter JF, Bullen C, Flouris AD, Laugesen M, Eissenberg T. Electronic
+nicotine delivery systems: a research agenda. Tob Control 2011;
+20(3):243–248
+
+6 Hadwiger ME, Trehy ML, Ye W, Moore T, Allgire J, Westenberger B.
+Identiﬁcation of amino-tadalaﬁl and rimonabant in electronic
+cigarette products using high pressure liquid chromatography
+with diode array and tandem mass spectrometric detection. J
+Chromatogr A 2010;1217(48):7547–7555
+
+7 Etter JF, Zäther E, Svensson S. Analysis of reﬁll liquids for electronic
+
+cigarettes. Addiction 2013;108(9):1671–1679
+
+8 Cameron JM, Howell DN, White JR, Andrenyak DM, Layton ME, Roll
+JM. Variable and potentially fatal amounts of nicotine in e-ciga-
+rette nicotine solutions. Tob Control 2013; [Epub ahead of print]
+9 Kim HJ, Shin HS. Determination of tobacco-speciﬁc nitrosamines in
+replacement liquids of electronic cigarettes by liquid chromatogra-
+phy-tandem mass spectrometry. J Chromatogr A 2013;1291:48–55
+10 Williams M, Villarreal A, Bozhilov K, Lin S, Talbot P. Metal and
+silicate particles including nanoparticles are present in electronic
+cigarette cartomizer ﬂuid and aerosol. PLoS ONE 2013;8(3):e57987
+11 Bullen C, McRobbie H, Thornley S, Glover M, Lin R, Laugesen M.
+Effect of an electronic nicotine delivery device (e cigarette) on desire
+to smoke and withdrawal, user preferences and nicotine delivery:
+randomised cross-over trial. Tob Control 2010;19(2):98–103
+12 Vansickel AR, Cobb CO, Weaver MF, Eissenberg TE. A clinical
+laboratory model for evaluating the acute effects of electronic
+“cigarettes”: nicotine delivery proﬁle and cardiovascular and
+subjective effects. Cancer Epidemiol Biomarkers Prev 2010;
+19(8):1945–1953
+
+13 Schripp T, Markewitz D, Uhde E, Salthammer T. Does e-cigarette
+consumption cause passive vaping? Indoor Air 2013;23(1):25–31
+14 Ingebrethsen BJ, Cole SK, Alderman SL. Electronic cigarette aerosol
+Inhal Toxicol 2012;
+
+particle size distribution measurements.
+24(14):976–984
+
+15 Goniewicz ML, Kuma T, Gawron M, Knysak J, Kosmider L. Nicotine
+levels in electronic cigarettes. Nicotine Tob Res 2013;15(1):158–166
+
+16 Dawkins L, Turner J, Roberts A, Soar K.
+
+’Vaping’ proﬁles and
+preferences: an online survey of electronic cigarette users. Addic-
+tion 2013;108(6):1115–1125
+
+17 Dockrell M, Morrison R, Bauld L, McNeill A. E-cigarettes: preva-
+lence and attitudes in Great Britain. Nicotine Tob Res 2013;15(10):
+1737–1744 [Epub ahead of print]
+
+18 Yatsuya H, Folsom AR; ARIC Investigators. Risk of incident cardio-
+vascular disease among users of smokeless tobacco in the Athero-
+sclerosis Risk in Communities (ARIC) study. Am J Epidemiol 2010;
+172(5):600–605
+
+19 Boffetta P, Straif K. Use of smokeless tobacco and risk of myocardial
+infarction and stroke: systematic review with meta-analysis. BMJ
+2009;339:b3060
+
+20 Vardavas CI, Anagnostopoulos N, Kougias M, Evangelopoulou V,
+Connolly GN, Behrakis PK. Short-term pulmonary effects of using an
+electronic cigarette: impact on respiratory ﬂow resistance, imped-
+ance, and exhaled nitric oxide. Chest 2012;141(6):1400–1406
+21 Gennimata SA, Palamidas A, Kaltsakas G, et al. Acute effect of e-
+cigarette on pulmonary function in healthy subjects and smokers.
+[Abstract]Eur Respir J 2012;40(Suppl 56):189S
+
+22 Farsalinos K, Tsiapras D, Kyrzopoulos S, et al. Acute effects of using
+an electronic nicotine-delivery device (e-cigarette) on myocardial
+.
+function: comparison with the effects of regular cigarettes.
+[Abstract]Eur Heart J 2012;33(Suppl 1):203
+
+23 Hua M, Alﬁ M, Talbot P. Health-related effects reported by elec-
+tronic cigarette users in online forums. J Med Internet Res 2013;
+15(4):e59
+
+24 Vansickel AR, Eissenberg T. Electronic cigarettes: effective nicotine
+delivery after acute administration. Nicotine Tob Res 2013;15(1):
+267–270
+
+25 Flouris AD, Chorti MS, Poulianiti KP, et al. Acute impact of active
+and passive electronic cigarette smoking on serum cotinine and
+lung function. Inhal Toxicol 2013;25(2):91–101
+
+26 Monroy AE, Hommel E, Smith ST, Raji M. Paroxysmal atrial
+ﬁbrillation following electronic cigarette use in an elderly woman.
+Clin Geriatr 2012;20(3):28–32
+
+27 Cervellin G, Luci M, Bellini C, Lippi G. Bad news about an old poison. A
+case of nicotine poisoning due to both ingestion and injection of the
+content of an electronic cigarette reﬁll. Emerg Care J 2013;9(2):
+28 Lippi G, Franchini M, Banﬁ G. Biochemistry and physiology of
+anabolic androgenic steroids doping. Mini Rev Med Chem 2011;
+11(5):362–373
+
+29 Lippi G, Banﬁ G. Doping and thrombosis in sports. Semin Thromb
+
+Hemost 2011;37(8):918–928
+
+30 Lippi G, Sanchis-Gomar F, Cervellin G. Rest heart rate and mortality:
+more physical exercise for the rabbit? Int J Cardiol 2013;165(2):358
+31 Trtchounian A, Williams M, Talbot P. Conventional and electronic
+cigarettes (e-cigarettes) have different smoking characteristics.
+Nicotine Tob Res 2010;12(9):905–912
+
+Seminars in Thrombosis & Hemostasis
+
+Vol. 40 No. 1/2014
+
+
