@@ -1,0 +1,694 @@
+Papers
+Environmental tobacco smoke and tobacco related
+mortality in a prospective study of Californians, 1960-98
+JamesEEnstrom,GeoffreyCKabat
+Abstract Association, the California Environmental Protection
+Editorialby
+Agency, and the US surgeon general have concluded DaveySmith
+ObjectiveTomeasuretherelationbetween
+thattheincreaseincoronaryheartdiseaseriskdueto
+environmentaltobaccosmoke,asestimatedby
+environmental tobacco smoke is 30% (relative risk
+smokinginspouses,andlongtermmortalityfrom 1.30).1–3 Meta-analyses of epidemiological studies have SchoolofPublic
+tobaccorelateddisease. Health,University
+reportedsummaryrelativerisks(95%confidenceinter-
+DesignProspectivecohortstudycovering39years. ofCalifornia,
+vals)of1.30(1.22to1.38),1.25(1.17to1.32),and1.25 LosAngeles,
+SettingAdultpopulationofCalifornia,UnitedStates. (1.17to1.33)forcoronaryheartdisease4–6and1.23(1.13 CA90095-1772,
+Participants118094adultsenrolledinlate1959in USA
+to1.35)and1.23(1.13to1.34)forlungcancer,78similar
+theAmericanCancerSocietycancerpreventionstudy JamesEEnstrom
+tothe1.20foundbytheCaliforniaEnvironmentalPro- researcher
+(CPSI),whowerefolloweduntil1998.Particularfocus
+isonthe35561neversmokerswhohadaspousein tectionAgencyandtheUSsurgeongeneral.23TheUS Departmentof
+Environmental Protection Agency has classified envi- Preventive
+thestudywithknownsmokinghabits. Medicine,State
+ronmentaltobaccosmokeasaknownhumancarcino-
+MainoutcomemeasuresRelativerisksand95% Universityof
+gen.7Chronicobstructivepulmonarydisease,primarily NewYork,
+confidenceintervalsfordeathsfromcoronaryheart
+asthma,bronchitis,andemphysema,hasbeenassociated StonyBrook,
+disease,lungcancer,andchronicobstructive NY11794-8036,
+pulmonarydiseaserelatedtosmokinginspousesand withexposuretoenvironmentaltobaccosmoke,butthe USA
+activecigarettesmoking. evidenceforincreasedmortalityissparse.23 GeoffreyCKabat
+Although these reviews come to similar conclu- associateprofessor
+ResultsForparticipantsfollowedfrom1960until1998
+sions,theassociationbetweenenvironmentaltobacco Correspondenceto:
+theageadjustedrelativerisk(95%confidenceinterval)
+smokeandtobaccorelateddiseasesisstillcontroversial JEEnstrom
+forneversmokersmarriedtoeversmokerscompared jenstrom@ucla.edu
+owing to several limitations in the epidemiological
+withneversmokersmarriedtoneversmokerswas0.94
+(0.85to1.05)forcoronaryheartdisease,0.75(0.42to
+studies.9–14Exposuretoenvironmentaltobaccosmoke
+bmj.com2003;326:1057
+isdifficulttomeasurequantitativelyandthereforehas
+1.35)forlungcancer,and1.27(0.78to2.08)for
+chronicobstructivepulmonarydiseaseamong9619 been approximated by self reported estimates,
+men,and1.01(0.94to1.08),0.99(0.72to1.37),and primarilysmokinghistoryinspouses.Confoundingby
+1.13(0.80to1.58),respectively,among25942women. active cigarette smoking is so strong that the
+Nosignificantassociationswerefoundforcurrentor association with environmental tobacco smoke can
+formerexposuretoenvironmentaltobaccosmoke onlybeevaluatedamongneversmokers.Therelation
+beforeorafteradjustingforsevenconfoundersand between tobacco related diseases and environmental
+beforeorafterexcludingparticipantswithpre-existing tobaccosmokemaybeinfluencedbymisclassification
+disease.Nosignificantassociationswerefoundduring ofsomesmokersasneversmokers,misclassificationof
+theshorterfollowupperiodsof1960-5,1966-72, exposurestatustoenvironmentaltobaccosmoke,and
+1973-85,and1973-98. several potential confounders. It is also unclear how
+ConclusionsTheresultsdonotsupportacausal the reported increased risk of coronary heart disease
+relationbetweenenvironmentaltobaccosmokeand duetoenvironmentaltobaccosmokecouldbesoclose
+tobaccorelatedmortality,althoughtheydonotrule totheincreasedriskduetoactivesmoking(30%and
+outasmalleffect.Theassociationbetweenexposure 70%,respectively),sinceenvironmentaltobaccosmoke
+toenvironmentaltobaccosmokeandcoronaryheart ismuchmoredilutethanactivelyinhaledsmoke.
+diseaseandlungcancermaybeconsiderablyweaker Mostepidemiologicalstudieshavefoundthatenvi-
+thangenerallybelieved. ronmentaltobaccosmokehasapositivebutnotstatis-
+tically significant relation to coronary heart disease
+and lung cancer.Meta-analyses have combined these
+Introduction
+inconclusive results to produce statistically significant
+Severalmajorreviewshavedeterminedthatexposureto summaryrelativerisks.4–8However,thereareproblems
+environmentaltobaccosmokeincreasestherelativerisk inherent in using meta-analysis to establish a causal
+ofcoronaryheartdisease,basedprimarilyoncompar- relation.9–14Theepidemiologicaldataaresubjecttothe
+ingneversmokersmarriedtosmokerswithneversmok- limitations described above. They have not been
+ers married to never smokers. The American Heart collectedinastandardisedway,andsomerelativerisks
+page1of10 BMJ VOLUME326 17MAY2003 bmj.comPapers
+Table1 Followupdetailsof51343menand66751womeninCaliforniacancerpreventionstudy(CPSI)cohort
+Totalcohort Neversmokers*
+Followupcategory Men Women Men Women
+1Jan1960:
+Dead,deletedfromfile(1Octto31Dec1959) 22 14
+Alive,completed1959questionnaire(1Oct1959to31Mar1960) 51321 66737 9619 25942
+31Dec1965:
+Dead,ICDcodes(1Jan1960to31Dec1965) 4907 3506 685 868
+Dead,noICDcodes(1Jan1960to31Dec1965) 45 47 7 13
+Withdrawn(1Jan1960to30Sep1965)† 718 974 79 257
+Lost(1Jan1960to31Dec1965)‡ 31 49 4 13
+Alive,completedSep1965questionnaire 44757 61079 8574 24077
+Alive,followupto31Dec1998 863 1082 270 714
+31Dec1972:
+Dead,ICDcodes(1Jan1960to31Dec1972) 12295 9446 1865 2634
+Dead,noICDcodes(1Jan1960to31Dec1972) 146 160 19 41
+Withdrawn(1Jan1960to30Sep1971)† 1222 2825 164 984
+Lost(1Jan1960to31Dec1972) 1525 3367 269 1103
+Alive,completedSep1972questionnaire 26070 37926 5455 16171
+Alive,followupto31Jan1998 10063 13013 1847 5009
+31Dec1998:
+Dead,ICDcodes(1Jan1960to31Dec1998) 37554 36669 6673 13160
+Dead,noICDcodes(1Jan1960to31Dec1998) 2456 2722 464 1130
+Withdrawn(1Jan1960to30Sep1972)† 1395 5450 197 2105
+Lost(1Jan1960to31Dec1998) 2962 6953 560 2579
+Alive,correctlycompleted1999questionnaire 2290 4869 681 2413
+Alive,matchedwithCaliforniadriver’slicenceandnotknowndead§ 4664 10074 1044 4555
+*Neversmokerswhohadspouseincohortwithknownsmokinghabits.
+†Furtherfollowupnotpossiblebecauseofincompleteormissingnameon1972masterdatabase.
+‡Completenameon1972masterfileandnomatchwithCaliforniadriver’slicencefile,Californiadeathfile,orsocialsecuritydeathindexuntil1998.
+§Basedon1990-9matchwithCaliforniadriver’slicencefileandnodeathmatchwithCaliforniadeathfileorsocialsecuritydeathindexduring1960-98.
+have been inappropriately combined. Because it is analysed the relation between environmental tobacco
+more likely that positive associations get published, smoke and tobacco related diseases, and addressed
+unpublished negative results could reduce the sum- concernsaboutthisstudy.
+maryrelativerisks.Also,themeta-analysesofcoronary
+heart disease omitted the published negative results
+Methods
+from the large American Cancer Society cancer
+preventionstudy(CPSI).1011Wehaveextendedthefol- CPS I is a prospective cohort study begun by the
+low up for the California participants in this cohort, American Cancer Society in October 1959 and
+Table2 Personalandlifestylecharacteristicsofmale1959neversmokersinCaliforniacancerpreventionstudy(CPSI)cohortbysmokingstatusofspouse
+Smokingstatusofspouse,1959 1999respondents
+Current(cigarettes/day)
+Characteristic Never Former 1-19 20-39 ≥40 Total 1959value 1999value
+Noofparticipantsin1959 7458 624 905 587 45 9619
+Noofparticipantsin1999 498 59 69 51 4 681 681 681
+Withdrawnasof1972(%) 2.0(146) 2.4(15) 2.1(19) 2.7(16) 2.2(1) 2.0(197)
+Losttofollowupasof1999(%) 5.9(441) 4.6(29) 5.4(49) 6.3(37) 8.9(4) 5.8(560)
+Unknowncauseofdeath(%) 6.6(371) 6.1(26) 6.6(42) 5.4(22) 8.8(3) 6.5(464)
+Widowedasof1999 28.2(1649) 25.1(124) 31.9(231) 38.1(174) 39.4(13) 29.0(2191)
+Meanage(years)atenrolment 56.5(7458) 51.9(624) 52.8(905) 51.7(587) 52.6(45) 55.5(9619) 45.5(681) 45.5(681)
+Whitepeople(%) 97.8(7292) 98.6(615) 98.0(887) 98.1(577) 100.0(45) 97.9(9416) 98.6(672)
+Education≥12years(%) 67.3(5017) 80.6(403) 71.3(645) 74.2(436) 84.5(38) 69.0(6639) 89.0(606) 92.9(633)
+Meanheight(cm) 175.8(7328) 176.3(614) 176.3(898) 176.5(582) 176.8(43) 175.8(9465) 177.0(681) 175.3(681)
+Meanweight(kg) 78.9(7137) 79.7(602) 79.6(881) 80.9(573) 82.2(44) 79.1(9237) 78.6(681) 74.9(681)
+Historyofseriousdiseases(%): 13.8(965) 10.0(59) 11.9(102) 11.9(65) 12.5(5) 13.3(1196) 4.1(28)
+Cancer 5.0(369) 4.7(29) 5.5(50) 4.6(27) 2.2(1) 5.0(476) 2.9(20) 39.9(272)
+Heartdisease 7.0(471) 4.8(27) 5.4(44) 5.6(29) 7.7(3) 6.6(574) 1.0(7)
+Stroke 1.8(125) 0.5(3) 1.0(8) 1.7(9) 2.6(1) 1.7(146) 0.2(1)
+Sickatpresenttime(%) 6.4(475) 4.8(30) 6.3(57) 5.6(33) 4.4(2) 6.2(597) 4.2(29) 22.2(151)
+Professionaloccupation(%) 14.3(1068) 14.9(93) 11.1(100) 10.5(62) 17.8(8) 13.8(1331) 17.8(121)
+Urbanresidence(%) 85.9(6404) 90.7(566) 88.7(803) 90.0(529) 88.9(40) 86.7(8342) 86.0(586)
+Moderateorheavyexercise(%) 76.2(5683) 70.2(438) 72.5(656) 71.1(418) 57.8(26) 75.0(7221) 70.7(481) 70.9(483)
+Eatgreensalads(meandays/week) 4.8(7201) 4.9(617) 5.0(887) 5.0(573) 4.9(45) 4.8(9323) 5.1(681) 4.5(681)
+Eatfruitsordrinkfruitjuice(meandays/week) 6.0(7226) 6.0(614) 5.9(886) 5.5(574) 5.3(43) 5.9(9343) 5.9(681) 5.6(681)
+Oftenusevitaminpills(%) 38.1(2841) 39.7(248) 33.2(300) 28.7(169) 42.2(19) 37.2(3577) 34.0(232) 79.2(539)
+Somevaluesdonotagreewithdenominatorsdueprimarilytomissingdata.
+BMJ VOLUME326 17MAY2003 bmj.com page2of10Papers
+describedindetailelsewhere.15–17Atotalof1078894 and1972,survivingcohortmemberscompletedbrief
+adults from 25 states were enrolled on the basis of a questionnaires. The American Cancer Society ascer-
+detailedfourpagequestionnaire.In1961,1963,1965, tainedthevitalstatusandcurrentaddressformostof
+Table3 Personalandlifestylecharacteristicsoffemale1959neversmokersinCaliforniacancerpreventionstudy(CPSI)cohortbysmokingstatusof
+spouse
+Smokingstatusofspouse,1959 1999respondents
+Currentstatus*
+Characteristic Never Former Pipeorcigar 1-19 20-39 ≥40 Total 1959value 1999value
+Noofparticipantsin1959 7399 6858 2691 3219 4934 841 25942
+Noofparticipantsin1999 788 573 252 233 479 87 2412 2412 2412
+Withdrawnasof1972(%) 8.1(602) 8.1(558) 8.1(219) 8.2(265) 7.7(380) 9.6(81) 8.1(2105)
+Losttofollowupasof1999(%) 9.8(722) 9.8(669) 9.7(260) 10.1(324) 10.4(513) 10.8(91) 9.9(2579)
+Unknowncauseofdeath(%) 7.6(304) 7.7(305) 7.2(111) 8.1(149) 8.7(218) 10.4(43) 7.9(1130)
+Widowedasof1999(%) 59.7(3464) 65.2(3528) 64.2(1368) 69.6(1774) 73.4(2859) 75.1(480) 66.0(13473)
+Meanage(years)atenrolment 53.1(7399) 54.5(6858) 54.4(2691) 53.7(3219) 50.9(4934) 49.8(841) 53.1(25942) 44.5(2412) 44.5(2412)
+Whitepeople(%) 97.6(7225) 98.5(6759) 97.8(2631) 95.9(3088) 97.9(4828) 98.7(831) 97.8(25362) 98.0(2364)
+Education≥12years(%) 73.7(5452) 68.2(4685) 68.9(1853) 65.6(2109) 70.4(3476) 77.2(650) 70.2(18225) 87.9(2120) 93.0(2243)
+Meanheight(cm) 162.1(7232) 161.8(6706) 161.8(2640) 161.5(3168) 161.8(4846) 162.3(822) 161.8(25414) 162.6(2412) 161.3(2412)
+Meanweight(kg) 63.9(7085) 63.8(6596) 64.0(2581) 63.5(3097) 63.7(4777) 63.64(824) 63.8(24960) 61.4(2412) 62.3(2412)
+Historyofseriousdiseases(%): 11.8(834) 12.8(857) 11.3(293) 10.2(315) 10.1(483) 10.2(85) 11.4(2867) 5.8(140)
+Cancer 5.8(427) 6.7(465) 5.8(156) 5.2(167) 5.9(293) 7.2(61) 6.0(1569) 4.1(99) 36.4(878)
+Heartdisease 5.1(347) 5.1(330) 4.7(117) 4.2(123) 3.4(154) 2.9(23) 4.5(1094) 1.5(36)
+Stroke 0.9(60) 1.0(62) 0.8(20) 0.8(25) 0.8(36) 0.1(1) 0.9(204) 0.2(5)
+Sickatpresenttime(%) 7.9(586) 8.3(572) 8.6(231) 8.2(264) 8.8(436) 8.8(74) 8.3(2163) 6.4(154) 19.7(475)
+Professionaloccupation(%) 14.6(1080) 12.8(881) 13.0(350) 12.9(414) 10.6(523) 10.9(92) 12.9(3340) 17.4(420)
+Urbanresidence(%) 85.8(6349) 86.4(5929) 85.4(2298) 86.2(2775) 85.7(4229) 85.8(722) 85.9(22302) 84.7(2043)
+Moderateorheavyexercise(%) 82.5(6097) 82.5(5649) 83.3(2242) 82.8(2665) 82.3(4058) 81.0(681) 82.6(21392) 80.2(1934) 65.5(1580)
+Eatgreensalads(meandays/week) 5.1(7219) 5.0(6701) 5.1(2618) 4.9(3122) 5.1(4835) 5.1(825) 5.0(25320) 5.4(2412) 4.6(2412)
+Eatfruitsordrinkfruitjuice 6.4(7227) 6.3(6727) 6.3(2621) 6.1(3132) 6.0(4846) 6.0(826) 6.2(25379) 6.1(2412) 5.6(2412)
+(meandays/week)
+Oftenusevitaminpills(%) 40.4(2985) 39.8(2728) 38.2(1028) 36.8(1183) 35.3(1739) 34.0(286) 38.4(9949) 38.3(924) 81.2(1958)
+*Cigar,pipe,ornumberofcigarettesconsumedperday.
+Somevaluesdonotagreewithdenominatorsdueprimarilytomissingdata.
+Table4 Percentageofcohortexposedtothreemeasuresofenvironmentaltobaccosmokein1999bysmokingstatusofspouseamong1959neversmokers
+whorespondedto1999followupquestionnaire.Subgroupof1959neversmokersaged≥50yearsatentry(bornbefore1910)alsoshown.Valuesare
+percentage(number)exposedtoenvironmentaltobaccosmokein1999,exceptfordataonmaritalstatus
+Regularexposuretocigarettesmokefromothers
+inworkordailylife Marriedonlyonceasof1999
+Livedwith Livedwith Moderate
+Smokingstatusofspousein1959 smoker smokingspouse None Light orheavy Current Ever
+1959maleneversmokers
+Never(n=496) 24.0(115) 3.8(18) 43.5(189) 34.5(150) 22.1(96) 66.2(319) 82.2(398)
+Former(n=59) 53.5(31) 27.6(16) 20.8(11) 43.4(23) 35.9(19) 62.5(35) 78.6(44)
+Current(n=124) 89.5(111) 75.0(93) 23.1(27) 38.5(45) 38.5(45) 45.1(55) 70.5(86)
+1959femaleneversmokers
+Never(n=788) 32.5(253) 3.7(29) 61.7(398) 24.3(157) 14.0(90) 39.5(306) 89.2(686)
+Former(n=573) 73.6(421) 55.2(316) 41.3(196) 26.5(126) 32.2(153) 32.6(187) 84.0(474)
+Current:
+Pipeorcigar(n=252) 84.7(211) 69.9(174) 34.0(73) 30.2(65) 35.8(77) 30.1(75) 82.2(198)
+1-19cigarettes/day(n=233) 93.0(212) 83.3(190) 25.5(53) 28.8(60) 45.7(95) 22.0(50) 80.4(180)
+20-39cigarettes/day(n=479) 98.7(467) 91.1(431) 19.7(84) 20.9(89) 59.4(253) 16.4(78) 78.5(365)
+≥40cigarettes/day(n=87) 98.8(84) 83.5(71) 16.2(13) 12.5(10) 71.3(57) 14.8(13) 73.9(65)
+Totalofcurrentsmokers(1051) 94.1(974) 83.7(866) 24.0(223) 24.1(224) 51.9(482) 20.8(216) 79.4(808)
+1959maleneversmokersaged≥50yearsatenrolment
+Never(n=94) 11.5(10) 2.3(2) 58.2(46) 24.1(19) 17.7(12) 47.8(43) 80.0(72)
+Former(n=11) 36.4(4) 18.2(2) 50.0(5) 20.0(2) 30.0(3) 45.5(5) 90.9(10)
+Current(n=17) 88.2(15) 70.6(12) 18.8(3) 43.7(7) 37.5(6) 12.5(2) 56.3(9)
+1959femaleneversmokersaged≥50yearsatenrolment
+Never(n=100) 26.0(26) 4.0(4) 71.2(52) 21.9(16) 6.9(5) 16.3(16) 92.7(89)
+Former(n=99) 83.0(78) 68.1(64) 40.7(33) 24.7(20) 34.6(28) 17.2(17) 80.4(78)
+Current:
+Pipeorcigar(n=43) 71.4(30) 59.5(25) 42.5(14) 24.2(8) 33.3(11) 14.0(6) 77.8(28)
+1-19cigarettes/day(n=29) 96.3(26) 85.2(23) 20.0(5) 28.0(7) 52.0(13) 6.9(2) 84.6(22)
+20-39cigarettes/day(n=75) 97.1(72) 87.7(67) 14.8(7) 21.9(13) 63.3(43) 7.9(6) 81.7(58)
+≥40cigarettes/day(n=9) 100.0(8) 75.0(6) 0 0 100.0(7) 11.1(1) 88.9(8)
+Totalofcurrentsmokers(n=156) 90.7(136) 80.7(121) 20.3(26) 21.9(28) 57.8(74) 9.6(15) 81.7(116)
+Somevaluesdonotagreewithdenominatorsdueprimarilytomissingdata.
+page3of10 BMJ VOLUME326 17MAY2003 bmj.comPapers
+Table5 Onemeasureofexposuretoenvironmentaltobaccosmokeasof1999bysmokinghistoryofspousein1999among
+1959/1999neversmokerswhorespondedto1999followupquestionnaire.Valuesarepercentage(number)exposedtoenvironmental
+tobaccosmokein1999
+Regularexposuretocigarettesmokefromothersinworkordailylife
+Everlivedwithasmokingspouse None Light Moderate Heavy
+1959/1999maleneversmokers
+No(n=336) 50.0(168) 33.9(114) 14.9(50) 1.2(4)
+Yes:
+Nosmokingnearby(n=23) 30.4(7) 52.2(12) 17.4(4) 0
+Exposed1-19years(n=17) 17.6(3) 29.4(5) 41.2(7) 11.8(2)
+Exposed20-39years(n=35) 20.0(7) 48.6(17) 20.0(7) 11.4(4)
+Exposed40-80years(n=33) 6.1(2) 27.3(9) 57.5(19) 9.1(3)
+1959/1999femaleneversmokers
+No(n=570) 76.7(437) 16.1(92) 5.3(30) 1.9(11)
+Yes:
+Nosmokingnearby(n=122) 36.9(45) 36.9(45) 23.7(29) 2.5(3)
+Exposed1-19years(n=162) 29.0(47) 38.9(63) 27.2(44) 4.9(8)
+Exposed20-39years(n=355) 19.7(70) 24.5(87) 44.5(158) 11.3(40)
+Exposed40-80years(n=323) 14.1(46) 20.5(66) 44.3(143) 21.1(68)
+1959/1999maleneversmokersaged≥50yearsatenrolment
+No(n=70) 62.9(44) 24.3(17) 11.4(8) 1.4(1)
+Yes:
+Nosmokingnearby(n=3) 33.3(1) 33.3(1) 33.3(1) 0
+Exposed1-19years(n=2) 0 50.0(1) 0 50.0(1)
+Exposed20-39years(n=5) 20.0(1) 60.0(3) 20.0(1) 0
+Exposed40-80years(n=5) 20.0(1) 0 60.0(3) 20.0(1)
+1959/1999femaleneversmokersaged≥50yearsatenrolment
+No(n=73) 89.0(65) 9.6(7) 0 1.4(1)
+Yes:
+Nosmokingnearby(n=20) 25.0(5) 60.0(12) 10.0(2) 5.0(1)
+Exposed1-19years(n=20) 55.0(11) 40.0(8) 5.0(1) 0
+Exposed20-39years(n=48) 8.3(4) 16.7(8) 62.5(30) 12.5(6)
+Exposed40-80years(n=66) 15.2(10) 18.2(12) 45.4(30) 21.2(14)
+Somevaluesdonotagreewithdenominatorsdueprimarilytomissingdata.
+theadultsuptoSeptember1972andobtaineddeath heightonthequestionnaireconfirmedthatover99%
+certificatesformostofthoseknowndead. oftherespondentshadbeenaccuratelylocated.
+Thefollowupperiodwasfromtimeofentrytothe
+Followup
+study (1 January to 31 March 1960) until death,
+LongtermfollowupwasundertakenattheUniversity
+withdrawal(datelastknownalive),orendoffollowup
+of California at Los Angeles on all 118094
+(31December1998).Theparticipantswereaged30-96
+participantsfromCalifornia.Thisisdescribedindetail
+yearsatenrolment.Weexcludedthefewpersonyears
+elsewhere and summarised in table 1.18 The partici-
+of observation and the 36 deaths during 1959. The
+pants were matched several times with the California
+underlyingcauseofeachdeathwasassignedaccording
+death file and the social security death index on the
+totheinternationalclassificationofdiseases(seventh,
+basisoftheirnameandotheridentifyingvariables.1819
+eighth,orninthrevisions).Coronaryheartdiseasewas
+Overall, 79437 deaths were identified up to 31
+definedas420(ICD-7)during1960-7,410-4(ICD-8)
+December 1998, and the underlying cause was
+during 1968-78, and 410-4 (ICD-9) during 1979-98,
+obtainedfromtheCaliforniadeathfileanddeathcer-
+lungcancerwasdefinedas162-3(ICD-7),162(ICD-8),
+tificatesfor93%(73876)ofthesedeaths.
+and 162 (ICD-9),and chronic obstructive pulmonary
+Participants were also matched with information
+diseasewasdefinedas241,500-2,and527.1(ICD-7),
+givenontheirCaliforniadriver’slicence,basedprima-
+490-3(ICD-8),and490-6(ICD-9).Fortheanalysisof
+rilyonname,dateofbirth,andheight.Weobtainedthe
+environmentaltobaccosmokeweselectedthe35561
+addressgivenduringthe1990sfor21897participants
+participants who had never smoked as of 1959 and
+whowerenotknownasdeadasof1999,andthesepar-
+who had a spouse in the study with known smoking
+ticipants were assumed to be alive in 1999. Of the
+habits.
+remainingparticipantsinthestudy’smasterdatabase,
+6845werewithdrawnfromfurtherfollowupasofSep- Statisticalanalysis
+tember 1972 because their complete name was not The independent variable used for analysis was
+retained,and 9915 were lost to follow up as of 1999 exposure to environmental tobacco smoke based on
+becausetheirvitalstatuswasunknown. smokingstatusofthespousein1959,1965,and1972.
+To assess the current status of surviving cohort Neversmokersmarriedtocurrentorformersmokers
+members, in mid-1999 we sent out a two page werecomparedwithneversmokersmarriedtonever
+questionnaire on smoking and lifestyle to those smokers. The 1959 never smokers were defined as
+participantswithanaddressfor1995orlaterontheir thosewhohadneversmokedanyformoftobaccoasof
+driver’s licence. Overall, 2290 of 5275 men (43.4%) 1959.The 1965 never smokers were defined as 1959
+and 4869 of 10738 women (45.3%) completed the never smokers who did not smoke cigarettes as of
+questionnaire.Responses to name,date of birth,and 1965.The 1972 never smokers were defined as 1959
+BMJ VOLUME326 17MAY2003 bmj.com page4of10Papers
+neversmokerswhodidnotsmokecigarettesasof1965 Results
+and1972.The1959/1999neversmokersweredefined
+Thepersonalandlifestylecharacteristicsandfollowup
+as 1959 never smokers who had never smoked
+status for 1959 never smokers were relatively
+cigarettesasof1999.Neversmokersmarriedtoacur-
+independentoftheirspouse’ssmokingstatus(tables2
+rentsmokerweresubdividedintocategoriesaccording
+and 3). Also, the baseline characteristics of the 1999
+to the smoking status of their spouse:1-9,10-19,20,
+21-39, ≥40cigarettesconsumedperdayformenand respondents in 1959 were similar to those for all
+women, with the addition of pipe or cigar usage for participantsin1959,exceptforayoungerageatenrol-
+women. Former smokers were considered as an ment. Although heavily censored by age, the 1999
+additionalcategory. respondents seemed reasonably representative of
+Wecalculatedtheageadjustedrelativeriskofdeath survivors.Race,education,exercise,height,weight,and
+and95%confidenceintervalasafunctionofsmoking fruit intake had also remained largely unchanged
+statusofthespousebyusingCoxproportionalhazards among the 1999 respondents since 1959. The
+regression.1820 A fully adjusted relative risk was proportion of participants who had withdrawn as of
+calculated by using a model that included age and 1972,werelostasof1999,orhadanunknowncauseof
+seven potential confounders at baseline: race (white, deathwasnotrelatedtothesmokingstatusofspouses.
+non-white),educationlevel(<12,12, >12years),exer- However,widowhood(widowedasof1999)increased
+cise(noneorslight,moderate,heavy),bodymassindex substantiallywiththelevelofsmokinginthespouse.
+(<20,20-22.99,23-25.99,26-29.99, ≥30),urbanisation The smoking status of spouses as of 1959 was
+(five population sizes), fruit or fruit juice intake (0-2, relatedtothreeselfreportedmeasuresofexposureto
+3-4, 5-7 days a week), and health status (good, fair, environmentaltobaccosmokeasof1999(table4).Par-
+poor, sick). Analyses were carried out for all ticularlyforwomen,therewasaclearrelationbetween
+participantsandforhealthyparticipants(thosewithno smokingstatusofspousesasof1959andselfreported
+historyofcancer,heartdisease,orstrokeatbaseline). measuresin1999ofhavinglivedwithasmoker,having
+The relative risk was also calculated for current livedwithasmokingspouse,andapositiveanswerto
+cigarette smokers (cigarettes only) as a function of thequestion“Inyourworkordailylife,are(were)you
+numberofcigarettesconsumedperdayfortheentire regularly exposed to cigarette smoke from others?”
+cohort.18Forreference,theageadjusteddeathratehas Also,thepercentageofparticipantscurrentlymarried
+been calculated by cause of death for all never asof1999declinedsubstantiallywiththesmokingsta-
+smokers.18 tus of the spouse, owing to increased widowhood.
+Table6 Percentageofcurrentsmokersbycigarettesconsumedperdayasof1965,1972,and1999,andformersmokersbyyearofcessationasof1999
+among1959neversmokersbysmokingstatusofspouse.Valuesarepercentages(numbers)ofcigarettesmokers
+Currentsmokingasof1965 Currentsmokingasof1972
+(cigarettes/day) (cigarettes/day) Cigarettesmokingasof1999
+Former Former
+1959spousalsmoking 1-9 ≥10 1-9 ≥10 Current (quit<1960) (quit≥1960)
+1959maleneversmokers
+(n=8602) (n=5479) (n=679)
+Never 0.3(16) 0.8(36) 0.2(5) 0.2(8) 0.2(1) 5.2(24) 0.7(3)
+Former 0.4(2) 1.2(6) 0 0.8(2) 0 15.3(6) 0
+Current 0.7(8) 2.0(25) 0.3(3) 0.5(4) 0 6.5(8) 1.6(2)
+1959femaleneversmokers
+(n=24112) (n=16237) (n=2412)
+Never 0.3(16) 0.4(19) 0.3(9) 0.4(12) 0.3(2) 2.8(16) 1.4(8)
+Former 0.5(24) 0.4(25) 0.2(9) 0.3(9) 0.2(1) 5.0(22) 0.9(4)
+Current:
+Pipeorcigar 0.6(15) 0.4(9) 0.6(7) 0.4(4) 0.4(1) 1.8(3) 1.8(3)
+1-19cigarettes/day 0.8(21) 0.9(22) 0.6(9) 0.5(7) 0 1.7(4) 2.2(5)
+20-39cigarettes/day 1.0(41) 1.2(52) 0.5(13) 0.6(15) 0.2(1) 1.4(6) 1.7(7)
+≥40cigarettes/day 1.4(10) 1.6(11) 0.6(3) 0.2(1) 1.1(1) 6.4(5) 3.9(3)
+Totalofcurrentsmokers 0.9(87) 0.9(94) 0.6(32) 0.5(27) 0.3(3) 2.0(18) 2.0(18)
+1959maleneversmokersaged≥50yearsatenrolment
+(n=5521) (n=3306) (n=122)
+Never 0.3(10) 0.8(23) 0.1(1) 0.2(4) 0 5.3(5) 0
+Former 0 1.4(4) 0 0 0 9.1(1) 0
+Current 0.6(4) 2.5(16) 0 0.6(3) 0 11.8(2) 0
+1959femaleneversmokersaged≥50yearsatenrolment
+(n=14014) (n=8957) (n=355)
+Never 0.2(6) 0.3(6) 0.3(4) 0.3(4) 0 1.0(1) 0
+Former 0.1(4) 0.5(13) 0.2(4) 0 0 7.1(7) 0
+Current:
+Pipeorcigar 0.2(3) 0.2(4) 0.4(1) 0 0 2.3(1) 0
+1-19cigarettes/day 0.4(5) 0.8(12) 0.3(2) 0.6(4) 0 3.4(1) 0
+20-39cigarettes/day 0.7(14) 0.9(20) 0.5(5) 0.5(4) 1.3(1) 0 2.7(2)
+≥40cigarettes/day 0.6(2) 1.6(5) 0.8(2) 0 0 0 0
+Totalofcurrentsmokers 0.4(24) 0.8(41) 0.4(10) 0.4(8) 0.6(1) 1.3(2) 1.3(2)
+Somevaluesdonotagreewithdenominatorsdueprimarilytomissingdata.
+page5of10 BMJ VOLUME326 17MAY2003 bmj.comPapers
+Table7 LevelofsmokinginspouseanddeathsfromselectedcausesamongmaleneversmokersinCaliforniacancerpreventionstudy(CPSI)cohort,asof
+1959and1972.Relativerisk(95%confidenceinterval)comparingindividualswitheachlevelofexposuretothosewithoutexposure.Proportionalhazards
+linearmodelsadjustedforageandforageandsevenconfounders.Forreference,1960-98deathrateindeathsper1000personyearsadjustedto1960US
+populationforattainedages35-84isgiven18
+1959participantsaged≥50, Participantsdefinedin1972,
+All1959participants,followed1960-98 followed1960-98 followed1973-98
+Ageadjusted Fullyadjusted Ageadjusted Ageadjusted
+Smokinginspouse Noofdeaths/Noof relativerisk relativerisk Noofdeaths/Noof relativerisk Noofdeaths/Noof relativerisk
+andcauseofdeath participants (95%CI) (95%CI) participants (95%CI) participants (95%CI)
+Coronaryheartdisease(deathrate3.05/1000)
+Never(1)* 1860/7458 1.00 1.00 1534/5201 1.00 806/3404 1.00
+Former(2)* 126/624 0.94(0.78to1.12) 0.94(0.77to1.14) 83/323 0.93(0.74to1.16) 114/573 0.94(0.77to1.14)
+Current(cigarettes/day):
+1-9(3)* 81/392 0.97(0.78to1.21) 0.98(0.78to1.24) 59/230 1.00(0.77to1.30) 20/89 1.32(0.84to2.06)
+10-19(4)* 99/513 0.86(0.70to1.05) 0.82(0.66to1.02) 73/282 0.91(0.72to1.15) 33/153 1.02(0.72to1.45)
+20(5)* 81/458 0.92(0.74to1.15) 0.89(0.70to1.13) 58/245 1.02(0.78to1.32) 35/189 0.94(0.67to1.32)
+21-39(6)* 27/129 1.16(0.79to1.69) 1.13(0.76to1.68) 19/62 1.30(0.82to2.04) 14/58 1.20(0.70to2.03)
+≥40(7)* 13/45 1.29(0.75to2.22) 1.24(0.70to2.19) 9/26 1.25(0.65to2.41) 4/36 0.65(0.24to1.73)
+Totalofcurrent 301/1537 0.94(0.83to1.07) 0.92(0.80to1.05) 218/845 1.00(0.87to1.15) 106/525 1.04(0.85to1.27)
+smokers
+Ever 427/2161 0.94(0.85to1.05) 0.93(0.83to1.04) 301/1168 0.98(0.86to1.11) 220/1098 0.99(0.85to1.15)
+7levelindex 2287/9619 0.99(0.95to1.02) 0.98(0.94to1.02) 1835/6369 1.00(0.96to1.05) 1026/4502 1.00(0.95to1.05)
+Lungcancer(deathrate0.11/1000)
+Never 65 1.00 1.00 50 1.00 27 1.00
+Former 5 0.92(0.37to2.30) 0.82(0.29to2.26) 3 0.89(0.28to2.88) 3 0.63(0.19to2.09)
+Current 9 0.69(0.34to1.39) 0.57(0.26to1.26) 5 0.60(0.24to1.52) 1 0.23(0.03to1.68)
+Ever 14 0.75(0.42to1.35) 0.63(0.33to1.22) 8 0.69(0.32to1.46) 4 0.43(0.15to1.24)
+7levelindex 79 0.94(0.77to1.14) 0.88(0.70to1.10) 58 0.91(0.71to1.17) 31 0.68(0.41to1.13)
+Chronicobstructivepulmonarydisease(deathrate0.12/1000)
+Never 69 1.00 1.00 59 1.00 30 1.00
+Former 5 0.95(0.38to2.37) 1.00(0.40to2.50) 4 1.09(0.40to3.02) 4 0.88(0.31to2.50)
+Current 17 1.40(0.82to2.40) 1.28(0.72to2.27) 13 1.51(0.82to2.78) 7 1.80(0.78to4.17)
+Ever 22 1.27(0.78to2.08) 1.20(0.72to2.00) 17 1.39(0.81to2.41) 11 1.29(0.64to2.61)
+7levelindex 91 1.06(0.91to1.25) 1.05(0.88to1.24) 76 1.09(0.91to1.30) 41 1.08(0.86to1.38)
+*Valuesinparenthesesareindexlevelofenvironmentaltobaccosmoke.
+Smokinghistoryofthespouseasassessedin1999was smoking in spouses. This bias produces a measured
+stronglyrelatedtoexposuretoenvironmentaltobacco relative risk that is greater than the true relative risk,
+smokeasof1999forbothmenandwomen(table5). butbyanegligibleamountforthislevelofbias.813
+Misclassificationofexposureandsmokingstatus
+Effectofexposuretoenvironmentaltobaccosmoke
+Although there was substantial misclassification of
+Exposure to environmental tobacco smoke was not
+environmental tobacco smoke exposure status from
+significantlyassociatedwiththedeathrateforcoronary
+1959to1999,itwaslessforthoseneversmokersaged
+heart disease, lung cancer, or chronic obstructive
+50 or over at enrolment (see table 4),never smokers
+pulmonarydiseaseinmenorwomen(tables7and8).
+definedin1972(datanotshown),andneversmokers
+This was true for all 1959 never smokers and 1959
+definedin1999(seetable5).Misclassificationofexpo-
+sure status produces a measured relative risk that is neversmokersaged50oroveratenrolmentfollowed
+closerto1.0thanthetruerelativerisk.813Theextentof during1960-98andfor1972neversmokersfollowed
+misclassificationfrom1959to1999couldnotobscure during 1973-98. The relative risks were slightly
+atrueassociationwitharelativeriskofabout1.3,ifit reduced after adjustment for seven confounders.
+exists,amongwomen,butitcouldlargelyobscurethis Resultswereessentiallyunchangedamongthehealthy
+associationamongmen.However,thislevelofmisclas- participants only (data not shown). The relative risks
+sification,whichisbasedonthechangesthatoccurred were consistent with 1.0 for virtually every level of
+over 40 years among the younger than average 1999 exposuretoenvironmentaltobaccosmoke,currentor
+respondents,exaggeratesthetruelevelofmisclassifica- former.Onlytherelativerisksforchronicobstructive
+tion that occurred among the cohort as a whole, pulmonary disease suggested an association. An
+particularlyduringshortfollowupperiods. environmentaltobaccosmokeindexbasedonsevenor
+Essentiallyall1959neversmokersremainednever eight levels of smoking in a spouse yielded a relative
+smokers on the basis of smoking status reported in risk of about 1.0 for each level of change and no
+1965,1972,and1999(table6).Ofthosewhoreported suggestionofadose-responsetrend.
+a history of smoking in 1999, most had smoked no In addition, analyses for coronary heart disease
+more than 10 cigarettes per day for a few years,and wereperformedforthreeshortfollowupperiodswith
+most had quit smoking before 1960. This indicates presumablysmallermisclassificationerrors.Allrelative
+onlyasmalldegreeofmisclassificationofsmokingsta- risks for coronary heart disease were consistent with
+tus.Somebiasexistsinthemisclassificationofsmoking 1.0forthefollowupperiodsof1960-5,1966-72,and
+status among the 1959 never smokers, because the 1973-85 for never smokers defined as of 1959,1965,
+percentagewhosmokedinthe1965and1972surveys and 1972 (table 9). In particular, the relative risk for
+was greatest among those with the highest levels of current smoking in a spouse was not increased, and
+BMJ VOLUME326 17MAY2003 bmj.com page6of10Papers
+there were no trends based on the environmental easeandlungcancermaybeconsiderablyweakerthan
+tobaccosmokeindex. generallybelieved.AlthoughparticipantsinCPSIare
+As expected, there was a strong, positive dose- not a representative sample of the US population,
+response relation between active cigarette smoking neversmokersinthiscohorthadatotaldeathratethat
+and deaths from coronary heart disease,lung cancer, wasclosetothatofUSwhiteneversmokers.21Further-
+and chronic obstructive pulmonary disease during more, the relative risks were based on comparisons
+1960-98 (table 1010). These relative risks were within the cohort and should be valid. Although the
+consistent with those for the full CPS I cohort until participants’totalexposuretosmokinginaspousewas
+1972.1517Asitisgenerallyconsideredthatexposureto affectedbythesubstantialextentofsmokingcessation
+environmentaltobaccosmokeisroughlyequivalentto since 1959,18 this did not affect the relative compari-
+smoking one cigarette per day,4 we extrapolated the sons. Also, the relative risks during short follow up
+relativeriskduetoexposuretoenvironmentaltobacco periods,withlimitedcessation,weresimilartothelong
+smoke from the relative risks for smoking 1-9 termrisks.
+cigarettes per day. These extrapolated relative risks
+wereabout1.03forcoronaryheartdiseaseandabout Strengthsofstudy
+1.20 for lung cancer and chronic obstructive pulmo- CPSIhasseveralimportantstrengths:longestablished
+nary disease. Based on these findings, exposure to valueasaprospectiveepidemiologicalstudy,largesize,
+environmental tobacco smoke could not plausibly extensivebaselinedataonsmokingandpotentialcon-
+causea30%increaseinriskofcoronaryheartdisease founders,extensivefollowupdata,andexcellentlong
+inthiscohort,althougha20%increaseinriskoflung term follow up.None of the other cohort studies on
+cancer and chronic obstructive pulmonary disease environmentaltobaccosmokehasmorestrengths,and
+couldnotberuledout. nonehaspresentedasmanydetailedresults.Consider-
+ingthesestrengthsasawhole,theCPSIcohortisone
+ofthemostvaluablesamplesforstudyingtherelation
+Discussion
+betweenenvironmentaltobaccosmokeandmortality.
+Onthebasisofourfindingsfromthelongtermfollow Concernhasbeenexpressedthatsmokingstatusof
+up of the California cohort of the cancer prevention thespouseasof1959doesnotaccuratelyreflecttotal
+study (CPS I), the association between exposure to exposure to environmental tobacco smoke because
+environmentaltobaccosmokeandcoronaryheartdis- there was so much exposure to non-residential
+Table8 LevelofsmokinginspouseanddeathsfromselectedcausesamongfemaleneversmokersinCaliforniacancerpreventionstudy(CPSI)cohort,as
+of1959and1972.Forreference,1960-98deathrateindeathsper1000personyearsadjustedto1960USpopulationforattainedages35-84isgiven18
+1959participantsaged≥50, Participantsdefinedin1972,
+All1959participants,followed1960-98 followed1960-98 followed1973-98
+Fullyadjusted
+Smokinginspouse Noofdeaths/Noof Ageadjustedrelative relativerisk Noofdeaths/Noof Ageadjustedrelative Noofdeaths/Noof Ageadjustedrelative
+andcauseofdeath participants risk(95%CI) (95%CI) participants risk(95%CI) participants risk(95%CI)
+Coronaryheartdisease(deathrate1.65/1000)
+Never(1)* 1053/7399 1.00 1.00 891/4230 1.00 428/3090 1.00
+Former(2)* 1059/6858 1.02(0.93to1.11) 1.03(0.94to1.13) 909/4424 0.98(0.89to1.08) 772/5079 1.03(0.92to1.16)
+Current:
+Pipeorcigar(3)* 389/2691 0.99(0.88to1.11) 0.97(0.86to1.10) 162/1735 0.97(0.86to1.10) 24/173 0.99(0.66to1.49)
+1-9cigarettes/day 183/1102 1.13(0.97to1.33) 1.03(0.86to1.23) 162/719 1.15(0.97to1.36) 24/200 0.89(0.59to1.34)
+(4)*
+10-19 310/2117 1.03(0.91to1.17) 0.99(0.86to1.14) 272/1301 1.03(0.90to1.18) 42/344 0.90(0.66to1.24)
+cigarettes/day(5)*
+20cigarettes/day 412/3288 1.04(0.92to1.16) 1.02(0.90to1.16) 309/1735 0.96(0.84to1.10) 89/616 1.30(1.04to1.64)
+(6)*
+21-39 167/1646 0.95(0.80to1.12) 0.88(0.74to1.06) 127/792 0.95(0.79to1.15) 25/239 1.14(0.76to1.71)
+cigarettes/day(7)*
+≥40cigarettes/day 72/841 0.83(0.65to1.06) 0.80(0.62to1.03) 49/399 0.74(0.55to0.98) 20/211 0.89(0.57to1.40)
+(8)*
+Totalofcurrent 1533/11685 1.01(0.93to1.09) 0.97(0.89to1.06) 1258/6681 0.98(0.90to1.07) 224/1783 1.06(0.90to1.25)
+smokers
+Ever 2592/18543 1.01(0.94to1.08) 0.99(0.92to1.08) 2167/11105 0.98(0.91to1.06) 996/6862 1.04(0.93to1.16)
+8levelindex 3645/25942 1.00(0.98to1.01) 0.99(0.97to1.00) 3058/15335 0.99(0.97to1.01) 1424/9952 1.02(0.98to1.05)
+Lungcancer(deathrate0.08/1000)
+Never 51 1.00 1.00 31 1.00 25 1.00
+Former 51 1.08(0.73to1.60) 1.04(0.69to1.57) 33 1.02(0.62to1.66) 39 0.92(0.56to1.53)
+Current 75 0.93(0.65to1.33) 0.88(0.60to1.28) 44 0.86(0.54to1.36) 14 1.00(0.52to1.92)
+Ever 126 0.99(0.72to1.37) 0.94(0.66to1.33) 77 0.93(0.61to1.41) 53 0.95(0.59to1.53)
+8levelindex 177 0.97(0.91to1.04) 0.97(0.90to1.05) 108 0.98(0.89to1.07) 78 0.99(0.87to1.13)
+Chronicobstructivepulmonarydisease(deathrate0.08/1000)
+Never 45 1.00 1.00 35 1.00 21 1.00
+Former 50 1.17(0.78to1.75) 1.24(0.80to1.93) 37 1.01(0.64to1.60) 36 1.00(0.59to1.72)
+Current 78 1.11(0.77to1.60) 1.12(0.74to1.69) 54 0.94(0.61to1.44) 18 1.57(0.84to2.96)
+Ever 128 1.13(0.80to1.58) 1.16(0.80to1.70) 91 0.97(0.66to1.44) 54 1.14(0.69to1.89)
+8levelindex 173 0.99(0.92to1.06) 0.98(0.91to1.06) 126 0.97(0.89to1.06) 75 1.06(0.94to1.20)
+*Valuesinparenthesesareindexlevelofenvironmentaltobaccosmoke.
+page7of10 BMJ VOLUME326 17MAY2003 bmj.comPapers
+Table9 LevelofsmokinginspouseanddeathsfromcoronaryheartdiseaseamongneversmokersinCaliforniacancerprevention
+study(CPSI)cohort,asof1959,1965,and1972
+1960-5 1966-72 1973-85
+Ageadjusted Ageadjusted Ageadjusted
+Noofdeaths/Noof relativerisk Noofdeaths/Noof relativerisk Noofdeaths/Noof relativerisk
+Smokinginspouse participants (95%CI) participants (95%CI) participants (95%CI)
+Males*:
+Never 224/7458 1.00 304/6762 1.00 769/5300 1.00
+Former 7/624 0.64(0.30to1.35) 19/581 1.07(0.67to1.71) 47/490 0.95(0.71to1.28)
+Current 30/1537 1.07(0.72to1.57) 36/1429 0.85(0.60to1.20) 120/1185 0.97(0.80to1.18)
+Ever 37/2161 0.94(0.66to1.34) 55/2010 0.91(0.68to1.21) 167/1675 0.97(0.82to1.15)
+7levelindex† 261/9619 1.02(0.91to1.15) 359/8772 0.95(0.86to1.05) 936/6975 1.01(0.95to1.06)
+Females*:
+Never 49/7399 1.00 124/7008 1.00 408/5343 1.00
+Former 63/6858 1.26(0.87to1.84) 102/6432 0.83(0.64to1.08) 410/4896 1.01(0.88to1.15)
+Current 61/11685 1.10(0.75to1.62) 141/11002 0.87(0.68to1.11) 565/8433 1.02(0.90to1.16)
+Ever 124/18543 1.16(0.83to1.61) 243/17434 0.85(0.68to1.06) 975/13323 1.02(0.90to1.14)
+8levelindex† 173/25942 1.01(0.93to1.10) 367/24442 0.98(0.92to1.03) 1393/18666 1.00(0.98to1.03)
+Males‡:
+Never 271/6173 1.00 453/3404 1.00
+Former 20/726 0.87(0.55to1.37) 56/573 0.93(0.70to1.23)
+Current 26/1053 0.79(0.53to1.19) 48/525 1.00(0.74to1.35)
+Ever 46/1779 0.82(0.60to1.13) 104/1098 0.96(0.77to1.20)
+7levelindex† 317/8265 0.97(0.87to1.08) 557/4502 1.00(0.93to1.09)
+Undefinedafter1959 42/726 379/2473
+Females‡:
+Never 92/6138 1.00 180/3090 1.00
+Former 112/9042 0.81(0.62to1.07) 287/5079 0.92(0.76to1.11)
+Current 62/5660 0.98(0.70to1.36) 81/1783 1.02(0.78to1.33)
+Ever 174/14702 0.86(0.67to1.11) 368/6862 0.94(0.79to1.13)
+8levelindex† 266/20840 1.00(0.94to1.07) 548/9952 1.03(0.97to1.09)
+Undefinedafter1959 101/3602 845/8714
+*Smokinginspousedefinedby1959questionnaire.
+†Indexofenvironmentaltobaccosmokebasedonsevenoreightlevelsofsmokinginspouse.
+‡Smokinginspousedefinedby1965questionnairefor1966-72andby1972questionnairefor1973-85.
+environmentaltobaccosmokeatthattime.6The1999 Conclusion
+questionnaire showed that the smoking status of TheresultsoftheCaliforniaCPSIcohortdonotsup-
+spouseswasdirectlyrelatedtoahistoryoftotalexpo- port a causal relation between exposure to environ-
+sure to environmental tobacco smoke.It also showed
+thattheextentofmisclassificationofexposurewasnot What is already known on this topic
+sufficient to obscure a true association between
+environmentaltobaccosmokeandcoronaryheartdis- Exposuretoenvironmentaltobaccosmokeis
+easeamongwomen(seetables4and5). generallybelievedtoincreasetheriskofcoronary
+Our methodology and results are fully described heartdiseaseandlungcanceramongnever
+becauseofconcernthattheearlieranalysisofcoronary smokersbyabout25%
+heart disease in CPS I 10 was flawed by author bias
+Thisincreasedrisk,basedprimarilyon
+owingtofundingbythetobaccoindustry.4Ourresults
+meta-analysis,isstillcontroversialdueto
+forcoronaryheartdiseaseandlungcancerareconsist-
+methodologicalproblems
+entwiththoseofmostoftheotherindividualstudies
+on environmental tobacco smoke,4–8 including the What this study adds
+results for coronary heart disease and lung cancer in
+InalargestudyofCaliforniansfollowedfor40
+the full CPS I.1016 Moreover, when our results are
+years,environmentaltobaccosmokewasnot
+includedinameta-analysisofallresultsforcoronary
+associatedwithcoronaryheartdiseaseorlung
+heart disease, the summary relative risks for current
+cancermortalityatanylevelofexposure
+and ever exposure to environmental tobacco smoke
+arereducedtoabout1.05,indicatingaweakrelation. Thesefindingssuggestthattheeffectsof
+Widowhoodwasstronglycorrelatedwithsmoking environmentaltobaccosmoke,particularlyfor
+status of spouses, owing to the reduced survival of coronaryheartdisease,areconsiderablysmaller
+smokers.Sincewidowershavehigherdeathratesthan thangenerallybelieved
+marriedpeople,2223controllingforwidowhoodwould
+be expected to reduce the relative risks in this and Activecigarettesmokingwasconfirmedasa
+strong,doserelatedriskfactorforcoronaryheart
+otherstudiesofsmokinginspouses.Thepreciseeffect
+disease,lungcancer,andchronicobstructive
+ofwidowhoodduetosmokinginspousesstillneedsto
+pulmonarydisease
+bedetermined,butitmaypartiallyexplainthepositive
+relativerisksfoundinothercohorts.
+BMJ VOLUME326 17MAY2003 bmj.com page8of10Papers
+Table10 1960-98ageadjustedrelativerisk(95%confidenceinterval)ofdeathforcoronaryheartdisease,lungcancer,andchronic
+obstructivepulmonarydiseaseamongcigarettesmokerscomparedwithneversmokersasfunctionofactivesmokingstatus
+(cigarettesperday)in1959
+Men Women
+Noofdeaths/Noof Ageadjustedrelativerisk Noofdeaths/Noof Ageadjustedrelativerisk
+Activesmokingstatus participants (95%CI) participants (95%CI)
+Coronaryheartdisease
+Never(1)* 2561/10862 1.00 6516/39216 1.00
+Former(2)* 2579/10204 1.18(1.12to1.25) 541/4838 0.98(0.90to1.07)
+Current(cigarettes/day):
+1-9(3)* 376/1548 1.19(1.07to1.33) 590/4687 1.13(1.04to1.23)
+10-19(4)* 859/3740 1.42(1.31to1.53) 855/6691 1.43(1.33to1.54)
+20(5)* 1661/7186 1.57(1.48to1.68) 912/6875 1.79(1.66to1.92)
+21-39(6)* 1072/4789 1.75(1.63to1.89) 254/2066 2.04(1.80to2.32)
+40-80(7)* 573/2621 1.91(1.74to2.10) 111/818 2.38(1.97to2.87)
+Totalofcurrentsmokers 4541/19884 1.53(1.45to1.61) 2722/21137 1.49(1.42to1.56)
+7levelindex 9681/40950 1.11(1.10to1.12) 9804/65191 1.14(1.13to1.16)
+Lungcancer
+Never(1) 92/10862 1.00 269/39216 1.00
+Former(2) 281/10204 3.50(2.77to4.43) 48/4838 1.45(1.06to1.97)
+Current(cigarettes/day):
+1-9(3) 47/1548 4.08(2.87to5.80) 62/4687 1.98(1.50to2.62)
+10-19(4) 187/3740 7.86(6.11to10.11) 205/6691 5.07(4.19to6.12)
+20(5) 535/7186 12.50(9.99to15.63) 355/6875 9.14(7.73to10.81)
+21-39(6) 424/4789 16.43(12.99to20.77) 162/2066 15.14(12.26to18.69)
+40-80(7) 241/2621 18.65(14.47to24.02) 62/818 15.77(11.80to21.06)
+Totalofcurrentsmokers 1434/19884 11.91(9.64to14.73) 846/21137 6.22(5.39to7.16)
+7levelindex 1807/40950 1.54(1.50to1.58) 1163/65191 1.69(1.63to1.74)
+Chronicobstructivepulmonarydisease
+Never(1) 103/10862 1.00 296/39216 1.00
+Former(2) 179/10204 2.06(1.62to2.63) 48/4838 1.42(1.05to1.94)
+Current(cigarettes/day)
+1-9(3) 35/1548 2.84(1.94to4.17) 50/4687 1.64(1.21to2.22)
+10-19(4) 125/3740 5.46(4.19to7.11) 214/6691 5.69(4.73to6.85)
+20(5) 326/7186 8.30(6.62to10.40) 309/6875 9.32(7.85to11.06)
+21-39(6) 258/4789 11.99(9.39to15.31) 106/2066 12.87(10.13to16.35)
+40-80(7) 148/2621 13.54(10.33to17.75) 46/818 15.33(11.06to21.23)
+Totalofcurrentsmokers 892/19884 8.08(6.58to9.94) 725/21137 5.98(5.19to6.89)
+7levelindex 1174/40950 1.55(1.51to1.60) 1069/65191 1.67(1.62to1.73)
+*Valuesinparenthesesareindexlevelofactivecigarettesmoking.
+mental tobacco smoke and tobacco related mortality, researchorganisationthatreceivedfundingprimarilyfromUS
+althoughtheydonotruleoutasmalleffect.Giventhe tobaccocompanies.24
+limitationsoftheunderlyingdatainthisandtheother Competing interests: In recent years JEE has received funds
+originating from the tobacco industry for his tobacco related
+studiesofenvironmentaltobaccosmokeandthesmall
+epidemiological research because it has been impossible for
+size of the risk, it seems premature to conclude that himtoobtainequivalentfundsfromothersources.GCKnever
+environmental tobacco smoke causes death from receivedfundsoriginatingfromthetobaccoindustryuntillast
+coronaryheartdiseaseandlungcancer. year,whenheconductedanepidemiologicalreviewforalaw
+firm which has several tobacco companies as clients.He has
+WethankLawrenceGarfinkelandClarkWHeathJr(former served as a consultant to the University of California at Los
+vice presidents for epidemiology and statistics, American Angelesforthispaper.JEEandGCKhavenoothercompeting
+CancerSociety)forfacilitatingtheextendedfollowupofCPSI interests.They are both lifelong non-smokers whose primary
+andformakinghelpfulcommentsandsuggestionsandSaman interest is an accurate determination of the health effects of
+AssefiandParveenSrafortechnicalassistance. tobacco.
+Contributors:JEE conceived the study and obtained funding,
+conducted the extended follow up, analysed the data, and 1 TaylorAE,JohnsonDC,KazemiaH.Environmentaltobaccosmokeand
+draftedthemanuscript;hewillactasguarantorforthepaper. cardiovasculardisease.Circulation1992;86:1-4.
+GCKcontributedtothefollowupquestionnaire,advisedonthe 2 NationalCancerInstitute.Healtheffectsofexposuretoenvironmentaltobacco
+dataanalysisandinterpretation,andcontributedextensivelyto smoke:thereportoftheCaliforniaEnvironmentalProtectionAgency.Smoking
+themanuscript. andTobaccoControlMonographNo10.Bethesda,MD:USDepartmentof
+HealthandHumanServices,NationalInstitutesofHealth,NationalCan-
+Funding:TheAmericanCancerSocietyinitiatedCPSIin1959, cerInstitute,1999.(NIHPublicationNo99-4645.)
+conductedfollowupuntil1972,andhasmaintainedtheoriginal 3 USDepartmentofHealthandHumanServices.Womenandsmoking:a
+database.Extendedfollowupuntil1997wasconductedatthe reportofthesurgeongeneral—2001.Washington,DC:GovernmentPrinting
+Office,2001:343-67.
+UniversityofCaliforniaatLosAngeleswithinitialsupportfrom
+4 LawMR,MorrisJK,WaldNJ.Environmentaltobaccosmokeexposure
+theTobacco-RelatedDiseaseResearchProgram,aUniversityof and ischaemic heart disease: an evaluation of the evidence. BMJ
+CaliforniaresearchorganisationfundedbytheProposition99 1997;315:973-80.
+cigarettesurtax(www.ucop.edu/srphome/trdrp).Aftercontinu- 5 HeJ,VupputuriS,AllenK,PrerostMR,HughesJ,WheltonPK.Passive
+ing support from the Tobacco-Related Disease Research smoking and the risk of coronary heart disease—a meta-analysis of
+epidemiologicstudies.NEnglJMed1999;340:920-6.
+Programwasdenied,followupthrough1999anddataanalysis
+6 ThunM,HenleyJ,ApicellaL.Epidemiologicstudiesoffatalandnonfatal
+wereconductedatUniversityofCaliforniaatLosAngeleswith cardiovasculardiseaseandETSexposurefromspousalsmoking.Environ
+supportfromtheCenterforIndoorAirResearch,a1988-99 HealthPerspect1999;107(suppl6):841-6.
+page9of10 BMJ VOLUME326 17MAY2003 bmj.comPapers
+7 USEnvironmentalProtectionAgency.Respiratoryhealtheffectsofpas- of1millionmenandwomen.SmokingandTobaccoControlMonographNo
+sivesmoking:lungcancerandotherdisorders.Washington,DC:Officeof 8. Rockville, MD: US Department of Health and Human Services,
+ResearchandDevelopment,OfficeofHealthandEnvironmentalAssess- NationalInstitutesofHealth,NationalCancerInstitute,1997:113-304.
+ment,1992.(EPA600/6-90/006FandNIHPublicationNo93-3605.) (NIHPublicationNo97-4213.)
+8 HackshawAK,LawMR,WaldNJ.Theaccumulatedevidenceonlung 18 Enstrom JE, Heath CW Jr. Smoking cessation and mortality trends
+cancerandenvironmentaltobaccosmoke.BMJ1997;315:980-8. among118,000Californians,1960-97.Epidemiology1999;10:500-12.
+9 BailarJC.Passivesmoking,coronaryheartdisease,andmeta-analysis.N 19 SchallLC,BuchanichJM,MarshGM,BittnerGM.Utilizingmultiplevital
+EnglJMed1999;340:958-9. statustracingservicesoptimizesmortalityfollow-upinlargecohortstud-
+10 LeVoisME,LayardMW.Publicationbiasintheenvironmentaltobacco ies.AnnEpidemiol2001;11:292-6.
+smoke/coronary heart disease epidemiologic literature. Regul Toxicol 20 SoY.ThePHREGprocedure.In:SAS/STATsoftware.SAStechnicalreport
+Pharmacol1995;21:184-91.
+P-229.Cary,NC:SASInstitute,1992.
+11 LeVoisME,LayardMW.Passivesmokingandheartdisease[letter].BMJ
+21 EnstromJE,GodleyFH.Cancermortalityamongarepresentativesample
+1998;317:344-6.
+ofnonsmokersintheUnitedStatesduring1966-68.JNatlCancerInst
+12 FleissJL,GrossAJ.Meta-analysisinepidemiology,withspecialreference
+tostudiesoftheassociationbetweenexposuretoenvironmentaltobacco 1980;65:1175-83.
+smokeandlungcancer:acritique.JClinEpidemiol1991;44:127-39. 22 SchaeferC,QuesenberryCP,WiS.Mortalityfollowingconjugalbereave-
+13 LeePN.Environmentaltobaccosmokeandmortality.Basel:Karger,1992. ment and the effects of a shared environment. Am J Epidemiol
+14 GoriGB,LuikJC.Passivesmoke:theEPA’sbetrayalofscienceandpolicy.Van- 1995;141:1142-52.
+couver,Canada:FraserInstitute,1999. 23 JohnsonNJ,BacklundE,SorliePD,LovelessCA.Maritalstatusandmor-
+15 HammondEC.Smokinginrelationtodeathratesofonemillionmen tality: the national longitudinal mortality study. Ann Epidemiol
+andwomen.NatlCancerInstMonogr1966;19:127-204. 2000;10:224-38.
+16 GarfinkelL.Timetrendsinlungcancermortalityamongnonsmokers 24 GreenCR.FundingbytheCenterforIndoorAirResearch(CIAR).J
+andanoteonpassivesmoking.JNatlCancerInst1981;66:1061-6. HealthPolitPolicyLaw1997;22:1279-93.
+17 BurnsDM,ShanksTG,ChoiW,ThunMJ,HeathCWJr,GarfinkelL.The
+AmericanCancerSocietyCancerPreventionStudyI:12-yearfollowup (Accepted7March2003)
+BMJ VOLUME326 17MAY2003 bmj.com page10of10

@@ -1,0 +1,629 @@
+Controversies in Allergy
+e
+Electronic Cigarettes: A Pro Con Review of the
+Current Literature
+CoralX.Giovacchini,MDa,LauraE.CrottyAlexander,MDb,c,andLorettaG.Que,MDa Durham,NC;andSanDiego,Calif
+Electroniccigarettes (e-cigarettes, e-cigs,orelectronic nicotine users. (cid:1)2022TheAuthors. PublishedbyElsevierInc. on
+delivery systems)arebattery-operated devicestypically behalf oftheAmerican AcademyofAllergy,Asthma&
+containingglyceroland/orpropyleneglycol-basedsolutionswith Immunology. ThisisanopenaccessarticleundertheCCBY-
+varyingnicotinecontent,known ase-liquids.Although NC-NDlicense (http://creativecommons.org/licenses/by-nc-nd/
+e-cigarettes wereoriginallydeveloped asapotentially less 4.0/).(JAllergy ClinImmunol Pract2022;10:2843-51)
+harmfulalternativetotraditional combustibletobaccocigarette
+Key words: E-cigarette; Nicotine; Smoking cessation; EVALI;
+smokers,severalfactorshavedriventheirpopularityamong
+Dualuse
+smokersandnonsmokersalike, includingtheirsleekproduct
+designs,innumerable appealingflavors,lack ofcombustible
+smokeand odor,andhighpotential nicotineconcentrations. INTRODUCTION
+Furthermore, manyadvocateshavepromoted theideathat Electronic cigarettes (also known as e-cigarettes, e-cigs, or
+e-cigarettes aresafetouse, orat leastsaferthanconventional electronic nicotine delivery systems [ENDS]) are battery-
+tobacco,despitelimitedlongitudinaldatatosupport these operated nicotine delivery devices typically filled with glycerol
+claims.Here,weexaminewhatisknownabouttheimpactsof and propylene glycol-based solutions with varying nicotine
+e-cigarette useontraditionalcigarette smokingcessation,lung content, known as e-liquids.1,2 Although e-cigarettes were his-
+health,andyouthandyoung adulttobaccoproductexposure. torically developed to supplant traditional combustible tobacco
+Uponreviewofthecurrently available literature, thenegative use with a less harmful alternative, several factors have driven
+effectsofe-cigaretteuseseemtooutweighanypotentialbenefit, e-cigarettepopularity,includingtheirmanyappealingflavors,the
+becausetheavailableevidencedoesnotconfirmtheuseof lack of combustible smoke and odor, sleek profiles, and high
+e-cigarettes asaneffectivestrategyfor supportingtraditional potentialnicotineconcentrations.Furthermore,manyconsumers
+combustibletobaccocigarette smokingcessation,particularly andadvocateshavepromotedtheideathate-cigarettesaresafeto
+giventheemerging adverseeffectsonlunghealthandthe use,oratleastsaferthanconventionaltobacco.However,limited
+potential futurepublichealth effectsofe-cigarette adoption longitudinal data exist to support those suppositions, given the
+amongaburgeoningnewgenerationoftobaccoproduct relativelyrecentemergenceofe-cigarettesasaprominenttobacco
+product.Here,weexaminewhatisknownabouttheimpactsof
+e-cigarette use on traditional cigarette smoking cessation, lung
+aDivisionofPulmonary,Allergy,andCriticalCare,DukeUniversityHealthSystem,
+health, and youth and young adult tobacco product exposure.
+Durham,NC
+bPulmonaryCriticalCareSection,VASanDiegoHealthcareSystem,SanDiego,
+Calif ELECTRONIC CIGARETTE USE AND SMOKING
+cDivisionofPulmonary,CriticalCare,Sleep,andPhysiology,UniversityofCali- CESSATION
+forniaSanDiego,SanDiego,Calif
+Development and current use
+DrCrottyAlexander’ssalarywassupportedinpartbyVeteransAffairsMeritAward
+1I01BX004767(CrottyAlexander),NationalInstitutesofHealth(NIH)National The earliest patent for an e-cigarette was granted in August
+Heart,Lung,andBloodInstituteAwardK24HL155884(CrottyAlexander),and 1965 to Herbert A. Gilbert (US Patent No. 3,200,819),3 who
+Tobacco-RelatedDiseaseResearchProgramAwardsT32SR5359(Emory/Crotty designeda“smokelessnontobaccocigarette”withmultipleflavor
+Alexander)andT30IP0965(CrottyAlexander).DrQue’ssalaryissupportedin
+options yet without nicotine, with the intent of replacing the
+partbyNIHNationalHeart,Lung,andBloodInstituteAwardsR01HL146542
+(Holguin/Que), R01HL153641 (Que), R01HL136917 (Dixon), NIH National combustible tobacco cigarette with a safer, less harmful alterna-
+Institute of Environmental Health Sciences Award R01ES027574 (Tighe), and tive.4 However, in focus groups run by tobacco companies,
+NIHNationalInstituteofAllergyandInfectiousDiseasesAwardHHSN272000- smokers did not find the aerosol produced by Gilbert’s device
+TO22-TaskD(Walters/Que)andtheAmericanLungAssociation-AirwaysClin-
+appealing, likely because of the absence of nicotine and the
+icalResearchCenter.
+Conflicts of interest: The authors declare that they have no relevant conflicts of subsequent inability to activate the dopamine reward system.
+interest. The device never made it to market.
+ReceivedforpublicationApril28,2022;revisedJune27,2022;acceptedforpub- In the mid-2000s, the modern e-cigarette was invented and
+licationJuly8,2022. use skyrocketed in popularity in the United States and Europe,
+AvailableonlineJuly21,2022.
+especiallyamongyouthsandyoungadults.Somefactorsdriving
+Correspondingauthor:LauraE.CrottyAlexander,MD,9500GilmanDr,MC9111J,
+San Diego, Calif 92093. E-mail: lca@ucsd.edu. Or: Loretta G. Que, Rm 279 the popularity of these products include the availability of
+MSRB1,203ResearchDr,Durham,NC27710E-mail:loretta.que@duke.edu thousands of flavors allowing for a personalized product selec-
+2213-2198 tion,5,6 minimal regulation by the government resulting in the
+(cid:1)2022TheAuthors.PublishedbyElsevierInc.onbehalfoftheAmericanAcademy
+perceptionoftheirbeinglessharmfulthancombustibletobacco
+ofAllergy,Asthma&Immunology.ThisisanopenaccessarticleundertheCC
+products,7,8 and extensive marketing by manufacturers as
+BY-NC-NDlicense(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+https://doi.org/10.1016/j.jaip.2022.07.009 smoking cessation aids.9 However, to date, no clear consensus
+28432844 GIOVACCHINIETAL JALLERGYCLINIMMUNOLPRACT
+NOVEMBER2022
+has emerged regarding the utility of e-cigarettes for smoking volatile organic compounds. Switching from exclusive cigarette
+cessation, and e-cigarettes have not been approved by the Food use to exclusive e-cigarette use (1.2%) resulted in a decreased
+and Drug Administration (FDA) Center for Drug Evaluation urinarytoxicantcontent;however,mostparticipantsmaintained
+and Research for this purpose. Although several randomized exclusive e-cigarette use or became dual users of combustible
+controlled trials and observational studies have been conducted cigarettes and e-cigarettes. In these individuals, levels of urinary
+during the past decade to address this specific question, many toxicants did not decrease.18 Most dual users maintained dual-
+earlier studies did not include control groups, used early- use status (37.9%) or transitioned back to exclusive combus-
+generation e-cigarette types with poor nicotine delivery, or tible cigarette use (49.1%) 1 year later. The authors concluded
+wereinconclusiveowingtothesmallsamplesizeorchallengesin that e-cigarettes tended to be used as supplements to conven-
+the study design. tional cigarettes, resulting in dual use and reduced efficacy as
+smoking cessation aids.
+E-cigarettes as smoking cessation aids
+Short-termstudies(lessthan1year)published toaddressthe
+efficacy of e-cigarettes as smoking cessation aids have yielded E-cigarettes and nicotine replacement therapy
+dichotomous results.10-13 A 2021 Cochrane analysis evaluated Treatment with nicotine replacement therapy (NRT) and
+the effect of e-cigarette consumer product use on smoking combination therapies for smoking cessation achieves absti-
+cessationandfoundthatinalladultsmokers(oddsratio[OR]¼ nence rates of approximately 26% at 6 months and 20% at 1
+0.947; 95% CI, 0.772-1.1600) and smokers motivated to quit year.19-21 Compared with traditional NRT, epidemiologic
+smoking (OR ¼ 0.851; 95% CI, 0.684-1.057), e-cigarette studies show that e-cigarettes can be more effective than NRT
+consumer product use was not significantly associated with a alone in achieving smoking cessation. Walker and colleagues22
+higherquitrate.14Incontrast,quitrateswerehigherincigarette examined the effects of dual NRT using nicotine patches and
+smokers who used e-cigarettes daily (OR¼ 1.529; 95% CI, nicotine-containinge-cigarettescomparedwithnicotinepatches
+1.158-2.019) relative to smokers who use e-cigarettes less than alone and nicotine-free e-cigarettes. Unfortunately, a control
+daily (OR¼ 0.514; 95% CI,0.402-0.665).11,14 When pre- cohort using e-cigarettes alone was not included in the study
+scribedassmokingcessationaidsandadministeredfreeofcostin design.Exhaledcarbonmonoxidewasusedtoverifycontinuous
+randomized control trials, e-cigarettes offer little benefit over combustibletobaccoabstinenceat6months.Participantsinthe
+usual care or no treatment.10,12 nicotine patches andnicotine e-cigarette group hada modestly
+Furthermore,inthelongestobservationalstudyperformedto higher quit rate (7%) than those in the nicotine patches and
+date, Flacco et al11 found no evidence that e-cigarette use nicotine-free e-cigarette group (4%) (risk difference ¼ 2.99;
+increased smoking cessation rates over a 6-year period (2013-
+95%CI,0.17-5.81).22Thegrouptreatedwithnicotinepatches
+2019),norwasthereevidenceofharmreductionine-cigaretteor and nicotine e-cigarettes received higher total nicotine
+dual users (those using both e-cigarettes and combustible ciga- replacement levels compared with the patches-alone group,
+rettes) compared with cigarette smokers. Abstinence from whichmayexplaintheslightlyhigherabstinencerate,suchthat
+combustible tobacco use was assessed with exhaled carbon
+theroleofthespecificnicotinedeliverysystemwasnotdirectly
+monoxide testing in 228 e-cigarette users (all ex-smokers), 469 assessed in this study. The quit rate in the nicotine patches-
+cigarette smokers, and 215 dual users. Among e-cigarette users, alone groups was 2% (risk difference ¼ 4.60; 95% CI, 1.11-
+64.0%remainedtobaccoabstinent.Tobaccocessationrateswere 8.09), which is extremely low compared with similar NRT
+equivalent in both dual users and tobacco smokers (38.6% vs studies.Thisraisesconcernsregardingthestudydesignandthe
+33.9%), respectively. The authors found that although the presence of extra-treatment factors that adversely influenced
+switch from combustible cigarettes to e-cigarettes supported
+NRT.21
+abstinence from conventional cigarette use, the continued used
+Thefindingthate-cigarettesaresuperiortoNRTinachieving
+ofe-cigarettesinadditiontosmokingcigarettesdidnotimprove smokingcessationwasalsonotedina2019studyinwhich886
+smoking cessation or reduction.11 adult smokers were randomly assigned to receive either NRT
+(n¼447)oranicotine-containinge-cigarettestarterpack(n¼
+E-cigarettes and the harm reduction principle 439).Inthisstudy,participantsalsoreceivedweeklyface-to-face
+Harmreductionviae-cigaretteusehasalsobeenevaluatedby counseling for 1 year. The primary outcome was sustained
+measuring tobacco-specific toxicants and carcinogens. Like cig- smokingabstinenceat52weeks.Theauthorsfoundthat18%of
+arettes, aerosols from e-cigarettes have been found to contain participants who used e-cigarettes for smoking cessation aids
+nicotine, nitrosamines, carbonyl compounds, heavy metals, and were no longer smoking conventional tobacco a year later
+particulate matter.12,13,15Although presentinsmaller quantities compared with 9.9% of participants who used NRT to quit
+compared with combustible tobacco products, these chemicals smoking(relativerisk¼1.83;95%CI,1.30-2.58;P<.001).23
+arewell-knownfortheiraddictivenatureandtoxicity.16,17Inthe However,amonge-cigaretteusers,80%(63/79)werestillvaping
+national cohort Population Assessment of Tobacco and Health a year later (and thus using a tobacco product), compared with
+(PATH) study including 3,211 participants consisting of exclu- only9%ofparticipantsintheNRTgroupstillusingNRT(four
+sive cigarette smokers (79.7%), exclusive e-cigarette users of 44),and110participantsinthee-cigarette group(25%)had
+(5.3%),anddualusers(15.0%)fromwaves1and2,fiveurinary become dual users.23 Although these findings suggest that
+biomarkers were examined using multivariable regression e-cigarettes may be helpful for traditional tobacco cigarette
+models:(1)nicotinemetabolitesandminortobaccoalkaloids,(2) cessation in smokers, they also highlight the potential for new
+tobacco-specific nitrosamines, (3) metals (heavy metals and sustained dependency anduse of e-cigarettes whenused forthis
+speciatedarsenic),(4)polycyclicaromatichydrocarbons,and(5) purpose among former smokers.JALLERGYCLINIMMUNOLPRACT GIOVACCHINIETAL 2845
+VOLUME10,NUMBER11
+E-cigarettes and addictive potential TABLEI. Reportedeffectsofelectroniccigarettesonlunghealth
+The addictive potential of e-cigarettes was evaluated in Humanreports Animalstudies
+another 2019 study using the Fagerstrom test for nicotine
+Acutelunginjury/electroniccigarette Airwayhyperreactivity/
+dependence, a 25-item questionnaire modified to analyze nico- orvapingproductuse-associated bronchospasm
+tine dependence and patterns and attitudes toward using e-cig- lunginjury
+arettes and combustible cigarettes.24 Thirty e-cigarette users, 30 Acuterespiratorydistresssyndrome Alteredimmunecellfunction
+smokers,and30dualuserswereevaluated.Habitsandbehaviors Alteredimmunecellfunction Alteredgeneexpression
+associated with using e-cigarettes did not differ significantly be-
+Alteredepithelialcellfunction Cellularcytotoxicity
+tween exclusive e-cigarette users and dual users. Surprisingly,
+Alteredepithelialcellproteinand DNAstrandbreaks
+nicotine dependence as measured using the Fagerstrom test for geneexpression
+nicotinedependencewastwiceashighine-cigaretteusers(mean,
+Alveolarhemorrhage Emphysema
+3.5)comparedwithtraditionalcigarettesmokers(mean,1.6;P<
+Asthmaandchronicobstructive IncreasedMUC5ACmucin/
+.001),25 affirming that e-cigarettes can be powerful activators of pulmonarydiseaseexacerbations/ gobletcellmetaplasia
+nicotine addiction pathways in the brain, and that using these increasedsymptomatology
+devicescanconveyanaddictivepotentialsimilartoconventional Bronchiolitis Increasedsusceptibilityto
+tobacco products. infection
+Equally disturbing are further data from the PATH cohort Bronchitis/productivebronchitis Increasedsusceptibilityto
+study examining the addictive potential of e-cigarettes in 2,273 acuterespiratorydistress
+adult former tobacco smokers from waves 1 to 4 (2013-2018). syndrome
+Adult former smokers who reported using e-cigarettes after Cough Inhibitionofciliarybeating
+wave 1 and who had not used traditional cigarettes during Eosinophilicpneumonia Nasalsquamousmetaplasia
+wave 1 of the PATH trial were found to be at increased risk Hypersensitivitypneumonitis Oxidativestress
+for traditional cigarette smoking relapse (adjusted hazard IncreasedMUC5ACmucin Pulmonaryfibrosis
+ratio ¼ 1.63; 95% CI, 1.04-2.53 in recent former smokers; Lipoidpneumonia Tumorigenesis
+unweighted n ¼ 304, and adjusted hazard ratio ¼ 3.79; 95% Organizingpneumonia
+CI, 1.75-8.20; unweighted n ¼ 1,554 in long-term former Shortnessofbreath
+smokers).26
+Wheezing
+Aseparateanalysis of26,446adultscompletingtwowavesof
+PATH(2013-2014and2014-2015)alsoshowedthate-cigarette
+use increased rates of new combustible tobacco product use in
+adults,comparedwithadultswhohadneverusede-cigarettes(P ELECTRONICCIGARETTEUSEANDLUNGDISEASE
+< .001).Adults whohad never used e-cigarettes atbaseline but Whereas wehavehadover140years towitness lung diseases
+reportedevertryinge-cigaretteswerefourtimesaslikelytohave causedbyconventionaltobacco,wehavehadlessthan20yearsto
+transitioned to ever smoking combustible cigarettes than never identifyandclassifylungdiseasesassociatedwithe-cigaretteuse.In
+smokerswhohadnotusede-cigarettes(OR¼4.0;95%CI,2.6- addition, we have only recently begun regularly asking patients
+6.1). Adults who used e-cigarettes in the past 30 days were six aboutanddocumentinge-cigaretteuseinmedicalrecords.Assuch,
+times as likely to have transitioned from never to ever combus- data are limited and often rely on animal studies, case reports,
+tiblecigarettesmokers(OR¼6.6;95%CI,3.7-11.8)andeight series, and cohorts describing associated lung effects and symp-
+times more likely to have become established combustible ciga- tomatology.TableIlistssomeofthereportedlunghealtheffectsof
+rette smokers (OR ¼ 8.0; 95% CI, 2.8-22.7) than those who e-cigaretteuseinbothhumanandanimalstudies.
+had never used e-cigarettes. These studies emphasize the
+importance of discouraging e-cigarette use in former smokers Cytotoxic effects
+who had successfully quit smoking, and of advising never- Whereas e-cigarettes have not been around long enough to
+smokers against initiating use.27 determine whether consistent use leads to common tobacco
+Finally, Beard and colleagues28 examined how far changes in producterelated lung diseases such as emphysema, chronic
+the prevalence of e-cigarette and licensed NRT use while bronchitis, interstitial lung diseases, or lung cancer, in vitro and
+smokingwereaccompaniedbychangesincigaretteconsumption invivostudiesusinganimalmodelshaveconsistentlyfoundtoxic
+at the population level in active cigarette smokers. This obser- andprocarcinogeniceffectsofe-cigaretteaerosols.Oneofthefirst
+vational study performed in England between 2006 and 2016 studies,byYuetal,29foundthatexposuretoe-cigaretteaerosolsled
+showed no statistically significant associations between changes toDNAstrandbreaksandcytotoxicityacrosscelllines.Notably,
+in e-cigarette use (b ¼ e0.012; 95% CI, e0.026 to 0.002) or thiscellularandmoleculardamageknowntodrivetumorigenesis
+NRT use (b ¼ 0.015; 95% CI, e0.026 to 0.055) and daily was independent of nicotine. Since that publication in 2016,
+cigarette consumption.28 severalgroupshaveidentifiedfurtherDNAdamagingandDNA-
+Taken together, although some studies have shown that repair limiting effects of e-cigarettes,30-32 as well as direct cyto-
+e-cigarette use may lead to short-term smoking cessation, they toxic30,33-36andcarcinogenic31,37effectsofe-cigarettes.
+represent an inferior treatment approach relative to well-proven
+smoking cessation strategies, and their addictive potential com- Cellular immunomodulation
+bined with the lack of proven harm reduction supports caution Immunecells,whichareimportantpathologicallyacrosslung
+against their use for smoking cessation. diseasessuchaspneumonia,interstitiallungdisease,asthma,and2846 GIOVACCHINIETAL JALLERGYCLINIMMUNOLPRACT
+NOVEMBER2022
+cancer, have been found to be phenotypically and functionally phenotypic changes across macrophages, neutrophils, and
+altered and immunomodulated by e-cigarette aerosols and their epithelial cells suggests that e-cigarette use affects the innate
+components. This is particularly concerning in the setting of immune system, reducing functional abilities to response to in-
+infection, because the diminishedability of hostdefense cells to fectious challenges.
+clear pathogens (bacteria, viral, and fungal) predicts that e-ciga-
+retteusersmayhavehigherratesandhigherseverityofinfectious Potential for clinical disease development
+diseases.Throughmurinestudies,datainthisareahaveemerged Murine models are one of our only tools with which to
+in both airway andlung parenchymal immune cells,38,39raising determine whether e-cigarette use may cause disease over time,
+concernregardingincreasedsusceptibilitytopneumonia,aswell becauseexposureofmicetoe-cigaretteaerosolsformonthsisthe
+as in circulating immune cells and those within distant organs equivalent of years to decades in humans.57 Broadly, murine
+(heart and colon), potentially increasing susceptibility to models have demonstrated that emphysema can occur owing to
+bacteremia,sepsis,andmultiple-organfailureinthesettingofan e-cigarettes, but it may be a factor of both genetics and expo-
+infectious challenge. Nevertheless, further studies are needed to
+sure,58-60andthatpulmonaryfibrosismaybepromotedbyusing
+ensurethesefindingsaresimilarlyborneoutinhumancellswith e-cigarettes.60 In addition, multiple groups have shown dimin-
+typical e-cigarette product use. ished host responses to infectious challenges in the setting of
+Accordingly,someofthemostcommonquestionsduringthe e-cigarette aerosol inhalation (bacterial and viral),51,55 and
+COVID-19epidemicwerewhethere-cigaretteuseincreasedthe increased pathogen virulence (bacterial and fungal).35,61 One of
+risk for being infected with SARS-CoV-2 and whether vaping themostshockingstudiesof2019wasthearticlebyTangetal,37
+increased severity and mortality. Although these questions have which demonstrated an increase in lung adenocarcinoma
+notyetbeenansweredtooursatisfactioninhumansubjects,the tumorigenesis in the setting of a year of daily e-cigarette aerosol
+data are most supportive of e-cigarette users having more respi- exposure, depending on the presence of nicotine within the
+ratory symptoms even before viral infections,40-43 with poten- aerosols. Finally, e-cigarette exposure daily for months has been
+tially increased symptoms in the setting of COVID-19.44 One showntocausediseasebeyondthelung,includingcardiac,renal,
+national cross-sectional survey of adolescents and young adults and hepatic fibrosis, neuroinflammation in the central nervous
+(aged 13-24 years) performed in May 2020 found that both system, and altered inflammatory states in the heart and
+e-cigarette users and dual e-cigarette and cigarette users were colon.56,62
+morelikelytoreceiveadiagnosisofCOVID-19comparedwith Although much is still unknown, there are multiple reports
+nonusers, and ever-users of e-cigarettes were five times more identifyinge-cigaretteuseasthecauseofavarietyofmoreacute
+likely to test positive (OR ¼ 5.05; 95% CI, 1.82-13.96),45 andsubacutelungdiseases,includingeosinophilicpneumonia,63
+although the authors noted that there were likely both immu- hypersensitivity pneumonitis,64,65 bronchiolitis,66 organizing
+nologic and social contributors to positive testing among pneumonia,67 alveolar hemorrhage,68,69 and acute respiratory
+e-cigarette-usingyoungadults.Therearenoconvincingdatathat distress syndrome. In many of these cases, patients became
+e-cigaretteuseleadstogreaterdiseaseseverityorhighermortality critically ill before clinicians could recognize or identify the
+in COVID-19.46,47 However, murine and in vitro data suggest inhalantuseasapotentialdriver.Thus,thesefewcasesthatwere
+that daily e-cigarette use leads to increased angiotensin convert- identified as related to e-cigarettes suggest that many more may
+ing enzyme-2expression48-50 andis associated with more severe be occurring across the world but are not being identified as
+acute lung injury in the setting of viral infections, including a related to vaping.
+murine coronavirus and influenza virus.51,52 Thus, the current
+conclusion is that e-cigarette use likely leads to altered inflam- The e-cigarette or vaping product use-associated
+matory responses in the lungs, which potentially will influence lung injury epidemic
+disease severity in some viral lung infections. In 2019, a lung disease specific to vaping of tetrahydrocan-
+Data on immunophenotype changes induced in innate im- nabinol(THC)wasidentified:e-cigaretteorvapingproductuse-
+mune cells, both present in the lungs at baseline and recruited associated lung injury.70,71 Many of the affected patients were
+duringinflammatoryandinfectiouschallenges,canbeinsightful teenagersoryoungadults,andsomerequiredourhighestlevelof
+as to why e-cigarette use may lead to altered inflammatory re- support, extracorporeal membrane oxygenation.65,66,72 Whereas
+sponses in the lungs. Human alveolar macrophages and murine the e-cigarette or vaping product use-associated lung injury
+bone marrowederived macrophages exposed to e-cigarette epidemicisadiseaseofTHCvapers(caseshavecontinuedtobe
+aerosols have decreased phagocytosis and efferocytosis.33,53 Hu- identifiedinto2022),thisepidemicbroughttolightthedangers
+manmacrophagesdifferentiatedfromthemonocyticTHP-1cell ofinhalingchemicalsthathaveneverbeenassessedforpotential
+line exposed to multiple common components of e-liquids pulmonary(andwhole-body)toxicity.Ittookover60deathsand
+(nicotine, propylene glycol, glycerol, and numerous flavorants) thousands of vapers falling ill before vitamin E acetate was
+showdiminishedphagocytosisofbacteriaafternicotineorflavor identified as the causal agent, which was being added to THC
+exposure, and diminished inflammatory cytokine secretion after containing e-liquids by retailers. Of note, vitamin E does not
+exposure to any e-liquid component, including flavors.54 Neu- sounddangerous,andliquidformulationsarewidelyavailablein
+trophils from the circulation of e-cigarette aerosols as well as stores and online. Many people ingest it or apply it topically,
+those exposed to e-cigarette aerosol extracts were found to have becauseitisgenerallyconsideredsafeforconsumeruse.Thus,it
+altered neutrophil extracellular trap formation and diminished cameasasurprisetomanytofindthatitwashighlytoxictolung
+antimicrobialfunction.55Epithelialcells,whichthemselveshave cellswheninhaled.Becausetherehasbeennoregulationofwhat
+multipleantimicrobialandinflammatoryfunctions,demonstrate chemicals can and cannot be added to nicotine or THC e-liq-
+increasedpermeabilityanddiminishedsignalingforhelpaftere- uids, it may be only a matter of time until the next lung injury
+cigarette exposure.56 This combination of functional and epidemic owing to vaping devices occurs.JALLERGYCLINIMMUNOLPRACT GIOVACCHINIETAL 2847
+VOLUME10,NUMBER11
+Secondhand vapor exposure product is conventional tobacco; less than 1% of young e-ciga-
+One area in which the theoretical potential for rette users in that study became established traditional cigarette
+e-cigaretteerelated harm reduction has been proposed is in smokers. Similarly, using data from the first three annual waves
+secondhandsmoke (SHS)exposures. Itiswell-documented that ofthenationallyrepresentative sampleofbaseline tobacco-naive
+secondhand smoke exposure leads to suppressed lung develop- youths enrolled in the PATH study, Xu et al79 found that the
+mentinchildrenandincreaseddevelopmentofobstructivelung riskforpast30-daycombustiblecigaretteusewascomparatively
+disease, and promotes the development of lung cancer in sevenfold lower when youths started with an e-cigarette
+otherwise nonsmokers. Because e-cigarettes have been touted as compared with a combustible cigarette. One hypothesis as to
+healthierandsaferthanconventionaltobacco,andbecauseofthe why using e-cigarettes first may lead to these youths and young
+less averse smell and look of e-cigarette aerosols compared with adults sticking with e-cigarettes alone comes from Jankowski
+conventional tobacco smoke, many parents who switched to et al,25 who found that nicotine dependence was two times
+e-cigarettesbeganvapingintheirhomesandcarsinthepresence greater in young (mean age, 22.4 years) e-cigarette users versus
+of their children. This has led to high secondhand e-cigarette conventional cigarette smokers(meanage,3.54vs1.64years; P
+aerosol exposures in those who live with e-cigarette users. <.001).However,unlikeinthestudybyShahabetal,Xuetal
+However, we now have data demonstrating that lung diseases importantlynotedthatamongtobacco-naiveyouthinthePATH
+and respiratory symptoms are occurring as the result of second- study,theinitiationofe-cigaretteusewasassociatedwithgreater
+hande-cigaretteaerosolexposure.73Galiatsatosetal74identified risk for subsequent initiation of combustible cigarette smoking
+acaseofhypersensitivitypneumonitisresultingfromsecondhand (OR ¼ 3.42; 95% CI, 9.68-68.72) as well as past 30-day
+e-cigarette aerosol exposure, whereas Alnajem et al73 showed an combustible cigarette use (OR ¼ 2.88; 95% CI, 1.22-6.86).
+increase in wheeze and asthma. Accordingly, secondhand However, this risk was higher when youths started with a
+e-cigarette exposure may not be as innocuous as previously combustible cigarette.79
+considered, and further studies are needed to explore the po-
+tential future implications of e-cigarette use on lung health. Transition to traditional cigarette use
+Unfortunately, numerous other prospective, longitudinal
+studies have demonstrated the strong association between the
+ELECTRONIC CIAGARETTE USE AMONG onset of youths’ e-cigarette use and subsequent traditional ciga-
+ADOLESCENTS AND YOUNG ADULTS rette smoking.80-84 For example, in their longitudinal survey of
+Thepastdecadehasseenasharpriseintheuseofe-cigarettes high school students in southern California, Leventhal et al80
+and vaping devices globally among youth and young adults. found that even when adjusted for various sociodemographic,
+E-cigaretteshavebecomefirmlyestablishedasthemostcommonly
+environmental, and intrapersonal factors including risk behav-
+used tobacco product among youth in the United States since iors, baseline e-cigarette use was associated with a significant
+2014.75,76 In 2020, nearly one in five high school students increaseintheoddsoftraditionalcigarettesmokinginthesimilar
+(19.6%) reported currently using e-cigarettes.75,77 The ongoing range of 1.75 to 2.96 (OR), depending on the outcome.
+adoption of e-cigarettes among America’s youth has garnered Furthermore,inameta-analysisofnineUS-basedstudies,Soneji
+significantrecentattention frompublichealthadvocates,because et al82 reported a concordant pooled OR for subsequent tradi-
+theiruptakehasdampenedeffortstocombattobaccoproductuse tional cigarette smoking of 3.62 (95% CI, 2.42-5.41) for ever
+among adolescents. E-cigarette popularity is to blame for the versus never e-cigarette users, after adjusting for known de-
+concerning plateau in the use of tobacco products among high mographic, psychosocial, and behavioral risk factors for tradi-
+school students. More than one in four high school students tionalcigarettesmoking,withanevenhigherrelativeORof4.28
+(26.3%)continue to report currentuse oftobacco products.75,77 (95%CI,2.52-7.27)amongyouthswhoreportede-cigaretteuse
+in the past 30 days.
+Potential for relative harm reduction in youth
+tobacco product use Addictive potential and evolving e-cigarette
+Some authors have proposed that this shift to using e-ciga- technology
+rettes among youths is a positive trend, arguing that this may One recently published study comparatively evaluating data
+represent a relative reduction in harm compared with the sig- from the more recent PATH study waves 4 to 4.5 (years 2016-
+nificant short- and long-term risks of traditional tobacco smok- 2018) and 4.5 to 5 (years 2017-2019) shows that whereas this
+ing.Forexample,intheircross-sectionalmatchedcontrolstudy, strong association between ever e-cigarette use and subsequent
+Shahab et al78 used behavioral controls and propensity score transitiontocombustiblecigarettesmokingheldinwaves1to3,
+matching within data between the 2014 and 2017 National an attenuation of the significance of this transition occurs in
+Youth Tobacco Surveys to compare cigarette smoking rates of waves4to4.5(adjustedOR[aOR]¼1.40;95%CI,0.91-2.14)
+adolescentswhofirsttriede-cigarettescomparedwiththosewho and in waves 4.5 to 5 (aOR ¼ 1.35; 95% CI, 0.84-2.16),85
+first tried cigarettes or more traditional tobacco products. They despite the relatively high ongoing use of e-cigarettes as the
+foundthatcomparedwithadolescentswhohadtriedatraditional current tobacco product of choice among youths in the United
+cigaretteastheirfirsttobaccoinitiationproduct,adolescentswho States.77Onetheoryforthisisthatnewer-generatione-cigarettes
+had used an e-cigarette first were less likely to be both past andENDSforvapingaremoreefficientatnicotinedeliveryand
+30-daycigarettesmokers(OR¼0.15;95%CI,0.12-0.18)and maybesupplantingtheneedfortraditionalcombustiblecigarette
+establishedcigarettesmokers(OR¼0.04;95%CI,0.03-0.07). use to obtain a greater high once dependence has occurred.86,87
+This suggests that youths who try e-cigarettes as their first to- Historically traditional combustible cigarettes have allowed for
+bacco product may be less likely to transition to traditional to- thefastestandmostefficientdeliveryofnicotineamongthearray
+baccoproductsinthefuturerelativetothosewhosefirsttobacco of available tobacco products,79,86,88 reinforcing their status as2848 GIOVACCHINIETAL JALLERGYCLINIMMUNOLPRACT
+NOVEMBER2022
+some of the most addictive products sold on commercial mar- thepossiblecontributionofhigherpeaklevelnicotineexposures,
+kets.However,themorerecentadventofcustomizablePodMod addiction rates, and withdrawal symptoms from the popular
+devicescoupledwithinnovationsinnicotinechemistryallowfor newer-generation nicotinic salt formulation e-cigarette and
+the use of less caustic protonated nicotine formulations derived ENDS as a likely contributor to their findings. Concordantly,
+from the nicotine salts in loose-leaf tobacco as well as perhaps Zhang et al103 found that among youths currently using e-cig-
+even more appealing, completely synthetic nicotine salts. Thus, arettes, 63.9% reported the desire to attempt to quit e-cigarette
+newer-generatione-cigarettesandENDSarenowabletodeliver use, and that those reporting current nicotine dependency
+muchhighernicotineconcentrationsthancombustiblecigarettes symptoms were more concerned about the e-cigarette use and
+without the traditional acerbic taste and inhalational effects more likely to have made a past-year attempt to quit (adjusted
+commonly associated with combustible cigarettes.86,87,89-92 prevalence ratio ¼ 1.17; 95% CI, 1.06-1.29). This underscores
+These devices have additional appeal among youths because the need for a comprehensive approach to tobacco prevention
+theyoftenhavesleek,easilyconcealeddesignsresemblingpensor and control among this new generation of youths for whom
+USBdevicesorareevenmadetoresemblesmartphones,gaming nicotinedependenceisdevelopingthrougheventhesoleuseofe-
+devices, and popular cartoon characters.86,87,93 Furthermore, cigarettes as the only tobacco product.
+newer-generation salt-based nicotine e-liquids are available in a
+hostofattractivefruity,minty,andcandy-basedflavorsthathold Regulation efforts and youths’ access to
+e-cigarettes
+appeal for youthful users, which can further mask subjective
+caustic initial effects of higher-dose nicotine inhalation,86,87,94 Taken together, it is unsurprising that the evolving body of
+are associated with an increased odds of adolescent vaping literature on the use of e-cigarettes among youths has caused a
+continuation (aOR ¼ 3.76; 95% CI, 1.20-10.31) and a higher significantamountofconsternationamongthoseconcernedwith
+level of nicotine-containing puffs taken on each vaping event thehealthandwell-beingofadolescentsandyoungadults.Calls
+(mean, 3.1 (cid:2) 5.5 vs 1.5 (cid:2) 3.8), compared with the use of have arisen for stronger regulatory actions in the e-cigarette and
+unflavored tobacco or menthol flavors among youths who use ENDS device markets.75,77,86,87,104-106 In recent years, these
+e-cigarettes.94 Data from the most recent 2021 NYTS revealed calls have led to efforts at the federal level by the FDA to limit
+that among youths currently using e-cigarettes, the most the sales of e-cigarettes to America’s youth by increasing the
+commonly used device type was disposables. Both high school federal minimum legal sales age for all tobacco products
+and middle school students reported that their usual brand of including e-cigarettes from 18 to 21 years across the United
+choice was Puff Bar (Puff Bar, Wilmington, DE; 26.1% and States.104,107 The FDA also put forth a prioritized effort to
+30.3%, respectively),75 a nicotinic saltebased product with fla- regulate flavored, prefilled cartridge-based e-cigarettes as of
+vors such as Guava Ice and Strawberry Banana. In fact, likely 2020.75,108 Perhaps owing to these efforts, data from the Na-
+owingtothiscombinationofreducedacridity,potentiallyhigher tional Youth Tobacco Surveys demonstrated that current use of
+nicotinecontent,andwidelyavailablerangeofflavors,allofthe e-cigarettes declined for the first time in recent years between
+most recently reported top brands of choice favored among 2019and2020amongbothhighschool(27.5%to19.6%)and
+youths currently using e-cigarettes including Puff Bar, VUSE middle school students (10.5% to 4.7%).77
+(R.J. Reynolds Vapor Company, Winston-Salem, NC), SMOK However, loopholes still exist in the ongoing development of
+(Shenzhen IVPS Technology CO., Shenzhen, China), and flavored products and persistent pervasive marketing targeted at
+JUUL (Altria Group, Richmond, VA),75 offer nicotine underaged e-cigarette users. Approximately 68% of US middle
+saltebasedproductsastop-sellingproductswithincreasinggains and high school students reported ongoing exposure to e-ciga-
+in sales market share.95 retteadvertisementsfrombothphysicalretailstoresandInternet-
+The use of these newer, rapidly absorbed, salt-based nicotine based sources in 2020.109 Furthermore, a recent survey among
+products and subsequent regular high-level exposure tonicotine youthsandyoungadultsinCaliforniarevealedthatdespitebeing
+among youths creates additional concern for public health offi- underthelegalageof21requiredforvapingdevicepurchasesin
+cials because it is well-known that the developing adolescent that state, most users (59.9%) reported being able to purchase
+brain is particularly susceptible to the effects of nicotine, which theirowndevicesbothinpersonatvapeshopsandfromonline
+has been shown to influence long-term molecular, biochemical, retailers.92Ongoingfederal,state,andlocaleffortstopreventand
+and functional changes that increase the risk for future subse- reduce youth tobacco product use, including the use of e-ciga-
+quent addictive behaviors, risk taking, and substance depen- rettes, will be imperative as the landscape of youth e-cigarette
+dence.89,96,97 Moreover, numerous studies have demonstrated exposure continues to evolve.
+the association between e-cigarette use among youths and other
+risk-takingbehaviorsincludingtheuseofalcoholandprogression CONCLUSION
+to other regular substance use including inhalational Although e-cigarettes are a relatively new addition to the to-
+cannabis.89,96-99 Furthermore, youths’ exposure to nicotine via bacco product market, their recent uptake among consumers,
+e-cigarettesisassociatedwithincreasedriskformood,attention, particularlyamongyouthsandyoungadults,warrantssignificant
+and sleep disorders.86,91,97,100-102 Perhaps most concerningly, attention given the potential implications for both individual-
+Kim et al101 found that after adjusting for a variety of socio- level and population-based health outcomes. Currently, the
+economic demographics, risk-taking behaviors, and reported negativeeffectsofe-cigaretteuseseemtooutweighanypotential
+stress levels, both male and female adolescents who used e-cig- benefit,because the available evidence doesnot confirm the use
+arettes had significantly higher rates of suicidal ideation, suicide of e-cigarettes as an effective strategy for supporting traditional
+planning, and actual suicide attempts than either traditional combustible tobacco cigarette smoking cessation, particularly
+combustible cigarette users or never-smokers. The authors cited owing to the emerging adverse effects on lung health andJALLERGYCLINIMMUNOLPRACT GIOVACCHINIETAL 2849
+VOLUME10,NUMBER11
+potential future public health effects of e-cigarette adoption 25. JankowskiM,KrzystanekM,ZejdaJE,MajekP,LubanskiJ,LawsonJA,etal.
+among a burgeoning new generation of tobacco product users. E-cigarettes are more addictive than traditional cigarettes-a study in highly
+educatedyoungpeople.IntJEnvironResPublicHealth2019;16:2279.
+26. EverardCD,SilveiraML,KimmelHL,MarshallD,BlancoC,ComptonWM.
+REFERENCES
+Associationofelectronicnicotinedeliverysystemusewithcigarettesmoking
+1. Caponnetto P, Russo C, Bruno CM, Alamo A, Amaradio MD, Polosa R.
+relapseamongformersmokersintheUnitedStates.JAMANetwOpen2020;
+Electroniccigarette:apossiblesubstituteforcigarettedependence.Monaldi
+3:e204813.
+ArchChestDis2013;79:12-9.
+27. McMillenR,KleinJD,WilsonK,WinickoffJP,TanskiS.E-cigaretteuseand
+2. WeaverM,BrelandA,SpindleT,EissenbergT.Electroniccigarettes:areview
+future cigarette initiation among never smokers and relapse among former
+ofsafetyandclinicalissues.JAddictMed2014;8:234-40.
+smokersinthePATHstudy.PublicHealthRep2019;134:528-36.
+3. GilbertAH,inventor.SmokelessNon-TobaccoCigarette.AccessedAugust9,
+28. BeardE,BrownJ,MichieS,WestR.Isprevalenceofe-cigaretteandnicotine
+2022.https://patents.google.com/patent/US3200819A/en
+replacement therapy use among smokers associated with average cigarette
+4. Centers for Disease Control and Prevention. Introduction, conclusions, and
+consumptioninEngland?Atime-seriesanalysis.BMJOpen2018;8:e016046.
+historicalbackgroundrelativetoe-cigarettes. AccessedJune27,2022.https://
+29. YuV,RahimyM,KorrapatiA,XuanY,ZouAE,KrishnanAR,etal.Elec-
+www.cdc.gov/tobacco/data_statistics/sgr/e-cigarettes/pdfs/2016_SGR_Chap_
+troniccigarettesinduceDNAstrandbreaksandcelldeathindependentlyof
+1_508.pdf
+nicotineincelllines.OralOncol2016;52:58-65.
+5. ChenJC,DasB,MeadEL,BorzekowskiDLG.Flavorede-cigaretteuseand
+30. AndersonC,MajesteA,HanusJ,WangS.E-cigaretteaerosolexposurein-
+cigarettesmokingsusceptibilityamongyouth.TobRegulSci2017;3:68-80.
+duces reactive oxygen species, DNA damage, and cell death in vascular
+6. ZhuSH,SunJY,BonnevieE,CumminsSE, GamstA,Yin L,etal.Four
+endothelialcells.ToxicolSci2016;154:332-40.
+hundredandsixtybrandsofe-cigarettesandcounting:implicationsforproduct
+31. Lee HW, Park SH, Weng MW, Wang HT, Huang WC, Lepor H, et al.
+regulation.TobControl2014;23(suppl3):iii3-9.
+E-cigarettesmokedamagesDNAandreducesrepairactivityinmouselung,
+7. BenowitzNL,Goniewicz ML.Theregulatory challenge ofelectronic ciga-
+heart,andbladderaswellasinhumanlungandbladdercells.ProcNatlAcad
+rettes.JAMA2013;310:685-6.
+SciUSA2018;115:E1560-9.
+8. CampusB,FafardP,StPierreJ,HoffmanSJ.Comparingtheregulationand
+32. HamadSH,BrinkmanMC,TsaiYH,MelloukN,CrossK,JaspersI,etal.Pilot
+incentivization of e-cigarettes across 97 countries. Soc Sci Med 2021;291:
+studytodetectgenesinvolvedinDNAdamageandcancerinhumans:po-
+114187.
+tentialbiomarkersofexposuretoe-cigaretteaerosols.Genes(Basel)2021;12:
+9. CollinsL,GlasserAM,AbudayyehH,PearsonJL,VillantiAC.E-cigarette
+448.
+marketingandcommunication:howe-cigarettecompaniesmarkete-cigarettes
+33. WeenMP,MoshenskyA,ThredgoldLL,BastianNA,HamonR,BadieiA,
+andthepublicengageswithe-cigaretteinformation.NicotineTobRes2019; etal.E-cigarettesandhealthrisks:moretotheflavourthanjustthename.AmJ
+21:14-24.
+PhysiolLungCellMolPhysiol2021;320:L600-14.
+10. Patil S, Arakeri G, Patil S, Ali Baeshen H, Raj T, Sarode SC, et al. Are
+34. Williams M, Villarreal A, BozhilovK, Lin S, Talbot P. Metal and silicate
+electronicnicotinedeliverysystems(ENDs)helpingcigarettesmokersquit?-
+particlesincludingnanoparticlesarepresentinelectroniccigarettecartomizer
+Currentevidence.JOralPatholMed2020;49:181-9. fluidandaerosol.PLoSOne2013;8:e57987.
+11. Flacco ME, Fiore M, Acuti Martellucci C, Ferrante M, Gualano MR,
+35. HwangJH,LyesM,SladewskiK,EnanyS,McEachernE,MathewDP,etal.
+LiguoriG,etal.Tobaccovs.electroniccigarettes:absenceofharmreduction
+Electronic cigarette inhalation alters innate immunity and airway cytokines
+aftersixyearsoffollow-up.EurRevMedPharmacolSci2020;24:3923-34.
+whileincreasingthevirulenceofcolonizingbacteria.JMolMed(Berl)2016;
+12. FarsalinosKE,KistlerKA,GillmanG,VoudrisV.Evaluationofelectronic
+94:667-79.
+cigarette liquids and aerosol for the presence of selected inhalation toxins.
+36. SancilioS,GalloriniM,CataldiA,diGiacomoV.Cytotoxicityandapoptosis
+NicotineTobRes2015;17:168-74. inductionbye-cigarettefluidsinhumangingivalfibroblasts.ClinOralInvestig
+13. Farsalinos KE, Voudris V, Poulas K. Are metals emitted from electronic
+2016;20:477-83.
+cigarettesareasonforhealthconcern?Arisk-assessmentanalysisofcurrently
+37. TangMS,WuXR,LeeHW,XiaY,DengFM,MoreiraAL,etal.Electronic-
+availableliterature.IntJEnvironResPublicHealth2015;12:5215-32.
+cigarettesmokeinduceslungadenocarcinomaandbladderurothelialhyper-
+14. WangRJ,BhadrirajuS,GlantzSA.E-cigaretteuseandadultcigarettesmoking
+plasiainmice.ProcNatlAcadSciUSA2019;116:21727-31.
+cessation:ameta-analysis.AmJPublicHealth2021;111:230-46.
+38. SzafranBN,PinkstonR,PerveenZ,RossMK,MorganT,PaulsenDB,etal.
+15. Lorkiewicz P, Riggs DW, Keith RJ, Conklin DJ, Xie Z, Sutaria S, et al. Electronic-cigarettevehiclesandflavoringaffectlungfunctionandimmune
+Comparison of urinary biomarkers of exposure in humans using electronic
+responsesinamurinemodel.IntJMolSci2020;21:6022.
+cigarettes,combustiblecigarettes,andsmokelesstobacco.NicotineTobRes
+39. GlynosC,BibliSI,KatsaounouP,PavlidouA,MagkouC,KaravanaV,etal.
+2019;21:1228-38.
+Comparisonoftheeffectsofe-cigarettevaporwithcigarettesmokeonlung
+16. GoniewiczML,KnysakJ,GawronM,KosmiderL,SobczakA,KurekJ,etal. functionandinflammationinmice.AmJPhysiolLungCellMolPhysiol2018;
+Levelsofselectedcarcinogensandtoxicantsinvapourfromelectronicciga-
+315:L662-72.
+rettes.TobControl2014;23:133-9.
+40. Tackett AP, Keller-Hamilton B, Smith CE, Hebert ET, Metcalf JP,
+17. GoniewiczML,KumaT,GawronM,KnysakJ,KosmiderL.Nicotinelevelsin
+QueimadoL,etal.Evaluationofrespiratorysymptomsamongyouthe-ciga-
+electroniccigarettes.NicotineTobRes2013;15:158-66.
+retteusers.JAMANetwOpen2020;3:e2020671.
+18. DaiH,BenowitzNL,AchutanC,FaraziPA,DegaregeA,KhanAS.Exposure
+41. Lee WK, Smith CL, Gao CX, Borg BM, Nilsen K, Brown D, et al. Are
+totoxicantsassociatedwithuseandtransitionsbetweencigarettes,e-cigarettes,
+e-cigaretteuseandvapingassociatedwithincreasedrespiratorysymptomsand
+andnotobacco.JAMANetwOpen2022;5:e2147891. poorerlungfunctioninapopulationexposedtosmokefromacoalminefire?
+19. BakerTB,PiperME,SteinJH,SmithSS,BoltDM,FraserDL,etal.Effectsof
+Respirology2021;26:974-81.
+nicotinepatchvsvareniclinevscombinationnicotinereplacementtherapyon 42. LiD,SundarIK,McIntoshS,OssipDJ,GoniewiczML,O’ConnorRJ,etal.
+smokingcessationat26weeks:arandomizedclinicaltrial.JAMA2016;315:
+Associationofsmokingandelectroniccigaretteusewithwheezingandrelated
+371-9.
+respiratory symptoms in adults: cross-sectional results from the Population
+20. RosenLJ,GaliliT,KottJ,GoodmanM,FreedmanLS.Diminishingbenefitof
+AssessmentofTobaccoandHealth(PATH)study,wave2.TobControl2020;
+smokingcessationmedicationsduringthefirstyear:ameta-analysisofran-
+29:140-7.
+domizedcontrolledtrials.Addiction2018;113:805-16.
+43. LiD, XieZ.Cross-sectionalassociation oflifetime electroniccigaretteuse
+21. RigottiNA,KruseGR,Livingstone-BanksJ,Hartmann-BoyceJ.Treatmentof
+withwheezingandrelatedrespiratorysymptomsinU.S.adults.NicotineTob
+tobaccosmoking:areview.JAMA2022;327:566-77.
+Res2020;22(suppl1):S85-92.
+22. WalkerN,ParagV,VerbiestM,LakingG,LaugesenM,BullenC.Nicotine
+44. McFadden DD, Bornstein SL, Vassallo R, Salonen BR, Bhuiyan MN,
+patchesusedincombinationwithe-cigarettes(withandwithoutnicotine)for
+Schroeder DR, et al. Symptoms COVID 19 positive vapers compared to
+smokingcessation:apragmatic,randomisedtrial.LancetRespirMed2020;8:
+COVID 19 positive non-vapers. J Prim Care Community Health 2022;13:
+54-64.
+21501319211062672.
+23. HajekP,Phillips-WallerA,PrzuljD,PesolaF,MyersSmithK,BisalN,etal.
+45. GaihaSM,ChengJ,Halpern-FelsherB.Associationbetweenyouthsmoking,
+Arandomizedtrialofe-cigarettesversusnicotine-replacementtherapy.NEngl
+electroniccigaretteuse,andCOVID-19.JAdolescHealth2020;67:519-23.
+JMed2019;380:629-37.
+46. AxelssonGT,EythorssonES,HardardottirH,GudmundssonG,HansdottirS.
+24. MushtaqN,BeebeLA.PsychometricpropertiesofFagerstromtestfornicotine
+Theimpactoflungdiseases,smokingande-cigaretteuseontheseverityof
+dependenceforsmokelesstobaccousers(FTND-ST).NicotineTobRes2017;
+COVID-19illnessatdiagnosis[inIcelandic].Laeknabladid2020;106:574-9.
+19:1095-101.2850 GIOVACCHINIETAL JALLERGYCLINIMMUNOLPRACT
+NOVEMBER2022
+47. GaoM,AveyardP,LindsonN,Hartmann-BoyceJ,WatkinsonP,YoungD, 71. Crotty Alexander LE, Ware LB, Calfee CS, Callahan SJ, Eissenberg T,
+etal.Associationbetweensmoking,e-cigaretteuseandsevereCOVID-19:a Farver C, et al. NIH Workshop Report: e-cigarette or vaping product use
+cohortstudy.IntJEpidemiol.PublishedonlineFebruary18,2022.https://doi. associatedlunginjury(EVALI):developingaresearchagenda.AmJRespir
+org/10.1093/ije/dyac028. CritCareMed2020;202:795-802.
+48. Masso-Silva JA, Moshensky A, Shin J, Olay J, Nilaad S, Advani I, et al. 72. Odish MF, Bellinghausen A, Golts E, Owens RL. E-cigarette, or vaping,
+Chronice-cigaretteaerosolinhalationalterstheimmunestateofthelungsand productuse-associatedlunginjury(EVALI)treatedwithveno-venousextra-
+increasesACE2expression,raisingconcernforalteredresponseandsuscep- corporealmembraneoxygenation(VV-ECMO)andultra-protectiveventilator
+tibilitytoSARS-CoV-2.FrontPhysiol2021;12:649604. settings.BMJCaseRep2020;13:e234771.
+49. McAlinden KD, Lu W, Ferdowsi PV, Myers S, Markos J, Larby J, et al. 73. AlnajemA,RedhaA,AlroumiD,AlshammasiA,AliM,AlhussainiM,etal.
+Electronic cigarette aerosol is cytotoxic and increases ACE2 expression on Use of electronic cigarettes and secondhand exposure to their aerosols are
+human airway epithelial cells: implications for SARS-CoV-2 (COVID-19). associatedwithasthmasymptomsamongadolescents:across-sectionalstudy.
+JClinMed2021;10:1028. RespirRes2020;21:300.
+50. LallaiV,MancaL,FowlerCD.E-cigarettevapeandlungACE2expression: 74. GaliatsatosP,GomezE,LinCT,IlleiPB,ShahP,NeptuneE.Secondhand
+implicationsforcoronavirusvulnerability.EnvironToxicolPharmacol2021; smokefromelectroniccigaretteresultinginhypersensitivitypneumonitis.BMJ
+86:103656. CaseRep2020;13:e233381.
+51. Madison MC, Landers CT, Gu BH, Chang CY, Tung HY, You R, et al. 75. Park-LeeE,RenC,SawdeyMD,GentzkeAS,CorneliusM,JamalA,etal.
+Electroniccigarettesdisruptlunglipidhomeostasisandinnateimmunityin- Notesfromthefield:e-cigaretteuseamongmiddleandhighschoolstudents-
+dependentofnicotine.JClinInvest2019;129:4290-304. NationalYouthTobaccoSurvey,UnitedStates,2021.MMWRMorbMortal
+52. SivaramanV,ParkerD,ZhangR,JonesMM,OnyenwokeRU.Vapingex- WklyRep2021;70:1387-9.
+acerbatescoronavirus-relatedpulmonaryinfectioninamurinemodel.Front 76. ArrazolaRA,SinghT,CoreyCG,HustenCG,NeffLJ,ApelbergBJ,etal.
+Physiol2021;12:634839. Tobaccouseamongmiddleandhighschoolstudents-UnitedStates,2011-
+53. SerpaGL,RentonND,LeeN,CraneMJ,JamiesonAM.Electronicnicotine 2014.MMWRMorbMortalWklyRep2015;64:381-5.
+deliverysystemaerosol-induced celldeathanddysfunctioninmacrophages 77. GentzkeAS,WangTW,JamalA,Park-LeeE,RenC,CullenKA,etal.To-
+andlungepithelialcells.AmJRespirCellMolBiol2020;63:306-16. baccoproductuseamongmiddleandhighschoolstudents-UnitedStates,
+54. WeenMP,WhittallJJ,HamonR,ReynoldsPN,HodgeSJ.Phagocytosisand 2020.MMWRMorbMortalWklyRep2020;69:1881-8.
+inflammation:exploringtheeffectsofthecomponentsofE-cigarettevaporon 78. ShahabL,BeardE,BrownJ.Associationofinitiale-cigaretteandotherto-
+macrophages.PhysiolRep2017;5:e13370. baccoproductusewithsubsequentcigarettesmokinginadolescents:across-
+55. CorridenR,MoshenskyA,BojanowskiCM,MeierA,ChienJ,NelsonRK, sectional,matchedcontrolstudy.TobControl2021;30:212-20.
+etal.E-cigaretteuseincreasessusceptibilitytobacterialinfectionbyimpair- 79. XuS,CoffmanDL,LiuB,XuY,HeJ,NiauraRS.Relationshipsbetween
+mentofhumanneutrophilchemotaxis,phagocytosis,andNETformation.Am E-cigaretteuseandsubsequentcigaretteinitiationamongadolescentsinthe
+JPhysiolCellPhysiol2020;318:C205-14. PATHstudy:anentropybalancingpropensityscoreanalysis.PrevSci2022;
+56. Crotty Alexander LE, Drummond CA, Hepokoski M, Mathew D, 23:608-17.
+Moshensky A, Willeford A, et al. Chronic inhalation of e-cigarette vapor 80. LeventhalAM,StrongDR,KirkpatrickMG,UngerJB,SussmanS,RiggsNR,
+containing nicotine disrupts airway barrier function and induces systemic et al. Association of electronic cigarette use with initiation of combustible
+inflammation and multiorgan fibrosis in mice. Am J Physiol Regul Integr tobaccoproductsmokinginearlyadolescence.JAMA2015;314:700-7.
+CompPhysiol2018;314:R834-47. 81. PrimackBA,SonejiS,StoolmillerM,FineMJ,SargentJD.Progressionto
+57. HaganC.Whenaremiceconsideredold?AccessedJune27,2022.https://www. traditionalcigarettesmokingafterelectroniccigaretteuseamongUSadoles-
+jax.org/news-and-insights/jax-blog/2017/november/when-are-mice-considered-old centsandyoungadults.JAMAPediatr2015;169:1018-23.
+58. Garcia-ArcosI,GeraghtyP,BaumlinN,CamposM,DaboAJ,JundiB,etal. 82. Soneji S, Barrington-Trimis JL, Wills TA, Leventhal AM, Unger JB,
+ChronicelectroniccigaretteexposureinmiceinducesfeaturesofCOPDina GibsonLA,etal.Associationbetweeninitialuseofe-cigarettesandsubse-
+nicotine-dependentmanner.Thorax2016;71:1119-29. quent cigarette smokingamongadolescentsand youngadults:asystematic
+59. ReinikovaiteV,RodriguezIE,KaroorV,RauA,TrinhBB,DeleyiannisFW, reviewandmeta-analysis.JAMAPediatr2017;171:788-97.
+etal.Theeffectsofelectroniccigarettevapouronthelung:directcomparison 83. Barrington-TrimisJL,KongG,LeventhalAM,LiuF,MayerM,CruzTB,
+totobaccosmoke.EurRespirJ2018;51:1701661. etal.E-cigaretteuseandsubsequentsmokingfrequencyamongadolescents.
+60. Han H, Peng G, Meister M, Yao H, Yang JJ, Zou MH, et al. Electronic Pediatrics2018;142:e20180486.
+cigarette exposure enhances lung inflammatory and fibrotic responses in 84. Barrington-Trimis JL, Urman R, Berhane K, Unger JB, Cruz TB,
+COPDmice.FrontPharmacol2021;12:726586. PentzMA,etal.E-cigarettesandfuturecigaretteuse.Pediatrics2016;138:
+61. Alanazi H, Semlali A, Chmielewski W, Rouabhia M. E-cigarettes increase e20160379.
+Candidaalbicansgrowthandmodulateitsinteractionwithgingivalepithelial 85. SunR,MendezD,WarnerKE.Isadolescente-cigaretteuseassociatedwith
+cells.IntJEnvironResPublicHealth2019;16:294. subsequentsmoking?Anewlook.NicotineTobRes2022;24:710-8.
+62. MoshenskyA,BrandCS,AlhaddadH,ShinJ,Masso-SilvaJA,AdvaniI,etal. 86. Barrington-TrimisJL,LeventhalAM.Adolescents’useof"PodMod"e-cig-
+Effectsofmangoandmintpod-basede-cigaretteaerosolinhalationoninflam- arettes-urgentconcerns.NEnglJMed2018;379:1099-102.
+matorystatesofthebrain,lung,heart,andcoloninmice.Elife2022;11:e67621. 87. KongG,ChaffeeBW,WuR,Krishnan-SarinS,LiuF,LeventhalAM,etal.
+63. Chaaban T. Acute eosinophilic pneumonia associated with non-cigarette E-cigarettedevicetypeandcombustibletobaccouse:resultsfromapooled
+smokingproducts:asystematicreview.AdvRespirMed2020;88:142-6. analysisof10,482youth.DrugAlcoholDepend2022;232:109279.
+64. Sommerfeld CG, Weiner DJ, Nowalk A, Larkin A. Hypersensitivity pneu- 88. HoggRC.Contributionofmonoamineoxidaseinhibitiontotobaccodepen-
+monitisandacuterespiratorydistresssyndromefrome-cigaretteuse.Pediatrics dence:areviewoftheevidence.NicotineTobRes2016;18:509-23.
+2018;141:e20163927. 89. Goldenson NI, Leventhal AM, Stone MD, McConnell RS, Barrington-
+65. NairN,HurleyM,GatesS,DaviesP,ChenIL,ToddI,etal.Life-threatening Trimis JL. Associations of electronic cigarette nicotine concentration with
+hypersensitivitypneumonitissecondarytoe-cigarettes.ArchDisChild2020; subsequentcigarettesmokingandvapinglevelsinadolescents.JAMAPediatr
+105:1114-6. 2017;171:1192-9.
+66. LandmanST,DhaliwalI,MackenzieCA,MartinuT,SteeleA,BosmaKJ. 90. GoniewiczML,BoykanR,MessinaCR,EliscuA,TolentinoJ.Highexposure
+Life-threateningbronchiolitisrelatedtoelectroniccigaretteuseinaCanadian to nicotine among adolescents who use Juul and other vape pod systems
+youth.CMAJ2019;191:E1321-31. (’pods’).TobControl2019;28:676-7.
+67. Khan MS, Khateeb F, Akhtar J, Khan Z, Lal A, Kholodovych V, et al. 91. FadusMC,SmithTT,SquegliaLM.Theriseofe-cigarettes,podmoddevices,
+Organizingpneumoniarelatedtoelectroniccigaretteuse:acasereportand and JUUL among youth: factors influencing use, health implications, and
+reviewofliterature.ClinRespirJ2018;12:1295-9. downstreameffects.DrugAlcoholDepend2019;201:85-93.
+68. EdmondsPJ,CopelandC,CongerA,RichmondBW.Vaping-induceddiffuse 92. Cwalina SN, BraymillerJL,Leventhal AM, Unger JB, McConnell R,Bar-
+alveolarhemorrhage.RespirMedCaseRep2020;29:100996. rington-TrimisJL.Prevalenceofyoungadultvaping,substancevaped,and
+69. AgustinM,YamamotoM,CabreraF,EusebioR.Diffusealveolarhemorrhage purchaselocationacrossfivecategoriesofvapingdevices.NicotineTobRes
+inducedbyvaping.CaseRepPulmonol2018;2018:9724530. 2021;23:829-35.
+70. HayesDJr,BoardA,CalfeeC,EllingtonS,PollackLA,KathuriaH,etal. 93. KongG,BoldKW,MoreanME,BhattiH,CamengaDR,JacksonA,etal.
+Pulmonaryandcriticalcareconsiderationsfore-cigarette,orvaping,product Appeal of JUUL among adolescents. Drug Alcohol Depend 2019;205:
+use-associatedlunginjury(EVALI).Chest2022;162:256-64. 107691.JALLERGYCLINIMMUNOLPRACT GIOVACCHINIETAL 2851
+VOLUME10,NUMBER11
+94. Leventhal AM, Goldenson NI, Cho J, Kirkpatrick MG, McConnell RS, 103. ZhangL,GentzkeA,TriversKF,VanFrankB.Tobaccocessationbehaviors
+StoneMD,etal.Flavorede-cigaretteuseandprogressionofvapinginado- amongU.S.middleandhighschoolstudents,2020.JAdolescHealth2022;70:
+lescents.Pediatrics2019;144:e20190789. 147-54.
+95. AliFRM,DiazMC,ValloneD,TynanMA,CordovaJ,SeamanEL,etal. 104. RappJL,AlpertN,WilsonKM,FloresRM,TaioliE.Changesine-cigarette
+E-cigaretteunitsales,byproductandflavortype-UnitedStates,2014-2020. perceptionsovertime:aNationalYouthTobaccoSurveyanalysis.AmJPrev
+MMWRMorbMortalWklyRep2020;69:1313-8. Med2021;61:174-81.
+96. RenM,LotfipourS.Nicotinegatewayeffectsonadolescentsubstanceuse. 105. Barrington-TrimisJL,BerhaneK,UngerJB,CruzTB,UrmanR,ChouCP,
+WestJEmergMed2019;20:696-709. etal.Thee-cigarettesocialenvironment,e-cigaretteuse,andsusceptibilityto
+97. Chadi N, Hadland SE, Harris SK. Understanding the implications of the cigarettesmoking.JAdolescHealth2016;59:75-80.
+"vaping epidemic" among adolescents and young adults: a call for action. 106. WangTW,NeffLJ,Park-LeeE,RenC,CullenKA,KingBA.E-cigaretteuse
+SubstAbus2019;40:7-10. amongmiddleandhighschoolstudents-UnitedStates,2020.MMWRMorb
+98. StaffJ,VuoloM,KellyBC,MaggsJL,SilvaCP.Electroniccigaretteusein MortalWklyRep2020;69:1310-2.
+adolescenceisassociatedwithlatercannabisuse.DrugAlcoholDepend2022; 107. CentersforDiseaseControlandPrevention.STATESystemE-CigaretteFact
+232:109302. Sheet. AccessedJune27,2022.https://www.cdc.gov/statesystem/factsheets/
+99. GiovacchiniCX,PacekL,McClernonFJ,QueLG.Useandperceivedriskof ecigarette/ECigarette.html#:w:text¼A%20federal%20law%20enacted%20on,21%
+electroniccigarettesamongNorthCarolinamiddleandhighschoolstudents. 20across%20the%20United%20States
+NCMedJ2017;78:7-13. 108. US Food and Drug Administration. FDA finalizes enforcement policy on
+100. LivingstonJA,ChenCH,KwonM,ParkE.Physicalandmentalhealthout- unauthorized flavored cartridge-based e-cigarettes that appeal to children,
+comesassociatedwithadolescentE-cigaretteuse.JPediatrNurs2022;64:1-17. includingfruitandmint. AccessedJune27,2022.https://www.fda.gov/news-
+101. KimSH,JeongSH,ParkEC,JangSI.Associationofcigarettetypeinitially events/press-announcements/fda-finalizes-enforcement-policy-unauthorized-flavored-cartridge-
+smoked with suicidal behaviors among adolescents in Korea from 2015 to based-e-cigarettes-appeal-children
+2018.JAMANetwOpen2021;4:e218803. 109. LiX,KaiserN,BorodovskyJT,RiordanR,KassonE,CaoC,etal.National
+102. RiehmKE,Rojo-WissarDM,FederKA,MojtabaiR,SpiraAP,ThrulJ,etal. trendsofadolescentexposuretotobaccoadvertisements:2012-2020.Pediat-
+E-cigaretteuseandsleep-relatedcomplaintsamongyouth.JAdolesc2019;76:48-54. rics2021;148:e2021050495.

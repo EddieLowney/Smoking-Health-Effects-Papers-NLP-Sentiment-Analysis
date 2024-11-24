@@ -1,0 +1,1206 @@
+524430
+research-article2014 TAW0010.1177/2042098614524430Therapeutic Advances in Drug SafetyKE Farsalinos and R Polosa
+Therapeutic Advances in Drug Safety Review
+Safety evaluation and risk assessment of Ther Adv Drug Saf
+2014, Vol. 5(2) 67 –86
+electronic cigarettes as tobacco cigarette DOI: 10.1177/
+2042098614524430
+substitutes: a systematic review © The Author(s), 2014.
+Reprints and permissions:
+http://www.sagepub.co.uk/
+journalsPermissions.nav
+Konstantinos E. Farsalinos and Riccardo Polosa
+Abstract: Electronic cigarettes are a recent development in tobacco harm reduction. They
+are marketed as less harmful alternatives to smoking. Awareness and use of these devices
+has grown exponentially in recent years, with millions of people currently using them. This
+systematic review appraises existing laboratory and clinical research on the potential risks
+from electronic cigarette use, compared with the well-established devastating effects of
+smoking tobacco cigarettes. Currently available evidence indicates that electronic cigarettes
+are by far a less harmful alternative to smoking and significant health benefits are expected in
+smokers who switch from tobacco to electronic cigarettes. Research will help make electronic
+cigarettes more effective as smoking substitutes and will better define and further reduce
+residual risks from use to as low as possible, by establishing appropriate quality control and
+standards.
+Keywords: electronic cigarettes, e-liquid, e-vapor, harm reduction, nicotine, safety, tobacco
+Introduction distilled water, flavorings (that may or may not be Correspondence to:
+Konstantinos E.
+Complete tobacco cessation is the best outcome approved for food use) and nicotine. Consumers
+Farsalinos, MD
+for smokers. However, the powerful addictive (commonly called ‘vapers’) may choose from sev- Onassis Cardiac Surgery
+Center, Sygrou 356,
+properties of nicotine and the ritualistic behavior eral nicotine strengths, including non-nicotine
+Kallithea 17674, Greece
+of smoking create a huge hurdle, even for those liquids, and a countless list of flavors; this assort- kfarsalinos@gmail.com
+with a strong desire to quit. Until recently, smok- ment is a characteristic feature that distinguishes Riccardo Polosa, PhD
+Centro per la Prevenzione
+ers were left with just two alternatives: either quit ECs from any other THR products. Since their e Cura del Tabagismo
+or suffer the harmful consequences of continued invention in 2003, there has been constant inno- (CPCT) and Institute
+of Internal Medicine,
+smoking. This gloomy scenario has allowed the vation and development of more efficient and Università di Catania,
+smoking pandemic to escalate, with nearly 6 mil- appealing products. Currently, there are mainly Catania, Italy
+lion deaths annually and a predicted death toll of three types of devices available [Dawkins, 2013],
+1 billion within the 21st century [World Health depicted in Figure 1. (1) First-generation devices,
+Organization, 2013]. But a third choice, involving generally mimicking the size and look of regular
+the use of alternative and much safer sources of cigarettes and consisting of small lithium batteries
+nicotine with the goal to reduce smoking-related and cartomizers (i.e. cartridges, which are usually
+diseases is now available: tobacco harm reduction prefilled with a liquid that bathes the atomizer).
+(THR) [Rodu and Godshall, 2006]. Batteries may be disposable (to be used once
+only) or rechargeable. (2) Second-generation
+Electronic cigarettes (ECs) are the newest and devices, consisting mainly of higher-capacity lith-
+most promising products for THR [Polosa et al. ium batteries and atomizers with the ability to
+2013b]. They are electrically-driven devices con- refill them with liquid (sold in separate bottles).
+sisting of the battery part (usually a lithium bat- In the most recent atomizers you can simply
+tery), and an atomizer where liquid is stored and change the atomizer head (resistance and wick)
+is aerosolized by applying energy and generating while keeping the body of the atomizer, thus
+heat to a resistance encircling a wick. The liquid reducing the operating costs. (3) Third-generation
+used mainly consists of propylene glycol, glycerol, devices (also called ‘Mods’, from modifications),
+http://taw.sagepub.com 67Therapeutic Advances in Drug Safety 5(2)
+medications for nicotine dependence, whereas
+ECs are unique in that they provide rituals asso-
+ciated with smoking behavior (e.g. hand-to-
+mouth movement, visible ‘smoke’ exhaled) and
+sensory stimulation associated with it [Farsalinos
+et al. 2013b]. This explains why these products
+can be effective in reducing consumption of
+tobacco smoking [Bullen et al. 2013; Caponnetto
+et al. 2013b; Polosa et al. 2011] and are efficient
+as long-term substitutes of conventional ciga-
+Figure 1. Examples of electronic cigarette devices rettes [Farsalinos et al. 2013b].
+currently available on the market.
+Methods
+consisting of very large-capacity lithium batteries For this systematic review (Figure 2), we searched
+with integrated circuits that allow vapers to the PubMed electronic database by using key-
+change the voltage or power (wattage) delivered words related to ECs and/or their combination
+to the atomizer. These devices can be combined (e-cigarette, electronic cigarette, electronic nico-
+with either second-generation atomizers or with tine delivery systems). We obtained a total of 354
+rebuildable atomizers, where the consumers have results, and selected 41 studies we judged relevant
+the ability to prepare their own setup of resistance to research on EC safety/risk profile. Reference
+and wick. lists from these studies were also examined to
+identify relevant articles. We searched additional
+Awareness and use (vaping) of ECs has increased information in abstracts presented at scientific
+exponentially in recent years. Data obtained from congresses (respiratory, cardiovascular, tobacco
+the HealthStyles survey showed that, in the US, control, toxicology), and in reports of chemical
+awareness of ECs rose from 40.9–57.9% from analyses on EC samples that were available online.
+2010 to 2011, with EC use rising from 3.3–6.2% We also looked for selected studies on chemicals
+over the same time period [King et al. 2013]. In related to EC ingredients (e.g. nicotine, propyl-
+the United Kingdom, EC use in regular smokers ene glycol, glycerol, cinnamaldehyde, microparti-
+increased from 2.7% in 2010 to 6.7% in 2012 cles emission, etc.), but not specifically evaluated
+[Dockrell et al. 2013]. Similar findings were in EC research. In total, 97 publications were
+obtained from the International Tobacco Control found, from which 15 chemical analyses of single
+Four-Country Survey [Adkison et al. 2013]. A or a limited number of EC samples were excluded
+recent prospective study in Swiss army recruits because they were discussed in a review paper
+showed that 12% of smokers who tried ECs pro- [Cahn and Siegel, 2011]. In total, 114 studies are
+gressed to daily use [Douptcheva et al. 2013]. It cited in this paper.
+must be noted that this increase in EC use has
+occurred despite the concerns raised by public
+health authorities about the safety and appropri- Risk differences compared with
+ateness of using these products as alternatives to conventional cigarettes and the issue of
+smoking [National Association of Attorneys nicotine
+General, 2013; Food and Drug Administration, Conventional cigarettes are the most common
+2009; Mayers, 2009]. form of nicotine intake. Smoking-related diseases
+are pathophysiologically attributed to oxidative
+The popularity of ECs may be due to their ability stress, activation of inflammatory pathways and
+to deal both with the physical (i.e. nicotine) and the toxic effect of more than 4000 chemicals and
+the behavioral component of smoking addiction. carcinogens present in tobacco smoke
+In particular, sensory stimulation [Rose and [Environmental Protection Agency, 1992]. In
+Levin, 1991] and simulation of smoking behavior addition, each puff contains >1 × 1015 free radi-
+and cigarette manipulation [Hajek et al. 1989] cals [Pryor and Stone, 1993]. All of these chemi-
+are important determinants of a product’s effec- cals are emitted mostly during the combustion
+tiveness in reducing or completely substituting process, which is absent in ECs. Although the
+smoking. These features are generally absent in addictive potential of nicotine and related com-
+nicotine replacement therapies (NRTs) and oral pounds is largely documented [Guillem et al.
+68 http://taw.sagepub.comKE Farsalinos and R Polosa
+Figure 2. Methodology for literature research and selection of studies.
+2005], much less dissemination has been given to to cardiovascular diseases or other serious side
+the notion that nicotine does not contribute to effects [Murray et al. 1996]. A meta-analysis of 35
+smoking-related diseases. It is not classified as a clinical trials found no evidence of cardiovascular
+carcinogen by the International Agency for or other life-threatening adverse effects caused by
+Research on Cancer [WHO-IARC, 2004] and nicotine intake [Greenland et al. 1998]. Even in
+does not promote obstructive lung disease. A patients with established cardiovascular disease,
+major misconception, commonly supported even nicotine use in the form of NRTs does not
+by physicians, is that nicotine promotes cardio- increase cardiovascular risk [Woolf et al. 2012;
+vascular disease. However, it has been established Benowitz and Gourlay, 1997]. It is anticipated
+that nicotine itself has minimal effect in initiating that any product delivering nicotine without
+and promoting atherosclerotic heart disease involving combustion, such as the EC, would
+[Ambrose and Barua, 2004]. It does not promote confer a significantly lower risk compared with
+platelet aggregation [Zevin et al. 1998], does not conventional cigarettes and to other nicotine con-
+affect coronary circulation [Nitenberg and taining combustible products.
+Antony, 1999] and does not adversely alter the
+lipid profile [Ludviksdottir et al. 1999]. An obser- The importance of using nicotine in the long-
+vational study of more than 33,000 smokers term was recognized several years ago by Russell,
+found no evidence of increased risk for myocar- indicating that the potential of nicotine delivery
+dial infarction or acute stroke after NRT sub- systems as long-term alternatives to tobacco
+scription, although follow up was only 56 days should be explored in order to make the elimina-
+[Hubbard et al. 2005]. Up to 5 years of nicotine tion of tobacco a realistic future target [Russell,
+gum use in the Lung Health Study was unrelated 1991]. However, current regulations restrict the
+http://taw.sagepub.com 69Therapeutic Advances in Drug Safety 5(2)
+long-term use of pharmaceutical or recreational body of knowledge and also because the product
+nicotine products (such as snus) [Le Houezec itself is undergoing constant development.
+et al. 2011]. In other words, nicotine intake has
+been demonized, although evidence suggests that, Existing studies about the safety/risk profile of
+besides being useful in smoking cessation, it may ECs can be divided into chemical, toxicological
+even have beneficial effects in a variety of disor- and clinical studies (Table 1). Obviously, clinical
+ders such as Parkinson’s disease [Nielsen et al. studies are the most informative, but also the
+2013], depression [McClernon et al. 2006], most demanding because of several methodologi-
+dementia [Sahakian et al. 1989] and ulcerative cal, logistical, ethical and financial challenges. In
+colitis [Guslandi, 1999]. Obviously, the addictive particular, exploring safety/risk profile in cohorts
+potential is an important factor in any decision to of well-characterized users in the long-term is
+endorse nicotine administration; however, it required to address the potential of future disease
+should be considered as slight ‘collateral damage’ development, but it would take hundreds of users
+with minimal impact to vapers’ health compared to be followed for a substantial number of years
+with the tremendous benefit of eliminating all before any conclusions are made. Therefore, most
+disease-related substances coming from tobacco research is currently focused on in vitro effects,
+smoking. In fact, smokers are already addicted to with clinical studies confined into evaluation of
+nicotine; therefore the use of a ‘cleaner’ form of short-term use or pathophysiological mechanisms
+nicotine delivery would not represent any addi- of smoking-related diseases.
+tional risk of addiction. Surveys have shown that
+ECs are used as long-term substitutes to smoking
+[Dawkins et al. 2013; Etter and Bullen, 2012]. Chemical studies
+Although consumers try to reduce nicotine use Chemical studies are relatively simple and cheap
+with ECs, many are unable to completely stop its to perform and provide quick results. However,
+intake, indicating an important role for nicotine there are several disadvantages with this approach.
+in the ECs’ effectiveness as a smoking substitute Research is usually focused on the known specific
+[Farsalinos et al. 2013b]. chemicals (generally those known to be toxic from
+studies of cigarette smoke) and fails to address
+Nicotine overdose or intoxication is unlikely to unknown, potentially toxic contaminants that
+occur with vaping, since the amount consumed could be detected in the liquid or the emitted aer-
+[Farsalinos et al. 2013c] and absorbed [Nides osol. Problems may also arise from the detection
+et al. 2014; Dawkins and Corcoran, 2013] is quite of the chemicals in flavors. Such substances,
+low. Moreover, although not yet proven, it is although approved for use in the food industry,
+expected that vapers will self-titrate their nicotine have largely unknown effects when heated and
+intake in a similar way to tobacco cigarettes inhaled; thus, information on the presence of such
+[Benowitz et al. 1998]. Last, but not least, there is substances is difficult to interpret in terms of
+evidence suggesting that nicotine cannot be deliv- in vivo effects. In fact, chemical studies do not pro-
+ered as fast and effectively from ECs compared to vide any objective information about the effects of
+tobacco cigarettes [Farsalinos et al. 2014]. use; they can only be used to calculate the risk
+Therefore, it seems that ECs have a huge theoreti- based on theoretical models and on already
+cal advantage in terms of health risks compared established safety levels determined by health
+with conventional cigarettes due to the absence of authorities. An overview of the chemical studies
+toxic chemicals that are generated in vast quanti- performed on ECs is displayed in Table 2.
+ties by combustion. Furthermore, nicotine deliv-
+ery by ECs is unlikely to represent a significant Laugesen performed the first studies evaluating
+safety issue, particularly when considering they the chemical composition of EC aerosols
+are intended to replace tobacco cigarettes, the [Laugesen, 2008, 2009]. The temperature of the
+most efficient nicotine delivery product. resistance of the tested EC was 54oC during acti-
+vation, which is approximately 5–10% of the tem-
+perature of a burning tobacco cigarette. Toxic
+Studies on the safety/risk profile of ECs chemicals such as heavy metals, carcinogenic
+Findings on the safety/risk profile of ECs have polycyclic aromatic hydrocarbons and phenols
+just started to accumulate. However, this research were not detected, with the exception of trivial
+must be considered work in progress given that amounts of mercury (0.17 ng per EC) and traces
+the safety/risk of any product reflects an evolving of formaldehyde and acetaldehyde. Laugesen
+70 http://taw.sagepub.comKE Farsalinos and R Polosa
+Table 1. Types of studies performed to determine safety and to estimate risk from EC use.
+Type of studies Research subject Advantages Disadvantages
+Chemical Evaluate the chemical Easier and faster to Usually targeted on specific chemicals.
+studies composition of liquids perform. Less expensive. Unknown effects of flavorings when inhaled.
+and/or aerosol. Examine Could realistically No validated protocols for vapor production.
+environmental exposure be implemented for Provide no objective evidence about the end
+(passive ‘vaping’). regulatory purposes. results (effects) of use (besides by applying
+theoretical models).
+Toxicological Evaluate the effects on cell Provide some information Difficult to interpret the results in terms of
+studies cultures or experimental about the effects from use. human in vivo effects. More expensive than
+animals. chemical studies. Need to test aerosol and not
+liquid.
+Standards for exposure protocols have not been
+clearly defined.
+Clinical studies Studies on human in vivo Provide definite and Difficult and expensive to perform. Long-term
+effects. objective evidence about follow up is needed due to the expected lag
+the effects of use. from initiation of use to possible development
+of any clinically evident disease. For now,
+limited to acute effects from use.
+evaluated emissions based on a toxicant emissions compared with EC use (Table 3). Etter and col-
+score and reported a score of 0 in ECs compared leagues evaluated the accuracy of nicotine labe-
+with a score of 100–134 for tobacco cigarettes ling and the presence of nicotine impurities and
+(Figure 3). The US Food and Drug Administration degradation products in 20 EC liquid samples
+(FDA) also performed chemical analyses on 18 [Etter et al. 2013]. They found that nicotine levels
+commercially available products in 2009 were 85–121% of what was labeled, while nico-
+[Westenberger, 2009]. They detected the pres- tine degradation products were present at levels
+ence of tobacco-specific nitrosamines (TSNAs) of 0–4.4%. Although in some samples the levels
+but did not declare the levels found. Small were higher than those specified in European
+amounts of diethylene glycol were also found in Pharmacopoeia, they are not expected to cause
+one sample, which was unlikely to cause any harm any measurable harm to users.
+from normal use. Another study identified small
+amounts of amino-tandalafil and rimonambant in Besides the evaluation for the presence of TSNAs,
+EC liquids [Hadwiger et al. 2010]. Subsequently, analyses have been performed for the detection of
+several laboratories performed similar tests, carbonyl compounds. It is known that the thermal
+mostly on liquids, with Cahn and Siegel publish- degradation of propylene glycol and glycerol can
+ing a review on the chemical analyses of ECs and lead to the emission of toxic compounds such as
+comparing the findings with tobacco cigarettes aldehydes [Antal et al. 1985; Stein et al. 1983].
+and other tobacco products [Cahn and Siegel, Goniewicz and colleagues evaluated the emission
+2011]. They reported that TSNA levels were simi- of 15 carbonyls from 12 brands of ECs (mostly
+lar to those measured in pharmaceutical NRTs. first-generation) [Goniewicz et al. 2013]. In order
+The authors concluded that, based on chemical to produce vapor, researchers used a smoking
+analysis, ECs are far less harmful compared with machine and followed a regime of 1.8-second
+tobacco cigarettes. The most comprehensive puffs with a very short 10-second interpuff inter-
+study on TSNAs has been performed recently by val, which does not represent realistic use
+a South Korean group, evaluating 105 liquids [Farsalinos et al. 2013c]; although the puff dura-
+obtained from local retailers [Kim and Shin, tion was low, interpuff interval was remarkably
+2013]. On average, they found 12.99 ηg TSNAs short, which could potentially lead to overheating.
+per ml of liquid, with the amount of daily expo- In addition, the same puff number was used in all
+sure to the users estimated to be similar to users devices tested, although there was a significant
+of NRTs [Farsalinos et al. 2013d]. The estimated difference in the design and liquid content
+daily exposure to nitrosamines from tobacco ciga- between devices. Despite these limitations, out of
+rettes (average consumption of 15 cigarettes per 15 carbonyls, only 3 were detected (formalde-
+day) is estimated to be up to 1800 times higher hyde, acetaldehyde and acrolein); levels were
+http://taw.sagepub.com 71Therapeutic Advances in Drug Safety 5(2)
+Table 2. Summary of chemical toxicity findings.
+Study What was investigated? What were the key findings?
+Liquid Vapor
+Laugesen Evaluation of 62 toxicants in N/A No acrolein, but small quantities of
+[2009] the EC vapour from Ruyan 16 acetaldehyde and formaldehyde found.
+mg and mainstream tobacco Traces of TSNAs (NNN, NNK, and NAT)
+smoke using a standard detected. CO, metals, carcinogenic PAHs
+smoking machine protocol. and phenols not found in EC vapour.
+Acetaldehyde and formaldehyde from
+tobacco smoke were 55 and 5 times higher,
+respectively.
+Westenberger Evaluation of toxicants in EC TSNAs and certain tobacco N/A
+[2009] cartridges from two popular specific impurities were
+US brands. detected in both products at
+very low levels. Diethylene
+glycol was identified in one
+cartridge.
+Hadwiger Evaluation of four refill Small amounts of amino- N/A
+et al. [2010] solutions and six replacement tandalafil and rimonambant
+cartridges advertised present in all products tested.
+as containing Cialis or
+rimonambant.
+Cahn and Overview of 16 chemical TSNAs levels in ECs 500- to 1400-fold lower than those in conventional
+Siegel [2011] toxicity studies of EC liquids/ cigarettes and similar to those in NRTs. Other chemicals found very low
+vapours. levels, which are not expected to result in significant harm.
+Pellegrino Evaluation of PM fractions and N/A PM fractions were found, but levels were 6–
+et al. [2012] PAHs in the vapour generated 18 times lower compared with conventional
+from cartomizers of an Italian cigarettes. Traces of PAHs detected.
+EC brand.
+Kim and Shin TSNAs (NNN, NNK, NAT, and Total TSNAs averaged N/A
+[2013] NAB) content in 105 refill 12.99 ng/ml EC liquid; daily
+liquids from 11 EC brands total TSNA exposure from
+purchased in Korean shops. conventional cigarettes
+estimated to be up to 1800
+times higher.
+Etter et al. Nicotine degradation The levels of nicotine N/A
+[2013] products, ethylene glycol and degradation products
+diethylene glycol evaluation represented 0–4.4% of those
+of 20 EC refill liquids from 10 for nicotine, but for most
+popular brands samples the level was 1–2%.
+Neither ethylene glycol
+nor diethylene glycol were
+detected.
+Goniewicz Vapours generated from 12 N/A Carbonyl compounds (formaldehyde,
+et al. [2013] brands of ECs and a medicinal acetaldehyde and acrolein), VOCs (toluene
+nicotine inhaler using a and trace levels of xylene), trace levels
+modified smoking machine of TSNAs (NNN and NNK) and very low
+protocol levels of metals (cadmium, nickel and lead)
+were found in almost all examined EC
+vapours. Trace amounts of formaldehyde,
+acetaldehyde, cadmium, nickel and lead
+were also detected from the Nicorette
+inhalator. Compared with conventional
+cigarette, formaldehyde, acetaldehyde and
+acrolein were 9–450 times lower; toluene
+levels 120 times lower; and NNN and NNK
+levels 380 and 40 times lower respectively.
+(Continued)
+72 http://taw.sagepub.comKE Farsalinos and R Polosa
+Table 2. (Continued)
+Study What was investigated? What were the key findings?
+Liquid Vapor
+Williams et al. Vapour generated from N/A Trace levels of several metals (including
+[2013] cartomizers of a popular tin, copper, silver, iron, nickel, aluminium,
+EC brand using a standard chromium, lead) were found, some of them
+smoking machine protocol at higher level compared with conventional
+cigarettes. Silica particles were also
+detected. Number of microparticles from
+10 EC puffs were 880 times lower compared
+with one tobacco cigarette.
+Burstyn Systematic review of 35 No evidence of levels of contaminants that may be associated with risk to
+[2014] chemical toxicity studies/ health. These include acrolein, formaldehyde, TSNAs, and metals. Concern
+technical reports of EC about contamination of the liquid by a nontrivial quantity of ethylene glycol or
+liquids/vapours. diethylene glycol remains confined to a single sample of an early technology
+product and has not been replicated.
+Abbreviations. CO, carbon monoxide; EC, electronic cigarette; NAT, N-Nitrosoanatabine; NNK, 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone;
+NNN, N-Nitrosonornicotine; PAHs, polycyclic aromatic hydrocarbons; PM, particulate matter; TSNAs, tobacco-specific nitrosamines; VOCs, vola-
+tile organic carbons.
+nickel, cadmium and lead emitted [Goniewicz
+et al. 2013]; the levels of nickel were similar to
+those present in a pharmaceutical nicotine inhala-
+tor, while lead and cadmium were present at 2–3
+times higher levels compared with the inhalator.
+Still, the absolute levels were very low (few nano-
+grams per 150 puffs). Williams et al. [2013]
+focused their research on the presence of heavy
+Figure 3. Toxic emissions score, adjusted for metals and silicate particles emitted from ECs.
+nicotine, for electronic cigarette and popular cigarette They tested poor quality first-generation cart-
+brands. (Reproduced with permission from Laugesen omisers and found several metals emitted in the
+[2009]). aerosol of the EC, specifying that in some cases
+the levels were higher compared with conven-
+tional cigarettes. As mentioned earlier, it is not
+9–450 times lower compared with emissions from unusual to find trace levels of metals in the vapor
+tobacco cigarettes (derived from existing litera- generated by these products under experimental
+ture but not tested in the same experiment). conditions that bear little relevance to their nor-
+Formaldehyde and acetaldehyde were also emit- mal use; however, it is unlikely that such small
+ted from the nicotine inhalator, although at lower amounts pose a serious threat to users’ health.
+levels. In addition, they examined for the presence Even if all the aerosol was absorbed by the con-
+of 11 volatile organic carbons and found only sumer (which is not the case since most of the
+trace levels of toluene (at levels from 0.2–6.3 µg aerosol is visibly exhaled), an average user would
+per 150 puffs) and xylene (from 0.1–0.2 µg per be exposed to 4–40 times lower amounts for most
+150 puffs) in 10 of the samples; toluene levels metals than the maximum daily dose allowance
+were 120 times lower compared with tobacco cig- from impurities in medicinal products [US
+arettes (again derived from existing literature but Pharmacopeia, 2013]. Silicate particles were also
+not tested in the same experiment). found in the EC aerosol. Such particles come
+from the wick material, however the authors did
+Given that ECs have several metal parts in direct not clarify whether crystalline silica oxide parti-
+contact with the e-liquid, it is quite obvious to cles were found, which are responsible for respira-
+expect some contamination with metals in the tory disease. In total, the number of microparticles
+vapor. Goniewicz and colleagues examined sam- (< 1000 nm) estimated to be inhaled by EC users
+ples for the presence of 12 metals and found from 10 puffs were 880 times lower compared
+http://taw.sagepub.com 73Therapeutic Advances in Drug Safety 5(2)
+Table 3. Levels of nitrosamines found in electronic and tobacco cigarettes. Prepared based on information from Laugesen [2009],
+Cahn and Siegel [2011] and Kim and Shin [2013].
+Product Total nitrosamines levels (ng) Daily exposure (ng) Ratio4
+Electronic cigarette (per ml) 13 521 1
+Nicotine gum (per piece) 2 482 0.92
+Winston (per cigarette) 3365 50 4753 971
+Newport (per cigarette) 3885 50 7753 976
+Marlboro (per cigarette) 6260 93 9003 1806
+Camel (per cigarette) 5191 77 8653 1497
+1Based on average daily use of 4ml liquid
+2Based on maximum recommended consumption of 24 pieces per day
+3Based on consumption of 15 cigarettes per day
+4 Difference (number-fold) between electronic cigarette and all other products in daily exposure to nitrosamines
+with one tobacco cigarette. Similar findings con- Toxicological studies
+cerning microparticles were reported by Pellegrino To date, only a handful of toxicological studies
+and colleagues who found that, for each particu- have been performed on ECs, mostly cytotoxicity
+late matter fraction, conventional cigarettes studies on established cell lines. The cytotoxicity
+released 6–18 times higher amounts compared approach also has its flaws. Findings cannot be
+with the EC tested [Pellegrino et al. 2012]. directly applied to the in vivo situation and there
+is always the risk of over- (as well as under-)esti-
+Burstyn has recently reviewed current data on the mating the interpretation of the toxic effects in
+chemistry of aerosols and the liquids of ECs these investigational models. An ample degree of
+(including reports which were not peer-reviewed) results variability is to be expected from different
+and estimated the risk to consumers based on cell lines and, sometimes, also within the same
+workplace exposure standards (i.e. Threshold cell line. Comparing the potential cytotoxicity
+Limit Values [TLVs]) [Burstyn, 2014]. After effects of EC vapor with those resulting from the
+reviewing all available evidence, the author con- exposure of cigarette smoke should be manda-
+cluded that there was no evidence that vaping tory, but standards for vapor production and
+produced inhalable exposure to contaminants of exposure protocols have not been clearly defined.
+aerosol that would warrant health concerns. He
+added that surveillance of use is recommended Bahl and colleagues [Bahl et al. 2012] performed
+due to the high levels of propylene glycol and cytotoxicity tests on 36 EC liquids, in human
+glycerol inhaled (which are not considered con- embryonic stem cells, mouse neural stem cells
+taminants but ingredients of the EC liquid). and human pulmonary fibroblasts and found that
+There are limited data on the chronic inhalation stem cells were more sensitive to the effects of the
+of these chemicals by humans, although there is liquids, with 15 samples being moderately cyto-
+some evidence from toxicological studies (which toxic and 12 samples being highly cytotoxic.
+are discussed later in this paper). Propylene glycol and glycerol were not cytotoxic,
+but a correlation between cytotoxicity and the
+In conclusion, chemical studies have found that number and height of the flavoring peaks in high-
+exposure to toxic chemicals from ECs is far lower performance liquid chromatography was noted.
+compared with tobacco cigarettes. Besides com- Investigations were just restricted to the effect of
+paring the levels of specific chemicals released EC liquids and not to their vapors, thus limiting
+from tobacco and ECs, it should be taken into the importance of the study findings; this is not a
+consideration that the vast majority of the >4000 trivial issue considering that the intended use of
+chemicals present in tobacco smoke are com- these products is by inhalation only and that it is
+pletely absent from ECs. Obviously, surveillance unlikely that flavoring substances in the EC liq-
+of use is warranted in order to objectively evaluate uids will still be present in the aerosol in the same
+the in vivo effects and because the effects of inhal- amount due to differences in evaporation tem-
+ing flavoring substances approved for food use are perature [Romagna et al. 2013]. Regrettably, a set
+largely unknown. of experiments with cigarette smoke extracts as
+74 http://taw.sagepub.comKE Farsalinos and R Polosa
+comparator was not included. Of note, the authors extract was diluted to 12.5%. The samples made
+emphasized that the study could have underesti- with tobacco leaves were three times less cytotoxic
+mated the cytotoxicity by 100 times because when compared with cigarette smoke; this was probably
+they added the EC liquids to the cell, medium due to the absence of combustion and the signifi-
+final concentration was 1%. However, cells were cantly lower temperature of evaporation in EC use.
+cultured for 48 hours with continuous exposure Concerning high-voltage EC use, the authors found
+to the liquid, while in real use the lungs come in slightly reduced cell viability without any of the
+contact with aerosol instead of liquid, the contact samples being cytotoxic according to the ISO
+lasts for 1–2 seconds per puff and most of the 10993-5 definition. Finally, no association between
+aerosol is visibly exhaled. Finally, Cinnamon cell survival and the amount of nicotine present in
+Ceylon, the liquid found to be mostly cytotoxic in the liquids was noted.
+this study, was not a refill liquid but a concen-
+trated flavor which is not used in ECs unless it is A recent study evaluated in more detail the cyto-
+diluted to 3–5%. toxic potential of eight cinnamon-flavored EC liq-
+uids in human embryonic stem cells and human
+Romagna and colleagues [Romagna et al. 2013] pulmonary fibroblasts [Behar et al. 2014]. The
+performed the first cytotoxicity study of EC vapor authors found that the flavoring substance pre-
+on fibroblast cells. They used a standardized ISO dominantly present was cinnamaldehyde, which is
+10993-5 protocol, which is used for regulatory approved for food use. They observed significant
+purposes of medical devices and products. They cytotoxic effects, mostly on stem cells but also on
+tested the vapor of 21 liquid samples containing fibroblasts, with cytotoxicity associated with the
+the same amount of nicotine (9 mg/ml), gener- amount of cinnamaldehyde present in the liquid.
+ated by a commercially available EC device. Cells However, major methodological issues arose from
+were incubated for 24 hours with each of these this study. Once again, cytotoxicity was just
+vapors and with smoke from a conventional ciga- restricted to EC liquids and not to their vapors.
+rette. Only one sample was found to be margin- Moreover, the authors mentioned that the amount
+ally cytotoxic, whereas cigarette smoke was highly of cinnamaldehyde differed between liquids by up
+cytotoxic (approximately 795% more cytotoxic), to 100 times, and this raises the suspicion of test-
+even when the extract was diluted up to 25% of ing concentrated flavor rather than refills. By
+the original concentration. searching the internet and contacting manufactur-
+ers, based on the names of samples and suppliers
+The same group also investigated the cytotoxic mentioned in the manuscript, it was found that at
+potential of 20 EC liquid samples in cardiomyo- least four of their samples were not refills but con-
+blasts [Farsalinos et al. 2013a]. Vapor was produced centrated flavors. Surprisingly, the levels of cinna-
+by using a commercially available EC device. maldehyde found to be cytotoxic were about 400
+Samples contained a wide range of nicotine con- times lower than those currently approved for use
+centrations. A base liquid mixture of propylene gly- [Environmental Protection Agency, 2000].
+col and glycerol (no nicotine and no flavorings) was
+also included as an additional experimental control. Few animal studies have been performed to eval-
+Four of the samples examined were made by using uate the potential harm of humectants in EC liq-
+cured tobacco leaves in a steeping process, allowing uids (i.e. propylene glycol and glycerol) when
+them to impregnate a mixture of propylene glycol given by inhalation. Robertson and colleagues
+and glycerol for several days before being filtered tested the effects on primates of inhaling propyl-
+and bottled for use. Of note, this was the first study ene glycol vapor for several months and found no
+which evaluated a limited number of samples with evidence of toxicity on any organ (including the
+an EC device delivering higher voltage and energy lungs) after post-mortem examination of the ani-
+to the atomizer (third-generation device). In total, mals [Robertson et al. 1947]. Similar observa-
+four samples were found to be cytotoxic; three of tions were made in a recent study in rats and dogs
+them were liquids made by using cured tobacco [Werley et al. 2011]. Concerns have been raised in
+leaves, with cytotoxicity observed at both 100% human use, based on studies of people exposed to
+and 50% extract concentration, while one sample theatrical fog [Varughese et al. 2005; American
+(cinnamon flavor) was marginally cytotoxic at Chemistry Council, 2003] or propylene glycol
+100% extract concentration only. In comparison, used in the aviation industry [Wieslander et al.
+smoke from three tobacco cigarettes was highly 2001]. Irritation of the respiratory tract was
+cytotoxic, with toxicity observed even when the found, but no permanent lung injury or other
+http://taw.sagepub.com 75Therapeutic Advances in Drug Safety 5(2)
+long-term health implications were detected. It irritation and dry cough were observed. Farsalinos
+should be reminded that, in these circumstances, and colleagues retrospectively evaluated a group
+nonpharmaceutical purity propylene glycol is of 111 EC users who had completely quit smoking
+used and in some cases oils are added, making it and were daily EC users for a median period of 8
+difficult to interpret the results in the context of months [Farsalinos et al. 2013b]. Throat irritation
+EC use. Evidence for the potential harm of and cough were the most commonly reported side
+inhaled glycerol is sparse. A study using Sprague– effects. Similar findings have been observed in
+Dawley rats found minimal to mild squamous surveys [Dawkins et al. 2013; Etter et al. 2011].
+metaplasia of the epiglottis epithelium in the However, it is expected that dedicated users who
+high-dose group only, without any changes have more positive experiences and fewer side
+observed in lungs or other organs [Renne et al. effects compared with the general population par-
+1992]. No comparative set of experiments with ticipate in such studies, therefore interpretation
+cigarette smoke was included, but it is well known should be done with caution. The only two exist-
+that exposure to tobacco smoke in similar animal ing randomized controlled trials have also included
+models leads to dramatic changes in the lungs, detailed EC safety analysis. The ECLAT study
+liver and kidneys [Czekaj et al. 2002]. [Caponnetto et al. 2013b], a three-arm, con-
+trolled, randomized, clinical trial designed to com-
+In conclusion, toxicological studies have shown pare efficacy and safety of a first-generation device
+significantly lower adverse effects of EC vapor with 7.2, 5.4, or 0 mg nicotine cartridges, reported
+compared with cigarette smoke. Characteristically, clinically significant progressive health improve-
+the studies performed by using the liquids in their ments already by week two of continuous use of
+original liquid form have found less favorable the device, and no serious adverse events (i.e.
+results; however, no comparison with tobacco major depression, abnormal behavior or any event
+smoke was performed in any of these studies, and requiring an unscheduled visit to the family prac-
+they cannot be considered relevant to EC use titioner or hospitalization) occurred during the
+since the samples were not tested in the form con- study. The ASCEND study [Bullen et al. 2013], a
+sumed by vapers. More research is needed, three-arm, controlled, randomized, clinical trial
+including studies on different cell lines such as designed to compare the efficacy and safety of a
+lung epithelial cells. In addition, it is probably first-generation device (with or without nicotine)
+necessary to evaluate a huge number of liquids with nicotine patches, reported no serious adverse
+with different flavors since a minority of them, in events in any of the three study groups.
+an unpredictable manner, appear to raise some
+concerns when tested in the aerosol form pro- Few clinical studies have been performed to evalu-
+duced by using an EC device. ate the short-term in vivo effects of EC use in cur-
+rent or former smokers. Vardavas and colleagues
+evaluated the acute effects of using an EC for 5
+Clinical studies and research surveys minutes on respiratory function [Vardavas et al.
+Clinical trials can be very informative, but they 2012]. Although they did not report the results of
+require monitoring of hundreds of users for many commonly-used spirometry parameters, they
+years to adequately explore the safety/risk profile found that a sensitive measure of airways resistance
+of the products under investigation. Research sur- and nitric oxide levels in exhaled breath were
+veys of EC users, on the other hand, can quickly adversely affected. Similar elevations in respiratory
+provide information about the potential harm of resistance were reported by other research groups
+these products and are much cheaper to run. [Palamidas et al. 2013; Gennimata et al. 2012],
+However, self-reported data, highly self-selected who also documented some bizarre elevation in
+study populations, and the cross-sectional design exhaled carbon monoxide levels after EC use; this
+are some of the most common limitations of finding has been challenged by several other stud-
+research surveys. Taken together, findings from ies [Farsalinos et al. 2013f; Nides et al. 2014; Van
+surveys and follow-up studies of vapers have Staden et al. 2013]. Schober and colleagues found
+shown that EC use is relatively safe. that EC use led to elevated exhaled nitric oxide
+[Schober et al. 2013], contradicting the findings
+Polosa and colleagues followed up smokers for 24 from Vardavas and colleagues [Vardavas et al.
+months, after a 6-month period of intervention 2012]. Characteristically, none of the above studies
+during which ECs were given [Polosa et al. 2013a]. performed any comparative tests after smoking
+Only mild symptoms such as mouth and throat tobacco cigarettes. Flouris and colleagues found
+76 http://taw.sagepub.comKE Farsalinos and R Polosa
+that only smoking had an acute adverse effect on lipoid pneumonia. Only oil-based liquids could
+respiratory function [Flouris et al. 2013]; no differ- be the cause for this condition; such liquids
+ence was observed after the group of smokers was should not be used with ECs.
+exposed to active or passive EC use.
+One study evaluated the acute effects of tobacco
+Two studies have evaluated the short-term effects and EC use on white blood cell count [Flouris
+of ECs on the cardiovascular system. Farsalinos et al. 2012]. Smoking one tobacco cigarette
+and colleagues evaluated the acute effects of using caused an immediate elevation in white blood
+ECs with an 11 mg/ml nicotine-containing liquid cells, neutrophils and lymphocytes, indicating
+on hemodynamics and left ventricular function, acute inflammatory distress. On the contrary, no
+in comparison with the effects of cigarette smok- differences were observed after using ECs.
+ing [Farsalinos et al. 2012]. They found that EC
+use resulted in a slight elevation in diastolic blood In conclusion, clinical studies evaluating the
+pressure while, after smoking, both systolic and effects of short-term EC use on selected cardio-
+diastolic blood pressure and heart rate were sig- vascular and respiratory functional outcomes
+nificantly elevated. Obviously, this was due to the have shown that even if some harmful effects of
+relatively low nicotine content of the EC (which is vaping are reported, these are considerably milder
+considered medium strength). Diastolic dysfunc- compared with smoking conventional cigarettes.
+tion was observed in smokers after smoking, However, it is difficult to assess the prognostic
+which was in line with findings from previous implications of these studies; longer-term data are
+studies. However, no adverse effects were needed before any definite conclusions are made.
+observed in EC users after using the device ad lib
+for 7 minutes. Another study by the same group
+[Farsalinos et al. 2013f], evaluated the acute Passive vaping
+effects of EC use on coronary flow. In particular, Passive smoking is an established risk factor for a
+they measured the flow velocity reserve of the left variety of diseases [Barnoya and Navas-Acien,
+anterior descending coronary artery by echocar- 2013]. Therefore, it is important from a public
+diography after intravenous infusion of adeno- health perspective to examine the impact of EC use
+sine, representing the maximal ability of the artery on bystanders. Indirect data can be derived from
+to deliver blood to the myocardium. Smoking was chemical studies in vapor mentioned above, which
+associated with a decline in flow velocity reserve show that the potential of any significant adverse
+by 16% and an elevation in resistance to flow by effects on bystanders is minimal. In fact, since side-
+19%. On the contrary, no difference was observed stream exposure is nonexistent in EC (aerosol is
+in any of these parameters after using the EC. produced only during activation of the device, while
+Blood carboxyhemoglobin levels were also meas- tobacco cigarettes emit smoke even when no puffs
+ured in participants; baseline values were signifi- are taken), such studies are undoubtedly overesti-
+cantly higher in smokers compared with vapers mating the risk of environmental exposure.
+and were further elevated after smoking but were
+not altered after EC use. Similar observations for Few studies have focused on second-hand vaping.
+carboxyhemoglobin levels were observed by Van McAuley and colleagues [McAuley et al. 2012],
+Staden and colleagues [Van Staden et al. 2013]. although mentioning indoor air quality in the title
+of their study and finding minimal health-related
+A clinical case report of a smoker suffering from impact, did not in fact evaluate second-hand vap-
+chronic idiopathic neutrophilia was published. ing because aerosol was produced from an EC
+According to that report [Farsalinos and device and was evaluated without previously being
+Romagna, 2013], switching from smoking to EC inhaled by any user. Moreover, there were some
+use led to a reversal of the condition after 6 problems with cross-contamination with tobacco
+months. In addition, C-reactive protein levels, cigarette smoke, which made the results somewhat
+which were consistently elevated for more than 6 questionable, at least for some of the parameters
+years, decreased to normal levels. Another case tested. Schripp and colleagues [Schripp et al.
+report of a patient with lipoid pneumonia was 2013] evaluated the emissions from an EC by ask-
+published, with the condition attributed to glyc- ing a volunteer to use three different EC devices in
+erin-based EC liquids used by the patient a closed 8 m3 chamber. From a selection of 20
+[McCauley et al. 2012]. However, glycerin is an chemicals analyzed, only formaldehyde, acrolein,
+alcohol (polyol) and thus it is impossible to cause isoprene, acetaldehyde and acetic acid were
+http://taw.sagepub.com 77Therapeutic Advances in Drug Safety 5(2)
+detected. The levels were 5–40 times lower com- use. This is a major limitation, because the levels
+pared with emissions from a conventional ciga- of environmental PAHs have significant diurnal
+rette. For formaldehyde, the authors specifically and day-to-day variations [Ravindra et al. 2008];
+mentioned that the levels were continuously rising therefore, it is highly likely that the differences in
+from the time the volunteer entered the room, levels of PAHs (which are mainly products of
+even before he started using the EC. Moreover, no combustion and are not expected to be emitted
+acute elevation was observed when the smoker from EC use) represented changes due to environ-
+used the three EC devices, contrary to the acute mental conditions and not due to EC use.
+elevation and spiking of levels when a tobacco cig- Bertholon and colleagues [Bertholon et al. 2013]
+arette was lit. The authors concluded that formal- examined the EC aerosol exhaled from a user, in
+dehyde was not emitted from the ECs but was due comparison with exhaled smoke from a smoker.
+to human contamination, since low amounts of The authors found that particle size diameters
+formaldehyde of endogenous origin can be found were 0.29–0.033µm. They observed that the half
+in exhaled breath [Riess et al. 2010]. Romagna life of EC aerosol was 11 seconds compared with
+and colleagues [Romagna et al. 2012] evaluated 20 minutes for cigarette smoke, indicating that
+chemicals released in a realistic setting of a 60 m3 risk of passive vaping exposure is significantly
+room, by asking five smokers to smoke ad lib for 5 lower compared with passive smoking.
+hours and five vapers to use ECs ad lib for a similar
+period of time on two separate days. Nicotine, acr- The recent findings by Czogala and colleagues
+olein, toluene, xylene and polycyclic aromatic [Czogala et al. 2013] led to similar conclusions.
+hydrocarbons were detected in room air after the The authors compared the emissions of electronic
+smoking session, with the amount of total organic and conventional cigarettes generated by experi-
+carbon (TOC) reaching to 6.66 mg/m3. In con- enced dual users in a ventilated full-sized room
+trast, after the EC session, only glycerol was and found that ECs may emit detectable amounts
+detected in minimal levels (72 µg/m3), while TOC of nicotine (depending on the specific EC brand
+reached a maximum level of 0.73 mg/m3. tested), but no carbon monoxide and volatile
+Characteristically, the amount of TOC accumu- organic carbons. However, the average ambient
+lated after 5 hours of EC use was similar to the levels of nicotine of ECs were 10 times lower than
+amount found after just 11 minutes of smoking. those of conventional cigarettes (3.32 ± 2.49 ver-
+The study on heavy metals mentioned previously sus 31.60 ± 6.91 μg/m3).
+[Williams et al. 2013] could also be used to exam-
+ine any potential risk of bystanders’ exposure to In his review and comparison with TLVs, Burstyn
+toxic metals. The levels of heavy metals found in found that emissions from ECs to the environ-
+vapor were minimal, and considering the disper- ment are not expected to pose any measurable
+sion of these molecules in the whole room air, it is risk for bystanders [Burstyn, 2014].
+unlikely that any of these metals could be present
+in measurable quantities in the environment. An issue that needs further clarification relates to
+Therefore, the risk for bystanders would be liter- the findings of microparticles emitted from ECs. In
+ally nonexistent. Contrary to that, Schober and most studies, these findings are presented in a way
+colleagues [Schober et al. 2013] found that levels implying that the risk is similar to environmental or
+of aluminum were raised by 2.4 times in a 45 m3 smoking microparticles. In reality, it is not just the
+room where volunteers were asked to use ECs for size but the composition of the microparticles that
+2 hours. This is a highly unexpected finding which matters. Environmental microparticles are mainly
+cannot be supported by the findings of the study carbon, metal, acid and organic microparticles,
+by Williams and colleagues [Williams et al. 2013]; many of which result from combustion and are
+because the levels found in the latter could not commonly called particulate matter. Particulate
+result in such elevation of the environmental levels matter exposure is definitely associated with lung
+of aluminum, unless nothing is retained in or and cardiovascular disease [Peters, 2005; Seaton
+absorbed from the lungs. Moreover, Schober and et al. 1995]. In the case of ECs, microparticles are
+colleagues [Schober et al. 2013] found that levels expected to consist mostly of propylene glycol,
+of polycyclic aromatic hydrocarbons (PAHs) were glycerol, water and nicotine droplets. Metal and
+raised by 20% after EC use. However, a major silica nanoparticles may also be present [Williams
+methodological problem of this study is that con- et al. 2013], but, in general, emissions from ECs are
+trol environmental measurements were performed incomparable to environmental particulate matter
+on a separate day and not on the same day of EC or cigarette smoke microparticles.
+78 http://taw.sagepub.comKE Farsalinos and R Polosa
+Flouris and colleagues [Flouris et al. 2013] per- Considering that first-line oral medications for
+formed the only clinical study evaluating the res- nicotine addiction are contraindicated in such
+piratory effects of passive vaping compared with patients (prescribing information for bupropion
+passive smoking. Researchers found significant and varenicline carry a ‘black-box’ warning for
+adverse effects in spirometry parameters after certain psychiatric conditions), ECs may be a
+being exposed to passive smoking for 1 hour, promising tool in these challenging patient
+while no adverse effects were observed after expo- groups.
+sure to passive vaping.
+Another subpopulation that may benefit from
+Although evaluating the effects of passive vap- regular EC use is that of respiratory patients with
+ing requires further work, based on the existing chronic obstructive pulmonary disease (COPD),
+evidence from environmental exposure and a progressive disease characterized by a persistent
+chemical analyses of vapor, it is safe to conclude inflammatory response to tobacco smoke that
+that the effects of EC use on bystanders generally leads to decline in lung function, res-
+are minimal compared with conventional piratory failure, cor pulmonale and death.
+cigarettes. Consequently, smoking cessation plays a crucial
+part in the management of COPD patients.
+However, the available evidence in the medical
+Miscellaneous safety issues literature indicates that COPD patients who
+smoke respond poorly to smoking cessation
+Specific subpopulations: psychiatric and efforts [Schiller and Ni, 2006]. To date, no formal
+chronic obstructive pulmonary disorder efficacy and safety assessment of EC use in COPD
+patients patients has been conducted. There is only evi-
+A challenging population subgroup with unique dence from a case report of inveterate smokers
+smoking patterns is that of psychiatric patients with COPD and a documented history of recur-
+and in particular schizophrenic patients. This ring relapses, who eventually quit tobacco smok-
+subpopulation is characterized by a very high ing on their own by using an EC [Caponnetto
+smoking prevalence [De Leon and Diaz, 2005] et al. 2011b]. Significant improvement in quality
+with an excess of smoking-related mortality of life and reduction in the number of disease
+[Brown et al. 2000]. Currently, only NRTs are exacerbations were noted. EC use was well toler-
+recommended to treat nicotine dependence in ated with no reported adverse events.
+this specific subpopulation, but in general they
+are not particularly effective [Aubin et al. 2012].
+ECs could be used as an alternative to smoking Accidental nicotine exposure
+products in this group. Caponnetto and col- Accidental ingestion of nicotine, especially by
+leagues performed a prospective 12-month pilot children, or skin contact with large amounts of
+study to evaluate the efficacy of EC use in smok- liquid or highly concentrated nicotine solution
+ing reduction and cessation in a group of 14 can be an issue. However, the historically refer-
+patients with schizophrenia [Caponnetto et al. enced lethal dose of 60 mg has recently been chal-
+2013a]. In 50% of participants, smoking con- lenged in a review by Mayer [Mayer, 2013]; he
+sumption went from 30 to 15 cigarettes per day at found that the lethal levels currently reproduced
+52 weeks of follow up, while 14.3% managed to in every document originated from dubious
+quit smoking. Importantly, no deterioration in experiments performed in the 19th century.
+their psychiatric condition was observed, and side Based on post-mortem studies, he suggested that
+effects were mild and temporary. The results were the acute dose associated with a lethal outcome
+promising although an outdated EC device was would be 500–1000 mg. Taking into account that
+used in this study. voluminous vomiting is the first and characteristic
+symptom of nicotine ingestion, it seems that far
+There is also anecdotal evidence that successful higher levels of nicotine need to be ingested in
+smoking cessation could be attained by using an order to have lethal consequences.
+EC in smokers with other psychiatric conditions
+such as depression [Caponnetto et al. 2011a]. A surveillance system of adverse events has been
+Both patients described in this case series stated developed by the FDA, which identifies safety
+that EC use was well tolerated and no adverse concerns in relation to tobacco products. Since
+events were reported. 2008, 47 adverse events were reported for ECs
+http://taw.sagepub.com 79Therapeutic Advances in Drug Safety 5(2)
+[Chen, 2013]. Eight of them were serious events Administration, 2012]. They account for only 2%
+such as hospitalizations for pneumonia, heart fail- of all residential building fires but for 14% of fire
+ure, seizures and hypotension and burns. A case deaths. Since ECs are activated only when used
+of second-degree burns was caused by a battery by the person and there is no combustion involved,
+explosion, which is generally a problem observed there is the potential to avoid the risk of smoking-
+in lithium batteries and has occurred in other related fires.
+products (such as mobile phones). The author
+emphasized that the reported events were not
+necessarily associated with EC use but may have Use by youngsters and nonsmokers
+been related to pre-existing conditions or other Although beyond the scope of this review, it is
+causes. No condition was characteristically asso- important to briefly discuss the potential for addic-
+ciated with EC use. tion from EC use. It should be acknowledged that
+nicotine is addictive, although recent studies have
+A recent review of the California Poison Control shown that several other chemicals present in
+System database from 2010 to 2012 identified 35 tobacco are associated with a significant enhance-
+cases (14 children) associated with EC exposure ment of the addictiveness of nicotine [Lotfipour
+(accidental exposure in 25 cases) [Cantrell, et al. 2011; Rose, 2006; Guillem et al. 2005]. Still,
+2013]. A total of five patients were evaluated in an nicotine intake should not be recommended to
+emergency department and all were discharged nonsmokers. Smokers are already addicted to nic-
+within 4 hours. Nausea, vomiting, dizziness and otine, thus ECs will be a cleaner form of nicotine
+oral irritation were most commonly reported. intake, while at the same time they will maintain
+Taken together, data from surveillance systems of their sensory stimulation and motor simulation of
+adverse events suggest that short-term adverse smoking; these are important aspects of the addic-
+effects and accidental exposures to EC cartridges tion to smoking. Regulatory authorities have
+are unlikely to result in serious toxicity. expressed concern about EC use by youngsters or
+by never-smokers, with ECs becoming a gateway
+Notwithstanding, avoiding preventable contact to smoking or becoming a new form of addiction.
+with highly concentrated nicotine solution However, such concerns are unsubstantiated;
+remains important; this can be achieved by spe- research has shown that EC use by youngsters is
+cific labeling of the products, child-proof caps virtually nonexistent unless they are smokers.
+and proper education of consumers. There is no Camenga and colleagues [Camenga et al. 2013]
+evidence that nicotine-containing EC liquids examined the use of ECs and tobacco in a group of
+should be treated in any different way compared adolescents, in a survey conducted in three waves.
+with other consumer products used every day in In the first wave of the survey (February 2010),
+households (such as bleach, washing machine 1719 adolescents were surveyed from which only
+powder, etc.). one nonsmoker was found to be using ECs. In the
+second and third wave of the surveys, only five
+nonsmoking adolescents were using ECs. In fact,
+Electrical accidents and fires these are adolescents who reported first ever use of
+The electronic equipment of ECs may be the ECs in the past 30 days; therefore they were not
+cause for accidents. ECs are mainly composed of necessarily regular or daily EC consumers. The
+lithium batteries. There have been reports of increased prevalence of EC use from 0.9% in 2010
+explosions of batteries, caused either by pro- to 2.3% in 2011 concerned smoking adolescents,
+longed charging and use of improper chargers or therefore it should be considered a positive finding
+by design defects. Similar accidents have occurred that smokers are experimenting with the signifi-
+with batteries of other popular devices, such as cantly less harmful ECs. Similarly, the Medicines
+mobile phones. Therefore, this does not occur and Healthcare Products Regulatory Agency
+specifically with ECs, however, quality standards (MHRA) found that less than 1% of EC users are
+of production should be used in order to avoid never-smokers [MHRA, 2013]. Data from the
+such accidents. Centers for Disease Control [2013] National Youth
+Tobacco Survey reported doubling in EC experi-
+Smoking is a major cause of residential fires. mentation by 13–18 year old students from 1.1%
+Between 2008 and 2010, an estimated annual in 2011 to 2.1% in 2012; however, 90.6% of them
+average of 7600 smoking-related fires occurred in were smokers. From the whole population, only
+residential buildings in the US [US Fire 0.5% were nonsmokers experimenting with ECs.
+80 http://taw.sagepub.comKE Farsalinos and R Polosa
+Once again, participants were asked about ever et al. 2010; Yudkin et al. 2003]. Nonetheless, more
+experimenting with an EC in the past 30 days, not research is needed in several areas, such as atom-
+regular or daily EC use. Recently, a survey of more izer design and materials to further reduce toxic
+than 75,000 students in South Korea was pub- emissions and improve nicotine delivery, and liq-
+lished [Lee et al. 2013]. Although they found that uid ingredients to determine the relative risk of
+12.6% of them were daily smokers (8.6% were the variety of compounds (mostly flavorings)
+using only tobacco cigarettes and 3.6% were using inhaled. Regulations need to be implemented in
+both tobacco and ECs), only 0.6% of nonsmokers order to maintain the current situation of minimal
+had used ECs in the past 30 days. Although the penetration of EC use in nonsmokers and young-
+above mentioned data have been used as argu- sters, while manufacturers should be forced to
+ments to support the fact that a new epidemic of provide proof for the quality of the ingredients
+nicotine addiction through the use of ECs is used and to perform tests on the efficiency and
+appearing, in reality they are showing that any safety of their products. However, any regulatory
+experimentation with ECs is done by smokers. decisions should not compromise the variability
+This is in fact a positive finding, and could lead to of choices for consumers and should make sure
+reduced smoking prevalence through adoption of that ECs are more easily accessible compared
+EC use. Therefore, ECs could serve as gateway with their main competitor, the tobacco cigarette.
+from smoking; on the contrary, there is no evidence Consumers deserve, and should make, informed
+indicating that they could be a gateway to smoking. decisions and research will definitely promote
+It is promising to see that penetration of EC use in this. In particular, current data on safety evalua-
+youngsters is virtually nonexistent, especially when tion and risk assessment of ECs is sufficient
+you take into consideration that there is currently enough to avert restrictive regulatory measures as
+no official regulation in most countries to prohibit a consequence of an irrational application of the
+the access to ECs by youngsters. precautionary principle [Saitta et al. 2014].
+ECs are a revolutionary product in tobacco harm
+Conclusion reduction. Although they emit vapor, which
+Existing evidence indicates that EC use is by far a resembles smoke, there is literally no fire (com-
+less harmful alternative to smoking. There is no bustion) and no ‘fire’ (suspicion or evidence that
+tobacco and no combustion involved in EC use; they may be the cause for disease in a similar way
+therefore, regular vapers may avoid several harm- to tobacco cigarettes). Due to their unique char-
+ful toxic chemicals that are typically present in the acteristics, ECs represent a historical opportu-
+smoke of tobacco cigarettes. Indeed, some toxic nity to save millions of lives and significantly
+chemicals are released in the EC vapor as well, reduce the burden of smoking-related diseases
+but their levels are substantially lower compared worldwide.
+with tobacco smoke, and in some cases (such as
+nitrosamines) are comparable with the amounts Funding
+found in pharmaceutical nicotine products. This research received no specific grant from any
+Surveys, clinical, chemistry and toxicology data funding agency in the public, commercial, or not-
+have often been mispresented or misinterpreted for-profit sectors.
+by health authorities and tobacco regulators, in
+such a way that the potential for harmful conse- Conflict of interest statement
+quences of EC use has been largely exaggerated Riccardo Polosa is a Professor of Medicine and is
+[Polosa and Caponnetto, 2013]. It is obvious that supported by the University of Catania, Italy. He
+some residual risk associated with EC use may be has received lecture fees and research funding
+present, but this is probably trivial compared with from GlaxoSmithKline and Pfizer, manufacturers
+the devastating consequences of smoking. of stop smoking medications. He has also served as
+Moreover, ECs are recommended to smokers or a consultant for Pfizer and Arbi Group Srl (Milano,
+former smokers only, as a substitute for conven- Italy), the distributor of Categoria™ e-Cigarettes.
+tional cigarettes or to prevent smoking relapse; His research on electronic cigarettes is currently
+thus, any risk should be estimated relative to the supported by LIAF (Lega Italiana AntiFumo).
+risk of continuing or relapsing back to smoking
+and the low efficacy of currently approved medi- Konstantinos Farsalinos is a researcher at Onassis
+cations for smoking cessation should be taken Cardiac Surgery Center. He has never been
+into consideration [Moore et al. 2009; Rigotti funded by the pharmaceutical or the tobacco
+http://taw.sagepub.com 81Therapeutic Advances in Drug Safety 5(2)
+industry. For some of his studies, the institution Comparison of the aerosol produced by electronic
+has received financial compensation from elec- cigarettes with conventional cigarettes and the shisha.
+tronic cigarette companies for the studies’ cost. Rev Mal Respir 30: 752–757.
+His salary is currently being paid by a scholarship
+Brown, S., Inskip, H. and Barraclough, B. (2000)
+grant from the Hellenic Society of Cardiology. Causes of the excess mortality of schizophrenia. Br J
+Psychiatry 177: 212–217
+Bullen, C., Howe, C., Laugesen, M., McRobbie,
+H., Parag, V., Williman, J. et al. (2013) Electronic
+References cigarettes for smoking cessation: a randomised
+controlled trial. Lancet 382: 1629–1637.
+Adkison, S., O’Connor, R., Bansal-Travers, M.,
+Hyland, A., Borland, R., Yong, H.H. et al. (2013)
+Burstyn, I. (2014) Peering through the mist:
+Electronic nicotine delivery systems: international
+Systematic review of what the chemistry of
+tobacco control four-country survey. Am J Prev Med
+contaminants in electronic cigarettes tells us about
+44: 207–215.
+health risks. BMC Public Health 14: 18.
+Ambrose, J. and Barua, R. (2004) The
+Cahn, Z. and Siegel, M. (2011) Electronic cigarettes
+pathophysiology of cigarette smoking and
+as a harm reduction strategy for tobacco control: a
+cardiovascular disease: an update. J Am Coll Cardiol
+step forward or a repeat of past mistakes? J Public
+43: 1731–1737.
+Health Policy 32: 16–31.
+American Chemistry Council (2003) Ethylene
+Camenga, D., Delmerico, J., Kong, G., Cavallo, D.,
+Glycols: Considerations Against Use in Theatrical
+Hyland, A., Cummings, K. et al. (2013) Trends in
+Fogs/Mist and Artificial Smoke. Available at: http://
+use of electronic nicotine delivery systems by
+www.americanchemistry.com/ProductsTechnology/
+adolescents. Addict Behav 39(1): 338–340.
+Ethylene-Glycols-2/PDF-Ethylene-Glycols-Fog-
+Information-Sheet.pdf (Accessed: 20 November Cantrell, F. (2013) Adverse effects of e-cigarette
+2013). exposures. J Community Health 15 December 2013
+(Epub ahead of print). DOI: 10.1007/s10900-013-
+Antal, M., Mok, W., Roy, J. and T-Raissi, A. (1985)
+9807-5
+Pyrolytic sources of hydrocarbons from biomass. J
+Anal Appl Pyrol 8: 291–303. Caponnetto, P., Auditore, R., Russo, C., Cappello,
+G. and Polosa, R. (2013a) Impact of an electronic
+Aubin, H., Rollema, H., Svensson, T. and Winterer, G.
+cigarette on smoking reduction and cessation
+(2012) Smoking, quitting, and psychiatric disease: A
+in schizophrenic smokers: a prospective 12-month
+review. Neurosci Biobehav Rev 36: 271–284.
+pilot study. Int J Environ Res Public Health 10:
+Bahl, V., Lin, S., Xu, N., Davis, B., Wang, Y. and 446–461.
+Talbot, P. (2012) Comparison of electronic cigarette
+refill fluid cytotoxicity using embryonic and adult Caponnetto, P., Campagna, D., Cibella, F., Morjaria,
+models. Reprod Toxicol 34: 529–537. J., Caruso, M., Russo, C. et al. (2013b) EffiCiency
+and Safety of an eLectronic cigAreTte (ECLAT) as
+Barnoya, J. and Navas-Acien, A. (2013) Protecting tobacco cigarettes substitute: a prospective 12-month
+the world from secondhand tobacco smoke exposure: randomized control design study. PLoS One 8:
+where do we stand and where do we go from here? e66317.
+Nicotine Tob Res 15: 789–804.
+Caponnetto, P., Polosa, R., Auditore, R., Russo, C.
+Behar, R., Davis, B., Wang, Y., Bahl, V., Lin, S. and
+and Campagna, D. (2011a) Smoking cessation with
+Talbot, P. (2014) Identification of toxicants in
+e-cigarettes in smokers with a documented history of
+cinnamon-flavored electronic cigarette refill fluids.
+depression and recurring relapses. Int J Clin Med 2:
+Toxicol In Vitro 28: 198–208.
+281–284.
+Benowitz, N. and Gourlay, S. (1997) Cardiovascular
+Caponnetto, P., Polosa, R., Russo, C., Leotta, C.
+toxicity of nicotine: implications for nicotine
+and Campagna, D. (2011b) Successful smoking
+replacement therapy. J Am Coll Cardiol 29: 1422–
+cessation with electronic cigarettes in smokers with
+1431.
+a documented history of recurring relapses: a case
+Benowitz, N., Zevin, S. and Jacob, P. III (1998) series. J Med Case Rep 5: 585.
+Suppression of nicotine intake during ad libitum
+Centers for Disease Control and Prevention (CDC)
+cigarette smoking by high-dose transdermal nicotine.
+(2013) Notes from the field: electronic cigarette use
+J Pharmacol Exp Ther 287: 958–962.
+among middle and high school students - United
+Bertholon, J., Becquemin, M., Roy, M., Roy, States, 2011-2012. MMWR Morb Mortal Wkly Rep 62:
+F., Ledur, D., Annesi Maesano, I. et al. (2013) 729–730.
+82 http://taw.sagepub.comKE Farsalinos and R Polosa
+Chen, I. (2013) FDA summary of adverse events on smoking cessation with the use of electronic
+electronic cigarettes. Nicotine Tob Res 15: 615–616. cigarette: a case report. Clin Med Insights Case Rep 6:
+15–21.
+Czekaj, P., Pałasz, A., Lebda-Wyborny, T., Nowaczyk-
+Dura, G., Karczewska, W., Florek, E. et al. (2002) Farsalinos, K., Romagna, G., Allifranchini, E.,
+Morphological changes in lungs, placenta, liver and Ripamonti, E., Bocchietto, E., Todeschi, S. et al.
+kidneys of pregnant rats exposed to cigarette smoke. (2013a) Comparison of the cytotoxic potential of
+Int Arch Occup Environ Health 75 (Suppl): S27–S35. cigarette smoke and electronic cigarette vapour extract
+on cultured myocardial cells. Int J Environ Res Public
+Czogala, J., Goniewicz, M., Fidelus, B., Zielinska-
+Health 10: 5146–5162.
+Danch, W., Travers, M. and Sobczak, A. (2013)
+Secondhand exposure to vapors from electronic Farsalinos, K., Romagna, G., Tsiapras, D.,
+cigarettes. Nicotine Tob Res (11 December 2011 (Epub Kyrzopoulos, S. and Voudris, V. (2013b) Evaluating
+ahead of print). DOI: 10.1093/ntr/ntt203 nicotine levels selection and patterns of electronic
+cigarette use in a group of “vapers” who had achieved
+Dawkins, L. (2013) Electronic cigarettes: what are they
+complete substitution of smoking. Subst Abuse 7:
+and are they effective? E-Cigarette Summit, London,
+139–146.
+UK (oral presentation). Available at: http://e-cigarette-
+summit.com/wp-content/uploads/2013/12/Summit- Farsalinos, K., Romagna, G., Tsiapras, D.,
+Presentations.pdf [accessed 22 December 2013]. Kyrzopoulos, S. and Voudris, V. (2013c) Evaluation
+of electronic cigarette use (vaping) topography and
+Dawkins, L. and Corcoran, O. (2013) Acute electronic
+estimation of liquid consumption: implications for
+cigarette use: nicotine delivery and subjective effects in
+research protocol standards definition and for public
+regular users. Psychopharmacology (Berl) 231: 401–407.
+health authorities’ regulation. Int J Environ Res Public
+Dawkins, L., Turnern, J., Roberts, A. and Soar, K. (2013) Health 10: 2500–2514.
+‘Vaping’ profiles and preferences: an online survey of
+Farsalinos, K., Romagna, G. and Voudris, V. (2013d)
+electronic cigarette users. Addiction 108: 1115–1125.
+Authors miss the opportunity to discuss important
+De Leon, J. and Diaz, F. (2005). A meta-analysis public health implications. J Chromatogr A 1312:
+of worldwide studies demonstrates an association 155–156.
+between schizophrenia and tobacco smoking
+behaviors. Schizophr Res 76: 1351–1357. Farsalinos, K., Spyrou, A., Tsimopoulou, K.,
+Stefopoulos, C., Romagna, G. and Voudris, V.
+Dockrell, M., Morison, R., Bauld, L. and McNeill, A. (2014). Nicotine absorption from electronic cigarette
+(2013) E-Cigarettes: prevalence and attitudes in Great use: comparison between first and new-generation
+Britain. Nicotine Tob Res 15: 1737–1744. devices. Sci Rep (in press).
+Douptcheva, N., Gmel, G., Studer, J., Deline, S. and
+Farsalinos, K., Tsiapras, D., Kyrzopoulos, S.,
+Etter, J.F. (2013) Use of electronic cigarettes among
+Savvopoulou, M., Avramidou, E., Vasilopoulou, D.
+young Swiss men. J Epidemiol Community Health 67:
+et al. (2012) Acute effects of using an electronic
+1075–1076.
+nicotine-delivery device (e-cigarette) on myocardial
+Environmental Protection Agency (1992) EPA function: comparison with the effects of regular
+Report/600/6-90/006F. Respiratory health effects of cigarettes. Eur Heart J 33(Abstract Supplement): 203.
+passive smoking: lung cancer and other disorders.
+Farsalinos, K., Tsiapras, D., Kyrzopoulos, S.,
+Washington, DC. Available at: http://oaspub.epa.
+Stefopoulos, C., Spyrou, A., Tsakalou, M. et al.
+gov/eims/eimscomm.getfile?p_download_id=36793
+(2013f) Immediate effects of electronic cigarette use
+(Accessed: 20 November 2013).
+on coronary circulation and blood carboxyhemoglobin
+Environmental Protection Agency (2000) levels: comparison with cigarette smoking. Eur Heart J
+Cinnamaldehyde (040506) fact sheet. Available 34(Abstract Supplement): 13.
+at: http://www.epa.gov/pesticides/chem_search/
+Flouris, A., Chorti, M., Poulianiti, K., Jamurtas,
+reg_actions/registration/fs_PC-040506_1-Oct-98.pdf
+A., Kostikas, K., Tzatzarakis, M. et al. (2013) Acute
+(Accessed: 20 November 2013).
+impact of active and passive electronic cigarette
+Etter, J. and Bullen, C. (2011) Electronic cigarette: smoking on serum cotinine and lung function. Inhal
+users profile, utilization, satisfaction and perceived Toxicol 25: 91–101.
+efficacy. Addiction 106: 2017–2028.
+Flouris, A., Poulianiti, K., Chorti, M., Jamurtas, A.,
+Etter, J., Zäther, E. and Svensson, S. (2013) Analysis Kouretas, D., Owolabi, E. et al. (2012) Acute effects of
+of refill liquids for electronic cigarettes. Addiction 108: electronic and tobacco cigarette smoking on complete
+1671–1679. blood count. Food Chem Toxicol 50: 3600–3603.
+Farsalinos, K. and Romagna, G. (2013) Chronic Food and Drug Administration (2009) FDA and
+idiopathic neutrophilia in a smoker, relieved after Public health experts warn about electronic cigarettes.
+http://taw.sagepub.com 83Therapeutic Advances in Drug Safety 5(2)
+Available at: http://www.fda.gov/NewsEvents/ Laugesen, M. (2008) Safety Report on the
+Newsroom/PressAnnouncements/ucm173222.htm Ruyan® e-cigarette Cartridge and Inhaled
+(Accessed: 20 November 2013). Aerosol. Available at: http://www.healthnz.co.nz/
+RuyanCartridgeReport30-Oct-08.pdf (Accessed: 18
+Gennimata, S., Palamidas, A., Kaltsakas, G., Tsikrika,
+November 2013).
+S., Vakali, S., Gratziou, C. et al. (2012) Acute effect of
+e-cigarette on pulmonary function in healthy subjects Laugesen, M. (2009). Ruyan®E-cigarette Bench-top
+and smokers. Presented at the European Respiratory tests. Society for Research on Nicotine and Tobacco
+Society’s Annual Congress, Poster P1053. Available (SRNT) Dublin, Poster 5-11. Available at: http://
+at: https://www.ersnetsecure.org/public/prg_congres. www.healthnz.co.nz/DublinEcigBenchtopHandout.
+abstract?ww_i_presentation=59718 (Accessed: 20 pdf [accessed 20 November 2013].
+November 2013).
+Le Houezec, J., McNeill, A. and Britton, J. (2011)
+Goniewicz, M., Knysak, J., Gawron, M., Kosmider, Tobacco, nicotine and harm reduction. Drug Alcohol
+L., Sobczak, A., Kurek, J. et al. (2013) Levels of Rev 30: 119–123.
+selected carcinogens and toxicants in vapour from
+Lee, S., Grana, R. and Glantz, S. (2013) Electronic
+electronic cigarettes. Tob Control. DOI: 10.1136/
+cigarette use among Korean adolescents: a cross-
+tobaccocontrol-2012-050859. (Published online: 6
+sectional study of market penetration, dual use,
+March 2013).
+and relationship to quit attempts and former
+Greenland, S., Satterfield, M. and Lanes, S. (1998) A smoking. J Adolesc Health. DOI: 10.1016/j.
+meta-analysis to assess the incidence of adverse effects jadohealth.2013.11.003. (Published online: 22
+associated with the transdermal nicotine patch. Drug November 2013).
+Safety 18: 297–308.
+Lotfipour, S., Arnold, M., Hogenkamp, D., Gee, K.,
+Guillem, K., Vouillac, C., Azar, M., Parsons, L., Koob, Belluzzi, J. and Leslie, F. (2011) The monoamine
+G., Cador, M. et al. (2005) Monoamine oxidase oxidase (MAO) inhibitor tranylcypromine enhances
+inhibition dramatically increases the motivation to nicotine self-administration in rats through a
+self-administer nicotine in rats. J Neurosci 25: mechanism independent of MAO inhibition.
+8593–8600. Neuropharmacology 61: 95–104.
+Lúdvíksdóttir, D., Blöndal, T., Franzon, M.,
+Guslandi, M. (1999) Nicotine treatment for ulcerative
+Gudmundsson, T. and Säwe, U. (1999) Effects of nicotine
+colitis. Br J Clin Pharmacol 48: 481–484.
+nasal spray on atherogenic and thrombogenic factors
+Hadwiger, M., Trehy, M., Ye, W., Moore, T., Allgire, during smoking cessation. J Intern Med 246: 61–66.
+J. and Westenberger, B. (2010) Identification of
+Mayer, B. (2013). How much nicotine kills a human?
+amino-tadalafil and rimonabant in electronic
+Tracing back the generally accepted lethal dose to
+cigarette products using high pressure liquid
+dubious self-experiments in the nineteenth century.
+chromatography with diode array and tandem mass
+Arch Toxicol 88: 5–7.
+spectrometric detection. J Chromatogr A 1217:
+7547–7555. Mayers, M. (2009) FDA acts to protect public
+health from electronic cigarettes. Campaign for
+Hajek, P., Jarvis, M., Belcher, M., Sutherland, G. and
+Tobacco-Free Kids statement. Available at: http://
+Feyerabend, C. (1989) Effect of smoke-free cigarettes
+www.tobaccofreekids.org/press_releases/post/id_1166
+on 24 h cigarette withdrawal: a double-blind placebo-
+(Accessed: 20 November 2013).
+controlled study. Psychopharmacology (Berl) 97:
+99–102. McAuley, T., Hopke, P., Zhao, J. and Babaian, S.
+(2012) Comparison of the effects of e-cigarette vapor
+Hubbard, R., Lewis, S., Smith, C., Godfrey, C.,
+and cigarette smoke on indoor air quality. Inhal Toxicol
+Smeeth, L., Farrington, P. et al. (2005) Use of
+24: 850–857.
+nicotine replacement therapy and the risk of acute
+myocardial infarction, stroke, and death. Tob Control McCauley, L., Markin, C. and Hosmer, D. (2012) An
+14: 416–421. unexpected consequence of electronic cigarette use.
+Chest 141(4): 1110–1113.
+Kim, H. and Shin, H. (2013) Determination of
+tobacco-specific nitrosamines in replacement liquids McClernon, F., Hiott, F., Westman, E., Rose, J. and
+of electronic cigarettes by liquid chromatography- Levin, E. (2006) Transdermal nicotine attenuates
+tandem mass spectrometry. J Chromatogr A 1291: depression symptoms in nonsmokers: a double-blind,
+48–55. placebo-controlled trial. Psychopharmacology (Berl)
+189: 125–133.
+King, B., Alam, S., Promoff, G., Arrazola, R. and
+Dube, S. (2013) Awareness and ever use of electronic MHRA Commission on human medicines, Working
+cigarettes among US adults, 2010–2011. Nicotine Tob Group on nicotine containing products (NCPS)
+Res 15(9): 1623–1627. (2013). Current use of electronic cigarettes. Available
+84 http://taw.sagepub.comKE Farsalinos and R Polosa
+at: http://www.mhra.gov.uk/home/groups/comms-ic/ on smoking reduction and cessation: a prospective
+documents/websiteresources/con286845.pdf 6-month pilot study. BMC Public Health 11: 786.
+(Accessed: 20 November 2013).
+Polosa, R., Morjaria, J., Caponnetto, P., Campagna,
+Moore, D., Aveyard, P., Connock, M., Wang, D., D., Russo, C., Alamo, A. et al. (2013a) Effectiveness
+Fry-Smith, A. and Barton, P. (2009) Effectiveness and and tolerability of electronic cigarette in real-life: a
+safety of nicotine replacement therapy 24-month prospective observational study. Intern
+assisted reduction to stop smoking: systematic Emerg Med. DOI: 10.1007/s11739-013-0977-z
+review and meta-analysis. BMJ 338: b1024. (Published online: July 2013).
+Murray, R., Bailey, W., Daniels, K., Bjornson, W., Polosa, R., Rodu, B., Caponnetto, P., Maglia, M.
+Kurnow, K., Connett, J. et al. (1996) Safety of and Raciti, C. (2013b) A fresh look at tobacco harm
+nicotine polacrilex gum used by 3,094 participants in reduction: the case for the electronic cigarette. Harm
+the Lung Health Study. Lung Health Study Research Reduct J 10: 19.
+Group. Chest 109: 438–445.
+Pryor, W. and Stone, K. (1993) Oxidants in cigarette
+National Association of Attorneys General (2013) smoke: radicals, hydrogen peroxide, peroxynitrate, and
+FDA regulation on E-cigarettes. Available at: http:// peroxynitrite. Ann NY Acad Sci 686: 12–28.
+www.naag.org/assets/files/pdf/E%20Cigarette%20
+Ravindra, K., Wauters, E. and Van Grieken, R. (2008)
+Final%20Letter%20(5)(1).pdf (Accessed: 20
+Variation in particulate PAHs levels and their relation
+November 2013).
+with the transboundary movement of the air masses.
+Nides, M., Leischow, S., Bhatter, M. and Simmons, Sci Total Environ 396: 100–110.
+M. (2014) Nicotine blood levels and short-term
+Renne, R., Wehner, A., Greenspan, B., Deford, H.,
+smoking reduction with an electronic nicotine delivery
+Ragan, H., Westenberg, R. et al. (1992) 2-Week and
+system. Am J Health Behav 38: 265–274.
+13-Week Inhalation Studies of Aerosolized Glycerol in
+Nielsen, S., Franklin, G., Longstreth, W., Swanson, Rats. Inhal Toxicol 4: 95–111.
+P. and Checkoway, H. (2013) Nicotine from edible
+Riess, U., Tegtbur, U., Fauck, C., Fuhrmann,
+Solanaceae and risk of Parkinson disease. Ann Neurol
+F., Markewitz, D. and Salthammer, T. (2010)
+74: 472–477.
+Experimental setup and analytical methods for
+Nitenberg, A. and Antony, I. (1999) Effects of nicotine the non-invasive determination of volatile organic
+gum on coronary vasomotor responses compounds, formaldehyde and NOx in exhaled
+during sympathetic stimulation in patients with human breath. Anal Chim Acta 669: 53–62.
+coronary artery stenosis. J Cardiovasc Pharmacol 34:
+Rigotti, N., Pipe, A., Benowitz, N., Arteaga, C.,
+694–699.
+Garza, D. and Tonstad, S. (2010) Efficacy and safety
+Palamidas, A., Gennimata, S., Kaltsakas, G., Tsikrika, of varenicline for smoking cessation in patients with
+S., Vakali, S., Gratziou, C. et al. (2013) Acute effect cardiovascular disease: A randomized trial. Circulation
+of an e-cigarette with and without nicotine on lung 121: 221–229.
+function. Presented at the European Respiratory
+Robertson, O., Loosli, C., Puck, T., Wise, H., Lemon,
+Society’s Annual Congress, Poster P1054. Available
+H. and Lester, W. Jr (1947) Tests for the chronic
+at: http://www.ersnet.org/learning_resources_player/
+toxicity of propylene glycol and triethylene glycol
+abstract_print_13/files/100.pdf (Accessed: 20
+on monkeys and rats by vapor inhalation and oral
+November 2013).
+administration. J Pharmacol Exp Ther 91: 52–76.
+Pellegrino, R., Tinghino, B., Mangiaracina, G.,
+Rodu, B. and Godshall, W. (2006) Tobacco harm
+Marani, A., Vitali, M., Protano, C. et al. (2012)
+reduction: An alternative cessation strategy for
+Electronic cigarettes: an evaluation of exposure to
+inveterate smokers. Harm Reduct J 3: 37.
+chemicals and fine particulate matter (PM). Ann Ig
+24: 279–288.
+Romagna, G., Allifranchini, E., Bocchietto, E.,
+Todeschi, S., Esposito, M. and Farsalinos, K. (2013)
+Peters, A. (2005) Particulate matter and heart disease:
+Cytotoxicity evaluation of electronic cigarette
+evidence from epidemiological studies. Toxicol Appl
+vapor extract on cultured mammalian fibroblasts
+Pharmacol 207: 477–482.
+(ClearStream-LIFE): comparison with tobacco
+Polosa, R. and Caponnetto, P. (2013) Time for cigarette smoke extract. Inhal Toxicol 25: 354–361.
+evidence-based e-cigarette regulation. Lancet Oncol 14:
+Romagna, G., Zabarini, L., Barbiero, L.,
+582–583.
+Bocchietto, E., Todeschi, S., Caravati, E. et al.
+Polosa, R., Caponnetto, P., Morjaria, J., Papale, (2012) Characterization of chemicals released
+G., Campagna, D. and Russo, C. (2011) Effect of to the environment by electronic cigarettes use
+an electronic nicotine delivery device (e-Cigarette) (ClearStream-Air project): is passive vaping a reality?
+http://taw.sagepub.com 85Therapeutic Advances in Drug Safety 5(2)
+SRNT Europe Annual Congress, Helsinki, Finland. Carboxyhaemoglobin levels, health and lifestyle
+Poster RRP18. Available at: http://www.srnteurope. perceptions in smokers converting from tobacco
+org/assets/srnt-e2012abstractbook.pdf [accessed 20 cigarettes to electronic cigarettes. S Afr Med J 103:
+November 2013]. 865–868.
+Rose, J. (2006) Nicotine and nonnicotine factors in Vardavas, C., Anagnostopoulos, N., Kougias, M.,
+cigarette addiction. Psychopharmacology (Berl) 184: Evangelopoulou, V., Connolly, G. and Behrakis,
+274–285. P. (2012) Short-term pulmonary effects of using
+an electronic cigarette: impact on respiratory flow
+Rose, J. and Levin, E. (1991) Inter-relationships
+resistance, impedance, and exhaled nitric oxide. Chest
+between conditioned and primary reinforcement in
+141: 1400–1406.
+the maintenance of cigarette smoking. Br J Addict 86:
+605–609. Varughese, S., Teschke, K., Brauer, M., Chow, Y.,
+van Netten, C. and Kennedy, S. (2005) Effects of
+Russell, M. (1991) The future of nicotine replacement.
+theatrical smokes and fogs on respiratory health in the
+Br J Addict 86: 653–658.
+entertainment industry. Am J Ind Med 47: 411–418.
+Sahakian, B., Jones, G., Levy, R., Gray, J. and
+Werley, M., McDonald, P., Lilly, P., Kirkpatrick, D.,
+Warburton, D.(1989) The effects of nicotine on
+Wallery, J., Byron, P. et al. (2011) Non-clinical safety
+attention, information processing, and short-term
+and pharmacokinetic evaluations of propylene glycol
+memory in patients with dementia of the Alzheimer
+aerosol in Sprague-Dawley rats and Beagle dogs.
+type. Br J Psychiatry 154: 797–800.
+Toxicology 287: 76–90.
+Saitta, D., Ferro, G. and Polosa, R. (2014) Achieving
+Westenberger, B. (2009) Evaluation of e-Cigarettes.
+appropriate regulations for electronic cigarettes. Ther
+St.Louis, MO: Department of Health and Human
+Adv Chronic Dis 3 February 2014 (Epub ahead of
+Services, Food and Drug Administration, Center
+print). DOI: 10.1177/2040622314521271
+for Drug Evaluation and Research, Division of
+Schiller, J. and Ni, H. (2006) Cigarette smoking Pharmaceutical Analysis. Available at: http://www.fda.
+and smoking cessation among persons with chronic gov/downloads/drugs/Scienceresearch/UCM173250.
+obstructive pulmonary disease. Am J Health Promot pdf (Accessed: November 10, 2013).
+20: 319–323.
+WHO-IARC (2004) IARC monographs on the
+Schober, W., Szendrei, K., Matzen, W., Osiander- evaluation of carcinogenic risks to humans. Volume
+Fuchs, H., Heitmann, D., Schettgen, T. et al. (2013) 83, tobacco smoke and involuntary smoking. Available
+Use of electronic cigarettes (e-cigarettes) impairs at: http://monographs.iarc.fr/ENG/Monographs/vol83/
+indoor air quality and increases FeNO levels of mono83.pdf. (Accessed: 20 November 2013).
+e-cigarette consumers. Int J Hyg Environ Health. DOI:
+Wieslander, G., Norbäck, D. and Lindgren, T. (2001)
+10.1016/j.ijheh.2013.11.003. (Published online: 6
+Experimental exposure to propylene glycol mist
+December 2013).
+in aviation emergency training: acute ocular and
+Schripp, T., Markewitz, D., Uhde, E. and Salthammer, respiratory effects. Occup Environ Med 58: 649–655.
+T. (2013) Does e-cigarette consumption cause passive
+Williams, M., Villarreal, A., Bozhilov, K., Lin, S. and
+vaping? Indoor Air 23: 25–31.
+Talbot, P. (2013) Metal and silicate particles including
+Seaton, A., MacNee, W., Donaldson, K. and Godden, nanoparticles are present in electronic cigarette
+D. (1995) Particulate air pollution and acute health cartomizer fluid and aerosol. PLoS One 8: e57987.
+effects. Lancet 345: 176-178.
+World Health Organization (2013) Tobacco fact sheet
+Stein, Y., Antal, M. and Jones, M. (1983) A study of No 339. Updated July 2013. Available at: http://www.
+the gas-phase pyrolysis of glycerol. J Anal Appl Pyrol 4: who.int/mediacentre/factsheets/fs339/en/ (Accessed:
+283–296. 18 November 2013).
+US Fire Administration (2012) Smoking-related Fires Woolf, K., Zabad, M., Post, J., McNitt, S., Williams,
+in residential buildings (2008-2010). Topical Fire G. and Bisognano, J. (2012) Effect of nicotine
+Report Series 13. Available at: http://www.usfa.fema. replacement therapy on cardiovascular outcomes after
+gov/downloads/pdf/statistics/v13i6.pdf (Accessed: 20 acute coronary syndromes. Am J Cardiol 110: 968–970.
+November 2013).
+Yudkin, P., Hey, K., Roberts, S., Welch, S., Murphy,
+US Pharmacopeia (2013) Elemental impurities limits. M. and Walton, R. (2003) Abstinence from smoking
+Available at: http://www.usp.org/sites/default/files/usp_ eight years after participation in randomised
+pdf/EN/USPNF/key-issues/c232_final.pdf (Accessed: controlled trial of nicotine patch. BMJ 327: 28–29.
+20 November 2013).
+Visit SAGE journals online Zevin, S., Benowitz, N. and Jacob, P. (1998) Dose-
+http://taw.sagepub.com Van Staden, S., Groenewald, M., Engelbrecht, related cardiovascular and endocrine effects of
+SAGE journals R., Becker, P. and Hazelhurst, L. (2013) transdermal nicotine. Clin Pharmacol Ther 64: 87–95.
+86 http://taw.sagepub.com
