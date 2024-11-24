@@ -7,6 +7,7 @@ Output:
 import random as rnd
 from collections import defaultdict, Counter
 import pdfplumber
+from pdfminer.high_level import extract_text
 import json
 import os
 
@@ -67,6 +68,9 @@ class Textinator:
         wc = Counter(words)
         num = len(words)
         return {'wordcount': wc, 'numwords': num}
+
+    def alt_pdf_parser(self, filename):
+        pass
 
 
     def load_stop_words(self, stopwords_file):
