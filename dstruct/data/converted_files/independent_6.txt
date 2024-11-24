@@ -214,10 +214,8 @@ group i (45–54, 55–64, and 65–74 years) were esti-
 15 or more cigarettes per day (Table 2). Because of the
 mated by M i/(1+(RR−1)Pi) for non-smokers and RR
 narrow age range of commencing smoking, duration of
-times this for smokers [16] (where M
-i
-and Pi represent
-smoking among current smokers was strongly corre-
+times this for smokers [16] (where M and Pi represent
+i smoking among current smokers was strongly corre-
 2010/2011 Australian population mortality rates and
 lated with current age (r=0.8). Data from the 3-year
 smoking prevalence estimated from other sources, re-
@@ -470,13 +468,13 @@ Authordetails
 smokingstatusreportedatbaseline. 1NationalCentreforEpidemiologyandPopulationHealth,AustralianNational
 Additionalfile2:TableS2,Smokinghabitsamongcurrentand University,62MillsRoad,ActonACT2601,Australia.2TheSaxInstitute,PO
 formersmokersbysexandbirthdecade. BoxK617,Haymarket,Sydney,NSW1240,Australia.3CancerCouncilNSW,PO
-Additionalfile3:FigureS1,Relativerisk(RR)ofall-causemortalityin
 Box572,KingsCross,Sydney,NSW1340,Australia.4SchoolofPopulation
+Additionalfile3:FigureS1,Relativerisk(RR)ofall-causemortalityin
 currentandpastsmokersrelativetoneversmokers,bysmokingintensity, Health,EdwardFordBuilding,UniversityofSydney,Sydney,NSW2006,
-separatelyformenandwomen.Rate/1,000person-years,indirectly
 Australia.5SchoolofPublicHealthandCommunityMedicine,UNSW,Sydney,
-standardisedforageusingthewholecohortdistribution.*RRadjusted
+separatelyformenandwomen.Rate/1,000person-years,indirectly
 NSW2052,Australia.6NationalHeartFoundationofAustralia,Level12/500
+standardisedforageusingthewholecohortdistribution.*RRadjusted
 forageonly(underlyingtimevariable).#RRadjustedforage(underlying CollinsStreet,Melbourne,VIC3000,Australia.7MelbourneSchoolof
 timevariable),regionofresidence(majorcities,innerregionalareas, PopulationandGlobalHealth,UniversityofMelbourne,Level4,207Bouverie
 remoteareas),alcoholconsumption(0,1–14,≥15drinks/week),annual Street,Melbourne,VIC3010,Australia.8CancerEpidemiologyUnit,University

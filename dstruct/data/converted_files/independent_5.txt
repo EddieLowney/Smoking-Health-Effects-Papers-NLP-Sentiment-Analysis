@@ -307,162 +307,92 @@ birth age≥60 non-smokers Former Current 1-14 15-24 ≥25 Former Current N/X/C�
 20th 12770 1.00 (1656) 1.31 (3198) 2.19 (1621) 1.79 (403) 2.17 (641) 2.61 (577) 1.24 (3383) 1.48 (2912) 475 576
 *Seenotesfortable1.
 †Seenotesfortable1.
-page4of9 BMJ OnlineFirst bmj.comingeffectsofcigarettesmokingcompletelyeliminatedthegreat
-reductionsinoverallmortalityatages70-89thatwereoccurring
-amongnon-smokers(table4).Amongthoseborninaboutthe
-1870sandobservedatages70-89duringthe1950s,thecigarette
-smokerversusnon-smokerdeathrateratiowasonly1.16(92.9/
-80.1),whereasforthoseborninaboutthe1910sandobservedat
-ages 70-89 during the 1990s the death rate ratio was 2.83
-(113.1/39.9).
-Hazardsamongcigarettesmokersborn1900-1930
-Bydecadeofbirth
-For those born in 1900-1909, annual mortality among
-non-smokerswas,bothinmiddleandinoldage,abouthalfthat
-among cigarette smokers. (These twofold death rate ratios are
-calculatedfromthelogarithmsoftheprobabilitiesofsurviving
-from35-70,70-80,and80-90infigure2(topgraph).)Taking,as
-before,theexcessoverallmortalityamongthesesmokersasan
-approximatemeasureoftheexcessmortalityactuallycausedby
-smoking, this twofold ratio indicates that about half of the
-persistentcigarettesmokersbornin1900-1909wouldeventually
-bekilledbytheirhabit.
-Forthosebornin1920-1929theprobabilityofdeathinmid-
-dle age (35-69) was 15% in non-smokers and 43% in cigarette
-smokers, corresponding to a threefold death rate ratio
-first decade of the century the difference between cigarette
-smokers and non-smokers in the probability of surviving from
-age35toage70wasonly18%(58%v76%(correspondingtoa
-twofolddeathrateratio)),butitwas28%(57%v85%(athreefold
-death rate ratio)) for those born in the third decade. This
-comparisonagaininvolvesonlya20yeartimedifference.
-Trendsovertime:successivestudydecades
-Ifwecomparemortalityatages70-89duringthefiveseparate
-decades of the study (1951-2001) then the effects of a 40 year
-timedifference(1950sv1990s)canbestudied,astheagesofthe
-original respondents varied from only 21 to 100. Some 2000
-menwerealreadyaged70-89atthestartofthestudy,andsome
-4000 of the younger respondents eventually survived to reach
-their70thbirthdayduringthefifthdecadeofthestudy.Thus,in
-eachstudydecadewecanobservethedeathratesofmenintheir
-70sand80sandcancalculatetheprobabilitythat,attheagespe-
-cificdeathratesprevailinginthatparticulardecade,a70yearold
-manwouldsurvivetoage90(table4).
-Overthefivedecadesthereisbothaprogressivereductionin
-the mortality of elderly never smokers and, counterbalancing
-this, a progressive maturing of the epidemic of the effects of
-cigarettesmokingonmortalityinoldage.Table4showsahalv-
-ingofthestandardisedmortalityrateatages70-89amongnon-
-smokers and almost a tripling of their probability of surviving
-fromage70toage90,whichwas12%atthenon-smokerdeath
-rates of the 1950s and 33% at those of the 1990s. (The mean
-yearsofbirthforthosewhodiedatages70-89inthe1950sand
-the1990swere,respectively,1875and1915.)
-These reductions in mortality of the lifelong non-smokers
-werepresumablyduebothtopreventionof,and,particularly,to
-improvements in the treatment of, various diseases in elderly
-people. (For example, one of the present authors who is a
-participantinthestudyacquiredapacemaker10yearsago.)But,
-amongsuccessivebirthcohortsofcigarettesmokerstheincreas-
-06
+page4of9 BMJ OnlineFirst bmj.comPapers
+ingeffectsofcigarettesmokingcompletelyeliminatedthegreat
+Doctors born 1851-1899 reductionsinoverallmortalityatages70-89thatwereoccurring
+06 100 amongnon-smokers(table4).Amongthoseborninaboutthe
 ega
-morf
-lavivrus
-egatnecreP
-Doctors born 1851-1899
-100
-82
-80
-Non-smokers
-68
+82 1870sandobservedatages70-89duringthe1950s,thecigarette
+morf 80
+Non-smokers smokerversusnon-smokerdeathrateratiowasonly1.16(92.9/
+lavivrus 68 80.1),whereasforthoseborninaboutthe1910sandobservedat
 60
-Cigarette smokers
+Cigarette smokers ages 70-89 during the 1990s the death rate ratio was 2.83
 45
-40
-31
+egatnecreP06 40 (113.1/39.9).
+31 Hazardsamongcigarettesmokersborn1900-1930
 20
 13
-0 5 1
-Age (years)
-06
-ega
-morf
-lavivrus
-egatnecreP
-Doctors born 1900-1930
+Bydecadeofbirth
+0 5 1 For those born in 1900-1909, annual mortality among
+Doctors born 1900-1930 non-smokerswas,bothinmiddleandinoldage,abouthalfthat
 100
-88
-80
-Non-smokers
-71 65 60
-Cigarette smokers
-40
-32 26
-20
-2
+among cigarette smokers. (These twofold death rate ratios are
+ega 88
+calculatedfromthelogarithmsoftheprobabilitiesofsurviving
+morf 80
+Non-smokers from35-70,70-80,and80-90infigure2(topgraph).)Taking,as
+lavivrus 60 71 65 before,theexcessoverallmortalityamongthesesmokersasan
+Cigarette smokers approximatemeasureoftheexcessmortalityactuallycausedby
+egatnecreP53 40 smoking, this twofold ratio indicates that about half of the
+32 26 persistentcigarettesmokersbornin1900-1909wouldeventually
+20 bekilledbytheirhabit.
+2 Forthosebornin1920-1929theprobabilityofdeathinmid-
 0 5
-40 50 60 70 80 90 100
+40 50 60 70 80 90 100 dle age (35-69) was 15% in non-smokers and 43% in cigarette
+Age (years) smokers, corresponding to a threefold death rate ratio
 Fig1 Survivalfromage60forcontinuingcigarettesmokersandlifelong
 non-smokersamongUKmaledoctorsborn1851-1899(median1889)and
-1900-1930(median1915),withpercentagesaliveateachdecadeofage
-53
-ega
-morf
-lavivrus
-egatnecreP
-Doctors born 1900-1909
-100
-80 Non-smokers
-60
-Cigarette smokers
-40
-20
-0
-Age (years)
-53
-ega
-morf
-lavivrus
-egatnecreP
-40 50 60 70 80 90
-53
-ega
-morf
-lavivrus
-egatnecreP
-Papers
-97
-89 94
-81 76
-58
-50
-26 18
-4
-Doctors born 1910-1919
+1900-1930(median1915),withpercentagesaliveateachdecadeofage Doctors born 1900-1909
 100 97
-91
+ega 94 89
+morf 80 81 76 Non-smokers
+first decade of the century the difference between cigarette
+lavivrus
+smokers and non-smokers in the probability of surviving from 60 58
+age35toage70wasonly18%(58%v76%(correspondingtoa Cigarette smokers 50
+twofolddeathrateratio)),butitwas28%(57%v85%(athreefold egatnecreP53 40
+death rate ratio)) for those born in the third decade. This
+20 26 18
+comparisonagaininvolvesonlya20yeartimedifference.
+Trendsovertime:successivestudydecades 0 4
+Ifwecomparemortalityatages70-89duringthefiveseparate Doctors born 1910-1919
+100 97
+decades of the study (1951-2001) then the effects of a 40 year ega 91
 94
-80 80
-81 Non-smokers
-60 59
-Cigarette smokers 58
-40
-20 26
-0
-Doctors born 1920-1929
-100 97 93
-93 85
-80
-79 Non-smokers
+timedifference(1950sv1990s)canbestudied,astheagesofthe
+morf 80 80
+original respondents varied from only 21 to 100. Some 2000 81 Non-smokers
+menwerealreadyaged70-89atthestartofthestudy,andsome lavivrus 60 59
+4000 of the younger respondents eventually survived to reach Cigarette smokers 58
+their70thbirthdayduringthefifthdecadeofthestudy.Thus,in egatnecreP53 40
+eachstudydecadewecanobservethedeathratesofmenintheir
+70sand80sandcancalculatetheprobabilitythat,attheagespe- 20 26
+cificdeathratesprevailinginthatparticulardecade,a70yearold
+manwouldsurvivetoage90(table4). 0
+Overthefivedecadesthereisbothaprogressivereductionin Doctors born 1920-1929
+the mortality of elderly never smokers and, counterbalancing 100 97 93
+ega
+this, a progressive maturing of the epidemic of the effects of 93 85
+morf 80
+cigarettesmokingonmortalityinoldage.Table4showsahalv- 79 Non-smokers
+ingofthestandardisedmortalityrateatages70-89amongnon- lavivrus
 60 57
-Cigarette smokers
-40
-20
-0 100
+smokers and almost a tripling of their probability of surviving Cigarette smokers
+fromage70toage90,whichwas12%atthenon-smokerdeath egatnecreP 40
+rates of the 1950s and 33% at those of the 1990s. (The mean
+yearsofbirthforthosewhodiedatages70-89inthe1950sand 20
+the1990swere,respectively,1875and1915.)
+These reductions in mortality of the lifelong non-smokers 0 40 50 60 70 80 90 100
+werepresumablyduebothtopreventionof,and,particularly,to Age (years)
+improvements in the treatment of, various diseases in elderly
 Fig2 Survivalfromage35forcontinuingcigarettesmokersandlifelong
+people. (For example, one of the present authors who is a
 non-smokersamongUKmaledoctorsborn1900-1909,1910-1919,and
-1920-1929,withpercentagesaliveateachdecadeofage
-BMJ OnlineFirst bmj.com page5of9Table4 Trendsduring1951-2001inoverallmortalityatages70-89amonglifelongnon-smokersandcontinuingcigarettesmokers(menbornNovember
+participantinthestudyacquiredapacemaker10yearsago.)But, 1920-1929,withpercentagesaliveateachdecadeofage
+amongsuccessivebirthcohortsofcigarettesmokerstheincreas-
+BMJ OnlineFirst bmj.com page5of9Papers
+Table4 Trendsduring1951-2001inoverallmortalityatages70-89amonglifelongnon-smokersandcontinuingcigarettesmokers(menbornNovember
 1861-1930whosurvivedtoage70)
 Probability (%),atcurrentdeathrates,ofa70year
 Noofdeathsatages70-89 Agestandardisedmortalityper1000menaged70-89* oldsurvivingtoage90
@@ -477,21 +407,28 @@ Studydecade Lifelong Cigarette Lifelong
 withinstudydecade.
 †Forthesenon-smokerswhodiedduringthefirstandlastdecadesofthestudy,themeanyearsofbirthwere1875.6and1915.1respectively.
 notkilledbytheirhabit,butabouthalfwere,therebylosingon
-average more than 10 years of non-smoker life expectancy.
-Indeed, some of those killed by tobacco must have lost a few
-decadesoflife.
+Doctors born 1900-1930 average more than 10 years of non-smoker life expectancy.
+53 100 97 Indeed, some of those killed by tobacco must have lost a few
+ega 94 91 decadesoflife.
+morf 80 8811%
+81 Non-smokers
 Mortalityonstoppingsmoking
-A high proportion of the doctors who had been smoking in
+lavivrus 60 5588% 59 A high proportion of the doctors who had been smoking in
+Cigarette smokers
 1951stoppedduringthefirstdecadesofthisstudy,afterithad
+egatnecreP 40 10 years
 become generally accepted by the British medical profession
-thatcigarettesmokingwasacauseofmostoftheUKmortality
+24 thatcigarettesmokingwasacauseofmostoftheUKmortality
+20 26
 from lung cancer.2526 We can,therefore,examine mortality for
-somedecadesafterstoppingsmoking(table5).Asthebenefitsof
-100
+2
+0 4 somedecadesafterstoppingsmoking(table5).Asthebenefitsof
+40 50 60 70 80 90 100
 stopping cigarette smoking can be assessed directly only in a
 Age (years) populationwherethehazardsofcontinuingtosmokecigarettes
-arealreadysubstantial,ourmainanalysesofcessationareagain
-restricted to the men born in 1900-1930. Among them, those
+Fig3 Survivalfromage35forcontinuingcigarettesmokersandlifelong arealreadysubstantial,ourmainanalysesofcessationareagain
+non-smokersamongUKmaledoctorsborn1900-1930,withpercentagesaliveat restricted to the men born in 1900-1930. Among them, those
+eachdecadeofage
 whostoppedandthosewhocontinuedsmokingdifferedlittlein
 obesity and blood pressure and differed only moderately in
 meanalcoholconsumption(table2).
@@ -525,28 +462,6 @@ consumptionwas18aday.)Theresultssuggestashiftofabout
 cigarettesmokersandthelifelongnon-smokersinthisparticular Nevertheless,table5showsasteadytrendinmortalityatolder
 generation.Thatisnottosaythatallsuchsmokersdiedabout10 ages(65-74or75-84)betweenlifelongnon-smokers,ex-cigarette
 years earlier than they would otherwise have done:some were smokers who stopped at ages 35-44, 45-54, or 55-64, and
-53
-ega
-morf
-lavivrus
-egatnecreP
-Papers
-Doctors born 1900-1930
-100 97
-91 94
-80 8811%
-81 Non-smokers
-60 5588% 59
-Cigarette smokers
-40 10 years
-24
-20 26
-2
-0 4
-40 50 60 70 80 90
-Fig3 Survivalfromage35forcontinuingcigarettesmokersandlifelong
-non-smokersamongUKmaledoctorsborn1900-1930,withpercentagesaliveat
-eachdecadeofage
 Table5 Overallmortalityamongneversmokers,ex-smokers,andcontinuingcigarettesmokersinrelationtostoppingsmokingatages35-64(menborn
 1900-1930andobservedduring1951-2001)
 Annualmortalityper1000men*(Noofdeaths)
@@ -560,53 +475,76 @@ Agerange(years) Lifelongnon-smokers 35-44 45-54 55-64 smokers non-smoker)
 Divisionoftheratebythesquarerootofthenumberofdeathsindicatesitsstandarderror.
 *Meanoftwofiveyearlyagespecificrates.
 †MarkedratesareP<0.001,significantlylowerthanincontinuingcigarettesmokers(P<0.00001forallunmarkednon-smokersandex-smokerrates).
-page6of9 BMJ OnlineFirst bmj.comcontinuingcigarettesmokers.Thus,stoppingearlierisassociated
-withgreaterbenefit.
-Mortalityforex-smokersisshowninfigure4,which(bearing
+page6of9 BMJ OnlineFirst bmj.comPapers
+continuingcigarettesmokers.Thus,stoppingearlierisassociated
+withgreaterbenefit. Stopping smoking at age 25-34
+53 100
+Mortalityforex-smokersisshowninfigure4,which(bearing ega Stopped smoking
 inmindthepossiblerelevanceofreversecausality)indicatesthat
+morf 80
 evena60yearoldcigarettesmokercouldgainatleastthreeyears
-oflifeexpectancybystopping(fig4(bottomgraph)).Infigure4,
-themortalityratesthatwouldbeseenatages60-64amongthose
-who stop at about age 60 had to be interpolated (half way
+oflifeexpectancybystopping(fig4(bottomgraph)).Infigure4, lavivrus 60 Cigarette smokers
+themortalityratesthatwouldbeseenatages60-64amongthose Non-smokers
+who stop at about age 60 had to be interpolated (half way egatnecreP04 40
 betweenthesmokerandnon-smokerrates),astheycouldnotbe
+20
 assessed directly (partly because of reverse causality and partly
 becauseinthisstudytherewasoftenadelayofafewyearsbefore
+0
 thenextquestionnairearrivedandcessationcouldbereported).
-This,however,makes little difference to the long term survival
-differencesbetweencontinuingandex-cigarettesmokers.
-Thosewhostoppedataboutage50gainedaboutsixyearsof
-lifeexpectancy;thosewhostoppedataboutage40gainedabout
+Stopping smoking at age 35-44
+This,however,makes little difference to the long term survival 100
+differencesbetweencontinuingandex-cigarettesmokers. ega Stopped smoking
+Thosewhostoppedataboutage50gainedaboutsixyearsof morf 80
+lifeexpectancy;thosewhostoppedataboutage40gainedabout lavivrus Cigarette smokers
+60
 nine years; and those who stopped before middle age gained
+Non-smokers
 about 10 years and had a pattern of survival similar to that of
+egatnecreP05 40
 menwhohadneversmoked(fig4(topgraph)).
-The mean cigarette consumption in 1951 (or when last
+The mean cigarette consumption in 1951 (or when last 20
 smoked,ifthiswasbefore1951)wassimilartothatincontinuing
-smokers for those who stopped at 45-64 and was only slightly
-lowerforthosewhostoppedat25-34or35-44.Thus,thelatter
-had,onaverage,hadsubstantialexposuretocigarettesmoking
+smokers for those who stopped at 45-64 and was only slightly 0
+lowerforthosewhostoppedat25-34or35-44.Thus,thelatter Stopping smoking at age 45-54
+had,onaverage,hadsubstantialexposuretocigarettesmoking 100
+ega Stopped smoking
 for about 20 years before giving up the habit, yet they still
+morf 80
 avoided most of the excess mortality that they would have
-sufferediftheyhadcontinuedtosmoke.
-Lungcancermortality
+sufferediftheyhadcontinuedtosmoke. lavivrus 60 Cigarette smokers
+Non-smokers
+Lungcancermortality egatnecreP06 40
 Table6describestheagespecificmortalityjustfromlungcancer
-amongthesamenon-smokers,ex-smokers,andcurrentcigarette
+amongthesamenon-smokers,ex-smokers,andcurrentcigarette 20
 smokers, comparing the observed numbers with the numbers
+0
 thatwouldhavebeenexpectediftheyhadhadtheagespecific
-lung cancer death rates of lifelong non-smokers.For statistical
+lung cancer death rates of lifelong non-smokers.For statistical Stopping smoking at age 55-64
+100
 stability,theselungcancerdeathratesfornon-smokersaretaken
+ega Stopped smoking
 from a much larger prospective study,which began in 1981 in
+morf 80
 the United States (see footnote to table 6).19 At these US rates,
-19.5lungcancerdeathsatages35-84wouldhavebeenexpected
+lavivrus Cigarette smokers
+19.5lungcancerdeathsatages35-84wouldhavebeenexpected 60
+Non-smokers
 among the lifelong non-smokers in the present study, and 18
-wereobserved,whichisareasonablygoodmatch(mortalityratio
+wereobserved,whichisareasonablygoodmatch(mortalityratio egatnecreP 40
 0.9). For the current cigarette smokers the corresponding
+20
 mortalityratiowas15.9(13.7expectedand218observed).
 Therewasasteadytrendinthislungcancermortalityratio
-100
+0
+40 50 60 70 80 90 100
 betweenlifelongnon-smokers,ex-smokerswhohadstoppedat
+Age (years)
 25-34(seetable6footnote),35-44,45-54,or55-64,andcontinu-
-ingsmokers.Thistrendconfirmsthefindingsfromcase-control
+ingsmokers.Thistrendconfirmsthefindingsfromcase-control Fig4 Effectsonsurvivalofstoppingsmokingcigarettesatage25-34(effect
+fromage35),age35-44(effectfromage40),age45-54(effectfromage50),
 studies27thatthereissubstantialprotectionevenforthosewho
+andage55-64(effectfromage60)
 stopat55-64,andprogressivelygreaterprotectionforthosewho
 stopearlier.Nonetheless,thosewhohadsmokeduntilabout40
 years of age before they stopped had some excess risk of lung Discussion
@@ -630,70 +568,6 @@ cigarette smokers must have been even greater in the general
 populationintheworldofwhichthisistrue.Dailycigarettecon-
 UKpopulationthaninthisstudy.
 sumption per UK adult (one,two,four,and six a day in 1905,
-53
-ega
-morf
-lavivrus
-egatnecreP
-Stopping smoking at age 25-34
-100
-Stopped smoking
-80
-Cigarette smokers 60
-40
-20
-0
-Age (years)
-06
-ega
-morf
-lavivrus
-egatnecreP
-40 50 60 70 80 90
-04
-ega
-morf
-lavivrus
-egatnecreP
-Stopping smoking at age 35-44
-100
-80
-Cigarette smokers
-60
-40
-20
-0
-Stopping smoking at age 55-64
-100
-80
-Cigarette smokers
-60
-40
-20
-0
-05
-ega
-morf
-lavivrus
-egatnecreP
-Papers
-Non-smokers
-Stopped smoking
-Non-smokers
-Stopping smoking at age 45-54
-100
-Stopped smoking
-80
-Cigarette smokers 60
-Non-smokers
-40
-20
-0
-Stopped smoking
-Non-smokers
-Fig4 Effectsonsurvivalofstoppingsmokingcigarettesatage25-34(effect
-fromage35),age35-44(effectfromage40),age45-54(effectfromage50),
-andage55-64(effectfromage60)
 BMJ OnlineFirst bmj.com page7of9Papers
 1915,1933,and 1941 respectively—mostly consumed by men) increasingdifferencebetweenthemortalityofcigarettesmokers
 wasthreetimesasgreatinthesecondworldwar(1939-45)asin andnon-smokersarisesbecausethelargeprogressivedecrease

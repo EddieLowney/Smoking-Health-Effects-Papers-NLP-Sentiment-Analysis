@@ -49,11 +49,14 @@ MassimoCarusoandAlfioDistefanocontributedequallytothiswork.
 ThisisanopenaccessarticleunderthetermsoftheCreativeCommonsAttributionLicense,whichpermitsuse,distributionandreproductioninanymedium,
 providedtheoriginalworkisproperlycited.
 ©2022TheAuthors.DrugTestingandAnalysispublishedbyJohnWiley&SonsLtd.
-DrugTestAnal.2023;15:1145–1155. wileyonlinelibrary.com/journal/dta 11451146 CARUSOETAL.
-1 | INTRODUCTION impact of tobacco smoke12 and of alternative tobacco products,
-including electronic cigarettes.13–16 Since there is not a specific
+DrugTestAnal.2023;15:1145–1155. wileyonlinelibrary.com/journal/dta 114519427611,
+1146 CARUSOETAL.
+2023,
+1 | INTRODUCTION impact of tobacco smoke12 and of alternative tobacco products, 10,
+including electronic cigarettes.13–16 Since there is not a specific Downloaded
 Cigarettesmokeisassociatedtoanumberofdiseases,mostofwhich indication or protocol for toxicity evaluation of e-cig on human
-are represented by long-term effects on the respiratory and cardio- bronchial epithelial cells, we used a number of in vitro cytotoxicity
+are represented by long-term effects on the respiratory and cardio- bronchial epithelial cells, we used a number of in vitro cytotoxicity from
+https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/dta.3275,
 vascularapparatus.Theseeffectsdependinpartbythereiterationof assaystoscreenfourdifferente-liquidswithahighconcentrationof
 acute insults to cells over the time, such as the epithelium of the nicotine(15mg/ml)incomparisonwiththe1R6Freferencecigarette
 respiratory system leading to chronic damage, inflammation, and (University of Kentucky) using an air-liquid interface (ALI) exposure
@@ -67,18 +70,22 @@ poor response in middle- and low-income countries.1 In the last 2 | METHODS
 decade,theuseoflow-riskcombustion-freealternatives,suchaselec-
 troniccigarettes2(e-cigs),hasgrownworldwide.E-cigsincludeawide 2.1 | Nanoandmicroplasticanalysis
 rangeofvariousdevices,consistingofabatteryservingasanenergy
+Wiley
 sourceandheatinganatomizerwetbyaliquid(e-liquid)whichisthen Analyses were carried out according to patent method described in
+Online
 vaporized and thus delivering nicotine through the inhalation of an Ferrante et al.17 Briefly, after homogenization of samples by vortex,
-aerosol.Giventhatthemostharmfulcomponentsofcigarettesmoke foreachone,10mlwastransferredto50mltransparentglassflask.
-areproducedby thecombustionprocess,itis reasonabletoassume Afterwards,10mlofnitricacid65%wasadded,andmineralizationof
-that the use of e-cigs in place of tobacco cigarettes can reduce the thesampleswasperformedinanopenvesselat60(cid:1)Cfor24h.After
+aerosol.Giventhatthemostharmfulcomponentsofcigarettesmoke foreachone,10mlwastransferredto50mltransparentglassflask. Library
+areproducedby thecombustionprocess,itis reasonabletoassume Afterwards,10mlofnitricacid65%wasadded,andmineralizationof on
+that the use of e-cigs in place of tobacco cigarettes can reduce the thesampleswasperformedinanopenvesselat60(cid:1)Cfor24h.After [24/11/2024].
 burden of smoking-related morbidity and mortality by substantially this,10mlultrapurewaterand10mlofdichloromethanewereadded
-reducing the chronic exposure to tar from cigarette smoke. The ineachsample.Subsequently,sampleswerecentrifugedat4,000rpm
-potential benefits and risks of using e-cig have been the matter of for5min.Thesolventwasdispersedonanaluminumandcopperalloy
+reducing the chronic exposure to tar from cigarette smoke. The ineachsample.Subsequently,sampleswerecentrifugedat4,000rpm See
+the
+potential benefits and risks of using e-cig have been the matter of for5min.Thesolventwasdispersedonanaluminumandcopperalloy Terms
 intense scientific debate.3,4 In addition to the variety of devices on stub with a diameter of 25mm through nebulization by a nebulizer.
-themarket,anissuetobetakenintodueaccountregardstheformula- Afterstubswerecoatedwithgold,sampleswerereadytoSEM-EDX
+and
+themarket,anissuetobetakenintodueaccountregardstheformula- Afterstubswerecoatedwithgold,sampleswerereadytoSEM-EDX Conditions
 tionoftheliquidsusedtogeneratetheaerosolandtheirtoxicological analysis.Thecountingmethodwasappliedtoanoverallreadingarea
-effects.Thee-liquidconsistslargelyofpropyleneglycol(PG)andveg- within the stub for a total of 228 fields at magnification of 1,500X,
+effects.Thee-liquidconsistslargelyofpropyleneglycol(PG)andveg- within the stub for a total of 228 fields at magnification of 1,500X, (https://onlinelibrary.wiley.com/terms-and-conditions)
 etable glycerin (VG), and a smaller part of food chemical flavorings correspondingto1.0mm2.Micro-analyticalacquisitionforrecognition
 andnicotine(whichmayalsobeabsent).5Thee-liquidsareproduced oftheparticlescontainingonlycarbonanddeterminationofparticle
 through the use of industrial processes and automated mechanical sizeandcountingwasperformed.
@@ -88,62 +95,41 @@ tainers,typicallydarkenedtoprotectthenicotinewhichisphotosensi-
 tive.Thiscouldleadtothepresenceofheavymetalresidues,suchas
 arsenic, lead, aluminum, iron, mercury and cadmium, or nanoplastics Aliquots of 1 ml of each e-liquid were digested with 3 ml of Nitric
 (NPs)andmicroplastics(MPs)intheliquidsthemselves.Heavymetals Acid 65%, Suprapur® for trace analysis (Carlo Erba Reagents, Milan,
+on
 contaminationofe-liquidscouldberesponsibletoproduceoxidative Italy) in a Microwave Ethos TC (Milestone, Sorisole, BG, Italy),
+Wiley
 species and subsequent adverse effects on health of consumers.6 equipped with pressurized Teflon vessels. The digestion was
+Online
 Moreover,tissueaccumulationofheavymetalsleadstoanimbalance performedstepwiseupto200(cid:1)Cin10min(1,000W),followedbya
+Library
 and can be used as substitutes for essential elements (e.g., calcium 15min rest at 200(cid:1)C (1,000W). At the end of mineralization, the
-replacedbylead,zincbycadmium,andmosttraceelementsbyalumi- digested samples were transferred into graduated polypropylene
+replacedbylead,zincbycadmium,andmosttraceelementsbyalumi- digested samples were transferred into graduated polypropylene for
+rules
 num).NPsandMPs,smallplasticpieceslessthan1and10μminsize, tubesand dilutedto20ml usingMilli-Qwaterand filtrated through
-respectively,7 can derive from plastic container degradation, during 0.45μmnylonfiltersbeforeanalysis.
-theirproductionorstocking.Thesechemicallyinertplasticdebrisraise Trace elements were quantified with an Inductively Coupled
+of
+respectively,7 can derive from plastic container degradation, during 0.45μmnylonfiltersbeforeanalysis. use;
+OA
+theirproductionorstocking.Thesechemicallyinertplasticdebrisraise Trace elements were quantified with an Inductively Coupled articles
 significant ecological and health concerns.8,9 In particular, NPs and Plasma–Mass Spectrometer (ICP-MS Elan DRCe, Perkin Elmer USA).
-MPs in lung epithelium trigger cytotoxic effects, oxidative stress, Theinstrumentwascalibratedusingthestandardadditiontechnique
+are
+MPs in lung epithelium trigger cytotoxic effects, oxidative stress, Theinstrumentwascalibratedusingthestandardadditiontechnique governed
 inflammatory response, cell cycle arrest, upregulation of nuclear tominimizematrixeffects,coveringaconcentrationrangefrom0.5to
-factor-κB, and disruption of the epithelial cell layer.10 A number of 10 μg/L, and a 25μg/L concentration of Y as internal standard.
+by
+factor-κB, and disruption of the epithelial cell layer.10 A number of 10 μg/L, and a 25μg/L concentration of Y as internal standard. the
+applicable
 toxicological tests are necessary to establish their reduced harm Mono-elemental certified standards (1,000mg/L) were purchased
 potentialforsmokersandtoensureprotectionofindividualandpublic fromCPAchemS.r.l.(Rome,Italy).
-health from the adverse effects of potentially harmful exposures.11 The limit of detection (LOD μg/L) were calculated by analyzing
-Cytotoxicityassayshavebeenwidelyusedtoassessthetoxicological 10 acid extract blanks based on the mean ± 3 SD/mean ± 10 SD
-19427611,
-2023,
-10,
-Downloaded
-from
-https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/dta.3275,
-Wiley
-Online
-Library
-on
-[24/11/2024].
-See
-the
-Terms
-and
-Conditions
-(https://onlinelibrary.wiley.com/terms-and-conditions)
-on
-Wiley
-Online
-Library
-for
-rules
-of
-use;
-OA
-articles
-are
-governed
-by
-the
-applicable
 Creative
-Commons
-LicenseCARUSOETAL. 1147
-criterion. They resulted as follows: Al<4.4; As < 1.1; B<18; PG/VG solutions (with and without nicotine) were tested using the
-Cd<0.1; Cr<0.5; Cu<1.1; Fe<6; Hg<0.5; Mn<1.5; Ni<1.0; device Aspire Zelos mounting the “Nautilus 2” atomizer, equipped
+health from the adverse effects of potentially harmful exposures.11 The limit of detection (LOD μg/L) were calculated by analyzing
+Cytotoxicityassayshavebeenwidelyusedtoassessthetoxicological 10 acid extract blanks based on the mean ± 3 SD/mean ± 10 SD Commons
+License19427611,
+CARUSOETAL. 1147
+2023,
+criterion. They resulted as follows: Al<4.4; As < 1.1; B<18; PG/VG solutions (with and without nicotine) were tested using the 10,
+Cd<0.1; Cr<0.5; Cu<1.1; Fe<6; Hg<0.5; Mn<1.5; Ni<1.0; device Aspire Zelos mounting the “Nautilus 2” atomizer, equipped Downloaded
 Pb<0.5;Sb<0.5;Se<0.5;V<1.1. witha1.6OhmCoilandsetat10-Wpower.AspireZelosisabutton-
-As quality controls, each sample was spiked at 10 μg/L before activatede-cigarettewithaninternal2,500mAhlithiumbatterywith
-digestion.Therecoveriescalculatedareintherange91–118%. avariablewattagefrom1to50W.The“Nautilus2”isa2mltop-fill
+As quality controls, each sample was spiked at 10 μg/L before activatede-cigarettewithaninternal2,500mAhlithiumbatterywith from
+digestion.Therecoveriescalculatedareintherange91–118%. avariablewattagefrom1to50W.The“Nautilus2”isa2mltop-fill https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/dta.3275,
 tank which has the possibility to mount coils between 0.7 and 1.8
 Ohm.Ithasanairflowadjusteratthebaseofthetankwhichcanbe
 2.3 | CellcultureandALIexposure turnedtoadjusttheairflowwithfiveholeswhichcanbemoreorless
@@ -157,18 +143,22 @@ Growth Kit (PCS-300-040; ATCC, VA, USA) (50U/ml penicillin and men, accredited u
 Then, cells were seeded in 12mm Transwells® inserts (Corning filterholeventsblocked,ande-cigaretteaerosolwasproducedunder
 Incorporated,NY,USA)atadensityof1.75(cid:3)105cells/mlsustained the “CORESTA Reference Method n. 81” (CRM81) regimen (55ml
 by1mlofmediuminthebasalcompartmentofeachwelland0.5ml puffvolume,drawnover3s,onceevery30swithsquareshapedpro-
+Wiley
 in the apical compartment of each insert (Figure S1), 48h prior to file), accredited into ISO 20768:2018.22 The puff number for each
+Online
 exposure.Whenthecellsreached80%confluency,theapicalmedium product was established according to nicotine dose delivered from
-wasremovedfromeachinsert,andtwoinsertspertestproductwere 1R6F(datanotshown),inordertohaveasimilarorgreaternicotine
-transitionedtotheperspexexposurechamber16,18,19(FigureS1)with deliveryofanentire1R6Ftobaccocigarette,whichisabletodeliver
-20ml of DMEM-highglucose(DMEM-hg)inthebasalcompartment 0.45 μg/ml of nicotine per puff, measured by UPLC-MS in 1R6F
+wasremovedfromeachinsert,andtwoinsertspertestproductwere 1R6F(datanotshown),inordertohaveasimilarorgreaternicotine Library
+transitionedtotheperspexexposurechamber16,18,19(FigureS1)with deliveryofanentire1R6Ftobaccocigarette,whichisabletodeliver on
+20ml of DMEM-highglucose(DMEM-hg)inthebasalcompartment 0.45 μg/ml of nicotine per puff, measured by UPLC-MS in 1R6F [24/11/2024].
 in order to perform the air-liquid interface (ALI) exposure, as previ- cigarette bubbled culture media. Otherwise, e-cig with the e-liquids
-ouslydescribed.15,20Thisexposuremethodisthemostphysiologically containing 15mg/ml of nicotine were able to release 0.30 μg/ml of
-relevantforbronchialepithelialcelllinesexposingthemtoallfractions nicotineperpuffwiththedeviceandsettingsusedinthestudy.We
+ouslydescribed.15,20Thisexposuremethodisthemostphysiologically containing 15mg/ml of nicotine were able to release 0.30 μg/ml of See
+the
+relevantforbronchialepithelialcelllinesexposingthemtoallfractions nicotineperpuffwiththedeviceandsettingsusedinthestudy.We Terms
 andcomponentsofsmoke/aerosol.19Foreachsmoking/vapingexpo- therefore exposed cells to a quantity of nicotine from e-cig greater
-sure, one chamber was connected to the LM4E port without the thanthatofawhole1R6FcigarettewithninepuffsbyHCIregimen
+and
+sure, one chamber was connected to the LM4E port without the thanthatofawhole1R6FcigarettewithninepuffsbyHCIregimen Conditions
 device so as to expose NHBE cells to laboratory air filtered by a (4.05 μg/ml), that is, 20 puffs of e-liquids by CRM-81 regimen
-CambridgeFilterPadatthesameregime(AIRcontrol).Moreover,two (6μg/ml),toperformastrongerexposuretoaerosolandtoreproduce
+CambridgeFilterPadatthesameregime(AIRcontrol).Moreover,two (6μg/ml),toperformastrongerexposuretoaerosolandtoreproduce (https://onlinelibrary.wiley.com/terms-and-conditions)
 negativecontrols,consistingofaseededinsertwithmediasubmerged an intense vaping session. Moreover, we exposed cells to the same
 (INC)andaseededinsertwithoutapicalmedia(ALI)intheincubator, puff number (n=20) by CRM-81 regimen of air as control (AIR
 andonepositivecontrolwith1mlapicaland2mlbasalsodiumdode- control).
@@ -177,62 +167,43 @@ After eachexposure, theinsertswere transferredfromthe chamber
 toacleanwellplate,adding1and0.5mlofsupplementedmedium, 2.5 | Smokeandaerosolgeneration
 respectively,atthebasalandapicalsidefor24hofrecoveryperiod.
 The recovery period was not performed for Neutral Red Uptake 1R6F reference cigarettes (Center for Tobacco Reference Products,
+on
 (NRU)AssayinliveandxCELLigenceReal-TimeCellanalysis. University of Kentucky) were used for smoke exposure. Cigarettes
+Wiley
 wereconditionedat22±1(cid:1)Cand60±3%ofrelativehumidityforat
+Online
 least 48h according to ISO 3402:1999 guidelines. LM1 smoking
+Library
 2.4 | Testproductsandexposureregimens machine (Borgwaldt KC GmbH, Hamburg, Germany) was used to
-smoke1R6F cigarette(Figure S2) and to deliverundilutedsmoke to
-FortheexposureofNHBEcells,weusedastandardizedexperimental exposurechamberscontainingcells.Instead,e-liquidswerevapedby
-tobaccocigarette,1R6F(UniversityofKentucky),andfourelectronic LM4E vaping machine (Borgwaldt KC GmbH, Hamburg, Germany)
-cigaretteliquidsamples(hereinafterreferredtoas“e-liquids”),chosen (FigureS2);also,itiscapableofdeliveringundilutedaerosoltoexpo-
-as they are different tobacco flavored products, widely sold in Italy, surechamberswithcells.ToevaluatetheROSproductionbyaerosol,
-testedinourlaboratories:“DolceBacco”No.20containing15mg/ml weconnectedthemachinestoglassimpingercontainingmediumand
-of nicotine (A), “RedBacco” No. 19 containing 15mg/ml of nicotine bubbledthee-cigaerosolbyHCIregimenfor10to60puffs.Inorder
-(B),“Deciso”No.22containing15mg/mlofnicotine(C),and“Otello” to perform the ALI exposure of cells, smoking and vaping machines
-No. 23 containing 15mg/ml of nicotine (D). All tested e-liquids are wereconnectedtotheexposurechamberscontainingcells,whichare
-producedandmarketedinItalybyDreamodsS.r.l.(Floridia,SR,Italy). maintainedat37(cid:1)Cinatotalvisibilityincubator(SI60Incubator;Cole-
-Moreover,asolutioncontainingonlyPG/VG(1:1)andaPG/VG(1:1) Parmer, Staffordshire, UK) throughout the duration of the exposure
-with nicotine 15mg/ml were used as controls. The e-liquids and (FigureS3).
-19427611,
-2023,
-10,
-Downloaded
-from
-https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/dta.3275,
-Wiley
-Online
-Library
-on
-[24/11/2024].
-See
-the
-Terms
-and
-Conditions
-(https://onlinelibrary.wiley.com/terms-and-conditions)
-on
-Wiley
-Online
-Library
-for
+smoke1R6F cigarette(Figure S2) and to deliverundilutedsmoke to for
 rules
+FortheexposureofNHBEcells,weusedastandardizedexperimental exposurechamberscontainingcells.Instead,e-liquidswerevapedby
 of
 use;
+tobaccocigarette,1R6F(UniversityofKentucky),andfourelectronic LM4E vaping machine (Borgwaldt KC GmbH, Hamburg, Germany)
 OA
-articles
+cigaretteliquidsamples(hereinafterreferredtoas“e-liquids”),chosen (FigureS2);also,itiscapableofdeliveringundilutedaerosoltoexpo- articles
+as they are different tobacco flavored products, widely sold in Italy, surechamberswithcells.ToevaluatetheROSproductionbyaerosol,
 are
-governed
+testedinourlaboratories:“DolceBacco”No.20containing15mg/ml weconnectedthemachinestoglassimpingercontainingmediumand governed
+of nicotine (A), “RedBacco” No. 19 containing 15mg/ml of nicotine bubbledthee-cigaerosolbyHCIregimenfor10to60puffs.Inorder
 by
-the
+(B),“Deciso”No.22containing15mg/mlofnicotine(C),and“Otello” to perform the ALI exposure of cells, smoking and vaping machines the
 applicable
+No. 23 containing 15mg/ml of nicotine (D). All tested e-liquids are wereconnectedtotheexposurechamberscontainingcells,whichare
+producedandmarketedinItalybyDreamodsS.r.l.(Floridia,SR,Italy). maintainedat37(cid:1)Cinatotalvisibilityincubator(SI60Incubator;Cole-
 Creative
-Commons
-License1148 CARUSOETAL.
-2.6 | ROSproductionbyaerosol ContentImagingSystem).ExposedNHBEcellsweremonitoredevery
+Moreover,asolutioncontainingonlyPG/VG(1:1)andaPG/VG(1:1) Parmer, Staffordshire, UK) throughout the duration of the exposure
+with nicotine 15mg/ml were used as controls. The e-liquids and (FigureS3). Commons
+License19427611,
+1148 CARUSOETAL.
+2023,
+2.6 | ROSproductionbyaerosol ContentImagingSystem).ExposedNHBEcellsweremonitoredevery 10,
+Downloaded
 1 until 24h and then every 4 until 71h. All images were analyzed
 Thee-liquids(A–D),thePG/VG,andPG/VGcontainingnicotinewere using Harmony high-content imaging and analysis software
-tested to assess the production of ROS in aerosol by a simple (PerkinElmer, MA, USA). Final output values from the analysis are
-“cell-free” assay.23 An increasing number of puffs from each of the expressedasmeanfluorescenceintensity(MFI)percentageofcontrol
+tested to assess the production of ROS in aerosol by a simple (PerkinElmer, MA, USA). Final output values from the analysis are from
+“cell-free” assay.23 An increasing number of puffs from each of the expressedasmeanfluorescenceintensity(MFI)percentageofcontrol https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/dta.3275,
 e-liquidsmentionedabove were bubbledin DMEM culturemedium, per well. Live cell viability curves were generated for each tested
 FBS-free, with 20,70-Dichlorofluorescin diacetate (DCF-DA), and the product.
 fluorescence was measured by a fluorimeter by calculating the
@@ -247,19 +218,23 @@ morphology and mitochondrial potential. All experiments were
 performedintriplicate,andtheresultswerecollectedandanalyzedby
 2.7 | AssessmentofcytotoxicitybyRTCA statistical analysis. Mitochondrial potential was assessed by the
 cationic dye JC-1, which exhibits potential-dependent accumulation
+Wiley
 Aftertheexposuretosmoke,aerosol,andair,cellviabilitywasevalu- in mitochondria.25 Briefly, after smoking and aerosol exposure, cells
+Online
 ated using RTCA. At the end of each exposure, cells were washed weredetachedandseededina384-wellmultiplate(Cellcarrierultra)
-twicewithPBS,trypsinized(0.25%trypsin),counted,andresuspended at a density of 3(cid:3)103 cells. After 24h, cells were incubated with
-in supplemented RPMI-1640. Then, cells were seeded in E-16 media containing dye (1 μg/ml) for 1 h, and with SYTO Deep Red-
-xCELLigenceplate(Agilent,CA,USA)atadensityof3(cid:3)103cells/ml NucBlue Nucleic Acid Stain (excitation/emission of 652/669nm),
+twicewithPBS,trypsinized(0.25%trypsin),counted,andresuspended at a density of 3(cid:3)103 cells. After 24h, cells were incubated with Library
+in supplemented RPMI-1640. Then, cells were seeded in E-16 media containing dye (1 μg/ml) for 1 h, and with SYTO Deep Red- on
+xCELLigenceplate(Agilent,CA,USA)atadensityof3(cid:3)103cells/ml NucBlue Nucleic Acid Stain (excitation/emission of 652/669nm), [24/11/2024].
 per well. The plates were subsequently incubated at 37(cid:1)C, 5% CO which is able to enter into the live/dead cells and bind to nucleic
 2
-for 30min in order to allow cell settling. Real-time cell proliferation acids.Afterincubationwithdyes,cellswerewashedtwiceandthen
-analysis was performed using the xCELLigence RTCA DPsystem readunderconfocalconditionsusingthe20(cid:3)longWDobjectiveby
+for 30min in order to allow cell settling. Real-time cell proliferation acids.Afterincubationwithdyes,cellswerewashedtwiceandthen See
+the
+analysis was performed using the xCELLigence RTCA DPsystem readunderconfocalconditionsusingthe20(cid:3)longWDobjectiveby Terms
 (Agilent, CA, USA). The xCELLigence is designed for monitoring cell HighContentScreening(HCS)analysissystem(PerkinElmerOperetta
-adhesion and growth. The system exploits microplates with gold High-ContentImagingSystem)for72h.
+and
+adhesion and growth. The system exploits microplates with gold High-ContentImagingSystem)for72h. Conditions
 electrodesonthebottomofthewells,suchthatanelectricpotential
-isappliedacrosswells.Therefore,adheringcellstoawellreducethe
+isappliedacrosswells.Therefore,adheringcellstoawellreducethe (https://onlinelibrary.wiley.com/terms-and-conditions)
 degreeofelectronsabletoflowfreelyacrosstheestablishedpotential 2.10 | Statistics
 (electricalimpedance).24Real-timechangesinelectricalimpedanceare
 measured by xCELLigence analyzer and expressed as “cell index,” ComparisonofROScell-freeresultswasperformedbyusingANOVA
@@ -268,62 +243,42 @@ Rnistheimpedanceofthewellwithcells.Thebackgroundimpedance amongthetestedproducts
 wasmeasuredinE-plate16with100μlmedium(withoutcells)after ogy were analyzed by fitting a repeated measure mixed model
 30minincubationperiodatroomtemperature.Cellproliferationwas followedbyTukey'stesttoperformmultiplecomparisons.Moreover,
 monitoredevery20minfor71h. comparisons of JC1 results were analyzed by fitting a repeated
+on
 measure mixed model followed by Tukey's test adjustment for
+Wiley
 multiple comparisons. Data were expressed as mean ± standard
+Online
 2.8 | AssessmentofcytotoxicitybyHCSsystem error(SE).All analyseswere considered significantwitha pvalueof
+Library
 less than 5%. We analyzed and plotted the results using GraphPad
-ExposedNHBEcellswerewashedtwicewithPBSanddetachedfrom Prism version 8 (GraphPad Software, San Diego, California, USA,
+ExposedNHBEcellswerewashedtwicewithPBSanddetachedfrom Prism version 8 (GraphPad Software, San Diego, California, USA, for
+rules
 theinsertswithtrypsin(0.25%).CellswereseededinaCellCarrier™- www.graphpad.com).
-96384 well (PerkinElmer) at a density of 13(cid:3)103 cells/ml and
-incubated at 37(cid:1)C, 5% CO for 24h. Next, cells were labeled with 2
+of
+96384 well (PerkinElmer) at a density of 13(cid:3)103 cells/ml and use;
+OA
+incubated at 37(cid:1)C, 5% CO 2 for 24h. Next, cells were labeled with articles
 0.05g/L NR dye and 2 droplets/ml NucBlue™ (Invitrogen, Thermo- 3 | RESULTS
-FisherScientific,USA)inUltraCULTURE™mediumandincubatedfor
+are
+FisherScientific,USA)inUltraCULTURE™mediumandincubatedfor governed
 3 h at 37(cid:1)C, 5% CO in a humidified atmosphere for staining. After 3.1 | Nano-microplasticsandtraceelements
 2
-thestaining,mediumwithdyeswasremovedfromeachwell,andcells
-were washed twice with PBS. Then, 200μl of fresh supplemented The analysis of NPs and MPs showed no plastic debrissmaller than
-RPMI-1640 medium was added in each well. The plate was read 10μminsizeinanyoftheanalyzedsamples.Theanalysisof14trace
-underconfocalconditionsusingthe20(cid:3)longWDobjectivebyHigh elementswasperformedinfoursamplesofe-liquid(A–D),andresults
-Content Screening (HCS) analysis (PerkinElmer Operetta High- areshowninTable1.Metallicelementsconsideredsystemictoxicants
-19427611,
-2023,
-10,
-Downloaded
-from
-https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/dta.3275,
-Wiley
-Online
-Library
-on
-[24/11/2024].
-See
-the
-Terms
-and
-Conditions
-(https://onlinelibrary.wiley.com/terms-and-conditions)
-on
-Wiley
-Online
-Library
-for
-rules
-of
-use;
-OA
-articles
-are
-governed
 by
-the
-applicable
+thestaining,mediumwithdyeswasremovedfromeachwell,andcells the
+were washed twice with PBS. Then, 200μl of fresh supplemented The analysis of NPs and MPs showed no plastic debrissmaller than applicable
+RPMI-1640 medium was added in each well. The plate was read 10μminsizeinanyoftheanalyzedsamples.Theanalysisof14trace
 Creative
-Commons
-LicenseCARUSOETAL. 1149
-inalltheirchemicalforms(As,Hg,andPb)oronlysome(inorganicAs vaporization of a PG/VG formulationcontaining nicotine (15mg/ml)
+underconfocalconditionsusingthe20(cid:3)longWDobjectivebyHigh elementswasperformedinfoursamplesofe-liquid(A–D),andresults
+Content Screening (HCS) analysis (PerkinElmer Operetta High- areshowninTable1.Metallicelementsconsideredsystemictoxicants Commons
+License19427611,
+CARUSOETAL. 1149
+2023,
+inalltheirchemicalforms(As,Hg,andPb)oronlysome(inorganicAs vaporization of a PG/VG formulationcontaining nicotine (15mg/ml) 10,
+Downloaded
 andCr[VI])werefoundbelowthelimitofdetectioninalltheanalyzed insteadgeneratestheproductionofROSinproportiontothenumber
 samples,withtheexceptionofAsinsamplesAandBwherewefound of puffs. This result is consistent with previous data demonstrating
-verysmallamount,3.3and2.3μg/L,respectively.Forsomeelements thatnicotinepyrolysisproductscangenerateROS.ProductsA–Cdo
+verysmallamount,3.3and2.3μg/L,respectively.Forsomeelements thatnicotinepyrolysisproductscangenerateROS.ProductsA–Cdo from
+https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/dta.3275,
 considered essential, and respect of which there is a very narrow notgenerateROSintheseexperimentalconditions,whileproductD
 range of concentrations between beneficial and toxic effects, we showsaROSproductiondirectlyproportionaltothenumberofpuffs
 foundconcentrationsbelowtheLODorclosetoitinthecaseofAl (Figure 1). It is interesting to note that the ROS production of the
@@ -335,17 +290,24 @@ foundbelowLODinallanalyzedsamples. performedintriplicate.
 cell-freebasedassay byRTCAandneutralreduptakeinliveimaging
 analysis(NRU-HCS)
 Our results on ROS formation demonstrated that PG/VG (1:1) does
+Wiley
 not generate ROS in the absence of nicotine (Table 2). The Foreachproduct(A–D),weassessedtheviabilitybyRTCAvs.1R6F
+Online
 cigarette smoke. Figure 2 shows the results for each product
+Library
 TABLE 1 Concentrations(μg/L)oftraceelementsine-liquid
-(A–D)
+(A–D) on
+[24/11/2024].
 Traceelement SampleA SampleB SampleC SampleD
 Al 10.1 12.3 <4.4 8.6
-As 3.3 2.3 <1.1 <1.1
+See
+As 3.3 2.3 <1.1 <1.1 the
+Terms
 B 24 32 19 26
-Cd <0.5 <0.5 <0.5 <0.5
+and
+Cd <0.5 <0.5 <0.5 <0.5 Conditions
 Cr <0.5 <0.5 <0.5 <0.5
-Cu <1.1 <1.1 <1.1 <1.1
+Cu <1.1 <1.1 <1.1 <1.1 (https://onlinelibrary.wiley.com/terms-and-conditions)
 Fe 113 102 75 112
 Hg <0.5 <0.5 <0.5 <0.5
 Mn <1.5 <1.5 <1.5 <1.5
@@ -355,22 +317,30 @@ Sb <0.5 <0.5 <0.5 <0.5 FIGURE 1 ComparisonofROScell-freeproductionfromaerosol
 ofPG/VGwithnicotineande-liquidD.Dataarepresentedasthe
 Se 1.2 0.9 0.7 <0.2
 mean±standarddeviationandreferredtoμmofH O .*p<0.01;
-V <1.1 <1.1 <1.1 <1.1 2 2 **p<0.001;***p<0.0001
-TABLE 2 ROSvaluesinthecellfreeassaysystem
-Puffnumber
-Conditions
-10 20 40 60
-ProductID Air n.d. n.d. n.d. n.d.
+V <1.1 <1.1 <1.1 <1.1 **p<0.001;***p<0.0001 2 2 on
+Wiley
+Online
+TABLE 2 ROSvaluesinthecellfreeassaysystem Library
+Puffnumber for
+Conditions rules
+10 20 40 60 of
+use;
+ProductID Air n.d. n.d. n.d. n.d. OA
+articles
 PG/VG n.d. n.d. n.d. n.d.
-PG/VG+Nicotine15mg/ml 410.1±15.20 434.24±10.58 576.77±30.17 657.7±19.77
+PG/VG+Nicotine15mg/ml 410.1±15.20 434.24±10.58 576.77±30.17 657.7±19.77 are
+governed
 A(DolceBacco) n.d. n.d. n.d. n.d.
-B(RedBacco) n.d. n.d. n.d. n.d.
-C(Deciso) n.d. n.d. n.d. n.d.
+B(RedBacco) n.d. n.d. n.d. n.d. by
+the
+C(Deciso) n.d. n.d. n.d. n.d. applicable
 D(Otello) 283.5±49,33 337.15±5.61 347,37±30,94 319,71±45,99
+Creative
 Note:Dataarepresentedasthemean±standarddeviationandreferredtoμmofH O .Valuesnotdetectablebythefluorometerareindicatedasn.d.
 2 2
-(notdetectable).
-19427611,
+(notdetectable). Commons
+License19427611,
+1150 CARUSOETAL.
 2023,
 10,
 Downloaded
@@ -384,29 +354,11 @@ on
 See
 the
 Terms
+FIGURE 2 xCELLigencedatareportedasapercentageoftheAIRcontrolindicatedas100%forallobservationtimes.Thevaluesindicatedin
 and
+thegraphrefertomean±SEMoftheelectricalresistance(Cellindex)whichisdirectlyproportionaltothenumberofcells
 Conditions
 (https://onlinelibrary.wiley.com/terms-and-conditions)
-on
-Wiley
-Online
-Library
-for
-rules
-of
-use;
-OA
-articles
-are
-governed
-by
-the
-applicable
-Creative
-Commons
-License1150 CARUSOETAL.
-FIGURE 2 xCELLigencedatareportedasapercentageoftheAIRcontrolindicatedas100%forallobservationtimes.Thevaluesindicatedin
-thegraphrefertomean±SEMoftheelectricalresistance(Cellindex)whichisdirectlyproportionaltothenumberofcells
 monitored for up to 71h using xCELLigence technology. 1R6F cigarettethanwithe-liquidsA,B,C,orD(p<0.0001).ProductsAand
 cigarettesmokeshowedasurgeincell-index,andthereforecellprolif- B showed reduced nuclear roundness compared to AIR control
 eration, in the first 6–8 h and then collapsed to 100% mortality (p<0.0001),butthisreductionislessthan1R6F.Instead,e-liquidsC
@@ -415,23 +367,35 @@ trolandthefoure-liquids(p<0.0001).Thee-liquidsaerosolstimula- Control.
 tionshowedthatnoneofthetestedproductshadsignificanttoxicity
 inthefirst24hofexposureandnotevenat71h,asforAIRexposure
 of cells. Particularly, no significant differences were observed for 3.4 | Effectsofe-liquidsoncellularmetabolism
+on
 e-liquids A, B, and D compared to AIR Control (p>0.05); instead,
+Wiley
 e-liquid C increased the cell index, showing a significant difference Theseexperimentsaimingatevaluatingthemitochondrialfunctionby
+Online
 than AIR control (p=0.015). The data relating to cell viability were studyingthedepolarizationofthemitochondrialmembranewiththe
+Library
 further confirmed using a test (neutral red uptake) which considers JC1fluorescentprobehaveshownthatalltheproductstested(A–D)
-cellularmetabolicactivity.Inthissetofexperiments(Figure3),prod- didnotcauselossofmitochondrialfunction(Figures5andS4–S8).
+cellularmetabolicactivity.Inthissetofexperiments(Figure3),prod- didnotcauselossofmitochondrialfunction(Figures5andS4–S8). for
+rules
 uct A (Dolce Bacco) showed a transient reduction of viability in the Undertheseexperimentalconditions,allproductstestedshowed
+of
+use;
 first24hfromtheexposure,subsequentlyrecoveringtoreachlevels significantly better mitochondrial function than the reference
-ofvitalitysimilartoAIRexposureforupto71h.Asimilartrendwas cigarette1R6F(p<0.0001).Themitochondrialfunctionvaluesforthe
+OA
+ofvitalitysimilartoAIRexposureforupto71h.Asimilartrendwas cigarette1R6F(p<0.0001).Themitochondrialfunctionvaluesforthe articles
 observedforproductB.ProductsCandDshowedaminorreduction referencecigaretteshowadramaticandrapiddropinmitochondrial
-ofcellviabilitybyNRU-HCSassayintheearlyhoursandarecovery potentialcomparedtoAIRcontrolandalle-liquids(p<0.0001).
+are
+ofcellviabilitybyNRU-HCSassayintheearlyhoursandarecovery potentialcomparedtoAIRcontrolandalle-liquids(p<0.0001). governed
 of cell viability starting approximately from 24h. The cell growth
-curvesofalle-liquidsweresignificantlydifferentfromthe1R6Fcell
-growth curve (p<0.0001), which showed a reduced cell viability 4 | DISCUSSION
+by
+curvesofalle-liquidsweresignificantlydifferentfromthe1R6Fcell the
+growth curve (p<0.0001), which showed a reduced cell viability 4 | DISCUSSION applicable
 throughoutthe71hofobservation.
+Creative
 These results are supported by the cell morphology (Figure 4) Thetestede-liquidsshowedagoodsafetyprofileintermsofabsence
-whichappearstobemoreirregularincellstreatedwiththereference ofmicro-andnano-plasticsdespitetheplasticpackaging,highlighting
-19427611,
+whichappearstobemoreirregularincellstreatedwiththereference ofmicro-andnano-plasticsdespitetheplasticpackaging,highlighting Commons
+License19427611,
+CARUSOETAL. 1151
 2023,
 10,
 Downloaded
@@ -443,51 +407,11 @@ Library
 on
 [24/11/2024].
 See
-the
+FIGURE 3 Neutralreduptakeinliveimaginganalysis(NRU-HCS).Theassayreliesontheabilityoflivingcellstoincorporateandbindneutral the
 Terms
-and
-Conditions
-(https://onlinelibrary.wiley.com/terms-and-conditions)
-on
-Wiley
-Online
-Library
-for
-rules
-of
-use;
-OA
-articles
-are
-governed
-by
-the
-applicable
-Creative
-Commons
-LicenseCARUSOETAL. 1151
-FIGURE 3 Neutralreduptakeinliveimaginganalysis(NRU-HCS).Theassayreliesontheabilityoflivingcellstoincorporateandbindneutral
 red,aweakcationicdye,inlysosomes.Assuch,cytotoxicityisexpressedasaconcentration-dependentreductionoftheuptakeofneutralred
-afterexposuretotheaerosolfromeliquidsunderinvestigation(A–D)andsmokefromreferencecigarette(1R6F).Dataareshownasmean±SEM
-percentageofAIRcontrol
-FIGURE 4 Morphologicalanalysisofthenucleiinliveimaginganalysis.Thevalueisobtainedbydividingthelengthbythewidthandtheratio
-indicatestheregularroundedshapethecloserthevalueisto1.Dataareshownasmean±SEM
-19427611,
-2023,
-10,
-Downloaded
-from
-https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/dta.3275,
-Wiley
-Online
-Library
-on
-[24/11/2024].
-See
-the
-Terms
-and
-Conditions
+afterexposuretotheaerosolfromeliquidsunderinvestigation(A–D)andsmokefromreferencecigarette(1R6F).Dataareshownasmean±SEM and
+percentageofAIRcontrol Conditions
 (https://onlinelibrary.wiley.com/terms-and-conditions)
 on
 Wiley
@@ -504,13 +428,29 @@ governed
 by
 the
 applicable
-Creative
+FIGURE 4 Morphologicalanalysisofthenucleiinliveimaginganalysis.Thevalueisobtainedbydividingthelengthbythewidthandtheratio
+indicatestheregularroundedshapethecloserthevalueisto1.Dataareshownasmean±SEM Creative
 Commons
-License1152 CARUSOETAL.
+License19427611,
+1152 CARUSOETAL.
+2023,
+10,
+Downloaded
+from
+https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/dta.3275,
+Wiley
+Online
+Library
+on
+[24/11/2024].
 FIGURE 5 ThedatashowninthegraphareobtainedbytheratioofthefluorescencevaluesatdifferentwavelengthsoftheJC-1probe.The
-valuesareexpressedasmean±SEMpercentageofAIRcontrol
+See
+valuesareexpressedasmean±SEMpercentageofAIRcontrol the
+Terms
+and
+Conditions
 a good quality of the material used and production processes, wideranges,largelydependent onthesourceof thedrinkingwater,
-transport,andstorageoftheproductsbeforemarketing.Inaddition, but WHO judged that the concentration of boron in drinking water
+transport,andstorageoftheproductsbeforemarketing.Inaddition, but WHO judged that the concentration of boron in drinking water (https://onlinelibrary.wiley.com/terms-and-conditions)
 the liquids showed a very low concentration of trace elements, needstobebelow0.5mg/L26(possiblybetween0.1and0.3mg/L).
 confirmingtheirsafetywithrespecttothecontaminantsofproducts Therefore, the concentrations detected in the e-liquids tested
 intendedforhumanconsumption.Amongthemetallicelements,only (0.019–0.032mg/L) are considered widely safe for human
@@ -519,60 +459,42 @@ LOD.AsfarasconcernAl,withinacertaindosage,itisnotconsidered Consistently, all te
 a toxicant for human. In particular, the FDA has determined that Al profile and low toxicity even after vaporization with an e-cig, albeit
 used as food additives and medicinal such as antiacids, astringents, witha slightlydifferent profile fromoneliquid toanother.Although
 bufferedaspirin,foodadditives,andantiperspirantsaregenerallysafe. thePG/VGsolutionwithnicotineproducesacertainamountofROS
+on
 Moreover,theUnitedStatesEnvironmentalProtectionAgency(EPA) duringthevaporizationbye-cig,possiblyduetothepyrolysiseffect
+Wiley
 hasrecommendedaSecondaryMaximumContaminantLevel(SMCL) ofnicotine,27–30productsA–CdidnotproduceROSunderthecondi-
+Online
 of0.05–0.2mg/Lforaluminumindrinkingwater.26Intestede-liquids, tionstestedinthecell-freesystemassay,suggestingthatthearomatic
+Library
 we found concentrations of 0.0086–0.0123mg/L for Al, therefore partoftheproductscanoffsettheproductionofROS.Itistherefore
-levelsfrom5to20timeslowerthanthemaximumlimitsfordrinking possibletohypothesizethattheformulationoftheflavorscontained
+levelsfrom5to20timeslowerthanthemaximumlimitsfordrinking possibletohypothesizethattheformulationoftheflavorscontained for
+rules
 water. The last metallic element with considerable concentrations, in the products tested may act as a scavenger with antioxidant
-compared to the other elements, was Fe. Concentrations of iron in effect31–33 able to balance the production of ROS from nicotine
+of
+compared to the other elements, was Fe. Concentrations of iron in effect31–33 able to balance the production of ROS from nicotine use;
+OA
 drinkingwaterarenormallylessthan0.3mg/L,26andthereforeabout pyrolysis.27–30Justasanexample,productAisdescribedasavanilla
+articles
 three to four times higher than the concentrations found in the flavored tobacco from the manufacturer. Vanillin, a phenolic
-e-liquids tested in this study (0.075–0.1 mg/L). As non-metallic compoundwidelyusedinfoods,beverages,cosmetics,anddrugs,has
+are
+e-liquids tested in this study (0.075–0.1 mg/L). As non-metallic compoundwidelyusedinfoods,beverages,cosmetics,anddrugs,has governed
 elementsfoundedatmeasurableconcentrations,wefoundtheboron been reported to exhibit multifunctional effects, including some
-(19–32μg/L).Itisimportanttopointoutthatboratecompoundsare antioxidanteffect.31–33ProductDshowedanincreaseinROSinthe
+(19–32μg/L).Itisimportanttopointoutthatboratecompoundsare antioxidanteffect.31–33ProductDshowedanincreaseinROSinthe by the
+applicable
 ingredients of domestic washing agents; therefore, these residues same system compared to the other products but still significantly
 could be contaminants coming from the cleaning products of lowerthanPG/VGwithnicotinealone.Inthisregard,itisnecessary
-machines and containers. But more importantly, we must consider to review the composition of the aromatic part of this product in
-thattheconcentrationsofboronindrinkingwaterintheworldhave ordertoreducetheproductionofROSwhilemaintainingitssensory
-19427611,
-2023,
-10,
-Downloaded
-from
-https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/dta.3275,
-Wiley
-Online
-Library
-on
-[24/11/2024].
-See
-the
-Terms
-and
-Conditions
-(https://onlinelibrary.wiley.com/terms-and-conditions)
-on
-Wiley
-Online
-Library
-for
-rules
-of
-use;
-OA
-articles
-are
-governed
-by the
-applicable
 Creative
-Commons
-LicenseCARUSOETAL. 1153
-properties for the consumer. Interestingly, when used with the thechemicalflavorscompositionusedinthetestedliquids(alltobacco
+machines and containers. But more importantly, we must consider to review the composition of the aromatic part of this product in
+thattheconcentrationsofboronindrinkingwaterintheworldhave ordertoreducetheproductionofROSwhilemaintainingitssensory Commons
+License19427611,
+CARUSOETAL. 1153
+2023,
+properties for the consumer. Interestingly, when used with the thechemicalflavorscompositionusedinthetestedliquids(alltobacco 10,
+Downloaded
 settingsofresistanceandpowerdetailedinmethods,alltheproducts flavorede-liquids),whichcouldhaveallowedfurtherunderstandingof
 did not show significant and permanent alterations of the cellular the different results obtained. Such results would have provided
-metabolismeveninthelongestperiodsofobservation. important informations for manufacturers of e-liquids allowing them
+metabolismeveninthelongestperiodsofobservation. important informations for manufacturers of e-liquids allowing them from
+https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/dta.3275,
 Thecytotoxiceffectinducedbytheaerosolproducedwiththese toperformatop-downanalysisinordertoidentifythemostdanger-
 e-liquidsisgreatlyreducedcomparedtothatinducedbythesmokeof ouscomponentsofeachliquidreformulatingtheirproductsinasafer
 aclassiccigarette.Thesedatawereconfirmedinourmodelbythree wayforconsumers.
@@ -586,18 +508,23 @@ viabilitythanAIRcontrol.Probably,theflavoringmixturecontainedin epithelialcellsa
 productDwasnottoxicforNHBEcellsandpositivelyinfluencedtheir strategyinharmreductionstrategiesforsmokers.
 adhesionandproliferation.Instead,e-liquidAwastheonlyproductto
 show a decrease in viability from the 36th hour onwards, but this ACKNOWLEDGMENTS
+Wiley
 diminishedvitalitywasnotcomparabletozeroviabilityafterexposure ThisstudyhasbeensupportedbyECLATS.r.l.,aresearch-basedspin-
+Online
 with1R6Fsmoke.ApointtoemphasizeregardingtheRTCAanalysis offcompanyfromtheUniversityofCataniathatdeliverssolutionsto
-was the large error bars observed for 1R6F values. We observed global health problems with special emphasis on harm minimization
-microscopically that cells exposed to 1R6F exhibited tar residues on andtechnologicalinnovation.Productshavebeenprovidedforfreeby
+was the large error bars observed for 1R6F values. We observed global health problems with special emphasis on harm minimization Library
+microscopically that cells exposed to 1R6F exhibited tar residues on andtechnologicalinnovation.Productshavebeenprovidedforfreeby on
+[24/11/2024].
 their surface, and this may have adversely affected cell adhesion on DreamodsS.r.l.Thecontents,selection,andpresentationoffacts,as
 xCELLigence microplates producing high variability in the results. well as any opinions expressed herein, are the sole responsibility of
-Using the NRU with HCS analysis, we were able to monitor cell theauthorsandundernocircumstancesshallberegardedasreflecting
-viabilityupto72hpost-exposure.Weobservedaninitialdecreasein the positions of Dreamods S.r.l. Open Access Funding provided by
+Using the NRU with HCS analysis, we were able to monitor cell theauthorsandundernocircumstancesshallberegardedasreflecting See
+the
+viabilityupto72hpost-exposure.Weobservedaninitialdecreasein the positions of Dreamods S.r.l. Open Access Funding provided by Terms
 cell viability followed by recovery for all products tested. Also, for UniversitadegliStudidiCataniawithintheCRUI-CAREAgreement.
-NRU analysis, product A showed a greater decrease in cell viability
+and
+NRU analysis, product A showed a greater decrease in cell viability Conditions
 thantheotherproducts.MaybeacuteexposuretoproductAaerosol CONFLICTOFINTEREST
-affectedcellviabilitybutstilltoalesserextentthancigarettesmoke. RiccardoPolosais full tenuredprofessor ofInternalMedicineat the
+affectedcellviabilitybutstilltoalesserextentthancigarettesmoke. RiccardoPolosais full tenuredprofessor ofInternalMedicineat the (https://onlinelibrary.wiley.com/terms-and-conditions)
 Mitochondrial potential was also assessed by the cationic dye UniversityofCatania(Italy)andMedicalDirectoroftheInstitutefor
 JC-1, which exhibits potential-dependentaccumulation in mitochon- InternalMedicineandClinicalImmunologyatthesameUniversity.In
 dria,indicatedbyafluorescenceemissionshiftfromgreen((cid:4)525nm) relationtohisrecentworkintheareaofrespiratorydiseases,clinical
@@ -606,63 +533,44 @@ decreaseinthered/greenfluorescenceintensityratio.Thepotential- lecture fees and 
 sensitive color shift is dueto concentration dependent formationof Therapeutics,NeuroSearchA/S,Sandoz,MSD,BoehringerIngelheim,
 redfluorescentaggregates.Theratioofgreentoredfluorescenceis Novartis, Duska Therapeutics, and Forest Laboratories. Lecture fees
 dependent only on the membrane potential. Comparative measure- from a number of European EC industry and trade associations
+on
 ments of membrane potential allow to determine the percentage of (includingFIVAPEinFranceandFIESELinItaly)weredirectlydonated
+Wiley
 mitochondriaabletorespondtoanappliedstimulusandtohighlight to vaper advocacy no-profit organizations. Riccardo Polosa has also
+Online
 the mitochondrial depolarization occurring in the early stages of received grants from European Commission initiatives (U-BIOPRED
+Library
 apoptosis. and AIRPROM) and from the Integral Rheumatology & Immunology
-Theresultsofthestudyindicatelowermetabolicperturbationat SpecialistsNetwork(IRIS)initiative.Hehasalsoservedasaconsultant
-mitochondrial level,noproduction of reactiveoxygenspecies,anda for Pfizer, Global Health Alliance for treatment of tobacco depen-
-substantiallyreducedcytotoxiceffectofe-liquidaerosolcomparedto dence, CV Therapeutics, Boehringer Ingelheim, Novartis, Duska
-cigarettesmoke.Undernormalconditionofuseandwiththepower Therapeutics,ECITA(ElectronicCigaretteIndustryTradeAssociation,
-settingsrecommended bymanufacturers,thevapingproductsunder intheUK),ArbiGroupSrl.,HealthDiplomats,andSermoInc.Riccardo
-investigation proved to be significantly less harmful to human cell Polosa has served on the Medical and Scientific Advisory Board of
-systemscomparedtoconventionalcigarettes. CordexPharma,Inc.,CVTherapeutics,DuskaTherapeuticsInc,Pfizer,
-Apossiblelimitationofthisstudymayberepresentedbythelack andPharmaCielo.RPisalsofounderoftheCenterforTobaccopre-
-of experiments with different device settings, but for which do not ventionandtreatment(CPCT)attheUniversityofCataniaandofthe
-exist standardization so far. To this regard, different conditions of Center of Excellence for the acceleration of Harm Reduction
-power settings and resistances could provide different results from (CoEHAR) at the same university, which has received support from
-those reported here. Another limitation is the lack of knowledge of Foundation for a Smoke Free World to conduct eight independent
-19427611,
-2023,
-10,
-Downloaded
-from
-https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/dta.3275,
-Wiley
-Online
-Library
-on
-[24/11/2024].
-See
-the
-Terms
-and
-Conditions
-(https://onlinelibrary.wiley.com/terms-and-conditions)
-on
-Wiley
-Online
-Library
-for
+Theresultsofthestudyindicatelowermetabolicperturbationat SpecialistsNetwork(IRIS)initiative.Hehasalsoservedasaconsultant for
 rules
+mitochondrial level,noproduction of reactiveoxygenspecies,anda for Pfizer, Global Health Alliance for treatment of tobacco depen-
 of
 use;
+substantiallyreducedcytotoxiceffectofe-liquidaerosolcomparedto dence, CV Therapeutics, Boehringer Ingelheim, Novartis, Duska
 OA
-articles
+cigarettesmoke.Undernormalconditionofuseandwiththepower Therapeutics,ECITA(ElectronicCigaretteIndustryTradeAssociation, articles
+settingsrecommended bymanufacturers,thevapingproductsunder intheUK),ArbiGroupSrl.,HealthDiplomats,andSermoInc.Riccardo
 are
-governed
+investigation proved to be significantly less harmful to human cell Polosa has served on the Medical and Scientific Advisory Board of governed
+systemscomparedtoconventionalcigarettes. CordexPharma,Inc.,CVTherapeutics,DuskaTherapeuticsInc,Pfizer,
 by
-the
+Apossiblelimitationofthisstudymayberepresentedbythelack andPharmaCielo.RPisalsofounderoftheCenterforTobaccopre- the
 applicable
+of experiments with different device settings, but for which do not ventionandtreatment(CPCT)attheUniversityofCataniaandofthe
+exist standardization so far. To this regard, different conditions of Center of Excellence for the acceleration of Harm Reduction
 Creative
-Commons
-License1154 CARUSOETAL.
-investigator-initiated research projects on harm reduction. Riccardo attachment_data/file/962221/Vaping_in_England_evidence_update_
-Polosaiscurrentlyinvolvedinapatentapplicationconcerninganapp February_2021.pdf
+power settings and resistances could provide different results from (CoEHAR) at the same university, which has received support from
+those reported here. Another limitation is the lack of knowledge of Foundation for a Smoke Free World to conduct eight independent Commons
+License19427611,
+1154 CARUSOETAL.
+2023,
+investigator-initiated research projects on harm reduction. Riccardo attachment_data/file/962221/Vaping_in_England_evidence_update_ 10,
+Polosaiscurrentlyinvolvedinapatentapplicationconcerninganapp February_2021.pdf Downloaded
 5. PolosaR,O'LearyR,TashkinD,EmmaR,CarusoM.Theeffectofe-
 tracker for smoking behavior developed for ECLAT Srl. RP is also
 cigaretteaerosolemissionsonrespiratoryhealth:anarrativereview.
-currently involved in the following pro bono activities: scientific ExpertRevRespirMed.2019;13(9):899-915.doi:10.1080/17476348.
+currently involved in the following pro bono activities: scientific ExpertRevRespirMed.2019;13(9):899-915.doi:10.1080/17476348. from
+https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/dta.3275,
 advisorfor LIAF,Lega Italiana Anti Fumo(Italian acronym for Italian 2019.1649146
 Anti-Smoking League), the Consumer Advocates for Smoke-free 6. FuZ,XiS.Theeffectsofheavymetalsonhumanmetabolism.Toxicol
 Mech Methods. 2020;30(3):167-176. doi:10.1080/15376516.2019.
@@ -685,24 +593,28 @@ reviewofcurrentunderstandingandidentificationoffutureresearch
 M.C. and G.L.V. conceived the study and were in charge of overall
 needs.EnvironPollut.2019;254(PtA):113011-113034.doi:10.1016/j.
 direction and planning; G.L.V. and M.F. verified the analytical envpol.2019.113011
+Wiley
 methods;A.D.,R.E.,P.Z.,C.C.,andR.Pu.carriedouttheexperiments; 10. Yong CQY, Valiyaveetill S, Tang BL. Toxicity of microplastics and
-nanoplastics in Mammalian systems. Int J Environ Res Public Health.
+nanoplastics in Mammalian systems. Int J Environ Res Public Health. Online
 R.E., C.C., and G.C. contributed to the interpretation of the results;
 2020;17(5):1509-1532.doi:10.3390/ijerph17051509
-S.R. and G.A.M. administered the project fundings; M.C. wrote the
+S.R. and G.A.M. administered the project fundings; M.C. wrote the Library
 11. Krewski D, Andersen ME, Tyshenko MG, et al. Toxicity testing
-manuscript with support from A.D. and R.E.; G.L.V. and G.R. in the 21st century: progress in the past decade and future
+manuscript with support from A.D. and R.E.; G.L.V. and G.R. in the 21st century: progress in the past decade and future on
+[24/11/2024].
 contributed to the final version of the manuscript; R.Po. supervised perspectives. Arch Toxicol. 2020;94(1):1-58. doi:10.1007/s00204-
 the project. All authors discussed the results and contributed to the 019-02613-4
 12. BelushkinM,PiadéJJ,ChapmanS,FazekasG.Investigatingpredict-
-finalmanuscript.
-abilityofinvitrotoxicologicalassessmentsofcigarettes:analysisof
-7yearsofregulatorysubmissionstoCanadianregulatoryauthorities.
+finalmanuscript. See
+abilityofinvitrotoxicologicalassessmentsofcigarettes:analysisof the
+7yearsofregulatorysubmissionstoCanadianregulatoryauthorities. Terms
 DATAAVAILABILITYSTATEMENT Regul Toxicol Pharmacol. 2014;68(2):222-230. doi:10.1016/j.yrtph.
-Thedatasetsgeneratedand/oranalyzedduringthecurrentstudyare 2013.12.009
+and
+Thedatasetsgeneratedand/oranalyzedduringthecurrentstudyare 2013.12.009 Conditions
 13. JohnsonMD,SchilzJ,DjordjevicMV,RiceJR,ShieldsPG.Evaluation
 availablefromthecorrespondingauthoronreasonablerequest.
 of in vitro assays for assessing the toxicity of cigarette smoke and
+(https://onlinelibrary.wiley.com/terms-and-conditions)
 smokeless tobacco. Cancer Epidemiol Biomarkers Prev. 2009;18(12):
 ORCID 3263-3304.doi:10.1158/1055-9965.EPI-09-0965
 MassimoCaruso https://orcid.org/0000-0002-4412-2080 14. O'Farrell HE, Brown R, Brown Z, et al. E-cigarettes induce toxicity
@@ -718,66 +630,42 @@ MargheritaFerrante https://orcid.org/0000-0001-7596-2464
 105018-105027.doi:10.1016/j.yrtph.2021.105018
 GiuseppeCarota https://orcid.org/0000-0002-9618-3563
 16. Azzopardi D, Patel K, Jaunky T, et al. Electronic cigarette aerosol
-RiccardoPolosa https://orcid.org/0000-0002-8450-5721 induces significantly less cytotoxicity than tobacco smoke. Toxicol
+on
+RiccardoPolosa https://orcid.org/0000-0002-8450-5721 induces significantly less cytotoxicity than tobacco smoke. Toxicol Wiley
 GiuseppinaRaciti https://orcid.org/0000-0002-0894-2970 Mech Methods. 2016;26(6):477-491. doi:10.1080/15376516.2016.
+Online
 1217112
 GiovanniLiVolti https://orcid.org/0000-0002-8678-2183
-17. Ferrante M, Oliveri Conti G, Zuccarello P. Patent method for the
+17. Ferrante M, Oliveri Conti G, Zuccarello P. Patent method for the Library
 extractionanddeterminationofmicro-andnano-plasticsinorganic
-REFERENCES andinorganicmatrixsamples:anapplicationonvegetals.MethodsX.
+REFERENCES andinorganicmatrixsamples:anapplicationonvegetals.MethodsX. for rules
 1. WHO. Tobacco. https://www.who.int/news-room/fact-sheets/ 2020;7:100989-100992.doi:10.1016/j.mex.2020.100989
-detail/tobacco.n.d. 18. Adamson J, Azzopardi D, Errington G, Dickens C, McAughey J,
-2. Anderson C, Majeste A, Hanus J, Wang S. E-cigarette aerosol GaçaMD.Assessmentofaninvitrowholecigarettesmokeexposure
+of
+detail/tobacco.n.d. 18. Adamson J, Azzopardi D, Errington G, Dickens C, McAughey J, use;
+2. Anderson C, Majeste A, Hanus J, Wang S. E-cigarette aerosol GaçaMD.Assessmentofaninvitrowholecigarettesmokeexposure OA
+articles
 exposure induces reactive oxygen species, DNA damage, and cell system: The Borgwaldt RM20S 8-syringe smoking machine. Chem
-deathinvascularendothelialcells.ToxicolSci.2016;154(2):332-340. CentJ.2011;5(1):50-60.doi:10.1186/1752-153x-5-50
-doi:10.1093/toxsci/kfw166 19. Azzopardi D, Haswell LE, Foss-Smith G, et al. Evaluation of an air-
+deathinvascularendothelialcells.ToxicolSci.2016;154(2):332-340. CentJ.2011;5(1):50-60.doi:10.1186/1752-153x-5-50 are
+doi:10.1093/toxsci/kfw166 19. Azzopardi D, Haswell LE, Foss-Smith G, et al. Evaluation of an air- governed
 3. Bals R, Boyd J, Esposito S, et al. Electronic cigarettes: a task force liquidinterfacecellculturemodelforstudiesontheinflammatoryand
-reportfromtheEuropeanRespiratorySociety.EurRespirJFeb.2019; cytotoxicresponsestotobaccosmokeaerosols.ToxicolinVitro.2015;
-53(2):1801151.doi:10.1183/13993003.01151-2018 29(7):1720-1728.doi:10.1016/j.tiv.2015.06.016
+reportfromtheEuropeanRespiratorySociety.EurRespirJFeb.2019; cytotoxicresponsestotobaccosmokeaerosols.ToxicolinVitro.2015; by
+the
+53(2):1801151.doi:10.1183/13993003.01151-2018 29(7):1720-1728.doi:10.1016/j.tiv.2015.06.016 applicable
 4. McNeillABL,CalderR,SimonaviciusE,RobsonD.VapinginEngland: 20. Caruso M, Emma R, Distefano A, et al. Electronic nicotine delivery
 anevidenceupdateincludingvapingforsmokingcessation,February systems exhibit reduced bronchial epithelial cells toxicity compared
-2021.2021.A reportcommissioned byPublicHealth England.https:// to cigarette: the Replica Project. Sci Rep. 2021;11(1):24182-24196.
-assets.publishing.service.gov.uk/government/uploads/system/uploads/ doi:10.1038/s41598-021-03310-y
-19427611,
-2023,
-10,
-Downloaded
-from
-https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/dta.3275,
-Wiley
-Online
-Library
-on
-[24/11/2024].
-See
-the
-Terms
-and
-Conditions
-(https://onlinelibrary.wiley.com/terms-and-conditions)
-on
-Wiley
-Online
-Library
-for rules
-of
-use;
-OA
-articles
-are
-governed
-by
-the
-applicable
 Creative
-Commons
-LicenseCARUSOETAL. 1155
-21. ISO.ISO/TR19478-2:2015.ISOandHealthCanadaintensesmoking 30. BarrJ,SharmaCS,SarkarS,etal.Nicotineinducesoxidativestress
-parameters—part2:examinationoffactorscontributingtovariability and activates nuclear transcription factor kappa B in rat mesence-
+2021.2021.A reportcommissioned byPublicHealth England.https:// to cigarette: the Replica Project. Sci Rep. 2021;11(1):24182-24196.
+assets.publishing.service.gov.uk/government/uploads/system/uploads/ doi:10.1038/s41598-021-03310-y Commons
+License19427611,
+CARUSOETAL. 1155
+2023,
+21. ISO.ISO/TR19478-2:2015.ISOandHealthCanadaintensesmoking 30. BarrJ,SharmaCS,SarkarS,etal.Nicotineinducesoxidativestress 10,
+parameters—part2:examinationoffactorscontributingtovariability and activates nuclear transcription factor kappa B in rat mesence- Downloaded
 intheroutinemeasurementofTPM,waterandNFDPMsmokeyields phalic cells. Mol Cell Biochem. 2007;297(1–2):93-99. doi:10.1007/
 ofcigarettes.ISO;2015. s11010-006-9333-1
+from
 22. ISO. ISO 20768:2018. Vapour products—routine analytical vaping 31. TaiA,SawanoT,YazamaF,ItoH.Evaluationofantioxidantactivity
-machine—definitionsandstandardconditions.ISO;2018. of vanillin by using multiple antioxidant assays. Biochimica et Bio-
+machine—definitionsandstandardconditions.ISO;2018. of vanillin by using multiple antioxidant assays. Biochimica et Bio- https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/dta.3275,
 23. Salomone F, li Volti G, Vitaglione P, et al. Coffee enhances the physicaActa(BBA)-GeneralSubjects.2011;1810(2):170-177.doi:10.
 expressionofchaperonesandantioxidantproteinsinratswithnon- 1016/j.bbagen.2010.11.004
 alcoholicfattyliverdisease.TranslRes.2014;163(6):593-602.doi:10. 32. Bezerra DP, Soares AKN, de Sousa DP. Overview of the Role of
@@ -795,29 +683,20 @@ Additionalsupportinginformationmaybefoundintheonlineversion
 26. WHO. Guidelines for drinking-water quality. 4th ed. Switzerland.
 ofthearticleatthepublisher'swebsite.
 2017.
+Wiley
 27. Kibet J, Kurgat C, Limo S, Rono N, Bosire J. Kinetic modeling of
-nicotine in mainstream cigarette smoking. Chem Cent J. 2016;10(1):
+nicotine in mainstream cigarette smoking. Chem Cent J. 2016;10(1): Online
 Howtocitethisarticle:CarusoM,DistefanoA,EmmaR,etal.
 60-60.doi:10.1186/s13065-016-0206-8
+Library
 28. Baker RR, Bishop LJ. The pyrolysis of tobacco ingredients. J Anal Invitrocytoxicityprofileofe-cigaretteliquidsampleson
-Appl Pyrolysis. 2004;71(1):223-311. doi:10.1016/S0165-2370(03) primaryhumanbronchialepithelialcells.DrugTestAnal.2023;
+Appl Pyrolysis. 2004;71(1):223-311. doi:10.1016/S0165-2370(03) primaryhumanbronchialepithelialcells.DrugTestAnal.2023; on
+[24/11/2024].
 00090-1 15(10):1145‐1155.doi:10.1002/dta.3275
 29. ClaytonP,LuA,BishopL.Thepyrolysisof((cid:5))-(S)-nicotine:racemiza-
 tionanddecomposition.Chirality.2010;22(4):442-446.doi:10.1002/
-chir.20760
-19427611,
-2023,
-10,
-Downloaded
-from
-https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/dta.3275,
-Wiley
-Online
-Library
-on
-[24/11/2024].
 See
-the
+chir.20760 the
 Terms
 and
 Conditions
