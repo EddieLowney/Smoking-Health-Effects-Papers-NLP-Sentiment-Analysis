@@ -12,7 +12,10 @@ import os
 import re
 from myopenai import MyOpenAPI
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline
+import dotenv
 
+dotenv.load_dotenv()
+api = MyOpenAPI()
 
 STOP_WORDS_FILENAME = 'data/stop_words.txt'
 
@@ -75,19 +78,27 @@ class Textinator:
         num = len(words)
         return {'wordcount': wc, 'numwords': num}
 
+    def GPT_key_sections(self, text, filename):
+        base_name = os.path.splitext(os.path.basename(filename))[0]
+        output_name = f'data/GPT_sectioned/{base_name}.txt'
+        prompt = """Find the sections of this text that really contribute to its meaning. Example: find the abstract, key defining sentences, discussion, and conclusion of a research paper. Only return exactly what the article says. TEXT: """
+        prompt += text
+        response_text = api.ask(prompt=prompt)
+        response_text = re.sub(r"\*\*.*?\*\*", '', response_text)
+        response_text = re.sub(r"-", '', response_text)
+        with open(output_name, 'w') as file:
+            file.write(response_text)
+
     def pdf_parser(self, filename):
         base_name = os.path.splitext(os.path.basename(filename))[0]
         output_name = f'data/converted_files/{base_name}.txt'
 
         text = extract_text(filename)
-        text = re.sub(r'[^a-zA-Z\s]', '', text)
-        cleaned_words = self.filter_words(text.split())
-        api = MyOpenAPI()
-
-
+        self.GPT_key_sections(text, filename)
         with open(output_name, 'w') as file:
             file.write(text)
 
+        cleaned_words = self.filter_words(text.split(" "))
         wc = Counter(cleaned_words)
         num = len(cleaned_words)
         return {'wordcount': wc, 'numwords': num}
@@ -116,19 +127,19 @@ def main():
     T = Textinator()
     # T.load_stop_words(STOP_WORDS_FILENAME)
 
-    # T.load_text('data/cig_data/independent_1.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_2.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_3.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_4.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_5.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_6.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/industry_sponsored_1.pdf', 'S1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/industry_sponsored_2.pdf', 'S2', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/industry_sponsored_3.pdf', 'S3', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/industry_sponsored_4.pdf', 'S4', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/industry_sponsored_5.pdf', 'S5', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/industry_sponsored_6.pdf', 'S6')
-    T.ASBA_scores('data/converted_files/industry_sponsored_1.txt')
+    T.load_text('data/cig_data/independent_1.pdf', 'I1', parser=T.pdf_parser)
+    T.load_text('data/cig_data/independent_2.pdf', 'I1', parser=T.pdf_parser)
+    T.load_text('data/cig_data/independent_3.pdf', 'I1', parser=T.pdf_parser)
+    T.load_text('data/cig_data/independent_4.pdf', 'I1', parser=T.pdf_parser)
+    T.load_text('data/cig_data/independent_5.pdf', 'I1', parser=T.pdf_parser)
+    T.load_text('data/cig_data/independent_6.pdf', 'I1', parser=T.pdf_parser)
+    T.load_text('data/cig_data/industry_sponsored_1.pdf', 'S1', parser=T.pdf_parser)
+    T.load_text('data/cig_data/industry_sponsored_2.pdf', 'S2', parser=T.pdf_parser)
+    T.load_text('data/cig_data/industry_sponsored_3.pdf', 'S3', parser=T.pdf_parser)
+    T.load_text('data/cig_data/industry_sponsored_4.pdf', 'S4', parser=T.pdf_parser)
+    T.load_text('data/cig_data/industry_sponsored_5.pdf', 'S5', parser=T.pdf_parser)
+    T.load_text('data/cig_data/industry_sponsored_6.pdf', 'S6')
+    #T.ASBA_scores('data/converted_files/industry_sponsored_1.txt')
 
     print(T.data)
 if __name__ == '__main__':
