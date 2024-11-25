@@ -10,6 +10,9 @@ import pdfplumber
 from pdfminer.high_level import extract_text
 import json
 import os
+import pandas as pd
+import vaderSentiment.vaderSentiment as vs
+from sankey import show_sankey
 
 STOP_WORDS_FILENAME = 'data/stop_words.txt'
 
@@ -47,7 +50,7 @@ class Textinator:
         for i in words:
             i = i.translate(translation_table)
             i = i.lower()
-            if i not in self.stop_list and i.isalpha():
+            if i not in self.stop_list and i.isalpha() and len(i) > 2:
                 cleaned_words.append(i)
 
         return cleaned_words
@@ -82,7 +85,6 @@ class Textinator:
         words = text.split(" ")
         cleaned_words = self.filter_words(words)
 
-
         wc = Counter(cleaned_words)
         num = len(cleaned_words)
         return {'wordcount': wc, 'numwords': num}
@@ -92,6 +94,55 @@ class Textinator:
         with open(stopwords_file) as infile:
             for i in infile:
                 self.stop_list.append(i.strip())
+
+    def wordcount_sankey(self, word_list = None, k = 5):
+        # print(type(self.data))
+        word_counts = pd.DataFrame()
+
+        stacked_df = pd.DataFrame()
+
+        if word_list is None:
+            word_list = set()
+
+            for text in self.data["wordcount"]:
+                word_list = word_list.union(set(i[0] for i in self.data["wordcount"][text].most_common(k)))
+            word_list = list(word_list)
+            word_list.sort()
+            for text in self.data["wordcount"]:
+                word_counts["Words"] = word_list
+
+            # for text in self.data["wordcount"].keys():
+                word_counts["Text"] = text
+                word_counts["Frequency"] = list(self.data["wordcount"][text][word] for word in word_list)
+                stacked_df = pd.concat([stacked_df, word_counts], ignore_index=True, sort=False)
+        else:
+            for text in self.data["wordcount"]:
+                word_counts["Words"] = word_list
+                word_counts["Text"] = text
+                word_counts["Frequency"] = list(self.data["wordcount"][text][word] for word in word_list)
+                stacked_df = pd.concat([stacked_df, word_counts], ignore_index=True, sort=False)
+
+        show_sankey(stacked_df, "Text", "Words", "Frequency")
+
+    def sentiment_analysis(self):
+        all_words = ""
+        total_sentiment = []
+        text_sentiments = []
+        analyzer = vs.SentimentIntensityAnalyzer()
+
+        for text in self.data["wordcount"]:
+            for i in self.data["wordcount"][text].keys():
+                total_sentiment.append(analyzer.polarity_scores(i)[
+                                "compound"] * self.data["wordcount"][text][i])
+            text_sentiments.append(sum(total_sentiment) / self.data["numwords"][text])
+        print(text_sentiments)
+            # print(self.data["wordcount"][text])
+
+
+        # for i in self.data["wordcount"].keys():
+        #     for word in self.data["wordcount"][i]:
+        #         if word in word_list:
+        # make_sankey()
 
         # print(self.data)
 
@@ -116,6 +167,8 @@ def main():
     T.load_text('data/cig_data/industry_sponsored_5.pdf', 'S5', parser=T.pdf_parser)
     T.load_text('data/cig_data/industry_sponsored_6.pdf', 'S6')
 
-    print(T.data)
+    # print(T.data)
+    # T.wordcount_sankey(k=5)
+    T.sentiment_analysis()
 if __name__ == '__main__':
     main()
