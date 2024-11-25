@@ -86,7 +86,10 @@ class Textinator:
     def GPT_key_sections(self, text, filename):
         base_name = os.path.splitext(os.path.basename(filename))[0]
         output_name = f'data/GPT_sectioned/{base_name}.txt'
-        prompt = """Find the sections of this text that really contribute to its meaning. Example: find the abstract, key defining sentences, discussion, and conclusion of a research paper. Only return exactly what the article says. TEXT: """
+        prompt = """Find the sections of this text that really contribute to\
+        its meaning. Example: find the abstract, key defining sentences,\
+        discussion, and conclusion of a research paper. Only return exactly\
+        what the article says. TEXT: """
         prompt += text
         response_text = api.ask(prompt=prompt)
         response_text = re.sub(r"\*\*.*?\*\*", '', response_text)
@@ -126,7 +129,8 @@ class Textinator:
 
         model = AutoModelForSequenceClassification.from_pretrained(model_name)
 
-        classifier = pipeline("text-classification", model=model, tokenizer=tokenizer, device = 'mps')
+        classifier = pipeline("text-classification", model=model,
+                              tokenizer=tokenizer, device = 'mps')
 
         result = {}
         for aspect in ['health effects of cigarettes',
@@ -153,7 +157,8 @@ class Textinator:
             word_list = set()
 
             for text in self.data["wordcount"]:
-                word_list = word_list.union(set(i[0] for i in self.data["wordcount"][text].most_common(k)))
+                word_list = word_list.union(
+                set(i[0] for i in self.data["wordcount"][text].most_common(k)))
             word_list = list(word_list)
             word_list.sort()
             for text in self.data["wordcount"]:
@@ -161,14 +166,18 @@ class Textinator:
 
             # for text in self.data["wordcount"].keys():
                 word_counts["Text"] = text
-                word_counts["Frequency"] = list(self.data["wordcount"][text][word] for word in word_list)
-                stacked_df = pd.concat([stacked_df, word_counts], ignore_index=True, sort=False)
+                word_counts["Frequency"] = list(self.data[
+                                "wordcount"][text][word] for word in word_list)
+                stacked_df = pd.concat([
+                    stacked_df, word_counts], ignore_index=True, sort=False)
         else:
             for text in self.data["wordcount"]:
                 word_counts["Words"] = word_list
                 word_counts["Text"] = text
-                word_counts["Frequency"] = list(self.data["wordcount"][text][word] for word in word_list)
-                stacked_df = pd.concat([stacked_df, word_counts], ignore_index=True, sort=False)
+                word_counts["Frequency"] = list(self.data[
+                                "wordcount"][text][word] for word in word_list)
+                stacked_df = pd.concat([
+                    stacked_df, word_counts], ignore_index=True, sort=False)
 
         show_sankey(stacked_df, "Text", "Words", "Frequency")
 
@@ -182,7 +191,8 @@ class Textinator:
             for i in self.data["wordcount"][text].keys():
                 total_sentiment.append(analyzer.polarity_scores(i)[
                                 "compound"] * self.data["wordcount"][text][i])
-            text_sentiments.append(sum(total_sentiment) / self.data["numwords"][text])
+            text_sentiments.append(sum(total_sentiment) / self.data[
+                                                            "numwords"][text])
 
 def main():
 
