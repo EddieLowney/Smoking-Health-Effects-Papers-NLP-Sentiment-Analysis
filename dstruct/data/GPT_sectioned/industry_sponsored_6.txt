@@ -1,0 +1,44 @@
+Here are the sections of the provided text that meaningfully contribute to the overall focus of the article, categorized into their relevant components:
+
+
+
+### 
+  
+Airway responsiveness to inhaled nonspecific bronchoconstrictive agents has been demonstrated in normal, healthy infants. However, it is unknown whether airway responsiveness is present from birth or if it develops as a result of subsequent insults to the respiratory tract. To investigate this question, we assessed airway responsiveness in 63 normal infants at a mean age of 4 1/2 weeks.  
+
+  
+Respiratory function was measured with use of the partial forced expiratory flow—volume technique to determine the maximal flow at functional residual capacity (VmaxFRC). The infants inhaled nebulized histamine at sequentially doubled concentrations (0.125 to 8.0 g per liter), until a concentration was reached at which the VmaxFRC fel1 by 40 percent from the baseline value (PC40) or until a concentration of 8.0 g per liter was reached. We also assessed maternal serum levels of IgE, cordserum levels of IgE, the infants' skin reactivity to several allergens, and the parents' responsiveness to histamine and obtained family histories of asthma and smoking.  
+
+  
+Airway responsiveness was increased in infants with a family history of asthma (n = 19; median PC40, 0.78 g per liter; 95 percent confidence interval, 0.44 to 1.15; P<0.01), parental smoking (n = 13; median PC40, 0.52 g per liter; 95 percent confidence interval, 0.43 to 5.40; P<0.05), or both (n = 20; median PC40, 0.69 g per liter; 95 percent confidence interval, 0.37 to 2.10; P<0.05), as compared with the infants with no family history of asthma or smoking. The infants with no family history of asthma or smoking had a median PC40 of 2.75 g per liter (95 percent confidence interval, 1.48 to 4.00). No significant relations were detected between the immunologic variables and the PC40 in the infants.  
+
+  
+This study indicates that airway responsiveness can be present early in life and suggests that a family history of asthma or parental smoking contributes to elevated levels of airway responsiveness at an early age. (N Engl J Med 1991; 324:1168–73.)
+
+
+
+### 
+Although asthma is considered to result from a complex interaction of genetic and environmental influences, there has been little recent progress in determining their relative contributions.  
+...  
+The first inhalationchallenge studies in older normal infants, in which investigators used methacholine, cold, dry air, or histamine, indicated that airway responsiveness was present in infants during the first year of life. Two questions have arisen from these studies. First, how early in infancy is airway responsiveness present? It has been speculated that persons with asthma are not born with heightened airway responsiveness but are born with a tendency to increased responsiveness after an insult to the respiratory system. Second, is the initial level of airway responsiveness the same for all infants, or do genetic or environmental influences, or both, result in differing levels of responsiveness at birth?  
+
+
+
+###   
+The results of this study demonstrate that airway responsiveness to inhaled histamine is present in many normal, healthy infants soon after birth. We also found that the level of airway responsiveness in early life was increased if there was a family history of asthma, parental smoking, or both.  
+...  
+We found that the level of responsiveness to histamine in infants was related to the presence or absence of a family history of asthma. This finding suggests that the initial level of airway responsiveness may be genetically determined.  
+...  
+We also found that airway responsiveness was increased in infants whose parents reported smoking during the pregnancy.  
+...  
+Our study also demonstrates an association between parental smoking and the level of airway responsiveness in early infancy, although we are unable to separate the effects of prenatal and postnatal exposure to cigarette smoke.  
+...  
+Baseline lung function, expressed as a percentage of the predicted VmaxFRC, did not differ significantly among the four familyhistory groups, and no correlation was observed between baseline lung function and PC40.  
+...  
+In summary, we found that airway responsiveness to inhaled histamine was often present in normal, healthy, asymptomatic infants early in life. We suggest that responsiveness is present from birth and is determined both by inheritance and by exposure to parental cigarette smoking.  
+
+
+
+###   
+This study indicates that airway responsiveness can be present early in life and suggests that a family history of asthma or parental smoking contributes to elevated levels of airway responsiveness at an early age.  
+
