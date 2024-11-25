@@ -37,6 +37,21 @@ class Textinator:
         for k, v in results.items():
             self.data[k][label] = v
 
+    def filter_words(self, words):
+        translation_table = str.maketrans(
+            {"\n": "", "\t": "", "\r": "", "=": "",
+             ",": "", "-": "", "(": "", ")": "",
+             ".": "", ":": "", "?": ""})
+
+        cleaned_words = []
+        for i in words:
+            i = i.translate(translation_table)
+            i = i.lower()
+            if i not in self.stop_list and i.isalpha():
+                cleaned_words.append(i)
+
+        return cleaned_words
+
     def default_parser(self, filename):
         """ Parse a standard text file and produce
         extract data results in the form of a dictionary. """
@@ -45,6 +60,7 @@ class Textinator:
             'wordcount': Counter("To be or not to be".split(" ")),
             'numwords': rnd.randrange(10, 50)
         }
+
         return results
 
     def json_parser(self, filename):
@@ -64,8 +80,11 @@ class Textinator:
             file.write(text)
 
         words = text.split(" ")
-        wc = Counter(words)
-        num = len(words)
+        cleaned_words = self.filter_words(words)
+
+
+        wc = Counter(cleaned_words)
+        num = len(cleaned_words)
         return {'wordcount': wc, 'numwords': num}
 
 
@@ -73,28 +92,6 @@ class Textinator:
         with open(stopwords_file) as infile:
             for i in infile:
                 self.stop_list.append(i.strip())
-
-    def filter_words(self):
-        # print(self.data['wordcount']["I1"])
-
-        temp_copy = self.data["wordcount"]["I1"].copy()
-        translation_table = str.maketrans({"\n": "", "\t": "", "\r": "", "=": "",
-                                           ",": "", "-": "", "(": "", ")": "",
-                                           ".": "", ":": "", "?": ""})
-        for i in temp_copy:
-            old_key = i
-            i = i.translate(translation_table)
-            if i.lower() in self.stop_list or i.isalpha() == False:
-                del self.data["wordcount"]["I1"][i]
-            else:
-                self.data["wordcount"]["I1"][i] = self.data["wordcount"]["I1"][old_key]
-                del self.data["wordcount"]["I1"][old_key]
-
-        print(self.data["wordcount"]["I1"])
-        # print(self.data["wordcount"]["I1"])
-        # print((self.data["wordcount"]["I1"].keys()))
-
-
 
         # print(self.data)
 
@@ -119,7 +116,6 @@ def main():
     T.load_text('data/cig_data/industry_sponsored_5.pdf', 'S5', parser=T.pdf_parser)
     T.load_text('data/cig_data/industry_sponsored_6.pdf', 'S6')
 
-    T.filter_words()
-
+    print(T.data)
 if __name__ == '__main__':
     main()
