@@ -4,10 +4,9 @@ Purpose: Load files, loads stopwords, does wordcount, sentiment analysis,
 anything that we want to visualize in the visionator
 Output:
 """
+
 import random as rnd
 from collections import defaultdict, Counter
-
-from param import output
 from pdfminer.high_level import extract_text
 import json
 import os
@@ -169,6 +168,7 @@ def main():
     # T.ASBA_scores('data/GPT_sectioned/independent_4.txt')
     # T.ASBA_scores('data/GPT_sectioned/independent_5.txt')
     # T.ASBA_scores('data/GPT_sectioned/independent_6.txt')
+
 
 
 
