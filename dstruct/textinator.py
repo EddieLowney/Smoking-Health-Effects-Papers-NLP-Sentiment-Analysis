@@ -16,7 +16,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipe
 import dotenv
 import pandas as pd
 import vaderSentiment.vaderSentiment as vs
-from sankey import show_sankey
+from SANKEY import show_sankey
 
 
 dotenv.load_dotenv()
