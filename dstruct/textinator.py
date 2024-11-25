@@ -83,7 +83,8 @@ class Textinator:
     def GPT_key_sections(self, text, filename):
         base_name = os.path.splitext(os.path.basename(filename))[0]
         output_name = f'data/GPT_sectioned/{base_name}.txt'
-        prompt = """Find the sections of this text that really contribute to its meaning. Example: find the abstract, key defining sentences, discussion, and conclusion of a research paper. Only return exactly what the article says. TEXT: """
+        prompt = """Find the sections of this text that really contribute to its meaning. Example: find the abstract, key defining
+                    sentences, discussion, and conclusion of a research paper. Only return exactly what the article says. TEXT: """
         prompt += text
         response_text = api.ask(prompt=prompt)
         response_text = re.sub(r"\*\*.*?\*\*", '', response_text)
@@ -140,17 +141,20 @@ class Textinator:
         df.to_csv(output_name)
         return df
 
+    def LDA_scores(self, filename):
+        pass
+
 def main():
 
     T = Textinator()
     # T.load_stop_words(STOP_WORDS_FILENAME)
 
     # T.load_text('data/cig_data/independent_1.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_2.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_3.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_4.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_5.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_6.pdf', 'I1', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_2.pdf', 'I2', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_3.pdf', 'I3', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_4.pdf', 'I4', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_5.pdf', 'I5', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_6.pdf', 'I6', parser=T.pdf_parser)
     # T.load_text('data/cig_data/industry_sponsored_1.pdf', 'S1', parser=T.pdf_parser)
     # T.load_text('data/cig_data/industry_sponsored_2.pdf', 'S2', parser=T.pdf_parser)
     # T.load_text('data/cig_data/industry_sponsored_3.pdf', 'S3', parser=T.pdf_parser)
