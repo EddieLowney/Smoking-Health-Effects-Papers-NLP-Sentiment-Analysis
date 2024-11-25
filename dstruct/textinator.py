@@ -6,10 +6,12 @@ Output:
 """
 import random as rnd
 from collections import defaultdict, Counter
-import pdfplumber
 from pdfminer.high_level import extract_text
 import json
 import os
+import re
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline
+import openai
 
 STOP_WORDS_FILENAME = 'data/stop_words.txt'
 
@@ -58,7 +60,7 @@ class Textinator:
 
         results = {
             'wordcount': Counter("To be or not to be".split(" ")),
-            'numwords': rnd.randrange(10, 50)
+            'numwords' : rnd.randrange(10, 50)
         }
 
         return results
@@ -75,46 +77,55 @@ class Textinator:
     def pdf_parser(self, filename):
         base_name = os.path.splitext(os.path.basename(filename))[0]
         output_name = f'data/converted_files/{base_name}.txt'
+
         text = extract_text(filename)
+        text = re.sub(r'[^a-zA-Z\s]', '', text)
+        cleaned_words = self.filter_words(text.split())
+
         with open(output_name, 'w') as file:
             file.write(text)
-
-        words = text.split(" ")
-        cleaned_words = self.filter_words(words)
-
 
         wc = Counter(cleaned_words)
         num = len(cleaned_words)
         return {'wordcount': wc, 'numwords': num}
-
 
     def load_stop_words(self, stopwords_file):
         with open(stopwords_file) as infile:
             for i in infile:
                 self.stop_list.append(i.strip())
 
-        # print(self.data)
+    def ASBA_scores(self, filename):
+        with open(filename, "r") as file:
+            text = file.read()
+        # Load the ABSA model and tokenizer
+        model_name = "yangheng/deberta-v3-base-absa-v1.1"
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
 
+        model = AutoModelForSequenceClassification.from_pretrained(model_name)
 
-        
+        classifier = pipeline("text-classification", model=model, tokenizer=tokenizer, device = 'mps')
+
+        for aspect in ['health effects of cigarettes', 'health impact', 'health effects of e-cigarettes', 'health effects of vapes']:
+            print(aspect, classifier(text, text_pair=aspect))
 
 def main():
 
     T = Textinator()
-    T.load_stop_words(STOP_WORDS_FILENAME)
+    # T.load_stop_words(STOP_WORDS_FILENAME)
 
-    T.load_text('data/cig_data/independent_1.pdf', 'I1', parser=T.pdf_parser)
-    T.load_text('data/cig_data/independent_2.pdf', 'I1', parser=T.pdf_parser)
-    T.load_text('data/cig_data/independent_3.pdf', 'I1', parser=T.pdf_parser)
-    T.load_text('data/cig_data/independent_4.pdf', 'I1', parser=T.pdf_parser)
-    T.load_text('data/cig_data/independent_5.pdf', 'I1', parser=T.pdf_parser)
-    T.load_text('data/cig_data/independent_6.pdf', 'I1', parser=T.pdf_parser)
-    T.load_text('data/cig_data/industry_sponsored_1.pdf', 'S1', parser=T.pdf_parser)
-    T.load_text('data/cig_data/industry_sponsored_2.pdf', 'S2', parser=T.pdf_parser)
-    T.load_text('data/cig_data/industry_sponsored_3.pdf', 'S3', parser=T.pdf_parser)
-    T.load_text('data/cig_data/industry_sponsored_4.pdf', 'S4', parser=T.pdf_parser)
-    T.load_text('data/cig_data/industry_sponsored_5.pdf', 'S5', parser=T.pdf_parser)
-    T.load_text('data/cig_data/industry_sponsored_6.pdf', 'S6')
+    # T.load_text('data/cig_data/independent_1.pdf', 'I1', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_2.pdf', 'I1', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_3.pdf', 'I1', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_4.pdf', 'I1', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_5.pdf', 'I1', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_6.pdf', 'I1', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/industry_sponsored_1.pdf', 'S1', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/industry_sponsored_2.pdf', 'S2', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/industry_sponsored_3.pdf', 'S3', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/industry_sponsored_4.pdf', 'S4', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/industry_sponsored_5.pdf', 'S5', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/industry_sponsored_6.pdf', 'S6')
+    T.ASBA_scores('data/converted_files/industry_sponsored_1.txt')
 
     print(T.data)
 if __name__ == '__main__':

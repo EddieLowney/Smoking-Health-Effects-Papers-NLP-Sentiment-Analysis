@@ -1,432 +1,388 @@
 Contemporary Reviews in Cardiovascular Medicine
 
-E-Cigarettes
+ECigarettes
 A Scientific Review
 
-Rachel Grana, PhD, MPH; Neal  Benowitz, MD;  Stanton A. Glantz, PhD
+Rachel Grana PhD MPH Neal  Benowitz MD  Stanton A Glantz PhD
 
-Electronic cigarettes (e-cigarettes) are products that deliver 
+Electronic cigarettes ecigarettes are products that deliver 
 
-a nicotine-containing aerosol (commonly called vapor) to 
+a nicotinecontaining aerosol commonly called vapor to 
 users  by  heating  a  solution  typically  made  up  of  propylene 
-glycol  or  glycerol  (glycerin),  nicotine,  and  flavoring  agents 
-(Figure 1) invented in their current form by Chinese pharma-
-cist Hon  Lik in the early 2000s.1 The US patent  application 
-describes the e-cigarette device as “an electronic atomization 
-cigarette that functions as substitutes [sic] for quitting smok-
-ing and cigarette substitutes” (patent No. 8,490,628 B2). By 
-2013, the major multinational tobacco companies had entered 
-the  e-cigarette  market.  E-cigarettes  are  marketed  via  televi-
-sion, the Internet, and print advertisements (that often feature 
-celebrities)2  as  healthier  alternatives  to  tobacco  smoking,  as 
-useful for quitting smoking and reducing cigarette consump-
-tion, and as a way to circumvent smoke-free laws by enabling 
-users to “smoke anywhere.”3
+glycol  or  glycerol  glycerin  nicotine  and  flavoring  agents 
+Figure  invented in their current form by Chinese pharma
+cist Hon  Lik in the early s The US patent  application 
+describes the ecigarette device as an electronic atomization 
+cigarette that functions as substitutes sic for quitting smok
+ing and cigarette substitutes patent No  B By 
+ the major multinational tobacco companies had entered 
+the  ecigarette  market  Ecigarettes  are  marketed  via  televi
+sion the Internet and print advertisements that often feature 
+celebrities  as  healthier  alternatives  to  tobacco  smoking  as 
+useful for quitting smoking and reducing cigarette consump
+tion and as a way to circumvent smokefree laws by enabling 
+users to smoke anywhere
 
-There  has  been  rapid  market  penetration  of  e-cigarettes 
-despite many unanswered questions about their safety, effi-
-cacy for harm reduction and cessation, and total impact on 
-public health. E-cigarette products are changing quickly, and 
+There  has  been  rapid  market  penetration  of  ecigarettes 
+despite many unanswered questions about their safety effi
+cacy for harm reduction and cessation and total impact on 
+public health Ecigarette products are changing quickly and 
 many of the findings from studies of older products may not 
 be  relevant  to  the  assessment  of  newer  products  that  could 
-be safer and more effective as nicotine delivery devices. In 
-addition, marketing and other environmental influences may 
-vary from country to country, so patterns of use and the ulti-
-mate impact on public health may differ. The individual risks 
+be safer and more effective as nicotine delivery devices In 
+addition marketing and other environmental influences may 
+vary from country to country so patterns of use and the ulti
+mate impact on public health may differ The individual risks 
 and benefits and the total impact of these products occur in 
 the  context  of  the  widespread  and  continuing  availability 
-of conventional cigarettes and other tobacco products, with 
-high levels of dual use of e-cigarettes and conventional ciga-
-rettes  at  the  same  time  among  adults4–8  and  youth.9–11  It  is 
-important  to  assess  e-cigarette  toxicant  exposure  and  indi-
-vidual  risk,  as  well  as  the  health  effects,  of  e-cigarettes  as 
+of conventional cigarettes and other tobacco products with 
+high levels of dual use of ecigarettes and conventional ciga
+rettes  at  the  same  time  among  adults  and  youth  It  is 
+important  to  assess  ecigarette  toxicant  exposure  and  indi
+vidual  risk  as  well  as  the  health  effects  of  ecigarettes  as 
 they  are  actually  used  to  ensure  safety  and  to  develop  an 
-evidence-based  regulatory  scheme  that  protects  the  entire 
-population—children  and  adults,  smokers  and  nonsmok-
-ers—in the context of how the tobacco industry is marketing 
-and promoting these products. Health claims and claims of 
-efficacy for quitting smoking are unsupported by the scien-
-tific  evidence  to  date.  To  minimize  the  potential  negative 
+evidencebased  regulatory  scheme  that  protects  the  entire 
+populationchildren  and  adults  smokers  and  nonsmok
+ersin the context of how the tobacco industry is marketing 
+and promoting these products Health claims and claims of 
+efficacy for quitting smoking are unsupported by the scien
+tific  evidence  to  date  To  minimize  the  potential  negative 
 
 impacts on prevention and cessation and the undermining of 
-existing tobacco control measures,  e-cigarette use should be 
-prohibited where tobacco cigarette use is prohibited, and the 
+existing tobacco control measures  ecigarette use should be 
+prohibited where tobacco cigarette use is prohibited and the 
 products should be subject to the same marketing restrictions 
-as tobacco cigarettes.
+as tobacco cigarettes
 
 Methods
-Initial  searches  conducted  via  PubMed  using  the  key  words  elec-
-tronic cigarette, e-cigarette, and electronic nicotine delivery systems 
-yielded 151 studies (Figure 2). Seventy-one articles presented origi-
-nal  data  and  were  included.  Eighty  articles  were  excluded  because 
-they were not relevant, were not in English, or were reviews or com-
-mentaries that did not provide original data, although some are cited 
-for  background  and  context.  Searches  using  the  same  search  terms 
-were conducted using World Health Organization regional databases; 
+Initial  searches  conducted  via  PubMed  using  the  key  words  elec
+tronic cigarette ecigarette and electronic nicotine delivery systems 
+yielded  studies Figure  Seventyone articles presented origi
+nal  data  and  were  included  Eighty  articles  were  excluded  because 
+they were not relevant were not in English or were reviews or com
+mentaries that did not provide original data although some are cited 
+for  background  and  context  Searches  using  the  same  search  terms 
+were conducted using World Health Organization regional databases 
 only BIBLIOTECA Virtual em Salude Latin America and Caribbean 
-included relevant papers, all of which had already been located with 
-PubMed. Working with the World Health Organization, we also con-
-tacted investigators to locate other studies, some of which had not yet 
-been published (submitted or in press). We also reviewed technical 
-reports prepared by health organizations,12–15 news articles, and rel-
-evant Web sites. The results of these searches were used to prepare 
+included relevant papers all of which had already been located with 
+PubMed Working with the World Health Organization we also con
+tacted investigators to locate other studies some of which had not yet 
+been published submitted or in press We also reviewed technical 
+reports prepared by health organizations news articles and rel
+evant Web sites The results of these searches were used to prepare 
 a  report  commissioned  by  the World  Health  Organization  Tobacco 
-Free Initiative, which provides details of individual studies, including 
+Free Initiative which provides details of individual studies including 
 some studies that are not discussed in this article because of length 
-constraints.1 After  the  manuscript  was  submitted  for  peer  review,  5 
-more articles became available, resulting in a total of 82 articles form-
-ing the basis for this review.
+constraints After  the  manuscript  was  submitted  for  peer  review   
+more articles became available resulting in a total of  articles form
+ing the basis for this review
 
 The Product
-E-cigarette  devices  are  manufactured  mainly  in  China. As 
-of late 2013, there was wide variability in e-cigarette prod-
-uct  engineering,  including  varying  nicotine  concentrations 
-in  the  solution  used  to  generate  the  nicotine  aerosol  (also 
-called e-liquid), varying volumes of solution in the product, 
-different  carrier  compounds  (most  commonly  propylene 
-glycol with or without glycerol [glycerin]), a wide range of 
-additives  and  flavors,  and  battery  voltage.  Quality  control 
-is  variable,16  and  users  can  modify  many  of  the  products, 
-including  using  them  to  deliver  other  drugs  such  as  mari-
-juana.17,18 These engineering differences result in variability 
-in how e-cigarettes heat and convert the nicotine solution to 
+Ecigarette  devices  are  manufactured  mainly  in  China As 
+of late  there was wide variability in ecigarette prod
+uct  engineering  including  varying  nicotine  concentrations 
+in  the  solution  used  to  generate  the  nicotine  aerosol  also 
+called eliquid varying volumes of solution in the product 
+different  carrier  compounds  most  commonly  propylene 
+glycol with or without glycerol glycerin a wide range of 
+additives  and  flavors  and  battery  voltage  Quality  control 
+is  variable  and  users  can  modify  many  of  the  products 
+including  using  them  to  deliver  other  drugs  such  as  mari
+juana These engineering differences result in variability 
+in how ecigarettes heat and convert the nicotine solution to 
 an aerosol and consequently the levels of nicotine and other 
 
-From the Center for Tobacco Control Research and Education (R.G., N.B., S.A.G.) and Department of Medicine and Cardiovascular Research Institute 
+From the Center for Tobacco Control Research and Education RG NB SAG and Department of Medicine and Cardiovascular Research Institute 
 
-(N.B., S.A.G.), University of California, San Francisco.
+NB SAG University of California San Francisco
 
-Correspondence to Stanton A. Glantz, PhD, Center for Tobacco Control Research and Education, University of California, San Francisco, 530 Parnassus 
+Correspondence to Stanton A Glantz PhD Center for Tobacco Control Research and Education University of California San Francisco  Parnassus 
 
-Ave, No. 366, San Francisco, CA 94143-1390. E-mail glantz@medicine.ucsf.edu
+Ave No  San Francisco CA  Email glantzmedicineucsfedu
 
-(Circulation. 2014;129:1972-1986.)
-© 2014 The Authors. Circulation is published on behalf of the American Heart Association, Inc., by Wolters Kluwer. This is an open access article under 
-the terms of the Creative Commons Attribution Non-Commercial-NoDervis License, which permits use, distribution, and reproduction in any medium, 
-provided that the Contribution is properly cited, the use is non-commercial, and no modifications or adaptations are made.
+Circulation 
+  The Authors Circulation is published on behalf of the American Heart Association Inc by Wolters Kluwer This is an open access article under 
+the terms of the Creative Commons Attribution NonCommercialNoDervis License which permits use distribution and reproduction in any medium 
+provided that the Contribution is properly cited the use is noncommercial and no modifications or adaptations are made
 
-Circulation is available at http://circ.ahajournals.org 
+Circulation is available at httpcircahajournalsorg 
 
-DOI: 10.1161/CIRCULATIONAHA.114.007667
+DOI CIRCULATIONAHA
 
-1972
+
 
 Grana et al 
 
-  E-Cigarettes: A Scientific Review 
+  ECigarettes A Scientific Review 
 
-  1973
+  
 
-Figure 1. Examples of different electronic cigarette (e-cigarette) products. Reproduced from Grana et al.1
+Figure  Examples of different electronic cigarette ecigarette products Reproduced from Grana et al
 
 chemicals delivered to users and the air pollution generated 
-by the exhaled aerosol.19
+by the exhaled aerosol
 
-E-liquids are flavored, including tobacco, menthol, coffee, 
-fruit,  candy,  and  alcohol  flavors,  as  well  as  unusual  flavors 
-such  as  cola  and  Belgian  waffle.3  Flavored  (conventional) 
+Eliquids are flavored including tobacco menthol coffee 
+fruit  candy  and  alcohol  flavors  as  well  as  unusual  flavors 
+such  as  cola  and  Belgian  waffle  Flavored  conventional 
 tobacco  products  are  used  disproportionately  by  youth  and 
-initiators,20 and cigarettes with characterizing flavors (except 
-menthol) have been banned in the United States.
+initiators and cigarettes with characterizing flavors except 
+menthol have been banned in the United States
 
 Marketing and Media Research
-Consumer perceptions of the risks and benefits and deci-
-sions  to  use  e-cigarettes  are  heavily  influenced  by  how 
-they  are  marketed.  Celebrities  have  been  used  to  mar-
-ket  e-cigarettes  since  at  least  2009.21  Grana  and  Ling3 
-reviewed  59   single-brand  e-cigarette  retail  Web  sites  in 
-2012 and found that the most popular claims were that the 
-products are healthier (95%), cheaper (93%), and cleaner 
-(95%)  than  cigarettes;  can  be  smoked  anywhere  (88%); 
-can be used to circumvent smoke-free policies (71%); do 
-not  produce  secondhand  smoke  (76%);  and  are  modern 
-(73%). Health claims made through text and pictorial and 
-video  representations  of  doctors  were  present  on  22%  of 
-sites.  Cessation-related  claims  (direct  and  indirect  state-
-ments) were found on 64% of sites. Marketing on the sites 
-commonly stated that e-cigarettes produce only “harmless 
+Consumer perceptions of the risks and benefits and deci
+sions  to  use  ecigarettes  are  heavily  influenced  by  how 
+they  are  marketed  Celebrities  have  been  used  to  mar
+ket  ecigarettes  since  at  least    Grana  and  Ling 
+reviewed     singlebrand  ecigarette  retail  Web  sites  in 
+ and found that the most popular claims were that the 
+products are healthier  cheaper  and cleaner 
+  than  cigarettes  can  be  smoked  anywhere   
+can be used to circumvent smokefree policies  do 
+not  produce  secondhand  smoke    and  are  modern 
+ Health claims made through text and pictorial and 
+video  representations  of  doctors  were  present  on    of 
+sites  Cessationrelated  claims  direct  and  indirect  state
+ments were found on  of sites Marketing on the sites 
+commonly stated that ecigarettes produce only harmless 
 
-water  vapor.”  Similar  messaging  strategies  were  being 
-used in the United Kingdom.22
+water  vapor  Similar  messaging  strategies  were  being 
+used in the United Kingdom
 
-These marketing messages have been repeated in the media. 
-A  thematic  analysis  of  newspaper  and  online  media  cover-
-age  about  e-cigarettes  in  the  United  Kingdom  and  Scotland 
-from  July  2007  to  June  2012  found  5  themes:  healthier 
-choice, circumventing smoke-free restrictions, celebrity use, 
-price,  and  risk  and  uncertainty.23  Coverage  often  included 
+These marketing messages have been repeated in the media 
+A  thematic  analysis  of  newspaper  and  online  media  cover
+age  about  ecigarettes  in  the  United  Kingdom  and  Scotland 
+from  July    to  June    found    themes  healthier 
+choice circumventing smokefree restrictions celebrity use 
+price  and  risk  and  uncertainty  Coverage  often  included 
 anecdotes  about  having  tried  nicotine  replacement  therapies 
-(NRTs), failing to quit, and then trying the e-cigarette (such 
+NRTs failing to quit and then trying the ecigarette such 
 as  the  celebrity  endorsement  by  actress  Katherine  Heigl  on 
-the US David Letterman television program21), implying that 
- e-cigarettes are a more effective form of NRT.
+the US David Letterman television program implying that 
+ ecigarettes are a more effective form of NRT
 
-E-cigarette companies also have a strong presence in social 
-media, which reinforces their marketing messages, including 
-repeating  the  use  of  celebrity  endorsements  (eg,  Heigl)  and 
-spreading images of the UK musical group Girls Aloud “puff-
-ing on e-cigarettes to cope with the stress of their 10th anni-
-versary tour.”22
+Ecigarette companies also have a strong presence in social 
+media which reinforces their marketing messages including 
+repeating  the  use  of  celebrity  endorsements  eg  Heigl  and 
+spreading images of the UK musical group Girls Aloud puff
+ing on ecigarettes to cope with the stress of their th anni
+versary tour
 
 Cigarette and other tobacco companies have been unable to 
-market their products on television and radio since the 1970s. 
-E-cigarette advertising on television and radio is mass market-
+market their products on television and radio since the s 
+Ecigarette advertising on television and radio is mass market
 ing of an addictive nicotine product for use in a recreational 
 manner to new generations who have never experienced such 
-marketing.  In  an  online  convenience  sample  of  519  adult 
+marketing  In  an  online  convenience  sample  of    adult 
 
-1974 
+ 
 
   Circulation 
 
-  May 13, 2014
+  May  
 
-Figure 2. Studies screened and selected for inclusion. PRISMA indicates Preferred Reporting Items for Systematic Reviews and 
-Meta-Analyses.
+Figure  Studies screened and selected for inclusion PRISMA indicates Preferred Reporting Items for Systematic Reviews and 
+MetaAnalyses
 
-smokers  and  recent  quitters  who  viewed  a  television  com-
-mercial for Blu e-cigarettes, 76% of current smokers reported 
-that  the  ad  made  them  think  about  smoking  cigarettes,  74% 
-reported it made them think about quitting, and 66% said it 
-made them likely to try an e-cigarette in the future.24 The 34% 
-of  participants  who  had  used  e-cigarettes  were  significantly 
+smokers  and  recent  quitters  who  viewed  a  television  com
+mercial for Blu ecigarettes  of current smokers reported 
+that  the  ad  made  them  think  about  smoking  cigarettes   
+reported it made them think about quitting and  said it 
+made them likely to try an ecigarette in the future The  
+of  participants  who  had  used  ecigarettes  were  significantly 
 more  likely  to  think  about  smoking  cigarettes  after  viewing 
-the ad than nonusers (83% and 72%, respectively), suggesting 
-that viewing an e-cigarette commercial may induce thoughts 
-about smoking and cue the urge to smoke.24
+the ad than nonusers  and  respectively suggesting 
+that viewing an ecigarette commercial may induce thoughts 
+about smoking and cue the urge to smoke
 
 Prevalence
-Awareness  of  e-cigarettes  and  e-cigarette  trial  have  at  least 
-doubled among both adults and adolescents in several coun-
-tries  from  2008  to  2012.  In  the  United  States,  awareness 
-is  more  prevalent  among  men,  but  trying  e-cigarettes  is 
-more  prevalent  among  women. Almost  the  same  percent  of 
-European  Union  and  US  adult  respondents  to  national  sur-
-veys  reported  having  tried  e-cigarettes  (7%  in  2012  versus 
-6.2%  in  2011,  respectively).5,25 All  population-based  studies 
-of  adult  use  show  the  highest  rate  of  e-cigarette  use  among 
-current smokers, followed by former smokers, with little use 
-among  nonsmokers,  although  e-cigarette  trial  and  use  rose 
-in all of these categories.4–6 Etter and Bullen26 followed up a 
-sample of e-cigarette users recruited from Web sites dedicated 
-to e-cigarettes and smoking cessation, most (72%) of whom 
-were former smokers at baseline. At the 1-year follow up, 6% 
-of former smokers who were daily e-cigarette users at base-
-line relapsed to smoking cigarettes, and almost all (92%) of 
+Awareness  of  ecigarettes  and  ecigarette  trial  have  at  least 
+doubled among both adults and adolescents in several coun
+tries  from    to    In  the  United  States  awareness 
+is  more  prevalent  among  men  but  trying  ecigarettes  is 
+more  prevalent  among  women Almost  the  same  percent  of 
+European  Union  and  US  adult  respondents  to  national  sur
+veys  reported  having  tried  ecigarettes    in    versus 
+  in    respectively All  populationbased  studies 
+of  adult  use  show  the  highest  rate  of  ecigarette  use  among 
+current smokers followed by former smokers with little use 
+among  nonsmokers  although  ecigarette  trial  and  use  rose 
+in all of these categories Etter and Bullen followed up a 
+sample of ecigarette users recruited from Web sites dedicated 
+to ecigarettes and smoking cessation most  of whom 
+were former smokers at baseline At the year follow up  
+of former smokers who were daily ecigarette users at base
+line relapsed to smoking cigarettes and almost all  of 
 
-the former smokers using e-cigarettes daily at baseline were 
-still  using  e-cigarettes  daily  at  follow-up.  Among  36  dual 
-users at baseline, 16 (44%) had stopped smoking after 1 year. 
-The  epidemiological,  population-based  studies  indicate  that, 
-across countries, e-cigarettes are most commonly being used 
-concurrently with conventional tobacco cigarettes (dual use). 
-Consistent with marketing messages, the most common rea-
-sons given for trying e-cigarettes are for use in places where 
-smoking is restricted, to cut down on smoking, and for help 
-with quitting smoking.6,27–30
+the former smokers using ecigarettes daily at baseline were 
+still  using  ecigarettes  daily  at  followup  Among    dual 
+users at baseline   had stopped smoking after  year 
+The  epidemiological  populationbased  studies  indicate  that 
+across countries ecigarettes are most commonly being used 
+concurrently with conventional tobacco cigarettes dual use 
+Consistent with marketing messages the most common rea
+sons given for trying ecigarettes are for use in places where 
+smoking is restricted to cut down on smoking and for help 
+with quitting smoking
 
-Choi  and  Forster31  followed  up  a  cohort  of  Midwestern 
-young adults (mean age, 24.1 years) who had never used e-cig-
-arettes from 2010 to 2011 and found that 21.6% of baseline 
-current smokers, 11.9% of baseline former smokers, and 2.9% 
-of baseline nonsmokers reported having ever used e-cigarettes 
-at follow-up. Those who believed at baseline that e-cigarettes 
-could  help  with  quitting  smoking  and  perceived  e-cigarettes 
+Choi  and  Forster  followed  up  a  cohort  of  Midwestern 
+young adults mean age  years who had never used ecig
+arettes from  to  and found that  of baseline 
+current smokers  of baseline former smokers and  
+of baseline nonsmokers reported having ever used ecigarettes 
+at followup Those who believed at baseline that ecigarettes 
+could  help  with  quitting  smoking  and  perceived  ecigarettes 
 to be less harmful than cigarettes were more likely to report 
-experimenting  with  e-cigarettes  at  follow-up  (adjusted  odds 
-ratio [OR], 1.98; 95% confidence interval [CI], 1.29–3.04; and 
-adjusted OR, 2.34; 95% CI, 1.49–3.69, respectively).
+experimenting  with  ecigarettes  at  followup  adjusted  odds 
+ratio OR   confidence interval CI  and 
+adjusted OR   CI  respectively
 
-Data  on  e-cigarette  use  among  adolescents  are  more  lim-
-ited but, like for adults, show rapid increases in awareness and 
-use in 5 countries (United States, Poland, Latvia, Finland, and 
-Korea), with higher rates of trial and current use in European 
-countries  than  the  United  States  or  Korea.9,10,32,33  In  Korea, 
-youth ever use of e-cigarettes rose from 0.5% in 2008 to 9.4% 
-in 2011,10 and in the United States, it rose from 3.3% in 2011 
-to 6.8% in 2012.9 As with adult population-based studies, data 
+Data  on  ecigarette  use  among  adolescents  are  more  lim
+ited but like for adults show rapid increases in awareness and 
+use in  countries United States Poland Latvia Finland and 
+Korea with higher rates of trial and current use in European 
+countries  than  the  United  States  or  Korea  In  Korea 
+youth ever use of ecigarettes rose from  in  to  
+in  and in the United States it rose from  in  
+to  in  As with adult populationbased studies data 
 
 Grana et al 
 
-  E-Cigarettes: A Scientific Review 
+  ECigarettes A Scientific Review 
 
-  1975
+  
 
-suggest  that  e-cigarette  use  is  most  appealing  and  prevalent 
+suggest  that  ecigarette  use  is  most  appealing  and  prevalent 
 among youth who are also experimenting with or are current 
-users of tobacco cigarettes. Dual use with conventional ciga-
-rettes is the predominant pattern of e-cigarette use: 61% in US 
-middle school students and 80% among US high school stu-
-dents in 2011.9 These results indicate rapid market penetration 
-of e-cigarettes among youth, with trial among US high school 
-students (10.0%) in 2012 even higher than the 2011 rate for 
-adults (6.2%).5 Despite a law prohibiting e-cigarette sales to 
-minors, e-cigarette use among Utah youth (grades 8, 10, and 
-12) tripled between 2011 and 2013, with youth 3 times more 
-likely to report current e-cigarette use than adults.34
+users of tobacco cigarettes Dual use with conventional ciga
+rettes is the predominant pattern of ecigarette use  in US 
+middle school students and  among US high school stu
+dents in  These results indicate rapid market penetration 
+of ecigarettes among youth with trial among US high school 
+students  in  even higher than the  rate for 
+adults  Despite a law prohibiting ecigarette sales to 
+minors ecigarette use among Utah youth grades   and 
+ tripled between  and  with youth  times more 
+likely to report current ecigarette use than adults
 
-Although dual use with cigarettes is high, some youth exper-
-imenting with e-cigarettes have never tried a tobacco cigarette, 
-which indicates that some youth are initiating use of nicotine, 
-an addictive drug, with e-cigarettes. In 2012, 20.3% of middle 
-school and 7.2% of high school ever e-cigarette users reported 
-never smoking conventional cigarettes.9 Similarly, in 2011 in 
-Korea, 15% of students in grades 7 through 12 who had ever 
-used  e-cigarettes  had  never  smoked  a  cigarette.10  The  Utah 
-Department of Health found that 32% of ever e-cigarette users 
-reported that they had never smoked conventional cigarettes.34
+Although dual use with cigarettes is high some youth exper
+imenting with ecigarettes have never tried a tobacco cigarette 
+which indicates that some youth are initiating use of nicotine 
+an addictive drug with ecigarettes In   of middle 
+school and  of high school ever ecigarette users reported 
+never smoking conventional cigarettes Similarly in  in 
+Korea  of students in grades  through  who had ever 
+used  ecigarettes  had  never  smoked  a  cigarette  The  Utah 
+Department of Health found that  of ever ecigarette users 
+reported that they had never smoked conventional cigarettes
 
-E-Cigarette E-Fluid and Vapor
+ECigarette EFluid and Vapor
 
 Chemical Constituents
-The  nicotine  content  of  the  cartridge  e-liquid  from  some 
-brands revealed poor concordance of labeled and actual nico-
-tine content.35–39 Simulated e-cigarette use revealed that indi-
-vidual  puffs  contained  from  0  to  35  μg  nicotine  per  puff.37 
-Assuming  a  high  nicotine  delivery  of  30  μg  per  puff,  it 
-would  take  ≈30  puffs  to  deliver  the  1  mg  nicotine  typically 
-delivered by smoking a conventional cigarette. A puff of the 
-e-cigarette with the highest nicotine content contained 20% of 
-the nicotine contained in a puff of a conventional cigarette.37 
-Actual  nicotine  delivery  from  an  e-cigarette  would  likely 
-be  affected  by  users’  smoking  behavior. An  analysis  of  UK 
-brand  e-cigarettes and the resulting aerosol demonstrated that, 
-across brands, nicotine content of the e-liquid in the cartridges 
+The  nicotine  content  of  the  cartridge  eliquid  from  some 
+brands revealed poor concordance of labeled and actual nico
+tine content Simulated ecigarette use revealed that indi
+vidual  puffs  contained  from    to    g  nicotine  per  puff 
+Assuming  a  high  nicotine  delivery  of    g  per  puff  it 
+would  take    puffs  to  deliver  the    mg  nicotine  typically 
+delivered by smoking a conventional cigarette A puff of the 
+ecigarette with the highest nicotine content contained  of 
+the nicotine contained in a puff of a conventional cigarette 
+Actual  nicotine  delivery  from  an  ecigarette  would  likely 
+be  affected  by  users  smoking  behavior An  analysis  of  UK 
+brand  ecigarettes and the resulting aerosol demonstrated that 
+across brands nicotine content of the eliquid in the cartridges 
 was not significantly correlated with the amount found in the 
 
-resulting  aerosol,  indicating  differences  in  the  engineering 
+resulting  aerosol  indicating  differences  in  the  engineering 
 characteristics  of  the  device  that  strongly  influence  nicotine 
-delivery even with a consistent puffing protocol.40
+delivery even with a consistent puffing protocol
 
-Goniewicz  et  al41  analyzed  the  aerosol  from  12  brands  of 
-e-cigarettes, a conventional cigarette, and a nicotine inhaler for 
-toxic and carcinogenic compounds. The levels of toxicants in 
-the aerosol were 1 to 2 orders of magnitude lower than in ciga-
-rette smoke but higher than with a nicotine inhaler (Table 1).
+Goniewicz  et  al  analyzed  the  aerosol  from    brands  of 
+ecigarettes a conventional cigarette and a nicotine inhaler for 
+toxic and carcinogenic compounds The levels of toxicants in 
+the aerosol were  to  orders of magnitude lower than in ciga
+rette smoke but higher than with a nicotine inhaler Table 
 
-Kim and Shin42 analyzed the tobacco-specific nitrosamines 
-NNN,  NNK,  and  NAT  and  total  tobacco-specific  nitrosa-
-mines in 105 refill fluids from 11  companies  in the Korean 
-market  and  found  nearly  a  3-order-of-magnitude  variation 
-in  tobacco-specific  nitrosamine  concentrations,  with  total 
-tobacco-specific nitrosamine concentration ranging from 330 
-to 8600 μg/mL.
+Kim and Shin analyzed the tobaccospecific nitrosamines 
+NNN  NNK  and  NAT  and  total  tobaccospecific  nitrosa
+mines in  refill fluids from   companies  in the Korean 
+market  and  found  nearly  a  orderofmagnitude  variation 
+in  tobaccospecific  nitrosamine  concentrations  with  total 
+tobaccospecific nitrosamine concentration ranging from  
+to  gmL
 
 Cytotoxicity
-Bahl et al43 screened 41 e-cigarette refill fluids from 4 com-
-panies for cytotoxicity using 3 cell types: human pulmonary 
-fibroblasts,  human  embryonic  stem  cells,  and  mouse  neural 
-stem  cells.  Cytotoxicity  varied  among  products  from  highly 
-toxic to low or no cytotoxicity. The authors determined that 
-nicotine did not cause cytotoxicity, that some products were 
+Bahl et al screened  ecigarette refill fluids from  com
+panies for cytotoxicity using  cell types human pulmonary 
+fibroblasts  human  embryonic  stem  cells  and  mouse  neural 
+stem  cells  Cytotoxicity  varied  among  products  from  highly 
+toxic to low or no cytotoxicity The authors determined that 
+nicotine did not cause cytotoxicity that some products were 
 noncytotoxic  to  pulmonary  fibroblasts  but  cytotoxic  to  both 
-types  of  stem  cells,  and  that  cytotoxicity  was  related  to  the 
-concentration  and  number  of  flavorings  used.  The  finding 
+types  of  stem  cells  and  that  cytotoxicity  was  related  to  the 
+concentration  and  number  of  flavorings  used  The  finding 
 that the stem cells  are more sensitive than the differentiated 
 adult pulmonary fibroblasts cells suggests that adult lungs are 
 probably  not  the  most  sensitive  system  to  assess  the  effects 
-of  exposure  to  e-cigarette  aerosol.  These  findings  also  raise 
-concerns about pregnant women who use e-cigarettes or are 
-exposed to secondhand e-cigarette aerosol.
+of  exposure  to  ecigarette  aerosol  These  findings  also  raise 
+concerns about pregnant women who use ecigarettes or are 
+exposed to secondhand ecigarette aerosol
 
-In a study funded by the FlavorArt e-cigarette liquid man-
-ufacturers,  Romagna  et  al44  compared  the  cytotoxicity  of 
-aerosol  produced  from  21  nicotine-containing,  flavored  (12 
-tobacco  flavored  and  9  fruit  or  candied  flavored)  brands  of 
-e-cigarette  liquid  with  smoke  from  a  conventional  cigarette 
-using  embryonic  mouse  fibroblast  cells.  Only  aerosol  from 
-coffee-flavored e-liquid produced a cytotoxic effect (average, 
-51% viability at 100% concentration of solution).
+In a study funded by the FlavorArt ecigarette liquid man
+ufacturers  Romagna  et  al  compared  the  cytotoxicity  of 
+aerosol  produced  from    nicotinecontaining  flavored   
+tobacco  flavored  and    fruit  or  candied  flavored  brands  of 
+ecigarette  liquid  with  smoke  from  a  conventional  cigarette 
+using  embryonic  mouse  fibroblast  cells  Only  aerosol  from 
+coffeeflavored eliquid produced a cytotoxic effect average 
+ viability at  concentration of solution
 
-Table 1.  Levels of Toxicants in E-Cigarette Aerosol Compared With Nicotine Inhaler and Cigarette Smoke
+Table   Levels of Toxicants in ECigarette Aerosol Compared With Nicotine Inhaler and Cigarette Smoke
 
 Toxicant
 
-Formaldehyde, μg
+Formaldehyde g
 
-Acetaldehyde, μg
+Acetaldehyde g
 
-Acrolein, μg
+Acrolein g
 
-o-Methylbenzaldehyde, μg
+oMethylbenzaldehyde g
 
-Toluene, μg
+Toluene g
 
-p,m-xylene, μg
+pmxylene g
 
-NNN, ng
+NNN ng
 
-NNK, ng
+NNK ng
 
-Cadmium, ng
+Cadmium ng
 
-Nickel, ng
+Nickel ng
 
-Lead, ng
+Lead ng
 
 Range in Content in Aerosol  
-From 12 E-Cigarette  
-Samples per 15 Puffs*
+From  ECigarette  
+Samples per  Puffs
 
 Range in Content in Conventional 
 Cigarette Micrograms in Mainstream 
-Smoke From 1 Cigarette
+Smoke From  Cigarette
 
 Content in Nicotine  
 Inhaler Mist  
-per 15 Puffs*
+per  Puffs
 
-0.2–5.61
 
-0.11–1.36
 
-0.07–4.19
 
-0.13–0.71
 
-ND–0.63
 
-ND–0.2
 
-ND–0.00043
 
-ND–0.00283
-
-ND–0.022
-
-0.011–0.029
-
-0.003–0.057
-
-1.6–52
-
-52–140
-
-2.4–62
-
-…
-
-8.3–70
-
-…
-
-0.0005–0.19
-
-0.012–0.11
-
-…
-
-…
-
-…
-
-0.2
-
-0.11
-
-ND
-
-0.07
 
 ND
 
@@ -436,486 +392,530 @@ ND
 
 ND
 
-0.003
+ND
 
-0.019
 
-0.004
 
-Prepared using data from Goniewicz et al.41 E-cigarette indicates electronic cigarette; and ND, not determined.
 
-1976 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ND
+
+
+
+ND
+
+ND
+
+ND
+
+ND
+
+
+
+
+
+
+
+Prepared using data from Goniewicz et al Ecigarette indicates electronic cigarette and ND not determined
+
+ 
 
   Circulation 
 
-  May 13, 2014
+  May  
 
-Farsalinos et al45 tested cytotoxicity in cultured rat cardiac 
-myoblasts  of  exposure  to  aerosol  generated  from  20  refill 
-solutions  from  5  manufacturers  containing  6  to  24  mg/mL 
-nicotine in various flavors, a “base”-only solution (50% pro-
-pylene glycol and 50% glycerol), and conventional cigarette 
-smoke. The aerosol from 3 fluids was cytotoxic at 100% and 
-50%  dilution;  2  were  tobacco  flavored  and  1  was  cinnamon 
-cookie flavored. Cigarette smoke was cytotoxic at 100% and 
-all dilutions except 6.25%.
+Farsalinos et al tested cytotoxicity in cultured rat cardiac 
+myoblasts  of  exposure  to  aerosol  generated  from    refill 
+solutions  from    manufacturers  containing    to    mgmL 
+nicotine in various flavors a baseonly solution  pro
+pylene glycol and  glycerol and conventional cigarette 
+smoke The aerosol from  fluids was cytotoxic at  and 
+  dilution    were  tobacco  flavored  and    was  cinnamon 
+cookie flavored Cigarette smoke was cytotoxic at  and 
+all dilutions except 
 
 Secondhand Exposure
-E-cigarettes do not burn or smolder the way conventional cig-
-arettes do, so they do not emit side-stream smoke; however, 
-bystanders are exposed to aerosol exhaled by the user. Schripp 
-et  al46  conducted  chamber  studies  in  which  subjects  used  3 
-e-liquids (0 mg nicotine, apple flavor; 18 mg nicotine, apple 
-flavor;  18  mg  nicotine,  tobacco  flavor)  and  1  tobacco  ciga-
+Ecigarettes do not burn or smolder the way conventional cig
+arettes do so they do not emit sidestream smoke however 
+bystanders are exposed to aerosol exhaled by the user Schripp 
+et  al  conducted  chamber  studies  in  which  subjects  used   
+eliquids  mg nicotine apple flavor  mg nicotine apple 
+flavor    mg  nicotine  tobacco  flavor  and    tobacco  ciga
 rette and measured levels of several toxins and nicotine in the 
-resulting aerosol. Three e-cigarette devices were used for these 
-experiments: 2 that used a tank system that is directly filled 
-with e-liquid and one that used a cartridge with a cotton fiber 
-on which to drip the liquid. They found low levels of form-
-aldehyde, acetaldehyde, isoprene, acetic acid,  2-butanodione, 
-acetone, propanol, propylene glycol, and diacetin (from flavor-
-ing), traces of apple oil (3- methylbutyl-3-methylbutanoate), 
-and nicotine (with differing levels depending on the specific 
-protocols) emitted into the air. Toxins in the e-cigarette aero-
+resulting aerosol Three ecigarette devices were used for these 
+experiments  that used a tank system that is directly filled 
+with eliquid and one that used a cartridge with a cotton fiber 
+on which to drip the liquid They found low levels of form
+aldehyde acetaldehyde isoprene acetic acid  butanodione 
+acetone propanol propylene glycol and diacetin from flavor
+ing traces of apple oil  methylbutylmethylbutanoate 
+and nicotine with differing levels depending on the specific 
+protocols emitted into the air Toxins in the ecigarette aero
 sol were at much lower levels compared with the conventional 
-cigarette emissions.46
+cigarette emissions
 
-In  another  chamber  study,  Flouris  et  al47  compared  emis-
-sions  of  conventional  cigarettes  and  e-cigarettes  in  condi-
-tions designed to approximate a smoky bar (target air CO of 
-23  ppm)  using  machine-smoked  e-cigarettes  and  cigarettes. 
-E-cigarette aerosol (using a single brand of e-cigarette made 
-in Greece and a single e-liquid with at least 60% propylene 
-glycol, 11 mg/mL nicotine) was generated with a pump that 
-operated for the same duration as the cigarette smoking, and 
-aerosol was released into the room. (A person inhaling a nico-
-tine  aerosol  usually  absorbs  80%  of  the  nicotine,48  whereas 
-the pump discharges all nicotine into the environment, so the 
+In  another  chamber  study  Flouris  et  al  compared  emis
+sions  of  conventional  cigarettes  and  ecigarettes  in  condi
+tions designed to approximate a smoky bar target air CO of 
+  ppm  using  machinesmoked  ecigarettes  and  cigarettes 
+Ecigarette aerosol using a single brand of ecigarette made 
+in Greece and a single eliquid with at least  propylene 
+glycol  mgmL nicotine was generated with a pump that 
+operated for the same duration as the cigarette smoking and 
+aerosol was released into the room A person inhaling a nico
+tine  aerosol  usually  absorbs    of  the  nicotine  whereas 
+the pump discharges all nicotine into the environment so the 
 nicotine exposure may be higher in this study than would be 
-the  case  with  actual  secondhand  aerosol  exposure.)  Serum 
+the  case  with  actual  secondhand  aerosol  exposure  Serum 
 cotinine in nonsmokers sitting in the chamber was similar for 
-cigarette  smoke  and  e-cigarette  aerosol  exposure  (average,  
-0.8 ng/mL for tobacco cigarette and 0.5 ng/mL for e-cigarette).
-Schober  et  al39  measured  indoor  pollution  from  3  people 
-using  e-cigarettes  over  a  2-hour  period  in  a  realistic  envi-
-ronment  modeled  on  a  café.  They  found  elevated  nicotine, 
-1,2-propanediol,  glycerin,  aluminum,  and  7  polycyclic  aro-
+cigarette  smoke  and  ecigarette  aerosol  exposure  average  
+ ngmL for tobacco cigarette and  ngmL for ecigarette
+Schober  et  al  measured  indoor  pollution  from    people 
+using  ecigarettes  over  a  hour  period  in  a  realistic  envi
+ronment  modeled  on  a  caf  They  found  elevated  nicotine 
+propanediol  glycerin  aluminum  and    polycyclic  aro
 matic hydrocarbons classified as probable carcinogens by the 
-International Agency for Research on Cancer in the room air.
-Czogala et al49 conducted a chamber study of secondhand 
-exposure to e-cigarette aerosol compared with cigarette smoke, 
-finding that, on average, bystanders would be exposed to nico-
-tine  but  at  levels  1/10th  that  of  cigarette  smoke   (e-cigarette 
-aerosol, 3.32±2.49 μg/m3; cigarette smoke, 31.60±6.91 μg/m3; 
-P=0.008). Both e-cigarette aerosol and cigarette smoke con-
-tained fine particles (PM2.5), with e-cigarette aerosol particle 
-concentrations  ranging  from  6.6  to  85.0  μg/m3.  E-cigarette 
+International Agency for Research on Cancer in the room air
+Czogala et al conducted a chamber study of secondhand 
+exposure to ecigarette aerosol compared with cigarette smoke 
+finding that on average bystanders would be exposed to nico
+tine  but  at  levels  th  that  of  cigarette  smoke   ecigarette 
+aerosol  gm cigarette smoke  gm 
+P Both ecigarette aerosol and cigarette smoke con
+tained fine particles PM with ecigarette aerosol particle 
+concentrations  ranging  from    to    gm  Ecigarette 
 
-aerosol was not a source of exposure to carbon monoxide, a 
-key combustion element of conventional cigarette smoke.
+aerosol was not a source of exposure to carbon monoxide a 
+key combustion element of conventional cigarette smoke
 
 Particulate Matter
-E-cigarettes  deliver  nicotine  by  creating  an  aerosol  of  ultra-
-fine  particles.  Fine  particles  can  be  variable  and  chemically 
-complex, and the specific components responsible for toxic-
+Ecigarettes  deliver  nicotine  by  creating  an  aerosol  of  ultra
+fine  particles  Fine  particles  can  be  variable  and  chemically 
+complex and the specific components responsible for toxic
 ity  and  the  relative  importance  of  particle  size  and  particle 
-composition  are  generally  not  known.50  Given  these  uncer-
-tainties,  it  is  not  clear  whether  the  ultrafine  particles  deliv-
-ered by e-cigarettes have health effects and toxicity similar to 
+composition  are  generally  not  known  Given  these  uncer
+tainties  it  is  not  clear  whether  the  ultrafine  particles  deliv
+ered by ecigarettes have health effects and toxicity similar to 
 the ambient fine particles generated by conventional cigarette 
-smoke or secondhand smoke. There is strong evidence, how-
-ever, that frequent low or short-term levels of exposure to fine 
+smoke or secondhand smoke There is strong evidence how
+ever that frequent low or shortterm levels of exposure to fine 
 and ultrafine particles from tobacco smoke or air pollution can 
 contribute to pulmonary and systemic inflammatory processes 
 and increase the risk of cardiovascular and respiratory disease 
-and death.51–54
+and death
 
-Fuoco  et  al55  examined  particle  number  concentration 
+Fuoco  et  al  examined  particle  number  concentration 
 and  distribution  and  performed  a  volatility  analysis  of  the 
- e-cigarette aerosol generated from 3 devices (2 rechargeable 
-and 1 disposable) using 4 refill e-liquids with varying levels 
-of  nicotine  and  flavorants.  They  found  that  higher  e-liquid 
+ ecigarette aerosol generated from  devices  rechargeable 
+and  disposable using  refill eliquids with varying levels 
+of  nicotine  and  flavorants  They  found  that  higher  eliquid 
 nicotine content was associated with higher particle numbers 
-in the resulting aerosol, with little effect on the particle size 
-distribution.  Longer  puffing  time  resulted  in  more  particles. 
-Flavor  was  not  associated  with  differences  in  particle  num-
-ber  or  size  distribution.  Consistent  with  other  studies,46,56–58 
-the particle size distribution (range of modes, ≈120–165 nm) 
-was  similar  to  that  of  conventional  cigarettes,  with  some 
- e-cigarettes delivering more particles than conventional ciga-
-rettes (Figure 3).
+in the resulting aerosol with little effect on the particle size 
+distribution  Longer  puffing  time  resulted  in  more  particles 
+Flavor  was  not  associated  with  differences  in  particle  num
+ber  or  size  distribution  Consistent  with  other  studies 
+the particle size distribution range of modes  nm 
+was  similar  to  that  of  conventional  cigarettes  with  some 
+ ecigarettes delivering more particles than conventional ciga
+rettes Figure 
 
-Zhang et al57 examined the size of e-cigarette aerosol par-
-ticles and likely deposition in the human body (using a single 
-brand,  BloogMaxXFusion)  with  both  propylene  glycol  and 
-vegetable glycerin-based liquids. Using particle size and lung 
-ventilation rates (1 for a “reference worker” and 1 for a “heavy 
-worker”: 1.2 and 1.688 m3/h, respectively), their human depo-
-sition  model  estimated  that  73%  to  80%  of  particles  would 
-be  distributed  into  the  exhaled  aerosol,  whereas  9%  to  18% 
+Zhang et al examined the size of ecigarette aerosol par
+ticles and likely deposition in the human body using a single 
+brand  BloogMaxXFusion  with  both  propylene  glycol  and 
+vegetable glycerinbased liquids Using particle size and lung 
+ventilation rates  for a reference worker and  for a heavy 
+worker  and  mh respectively their human depo
+sition  model  estimated  that    to    of  particles  would 
+be  distributed  into  the  exhaled  aerosol  whereas    to   
 of particles would be deposited in alveoli resulting in arterial 
-delivery, and 9% to 17% would be deposited in the head and 
-airways, resulting in venous delivery. As expected, the heavy 
+delivery and  to  would be deposited in the head and 
+airways resulting in venous delivery As expected the heavy 
 worker  model  showed  more  alveolar  delivery  across  puffs 
-compared  with  the  reference  worker,  who  would  have  more 
-head and airway delivery. In total, ≈20% to 27% of particles 
+compared  with  the  reference  worker  who  would  have  more 
+head and airway delivery In total  to  of particles 
 are  estimated  to  be  deposited  in  the  circulatory  system  and 
-into organs from e-cigarette aerosol, which is comparable to 
-the 25% to 35% for conventional cigarette smoke.
+into organs from ecigarette aerosol which is comparable to 
+the  to  for conventional cigarette smoke
 
-In  their  study  of  passive  exposure  to  exhaled  e-cigarette 
-aerosol  in  a  simulated  café,  Schober  et  al39  found  that  con-
+In  their  study  of  passive  exposure  to  exhaled  ecigarette 
+aerosol  in  a  simulated  caf  Schober  et  al  found  that  con
 centrations of fine particles in the air increased from a median 
-of  400  particles  per  1  cm3  with  people  simply  sitting  in  the 
-room for 2 hours to medians of 49 000 to 88 000 particles per 
-1 cm3 (depending on the e-cigarette fluid used) after 2 hours of 
-e-cigarette use in the same room
+of    particles  per    cm  with  people  simply  sitting  in  the 
+room for  hours to medians of   to   particles per 
+ cm depending on the ecigarette fluid used after  hours of 
+ecigarette use in the same room
 
-Both  the  e-liquid  and  the  Poly-fil  fibers  that  are  used  to 
-absorb the e-liquid for heating and conversion to an aerosol 
+Both  the  eliquid  and  the  Polyfil  fibers  that  are  used  to 
+absorb the eliquid for heating and conversion to an aerosol 
 come into contact with heating elements that contain heavy 
 
 Grana et al 
 
-  E-Cigarettes: A Scientific Review 
+  ECigarettes A Scientific Review 
 
-  1977
+  
 
-Figure 3. Particle number distribution from (A) 
-mainstream aerosol in e-liquid 1 and from (B) con-
-ventional cigarette. Reproduced from Fuoco et al55 
-with permission from the publisher. Copyright © 
-2013 Elsevier Ltd.
+Figure  Particle number distribution from A 
+mainstream aerosol in eliquid  and from B con
+ventional cigarette Reproduced from Fuoco et al 
+with permission from the publisher Copyright  
+ Elsevier Ltd
 
-metals (tin, nickel, copper, lead, chromium). Williams et al58 
-found  heavy  metals  in  samples  of  e-cigarette  liquids  and 
-aerosol. Tin, which appeared to originate from solder joints, 
+metals tin nickel copper lead chromium Williams et al 
+found  heavy  metals  in  samples  of  ecigarette  liquids  and 
+aerosol Tin which appeared to originate from solder joints 
 was found as both particles and tin whiskers in the fluid and 
-Poly-fil, and e-cigarette fluid containing tin was cytotoxic to 
-human  pulmonary  fibroblasts.  E-cigarette  aerosol  also  con-
-tained other metals, including nickel, 2 to 100 times higher 
-than found in Marlboro cigarette smoke. The nickel and chro-
-mium nanoparticles (<100 nm) possibly originated from the 
-heating element. It is likely that engineering features, includ-
-ing the nature of the battery, the heating temperature of the 
-liquid,  and  the  type  of  heating  element  and  reservoir,  will 
-influence the nature, number, and size of particles produced. 
+Polyfil and ecigarette fluid containing tin was cytotoxic to 
+human  pulmonary  fibroblasts  Ecigarette  aerosol  also  con
+tained other metals including nickel  to  times higher 
+than found in Marlboro cigarette smoke The nickel and chro
+mium nanoparticles  nm possibly originated from the 
+heating element It is likely that engineering features includ
+ing the nature of the battery the heating temperature of the 
+liquid  and  the  type  of  heating  element  and  reservoir  will 
+influence the nature number and size of particles produced 
 These  metal  nanoparticles  can  deposit  into  alveolar  sacs  in 
-the  lungs,  potentially  causing  local  respiratory  toxicity  and 
-entering the bloodstream.
+the  lungs  potentially  causing  local  respiratory  toxicity  and 
+entering the bloodstream
 
-In  summary,  the  particle  size  distribution  and  number  of 
-particles delivered by e-cigarettes are similar to those of con-
-ventional cigarettes, with most particles in the ultrafine range 
-(modes,  ≈100–200  nm).  Particle  delivery  appears  to  depend 
-on the nicotine level in the e-cigarette fluid but not the pres-
-ence  of  flavors.  Smokers  exhale  some  of  these  particles, 
-which exposes bystanders to “passive vaping.” Like cigarettes, 
- e-cigarette particles are small enough to reach deep into the 
+In  summary  the  particle  size  distribution  and  number  of 
+particles delivered by ecigarettes are similar to those of con
+ventional cigarettes with most particles in the ultrafine range 
+modes    nm  Particle  delivery  appears  to  depend 
+on the nicotine level in the ecigarette fluid but not the pres
+ence  of  flavors  Smokers  exhale  some  of  these  particles 
+which exposes bystanders to passive vaping Like cigarettes 
+ ecigarette particles are small enough to reach deep into the 
 
-lungs and cross into the systemic circulation. At a minimum, 
-these  studies  show  that  e-cigarette  aerosol  is  not  merely 
-“water vapor” as is often claimed in the marketing for these 
-products.  Tests  on  e-cigarettes  show  much  lower  levels  of 
-most toxicants, but not particles, than conventional cigarettes. 
+lungs and cross into the systemic circulation At a minimum 
+these  studies  show  that  ecigarette  aerosol  is  not  merely 
+water vapor as is often claimed in the marketing for these 
+products  Tests  on  ecigarettes  show  much  lower  levels  of 
+most toxicants but not particles than conventional cigarettes 
 The  thresholds  for  human  toxicity  of  potential  toxicants  in 
- e-cigarette vapor are not known, and the possibility of health 
-risks to primary users of the products and those exposed pas-
-sively to their emissions must be considered.
+ ecigarette vapor are not known and the possibility of health 
+risks to primary users of the products and those exposed pas
+sively to their emissions must be considered
 
 Nicotine Absorption
-Early  studies  of  nicotine  absorption  in  2010  found  that 
- e-cigarettes  delivered  much  lower  levels  of  plasma  nicotine 
-than conventional cigarettes,59,60 whereas a more recent study 
+Early  studies  of  nicotine  absorption  in    found  that 
+ ecigarettes  delivered  much  lower  levels  of  plasma  nicotine 
+than conventional cigarettes whereas a more recent study 
 demonstrated  that  more  experienced  users  using  their  own 
 product  who  engaged  in  more  puff  intervals  have  nicotine 
-absorption  similar  to  that  with  conventional  cigarettes,61–63 
+absorption  similar  to  that  with  conventional  cigarettes 
 perhaps as a result of a combination of characteristics of the 
-devices and user vaping topography.63 Another study of smok-
-ers  smoking  e-cigarettes  using  a  specified  protocol  found  a 
-similar  rise  in  serum  cotinine  immediately  after  use  (mean 
-increase, ≈20 ng/mL).47 Several studies reported that regard-
-less  of  nicotine  delivery,  e-cigarettes  can  modestly  alleviate 
-some  symptoms  of  withdrawal,  and  participants  positively 
+devices and user vaping topography Another study of smok
+ers  smoking  ecigarettes  using  a  specified  protocol  found  a 
+similar  rise  in  serum  cotinine  immediately  after  use  mean 
+increase  ngmL Several studies reported that regard
+less  of  nicotine  delivery  ecigarettes  can  modestly  alleviate 
+some  symptoms  of  withdrawal  and  participants  positively 
 
-1978 
+ 
 
   Circulation 
 
-  May 13, 2014
+  May  
 
-appraised  the  use  of  e-cigarettes.62–65  In  a  study  comparing 
-the nicotine inhalator and e-cigarettes,60 the nicotine inhalator 
-delivered an amount of nicotine similar to that in the 16-mg 
-e-cigarette;  however,  the  authors  noted  that  the  e-cigarette 
+appraised  the  use  of  ecigarettes  In  a  study  comparing 
+the nicotine inhalator and ecigarettes the nicotine inhalator 
+delivered an amount of nicotine similar to that in the mg 
+ecigarette  however  the  authors  noted  that  the  ecigarette 
 malfunctioned  and  did  not  deliver  any  nicotine  in  a  third  of 
-participants. These results highlight the need for product regu-
-lation in terms of drug delivery and effects, as well as device 
-functioning and labeling.
+participants These results highlight the need for product regu
+lation in terms of drug delivery and effects as well as device 
+functioning and labeling
 
 Health Effects
 Propylene glycol and glycerin are the main base ingredients of 
-the e-liquid. Exposure to propylene glycol can cause eye and 
-respiratory  irritation,  and  prolonged  or  repeated  inhalation 
-in  industrial  settings  may  affect  the  central  nervous  system, 
-behavior, and the spleen.66 In its product safety materials, Dow 
-Chemical Company states that “inhalation exposure to [pro-
-pylene glycol] mists should be avoided,”67 and the American 
+the eliquid Exposure to propylene glycol can cause eye and 
+respiratory  irritation  and  prolonged  or  repeated  inhalation 
+in  industrial  settings  may  affect  the  central  nervous  system 
+behavior and the spleen In its product safety materials Dow 
+Chemical Company states that inhalation exposure to pro
+pylene glycol mists should be avoided and the American 
 Chemistry  Council  warns  against  its  use  in  theater  fogs 
-because  of  the  potential  for  eye  and  respiratory  irritation.68 
-When heated and vaporized, propylene glycol can form pro-
-pylene oxide, an International Agency for Research on Cancer 
-class 2B carcinogen,69 and glycerol forms acrolein, which can 
-cause upper respiratory tract irritation.70,71
+because  of  the  potential  for  eye  and  respiratory  irritation 
+When heated and vaporized propylene glycol can form pro
+pylene oxide an International Agency for Research on Cancer 
+class B carcinogen and glycerol forms acrolein which can 
+cause upper respiratory tract irritation
 
-Major  injuries  and  illness  have  resulted  from  e-cigarette 
-use,72 including explosions and fires.73,74 Less serious adverse 
-events  include  throat  and  mouth  irritation,  cough,  nausea, 
-and vomiting.72
+Major  injuries  and  illness  have  resulted  from  ecigarette 
+use including explosions and fires Less serious adverse 
+events  include  throat  and  mouth  irritation  cough  nausea 
+and vomiting
 
-A  study75  of  healthy  smokers’  pulmonary  function  after 
-acute ad lib puffing of an e-cigarette (Nobacco, medium, 11 
-mg)  for  5  minutes  (after  refraining  from  smoking  tobacco 
-cigarettes for 4 hours) found no effect on spirometry but did 
-find significantly increased dynamic airway resistance (18%) 
-and  decreased  expired  nitric  oxide  (16%).  Sham  e-cigarette 
-use had no significant effect. This study is limited by the small 
-sample size, the short period of tobacco use abstinence before 
-protocol execution, the short length of exposure to e-cigarette 
-aerosol,  and  the  lack  of  comparison  with  smoking  conven-
-tional  cigarettes.  In  addition,  smokers  in  general  have  high 
+A  study  of  healthy  smokers  pulmonary  function  after 
+acute ad lib puffing of an ecigarette Nobacco medium  
+mg  for    minutes  after  refraining  from  smoking  tobacco 
+cigarettes for  hours found no effect on spirometry but did 
+find significantly increased dynamic airway resistance  
+and  decreased  expired  nitric  oxide    Sham  ecigarette 
+use had no significant effect This study is limited by the small 
+sample size the short period of tobacco use abstinence before 
+protocol execution the short length of exposure to ecigarette 
+aerosol  and  the  lack  of  comparison  with  smoking  conven
+tional  cigarettes  In  addition  smokers  in  general  have  high 
 airway  resistance  with  dynamic  testing  and  lower  expired 
-nitric oxide, likely as a result of oxidant stress. Despite these 
-limitations, this study suggests that e-cigarette use constricts 
-peripheral airways, possibly as a result of the irritant effects 
-of propylene glycol, which could be of particular concern in 
-people with chronic lung disease such as asthma, emphysema, 
-or chronic bronchitis.
+nitric oxide likely as a result of oxidant stress Despite these 
+limitations this study suggests that ecigarette use constricts 
+peripheral airways possibly as a result of the irritant effects 
+of propylene glycol which could be of particular concern in 
+people with chronic lung disease such as asthma emphysema 
+or chronic bronchitis
 
-Flouris et al47 assessed the short-term effects of e-cigarette 
-use  on  pulmonary  function  in  15  cigarette  smokers  who 
-puffed  an  e-cigarette  (>60%  propylene  glycol,  11  mg/mL 
-nicotine)  and  a  conventional  cigarette  according  to  a  speci-
-fied protocol, and passive exposure to e-cigarette aerosol and 
-conventional cigarette smoke with 15 never smokers. Active 
+Flouris et al assessed the shortterm effects of ecigarette 
+use  on  pulmonary  function  in    cigarette  smokers  who 
+puffed  an  ecigarette    propylene  glycol    mgmL 
+nicotine  and  a  conventional  cigarette  according  to  a  speci
+fied protocol and passive exposure to ecigarette aerosol and 
+conventional cigarette smoke with  never smokers Active 
 cigarette smoking resulted in a significant decrease in expired 
-lung volume (forced expiratory volume in the first second of 
-expiration/forced inspiratory vital capacity) that was not seen 
-with active e-cigarette use or with passive tobacco cigarette or 
-e-cigarette exposure. Additional analysis of the data collected 
-in this study76 found that white cell count increased after ciga-
-rette  smoking,  reflecting  inflammatory  process–associated 
-risk for acute cardiovascular events. Active e-cigarette use and 
+lung volume forced expiratory volume in the first second of 
+expirationforced inspiratory vital capacity that was not seen 
+with active ecigarette use or with passive tobacco cigarette or 
+ecigarette exposure Additional analysis of the data collected 
+in this study found that white cell count increased after ciga
+rette  smoking  reflecting  inflammatory  processassociated 
+risk for acute cardiovascular events Active ecigarette use and 
 
-passive exposure to e-cigarette vapor did not result in a sig-
-nificant increase in these biomarkers over 1 hour of exposure.
-Schober et al39 found elevated levels of exhaled nitric oxide 
-in people using a nicotine e-cigarette (but not a  nicotine-free 
-e-cigarette),  which  the  authors  attributed  to  pulmonary 
-inflammation.
+passive exposure to ecigarette vapor did not result in a sig
+nificant increase in these biomarkers over  hour of exposure
+Schober et al found elevated levels of exhaled nitric oxide 
+in people using a nicotine ecigarette but not a  nicotinefree 
+ecigarette  which  the  authors  attributed  to  pulmonary 
+inflammation
 
-National Vaper’s  Club,  a  pro–e-cigarette  advocacy  group, 
-published a “risk assessment” of e-cigarette and cigarette use 
-that concluded that “neither vapor from e-liquids or cigarette 
-smoke analytes posed a condition of ‘significant risk’ of harm 
-to human health via the inhalation route of exposure.”77 The 
-authors failed to detect benzo(a)pyrene in conventional ciga-
-rette smoke despite the fact that it is an established carcino-
-gen in cigarette smoke, and their assessment of conventional 
-cigarettes  concluded  that  they  did  not  pose  significant  risk, 
-both of which point to fatal errors in the data, data analysis, 
-or both. Another report15 funded by the Consumer Advocates 
-for Smoke-free Alternatives Association and published on the 
-Internet  used  occupational  threshold  limit  values  to  evalu-
-ate the potential risk posed by several toxins in e-cigarettes, 
-concluding  that  “there  is  no  evidence  that  vaping  produces 
+National Vapers  Club  a  proecigarette  advocacy  group 
+published a risk assessment of ecigarette and cigarette use 
+that concluded that neither vapor from eliquids or cigarette 
+smoke analytes posed a condition of significant risk of harm 
+to human health via the inhalation route of exposure The 
+authors failed to detect benzoapyrene in conventional ciga
+rette smoke despite the fact that it is an established carcino
+gen in cigarette smoke and their assessment of conventional 
+cigarettes  concluded  that  they  did  not  pose  significant  risk 
+both of which point to fatal errors in the data data analysis 
+or both Another report funded by the Consumer Advocates 
+for Smokefree Alternatives Association and published on the 
+Internet  used  occupational  threshold  limit  values  to  evalu
+ate the potential risk posed by several toxins in ecigarettes 
+concluding  that  there  is  no  evidence  that  vaping  produces 
 inhalable exposures to contaminants of the aerosol that would 
 warrant  health  concerns  by  the  standards  that  are  used  to 
-ensure  safety  of  workplaces.”  Threshold  limit  values  are  an 
-approach to assessing health effects for occupational chemi-
-cal exposures that are generally much higher (often orders of 
-magnitude higher) than levels considered acceptable for ambi-
-ent  or  population-level  exposures.  Occupational  exposures 
+ensure  safety  of  workplaces  Threshold  limit  values  are  an 
+approach to assessing health effects for occupational chemi
+cal exposures that are generally much higher often orders of 
+magnitude higher than levels considered acceptable for ambi
+ent  or  populationlevel  exposures  Occupational  exposures 
 also do not consider exposure to sensitive subgroups such as 
-people  with  medical  conditions,  children,  and  infants  who 
-might be exposed to secondhand e-cigarette emissions, most 
-notably nicotine.
+people  with  medical  conditions  children  and  infants  who 
+might be exposed to secondhand ecigarette emissions most 
+notably nicotine
 
-In summary, only a few studies have directly investigated 
-the health effects of exposure to e-cigarette aerosol, but some 
-demonstrate  the  ability  of  e-cigarette  aerosol  exposure  to 
-result  in  biological  effects.  Long-term  biological  effects  are 
-unknown  at  this  time  because  e-cigarettes  have  not  been  in 
-widespread use long enough for assessment.
+In summary only a few studies have directly investigated 
+the health effects of exposure to ecigarette aerosol but some 
+demonstrate  the  ability  of  ecigarette  aerosol  exposure  to 
+result  in  biological  effects  Longterm  biological  effects  are 
+unknown  at  this  time  because  ecigarettes  have  not  been  in 
+widespread use long enough for assessment
 
 Effects on Cessation of Conventional Cigarettes
-E-cigarettes  are  promoted  as  smoking  cessation  aids,  and 
-many individuals who use e-cigarettes believe that they will 
-help  them  quit  smoking  conventional  cigarettes.7,29,30  The 
-assumption  that  e-cigarettes  will  be  as  effective  as  or  more 
-effective than pharmaceutical NRTs has also motivated sup-
-port  for  e-cigarettes  among  some  public  health  researchers 
-and policy makers78 and (as discussed later) formed the basis 
-for some public policies on the regulation of e-cigarettes.
+Ecigarettes  are  promoted  as  smoking  cessation  aids  and 
+many individuals who use ecigarettes believe that they will 
+help  them  quit  smoking  conventional  cigarettes  The 
+assumption  that  ecigarettes  will  be  as  effective  as  or  more 
+effective than pharmaceutical NRTs has also motivated sup
+port  for  ecigarettes  among  some  public  health  researchers 
+and policy makers and as discussed later formed the basis 
+for some public policies on the regulation of ecigarettes
 
-Population-Based Studies
-There  are  4  longitudinal  studies4,79–81  and  1  cross-sectional 
-study82 of the association between e-cigarette use and quitting 
-conventional cigarettes (Table 2).
+PopulationBased Studies
+There  are    longitudinal  studies  and    crosssectional 
+study of the association between ecigarette use and quitting 
+conventional cigarettes Table 
 
-Adkison  et  al4  studied  current  and  former  smokers  in  the 
-International  Tobacco  Control  study  in  the  United  States, 
-Canada,  the  United  Kingdom,  and Australia  at  baseline  and 
-1 year later and found that e-cigarette users had a statistically 
-significant greater reduction in cigarettes per day (e-cigarette 
-users, 20.1 to 16.3 cigarettes per day; nonusers, 16.9 to 15.0 
+Adkison  et  al  studied  current  and  former  smokers  in  the 
+International  Tobacco  Control  study  in  the  United  States 
+Canada  the  United  Kingdom  and Australia  at  baseline  and 
+ year later and found that ecigarette users had a statistically 
+significant greater reduction in cigarettes per day ecigarette 
+users  to  cigarettes per day nonusers  to  
 
 Grana et al 
 
-  E-Cigarettes: A Scientific Review 
+  ECigarettes A Scientific Review 
 
-  1979
+  
 
-Table 2.  Population Studies of the Association Between E-Cigarette Use and Cessation of Conventional 
+Table   Population Studies of the Association Between ECigarette Use and Cessation of Conventional 
 Cigarette Smoking
 
 Study
 
 Longitudinal studies
 
- Adkison et al4 (2013)
+ Adkison et al 
 
 Location and Study Design
 
 Odds of Quitting
-(95% CI)
+ CI
 
-US, UK, Canada, Australia (ITC), surveyed, 1 y apart
+US UK Canada Australia ITC surveyed  y apart
 
-0.81 (0.43–1.53)*
+ 
 
- Vickerman et al80 (2013)
+ Vickerman et al 
 
-US quit-line callers from 6 states surveyed at enrollment and 7 mo later
+US quitline callers from  states surveyed at enrollment and  mo later
 
-0.50 (0.40–0.63)†
+ 
 
- Grana et al79 (2014)
+ Grana et al 
 
-US sample drawn from a nationally representative Internet panel, 1 y apart
+US sample drawn from a nationally representative Internet panel  y apart
 
-0.76 (0.36–1.60)
+ 
 
- Choi and Forster81 (2014)
+ Choi and Forster 
 
-Cross-sectional study
+Crosssectional study
 
-Midwestern young adults, 1 y apart
+Midwestern young adults  y apart
 
-0.93 (0.19–4.63)
+ 
 
- Popova and Ling82 (2013)
+ Popova and Ling 
 
 US sample drawn from a nationally represented Internet panel
 
-0.69 (0.52–0.94) *
+  
 
 All studies
 
- Pooled‡
+ Pooled
 
-0.61 (0.50–0.75)
+ 
 
-CI indicates confidence interval; E-cigarette, electronic cigarette; and ITC, International Tobacco Control.
-*Odds ratios obtained by contacting authors.
-†Computed by authors of this report on the basis of the numbers reported.
-‡Estimated  with  a  random-effects  meta-analysis  using  Stata  12.1  metan.  There  was  no  evidence  of  heterogeneity  (P=0.28)  or 
+CI indicates confidence interval Ecigarette electronic cigarette and ITC International Tobacco Control
+Odds ratios obtained by contacting authors
+Computed by authors of this report on the basis of the numbers reported
+Estimated  with  a  randomeffects  metaanalysis  using  Stata    metan  There  was  no  evidence  of  heterogeneity  P  or 
 
-evidence of publication bias with the use of a funnel plot.
+evidence of publication bias with the use of a funnel plot
 
-cigarettes per day). Although 85% of e-cigarette users reported 
-they were using the product to quit smoking at the initial wave, 
-e-cigarette users were no more likely to have quit 1 year later 
-than nonusers (OR, 0.81; 95% CI, 0.43–1.53; P=0.52).
+cigarettes per day Although  of ecigarette users reported 
+they were using the product to quit smoking at the initial wave 
+ecigarette users were no more likely to have quit  year later 
+than nonusers OR   CI  P
 
-Vickerman  et  al80  found  that  ≈31%  of  quit-line  callers 
-surveyed  7  months  after  enrollment  reported  that  they  had 
-ever tried e-cigarettes. The majority used them for <1 month 
-(67.1%),  and  9.2%  were  using  them  at  the  7-month  survey. 
-The  main  reason  for  e-cigarette  use  was  tobacco  cessation 
-(51.3%), but it is not known whether ever use occurred as part 
-of a quit attempt in the preceding 7 months. Although quit-line 
+Vickerman  et  al  found  that    of  quitline  callers 
+surveyed    months  after  enrollment  reported  that  they  had 
+ever tried ecigarettes The majority used them for  month 
+  and    were  using  them  at  the  month  survey 
+The  main  reason  for  ecigarette  use  was  tobacco  cessation 
+ but it is not known whether ever use occurred as part 
+of a quit attempt in the preceding  months Although quitline 
 callers represent a small population of smokers motivated to 
-quit, these data present a real-world estimate of the potential 
-effectiveness of using e-cigarettes for cessation in a popula-
-tion of smokers motivated to quit. Although this study had a 
-low response rate (34.6%) and may be subject to recall bias 
-because e-cigarette use and perceptions were assessed only at 
-the 7-month follow-up, those who reported using e-cigarettes 
+quit these data present a realworld estimate of the potential 
+effectiveness of using ecigarettes for cessation in a popula
+tion of smokers motivated to quit Although this study had a 
+low response rate  and may be subject to recall bias 
+because ecigarette use and perceptions were assessed only at 
+the month followup those who reported using ecigarettes 
 were  statistically  significantly  less  likely  to  quit  than  those 
-who had not used e-cigarettes (21.7% among callers who used 
-for  ≥1  month,  16.6%  among  those  who  used  for  <1  month, 
-and 31.4% among never users; P<0.001). The unadjusted odds 
-of quitting were statistically significantly lower for e-cigarette 
-users compared with nonusers (OR, 0.50; 95% CI, 0.40–0.63).
-Grana  et  al79  explored  predictors  of  quitting  among  a 
+who had not used ecigarettes  among callers who used 
+for    month    among  those  who  used  for    month 
+and  among never users P The unadjusted odds 
+of quitting were statistically significantly lower for ecigarette 
+users compared with nonusers OR   CI 
+Grana  et  al  explored  predictors  of  quitting  among  a 
 national  sample  of  smokers  who  participated  in  a  study  in 
-2011 and follow-up in 2012. Current e-cigarette use (past 30 
-days) at baseline did not predict a greater likelihood of having 
-quit at the follow-up (OR, 0.71; 95% CI, 0.35–1.46). In a sec-
+ and followup in  Current ecigarette use past  
+days at baseline did not predict a greater likelihood of having 
+quit at the followup OR   CI  In a sec
 ond logistic regression model that included baseline cigarettes 
-per day, time to first cigarette, and intention to quit, in addition 
-to baseline current e-cigarette use, only intention to quit (OR, 
-5.59; 95% CI, 2.41–12.98) and cigarettes per day (OR, 0.97; 
-95% CI, 0.94–0.99) were significant predictors of having quit 
-at follow-up; current e-cigarette use remained nonsignificant 
-(OR, 0.76; 95% CI, 0.36–1.60).
+per day time to first cigarette and intention to quit in addition 
+to baseline current ecigarette use only intention to quit OR 
+  CI  and cigarettes per day OR  
+ CI  were significant predictors of having quit 
+at followup current ecigarette use remained nonsignificant 
+OR   CI 
 
-Choi and Forster81 followed up a cohort of young adults in 
-Midwestern (recruited October 2010–March 2011 and followed 
-up for 1 year). Among those who were smoking cigarettes at 
+Choi and Forster followed up a cohort of young adults in 
+Midwestern recruited October March  and followed 
+up for  year Among those who were smoking cigarettes at 
 
-baseline, 11% of those who used e-cigarettes at least 1 day in 
-the  past  30  days  at  baseline  quit  smoking  at  follow-up  com-
-pared with 17% of smokers who never used e-cigarettes. In a 
+baseline  of those who used ecigarettes at least  day in 
+the  past    days  at  baseline  quit  smoking  at  followup  com
+pared with  of smokers who never used ecigarettes In a 
 logistic regression controlling for demographics and baseline 
-cigarettes per day, baseline past 30-day e-cigarette use was not 
-a significant predictor of having quit at follow-up (OR, 0.93; 
-95%  CI,  0.19–4.63;  P=0.93).  There  was  also  no  significant 
+cigarettes per day baseline past day ecigarette use was not 
+a significant predictor of having quit at followup OR  
+  CI    P  There  was  also  no  significant 
 change  in  the  number  of  conventional  cigarettes  smoked  per 
-day between those who did and did not use e-cigarettes (differ-
-ence, 0.2 cigarettes per day; 95% CI, −3.72 to 4.18; P=0.91).
+day between those who did and did not use ecigarettes differ
+ence  cigarettes per day  CI  to  P
 
-In  a  national  cross-sectional  sample,  Popova  and  Ling82 
-found that adult smokers who ever used e-cigarettes were sig-
+In  a  national  crosssectional  sample  Popova  and  Ling 
+found that adult smokers who ever used ecigarettes were sig
 nificantly less likely to be former smokers compared to those 
-who never used e-cigarettes (OR, 0.69; 95% CI, 0.52–0.94), 
-controlling  for  demographics  (Lucy  Popova,  personal  com-
-munication).  In  an  examination  of  only  those  who  tried  to 
-quit, those who ever used  e-cigarettes were significantly less 
-likely  to  be  former  smokers  than  never  users  (adjusted  OR, 
-0.61; 95% CI, 0.45–0.83).
+who never used ecigarettes OR   CI  
+controlling  for  demographics  Lucy  Popova  personal  com
+munication  In  an  examination  of  only  those  who  tried  to 
+quit those who ever used  ecigarettes were significantly less 
+likely  to  be  former  smokers  than  never  users  adjusted  OR 
+  CI 
 
-Combining these results in a random-effects meta-analysis 
-(Table  2)  yields  a  pooled  OR  of  0.61  (95%  CI,  0.50–0.75), 
-indicating that e-cigarette use in the real world is associated 
-with significantly lower odds of quitting smoking cigarettes. 
-A limitation of 3 of these studies4,80,82 is that they did not con-
-trol for level of nicotine dependence. It is possible that more 
-dependent smokers, who would have more difficulty quitting 
-in  general,  would  be  the  ones  who  would  be  more  likely  to 
-experiment  with  e-cigarettes,  which  could  contribute  to  the 
-finding that e-cigarette use is associated with a lower quit rate.
+Combining these results in a randomeffects metaanalysis 
+Table    yields  a  pooled  OR  of      CI   
+indicating that ecigarette use in the real world is associated 
+with significantly lower odds of quitting smoking cigarettes 
+A limitation of  of these studies is that they did not con
+trol for level of nicotine dependence It is possible that more 
+dependent smokers who would have more difficulty quitting 
+in  general  would  be  the  ones  who  would  be  more  likely  to 
+experiment  with  ecigarettes  which  could  contribute  to  the 
+finding that ecigarette use is associated with a lower quit rate
 
 Clinical Trials
-Four  clinical  trials  (2  with  very  small  samples)  examined 
-the efficacy of e-cigarettes for smoking cessation.83–86 Three 
-trials83-85  did  not  have  a  control  group  who  were  not  using 
-e-cigarettes. The other study86 compared e-cigarette efficacy 
-to  a  standard-of-care  regimen  with  a  21-mg  nicotine  patch. 
-None  of  the  trials  were  conducted  with  the  level  of  behav-
+Four  clinical  trials    with  very  small  samples  examined 
+the efficacy of ecigarettes for smoking cessation Three 
+trials  did  not  have  a  control  group  who  were  not  using 
+ecigarettes The other study compared ecigarette efficacy 
+to  a  standardofcare  regimen  with  a  mg  nicotine  patch 
+None  of  the  trials  were  conducted  with  the  level  of  behav
 ioral support that accompanies most pharmaceutical trials for 
-smoking cessation.
+smoking cessation
 
  
  
@@ -923,278 +923,278 @@ smoking cessation.
  
  
  
-1980 
+ 
 
   Circulation 
 
-  May 13, 2014
+  May  
 
-Polosa et al83 conducted a proof-of-concept study in Italy in 
-2010 with smokers18 to 60 years of age not intending to quit in 
-the next 30 days. Subjects were offered Categoria e-cigarettes 
-and instructed to use up to 4 cartridges (7.4-mg nicotine con-
-tent) per day as desired to reduce smoking and to keep a log 
-of cigarettes per day, cartridges per day, and adverse events. 
-Six-month follow-up was completed with 68% of participants 
-(27 of 40): 13 were using both e-cigarettes and tobacco ciga-
-rettes, 5 maintained exclusive tobacco cigarette smoking, and 
-9  stopped  using  tobacco  cigarettes  while  continuing  to  use 
-e-cigarettes.  Cigarette  consumption  was  reduced  by  at  least 
-50%  in  the  13  dual  users  (25  cigarettes  per  day  at  baseline 
-to 6 cigarettes per day at 6 months; P<0.001). Polosa et al87 
-continued follow-up of this sample at 18 and 24 months with 
-23 subjects (58% of the original 40 enrolled). Among the 23 
-participants who completed a 24-month visit, 18 continued to 
-smoke, and 11 had reduced cigarette consumption by ≥50% 
-with a statistically significant reduction from an average of 24 
-to 4 cigarettes per day (P=0.003). Five participants had quit 
-tobacco  cigarettes  at  24  months.  Study  limitations  included 
-the use of a poor-quality product and the lack of a comparison 
-or control group, which could make it difficult to determine 
-whether quit rates achieved were not due to chance.
+Polosa et al conducted a proofofconcept study in Italy in 
+ with smokers to  years of age not intending to quit in 
+the next  days Subjects were offered Categoria ecigarettes 
+and instructed to use up to  cartridges mg nicotine con
+tent per day as desired to reduce smoking and to keep a log 
+of cigarettes per day cartridges per day and adverse events 
+Sixmonth followup was completed with  of participants 
+ of   were using both ecigarettes and tobacco ciga
+rettes  maintained exclusive tobacco cigarette smoking and 
+  stopped  using  tobacco  cigarettes  while  continuing  to  use 
+ecigarettes  Cigarette  consumption  was  reduced  by  at  least 
+  in  the    dual  users    cigarettes  per  day  at  baseline 
+to  cigarettes per day at  months P Polosa et al 
+continued followup of this sample at  and  months with 
+ subjects  of the original  enrolled Among the  
+participants who completed a month visit  continued to 
+smoke and  had reduced cigarette consumption by  
+with a statistically significant reduction from an average of  
+to  cigarettes per day P Five participants had quit 
+tobacco  cigarettes  at    months  Study  limitations  included 
+the use of a poorquality product and the lack of a comparison 
+or control group which could make it difficult to determine 
+whether quit rates achieved were not due to chance
 
-Caponnetto et al85 conducted a similar study with 14 smok-
-ers with schizophrenia not intending to quit in the next 30 days. 
-Participants  were  provided  the  same  Categoria   e-cigarette, 
-and  carbon  monoxide,  product  use,  number  of  cigarettes 
-smoked, and positive and negative symptoms of schizophre-
-nia were assessed at baseline and 4, 8, 12, 24, and 52 weeks. 
-Seven of 14 participants (50%) sustained a 50% reduction in 
-the number of cigarettes per day smoked at week 52, and the 
-median of 30 cigarettes per day decreased to 15 cigarettes per 
-day (P=0.018). Sustained abstinence from smoking occurred 
-with  2  participants  (14.3%)  by  week  52.  Positive  and  nega-
-tive aspects of schizophrenia were not increased after smok-
-ing  cessation.  The  most  common  outcome  was  dual  use  of 
-e-cigarettes  with  conventional  cigarettes.  Study  findings  are 
+Caponnetto et al conducted a similar study with  smok
+ers with schizophrenia not intending to quit in the next  days 
+Participants  were  provided  the  same  Categoria   ecigarette 
+and  carbon  monoxide  product  use  number  of  cigarettes 
+smoked and positive and negative symptoms of schizophre
+nia were assessed at baseline and     and  weeks 
+Seven of  participants  sustained a  reduction in 
+the number of cigarettes per day smoked at week  and the 
+median of  cigarettes per day decreased to  cigarettes per 
+day P Sustained abstinence from smoking occurred 
+with    participants    by  week    Positive  and  nega
+tive aspects of schizophrenia were not increased after smok
+ing  cessation  The  most  common  outcome  was  dual  use  of 
+ecigarettes  with  conventional  cigarettes  Study  findings  are 
 not  generalizable  to  smokers  with  mental  illness  because  of 
-the very small sample size and lack of a control group.
+the very small sample size and lack of a control group
 
-Caponnetto  et  al84  also  conducted  a 
+Caponnetto  et  al  also  conducted  a 
 
-randomized, 
- quasi-controlled trial to examine the efficacy of e-cigarettes 
+randomized 
+ quasicontrolled trial to examine the efficacy of ecigarettes 
 of different strengths for smoking cessation and reduction in 
-3 study arms: 12 weeks of treatment with the 7.2-mg nicotine 
-e-cigarette, a 12-week nicotine-tapering regimen (6 weeks of 
-treatment with a 7.2-mg e-cigarette and 6 weeks with a  5.4-mg 
-e-cigarette),  and  a  12-week  treatment  with  a  nonnicotine 
-e-cigarette.  Similar  reductions  in  the  median  cigarettes  per 
-day were seen at all study visits for all 3 treatment arms (7–10 
-cigarettes per day at 1 year). There was no statistically sig-
-nificant difference in 6-month or 1-year quit rate among the 3 
-conditions (1-year rates: 4% for placebo e-cigarette users, 9% 
-for low-nicotine e-cigarette users, and 13% for high-nicotine 
-e-cigarette users). The authors noted that those who initiated 
-quitting  in  the  first  few  weeks  of  the  study  stayed  quitters, 
+ study arms  weeks of treatment with the mg nicotine 
+ecigarette a week nicotinetapering regimen  weeks of 
+treatment with a mg ecigarette and  weeks with a  mg 
+ecigarette  and  a  week  treatment  with  a  nonnicotine 
+ecigarette  Similar  reductions  in  the  median  cigarettes  per 
+day were seen at all study visits for all  treatment arms  
+cigarettes per day at  year There was no statistically sig
+nificant difference in month or year quit rate among the  
+conditions year rates  for placebo ecigarette users  
+for lownicotine ecigarette users and  for highnicotine 
+ecigarette users The authors noted that those who initiated 
+quitting  in  the  first  few  weeks  of  the  study  stayed  quitters 
 whereas  those  who  did  not  remained  dual  users  throughout 
-the  study.  Twenty-six  percent  of  quitters  continued  to  use 
-e-cigarettes  at  1  year.  Problems  with  the  study  include  the 
-lack of a control group not using e-cigarettes and noted lack 
-of product quality (the devices malfunctioned often, and new 
+the  study  Twentysix  percent  of  quitters  continued  to  use 
+ecigarettes  at    year  Problems  with  the  study  include  the 
+lack of a control group not using ecigarettes and noted lack 
+of product quality the devices malfunctioned often and new 
 
-ones  had  to  be  sent  frequently).  An  author  on  all  of  these 
-studies, R. Polosa, served as a consultant for the Arbi Group 
-SRL,  the  manufacturer  of  the  Categoria  e-cigarette  used  in 
-the study, beginning in February 2011.
+ones  had  to  be  sent  frequently  An  author  on  all  of  these 
+studies R Polosa served as a consultant for the Arbi Group 
+SRL  the  manufacturer  of  the  Categoria  ecigarette  used  in 
+the study beginning in February 
 
-Bullen  et  al86  conducted  a  randomized,  controlled,  clini-
-cal  trial  of  e-cigarettes  compared  with  medicinal  NRT  in 
-Auckland,  New  Zealand.  Adult  smokers  motivated  to  quit 
-were  randomized  to  the  3  study  arms  (16-mg  e-cigarette, 
-21-mg  NRT  patch,  no-nicotine  e-cigarette).  Voluntary  tele-
-phone  counseling  was  offered  to  all  subjects.  Subjects  were 
-observed  at  baseline,  1  week  (quit  day),  12  weeks,  and  6 
-months.  Fifty-seven  percent  of  participants  in  the  nicotine 
-e-cigarettes group reduced their cigarettes per day by ≥50% 
-at 6 months compared with 41% in the patch group (P=0.002) 
-and 45% in the nonnicotine e-cigarette group (P=0.08). Those 
+Bullen  et  al  conducted  a  randomized  controlled  clini
+cal  trial  of  ecigarettes  compared  with  medicinal  NRT  in 
+Auckland  New  Zealand  Adult  smokers  motivated  to  quit 
+were  randomized  to  the    study  arms  mg  ecigarette 
+mg  NRT  patch  nonicotine  ecigarette  Voluntary  tele
+phone  counseling  was  offered  to  all  subjects  Subjects  were 
+observed  at  baseline    week  quit  day    weeks  and   
+months  Fiftyseven  percent  of  participants  in  the  nicotine 
+ecigarettes group reduced their cigarettes per day by  
+at  months compared with  in the patch group P 
+and  in the nonnicotine ecigarette group P Those 
 randomized to the nicotine patch group were less adherent to 
-the treatment (46%) than the 16-mg e-cigarette group (78%) 
-and  the  no-nicotine  e-cigarette  group  (82%).  Of  note,  the 
+the treatment  than the mg ecigarette group  
+and  the  nonicotine  ecigarette  group    Of  note  the 
 study methodology may have introduced bias against success 
-in the nicotine patch group because e-cigarettes were mailed 
-for free directly to participants randomized to either the nico-
-tine or no-nicotine e-cigarette group, whereas participants in 
+in the nicotine patch group because ecigarettes were mailed 
+for free directly to participants randomized to either the nico
+tine or nonicotine ecigarette group whereas participants in 
 the  patch  group  were  mailed  cards  redeemable  for  nicotine 
-patches at a pharmacy and vouchers to cover the modest fee. 
-Therefore,  although  the  protocol  for  providing  the  patches 
-represented  “usual  care”  for  New  Zealand  quit-line  callers, 
-this procedure may have introduced bias against NRT, making 
-it difficult to view the study as a head-to-head comparison of 
-e-cigarettes and NRT for cessation. There were no statistically 
-significant  differences  in  biochemically  confirmed  (breath 
-CO) self-reported continuous abstinence from quit day to the 
-6-month  follow-up  between  the  nicotine  e-cigarette  (7.3%), 
-nicotine patch (5.8%), and nonnicotine e-cigarette (4.1%).
+patches at a pharmacy and vouchers to cover the modest fee 
+Therefore  although  the  protocol  for  providing  the  patches 
+represented  usual  care  for  New  Zealand  quitline  callers 
+this procedure may have introduced bias against NRT making 
+it difficult to view the study as a headtohead comparison of 
+ecigarettes and NRT for cessation There were no statistically 
+significant  differences  in  biochemically  confirmed  breath 
+CO selfreported continuous abstinence from quit day to the 
+month  followup  between  the  nicotine  ecigarette   
+nicotine patch  and nonnicotine ecigarette 
 
-Neither Capponnetto et al84 nor Bullen et al86 found effects 
-of e-cigarette use on quitting beyond what is seen in unassisted 
-or low-assistance studies of smokers using NRT to quit.88 In 
-determining the effectiveness of smoking cessation therapy, 
-active drug is considered efficacious when it outperforms pla-
-cebo; therefore, the evidence to date from clinical trials does 
-not demonstrate that e-cigarettes are efficacious for cessation. 
-However,  it  is  possible  that  e-cigarettes  even  without  nico-
+Neither Capponnetto et al nor Bullen et al found effects 
+of ecigarette use on quitting beyond what is seen in unassisted 
+or lowassistance studies of smokers using NRT to quit In 
+determining the effectiveness of smoking cessation therapy 
+active drug is considered efficacious when it outperforms pla
+cebo therefore the evidence to date from clinical trials does 
+not demonstrate that ecigarettes are efficacious for cessation 
+However  it  is  possible  that  ecigarettes  even  without  nico
 tine act as substitutes for the sensory and behavioral effects 
-of conventional cigarettes. If this is the case, the nonnicotine 
-placebo e-cigarette would be considered an active treatment 
-condition  and,  as  discussed  previously,  has  been  shown  to 
-reduce  withdrawal  symptoms.59,60,63,89  Important  limitations 
-of  the  current  research  include  the  use  of  e-cigarettes  that 
+of conventional cigarettes If this is the case the nonnicotine 
+placebo ecigarette would be considered an active treatment 
+condition  and  as  discussed  previously  has  been  shown  to 
+reduce  withdrawal  symptoms  Important  limitations 
+of  the  current  research  include  the  use  of  ecigarettes  that 
 deliver relatively low levels of nicotine and the provision of 
-minimal  behavioral  counseling.  Another  important  limita-
-tion of studies assessing the effectiveness of e-cigarettes for 
-smoking cessation is that, because they are not approved as 
-cessation  therapy,  there  are  no  therapeutic  instructions  for 
-using  them  as  replacements  or  to  quit  smoking  (eg,  dosage 
-tapering, duration of use, how to combine them with behav-
-ioral strategies, guidance for discontinuation).
+minimal  behavioral  counseling  Another  important  limita
+tion of studies assessing the effectiveness of ecigarettes for 
+smoking cessation is that because they are not approved as 
+cessation  therapy  there  are  no  therapeutic  instructions  for 
+using  them  as  replacements  or  to  quit  smoking  eg  dosage 
+tapering duration of use how to combine them with behav
+ioral strategies guidance for discontinuation
 
-In contrast to the assumption that e-cigarettes would func-
-tion  as  a  better  form  of  NRT,  population-based  studies  that 
-reflect real-world e-cigarette use found that e-cigarette use is 
-not  associated  with  successful  quitting;  all4,79,80,82  had  point 
+In contrast to the assumption that ecigarettes would func
+tion  as  a  better  form  of  NRT  populationbased  studies  that 
+reflect realworld ecigarette use found that ecigarette use is 
+not  associated  with  successful  quitting  all  had  point 
 
 Grana et al 
 
-  E-Cigarettes: A Scientific Review 
+  ECigarettes A Scientific Review 
 
-  1981
+  
 
-estimates of the odds of quitting of <1.0. The 1 clinical trial 
-examining  the  effectiveness  of  e-cigarettes  (both  with  and 
-without nicotine) compared with the medicinal nicotine patch 
-found  that  e-cigarettes  are  no  better  than  the  nicotine  patch 
-and that all treatments produced very modest quit rates with-
-out  counseling.86  Taken  together,  these  studies  suggest  that 
-e-cigarettes are not associated with successful quitting in gen-
-eral population-based samples of smokers.
+estimates of the odds of quitting of  The  clinical trial 
+examining  the  effectiveness  of  ecigarettes  both  with  and 
+without nicotine compared with the medicinal nicotine patch 
+found  that  ecigarettes  are  no  better  than  the  nicotine  patch 
+and that all treatments produced very modest quit rates with
+out  counseling  Taken  together  these  studies  suggest  that 
+ecigarettes are not associated with successful quitting in gen
+eral populationbased samples of smokers
 
 Health Implications of Cigarette 
 Reduction in the Context of Dual Use
-Among adults, reductions in cigarettes per day were observed 
-in several of the clinical studies83,84,86 and in 1 population-based 
-study4 among those who did not quit. Reduction in cigarettes 
+Among adults reductions in cigarettes per day were observed 
+in several of the clinical studies and in  populationbased 
+study among those who did not quit Reduction in cigarettes 
 smoked per day could have benefit if it promotes subsequent 
-cessation, as has been found with NRT,90 but this pattern has 
-not yet been seen with e-cigarettes. In the cigarette reduction 
-analyses presented in some of the studies, many participants 
+cessation as has been found with NRT but this pattern has 
+not yet been seen with ecigarettes In the cigarette reduction 
+analyses presented in some of the studies many participants 
 were still smoking about half a pack cigarettes per day at the 
-end of the study.
+end of the study
 
-Both duration (years of cigarette use) and intensity (ciga-
-rettes per day) determine the negative health effects of smok-
-ing.91 People who stop smoking at younger ages have lower 
-age-adjusted mortality compared with those who continued to 
-smoke later into adulthood.92 Findings for decreased smoking 
-intensity have been less consistent, with some studies showing 
-lower  mortality  with  reduced  daily  cigarette  consumption93 
-and others not finding a significant overall survival benefit.94 
-The  2014  report  of  the  US  Surgeon  General  concluded  that 
-“reducing the number of cigarettes smoked per day is much 
+Both duration years of cigarette use and intensity ciga
+rettes per day determine the negative health effects of smok
+ing People who stop smoking at younger ages have lower 
+ageadjusted mortality compared with those who continued to 
+smoke later into adulthood Findings for decreased smoking 
+intensity have been less consistent with some studies showing 
+lower  mortality  with  reduced  daily  cigarette  consumption 
+and others not finding a significant overall survival benefit 
+The    report  of  the  US  Surgeon  General  concluded  that 
+reducing the number of cigarettes smoked per day is much 
 less  effective  than  quitting  entirely  for  avoiding  the  risks  of 
-premature death from all smoking-related causes of death.”95 
+premature death from all smokingrelated causes of death 
 Use of electronic cigarettes by cigarette smokers to cut down 
 on the number of cigarettes smoked per day is likely to have 
 much smaller beneficial effects on overall survival compared 
-with quitting smoking completely.
+with quitting smoking completely
 
-This  situation  is  particularly  likely  to  exist  for  cardiovas-
-cular  disease  because  of  the  highly  nonlinear  dose-response 
+This  situation  is  particularly  likely  to  exist  for  cardiovas
+cular  disease  because  of  the  highly  nonlinear  doseresponse 
 relationship between exposure to fine particles and the risk of 
-cardiovascular  disease.53,96  Light  smoking,  even  1  to  4  ciga-
-rettes per day, is associated with markedly elevated risk of car-
-diovascular disease.97 In addition, e-cigarettes deliver loads of 
-fine particles similar to those of conventional cigarettes.
+cardiovascular  disease  Light  smoking  even    to    ciga
+rettes per day is associated with markedly elevated risk of car
+diovascular disease In addition ecigarettes deliver loads of 
+fine particles similar to those of conventional cigarettes
 
 The relative risk of death from lung cancer increases with 
-years smoked and cigarettes per day,98 as well as pancreatic 
-cancer99  and  esophageal  cancer.100  The  relative  risk  of  both 
-lung cancer and bladder cancer levels off after a certain num-
-ber  of  cigarettes  per  day,101  suggesting  that  above  a  certain 
-intensity, the specific levels of exposure may not cause sig-
-nificant differences in risk for these cancers. Doll and Peto102 
-found  a  dose-response  relationship  between  duration  of 
+years smoked and cigarettes per day as well as pancreatic 
+cancer  and  esophageal  cancer  The  relative  risk  of  both 
+lung cancer and bladder cancer levels off after a certain num
+ber  of  cigarettes  per  day  suggesting  that  above  a  certain 
+intensity the specific levels of exposure may not cause sig
+nificant differences in risk for these cancers Doll and Peto 
+found  a  doseresponse  relationship  between  duration  of 
 smoking and number of cigarettes smoked per day and risk 
-of lung cancer, with models suggesting the impact of dura-
-tion  to  be  greater  than  that  of  intensity.  Using  participants 
-from the Cancer Prevention Study II, Flanders et al103 found a 
-greater increase in lung cancer mortality with a greater dura-
+of lung cancer with models suggesting the impact of dura
+tion  to  be  greater  than  that  of  intensity  Using  participants 
+from the Cancer Prevention Study II Flanders et al found a 
+greater increase in lung cancer mortality with a greater dura
 tion of cigarette smoking compared with a greater intensity 
-of smoking. Overall, these data suggest that lung cancer mor-
+of smoking Overall these data suggest that lung cancer mor
 tality increases more with additional years of smoking than 
 
-additional cigarettes per day. Thus, if dual use of e-cigarettes 
-and  cigarettes  results  in  reductions  in  the  number  of  ciga-
-rettes per day for current smokers, any reduction malignancy 
-risk  will  be  less  than  proportional  to  the  reduction  in  ciga-
-rette  consumption  because  of  the  (likely  larger)  importance 
-of duration of smoking.
+additional cigarettes per day Thus if dual use of ecigarettes 
+and  cigarettes  results  in  reductions  in  the  number  of  ciga
+rettes per day for current smokers any reduction malignancy 
+risk  will  be  less  than  proportional  to  the  reduction  in  ciga
+rette  consumption  because  of  the  likely  larger  importance 
+of duration of smoking
 
 What to Tell Patients About 
-E-Cigarettes and Cessation
-First and foremost, clinicians must support a smoker’s quit 
+ECigarettes and Cessation
+First and foremost clinicians must support a smokers quit 
 attempt  and  try  to  ensure  any  that  advice  given  does  not 
-undermine their motivation to quit. Clinicians should follow 
-the  5 A’s  of  evidence-based  treatment:  ask,  advise,  assess, 
-assist,  and  arrange.104  They  should  assess  their  patient’s 
+undermine their motivation to quit Clinicians should follow 
+the   As  of  evidencebased  treatment  ask  advise  assess 
+assist  and  arrange  They  should  assess  their  patients 
 motivation and readiness to quit and recommend a treatment 
-plan that should include setting a quit date and obtaining ces-
-sation counseling and, if appropriate, conventional smoking 
-cessation medications. The safest and most proven smoking 
+plan that should include setting a quit date and obtaining ces
+sation counseling and if appropriate conventional smoking 
+cessation medications The safest and most proven smoking 
 cessation  pharmacotherapies  are  the  nicotine  replacement 
-medications  varenicline  and  bupropion,  which  have  been 
-approved by the US Food and Drug Administration (FDA). 
-Referral to a free telephone quit line (eg, 1-800-QUIT-NOW) 
-or another counseling support program enhances the effec-
-tiveness of smoking cessation medications.104 
+medications  varenicline  and  bupropion  which  have  been 
+approved by the US Food and Drug Administration FDA 
+Referral to a free telephone quit line eg QUITNOW 
+or another counseling support program enhances the effec
+tiveness of smoking cessation medications 
 
-If a patient has failed initial treatment, has been intolerant of 
-or refuses to use conventional smoking cessation medication, 
-and wishes to use e-cigarettes to aid quitting, it is reasonable 
-to support the attempt. However, subjects should be informed 
-that,  although  e-cigarette  aerosol  is  likely  to  be  much  less 
-toxic  than  cigarette  smoking,  the  products  are  unregulated, 
-contain toxic chemicals, and have not been proven as cessa-
-tion  devices.  The  patient  should  also  be  advised  not  to  use 
+If a patient has failed initial treatment has been intolerant of 
+or refuses to use conventional smoking cessation medication 
+and wishes to use ecigarettes to aid quitting it is reasonable 
+to support the attempt However subjects should be informed 
+that  although  ecigarette  aerosol  is  likely  to  be  much  less 
+toxic  than  cigarette  smoking  the  products  are  unregulated 
+contain toxic chemicals and have not been proven as cessa
+tion  devices  The  patient  should  also  be  advised  not  to  use 
 the product indoors or around children because studies show 
 that bystanders may be exposed to nicotine and other toxins 
-(at levels much lower than cigarettes) through passive expo-
-sure to the e-cigarette aerosol. Because there are no long-term 
-safety studies of e-cigarette use, patients should be urged to 
-set a quit date for their e-cigarette use and not plan to use it 
-indefinitely. It is also important to stress that patients should 
+at levels much lower than cigarettes through passive expo
+sure to the ecigarette aerosol Because there are no longterm 
+safety studies of ecigarette use patients should be urged to 
+set a quit date for their ecigarette use and not plan to use it 
+indefinitely It is also important to stress that patients should 
 quit smoking cigarettes entirely as soon as possible because 
-continued cigarette smoking, even at reduced levels, contin-
-ues  to  impose  tobacco-induced  health  risks  (particularly  for 
-cardiovascular disease).
+continued cigarette smoking even at reduced levels contin
+ues  to  impose  tobaccoinduced  health  risks  particularly  for 
+cardiovascular disease
 
 Tobacco Industry and Involvement
-By  2013,  the  major  tobacco  companies  had  purchased  or 
-developed e-cigarette products (Table 3).
+By    the  major  tobacco  companies  had  purchased  or 
+developed ecigarette products Table 
 
 There  is  no  evidence  that  the  cigarette  companies  are 
-acquiring  or  producing  e-cigarettes  as  part  of  a  strategy  to 
-phase out regular cigarettes, even though some claim to want 
-to  participate  in  “harm  reduction.”  Lorillard  CEO  Murray 
+acquiring  or  producing  ecigarettes  as  part  of  a  strategy  to 
+phase out regular cigarettes even though some claim to want 
+to  participate  in  harm  reduction  Lorillard  CEO  Murray 
 Kessler stated in an interview with the Wall Street Journal that 
-e-cigarettes will provide smokers an unprecedented chance to 
-reduce their risk from cigarettes.105 He also published an op-ed 
-in USA Today on September 23, 2013, stating: “E-cigarettes 
-might  be  the  most  significant  harm-reduction  option  ever 
-made available to smokers.”106 Shortly before this op-ed was 
-published,  however,  Lorillard  won  approval  from  the  US 
+ecigarettes will provide smokers an unprecedented chance to 
+reduce their risk from cigarettes He also published an oped 
+in USA Today on September   stating Ecigarettes 
+might  be  the  most  significant  harmreduction  option  ever 
+made available to smokers Shortly before this oped was 
+published  however  Lorillard  won  approval  from  the  US 
 FDA  to  market  new  nonmentholated  Newport  conventional 
 
-1982 
+ 
 
   Circulation 
 
-  May 13, 2014
+  May  
 
-Table 3.  Tobacco Companies That Have Acquired or Created 
-E-Cigarette Companies and Brands (as of January 2014)
+Table   Tobacco Companies That Have Acquired or Created 
+ECigarette Companies and Brands as of January 
 
 Tobacco Company
 
@@ -1206,10 +1206,10 @@ Lorillard
 
 British American Tobacco
 
-Acquired E-Cigarette 
+Acquired ECigarette 
 Company
 
-E-Cigarette Brand(s)
+ECigarette Brands
 
 GreenSmoke
 
@@ -1217,7 +1217,7 @@ Mark Ten
 
 No
 
-Blu Cigs, Inc
+Blu Cigs Inc
 
 CN Creative
 
@@ -1237,860 +1237,860 @@ Swisher
 
 No
 
-E-Swisher
+ESwisher
 
-E-cigarette indicates electronic cigarette.
+Ecigarette indicates electronic cigarette
 
-cigarettes,  expanding  their  cigarette  line  while  touting  their 
-ability to offer a product they claim reduces harm from cig-
-arettes.  This  allows  the  cigarette  companies  to  have  it  both 
-ways.  (Likewise,  after  evaluating  the  cigarette  companies’ 
-internal  documents  and  public  positions  on  snus  [a  form  of 
-moist snuff tobacco in a pouch popular in Sweden] as “harm 
-reduction”  in  Europe,  Gilmore  et  al107  found  that  they  were 
-entering  the  snus  market107  and  adopting  “harm  reduction” 
-rhetoric108  to  protect  their  cigarette  business  as  long  as  pos-
-sible.) As noted in the 2010 Surgeon General’s report,109 the 
+cigarettes  expanding  their  cigarette  line  while  touting  their 
+ability to offer a product they claim reduces harm from cig
+arettes  This  allows  the  cigarette  companies  to  have  it  both 
+ways  Likewise  after  evaluating  the  cigarette  companies 
+internal  documents  and  public  positions  on  snus  a  form  of 
+moist snuff tobacco in a pouch popular in Sweden as harm 
+reduction  in  Europe  Gilmore  et  al  found  that  they  were 
+entering  the  snus  market  and  adopting  harm  reduction 
+rhetoric  to  protect  their  cigarette  business  as  long  as  pos
+sible As noted in the  Surgeon Generals report the 
 tobacco industry has used every iteration of cigarette design 
-to undermine cessation and prevention.
+to undermine cessation and prevention
 
-The tobacco companies address e-cigarette issues as part of 
-their policy agenda. As they did beginning in the 1980s,110,111 
-they  continue  to  engage  in  creating  and  supporting  “smok-
-ers’  rights”  groups,  seemingly  independent  groups  that 
+The tobacco companies address ecigarette issues as part of 
+their policy agenda As they did beginning in the s 
+they  continue  to  engage  in  creating  and  supporting  smok
+ers  rights  groups  seemingly  independent  groups  that 
 interact with consumers directly on political involvement in 
-support of their agenda.111 Altria and R.J. Reynolds Tobacco 
+support of their agenda Altria and RJ Reynolds Tobacco 
 Company  maintain  Web  sites  called  Citizens  for  Tobacco 
-Rights and Transform Tobacco. E-cigarette news and action 
+Rights and Transform Tobacco Ecigarette news and action 
 alerts are featured on the home pages of these websites and 
 include  instructions  for  taking  action  against  bills  designed 
-to  include  e-cigarette  use  in  smoke-free  laws.  E-cigarette 
-companies  engage  in  similar  tactics,  using  the  same  politi-
+to  include  ecigarette  use  in  smokefree  laws  Ecigarette 
+companies  engage  in  similar  tactics  using  the  same  politi
 cal and public relations strategies as the tobacco companies 
-(most notably featuring organized “vapers” like the organized 
-smokers). They also use social media that is tightly integrated 
-with  their  product  marketing  campaigns  to  press  their  pol-
-icy  agenda.22  These  strategies  were  successfully  deployed 
-in  Europe  to  convince  the  European  Parliament  to  substan-
+most notably featuring organized vapers like the organized 
+smokers They also use social media that is tightly integrated 
+with  their  product  marketing  campaigns  to  press  their  pol
+icy  agenda  These  strategies  were  successfully  deployed 
+in  Europe  to  convince  the  European  Parliament  to  substan
 tially weaken the proposed EU Tobacco Product Directive in 
-October 2013.112
+October 
 
 Current State of Global 
-Regulation (March 2014)
-Like  e-cigarette  products,  the  policy  environment  related  to 
-e-cigarettes is rapidly developing despite the fact that the sci-
-ence  is  just  emerging.  Policy  makers  in  many  countries  are 
+Regulation March 
+Like  ecigarette  products  the  policy  environment  related  to 
+ecigarettes is rapidly developing despite the fact that the sci
+ence  is  just  emerging  Policy  makers  in  many  countries  are 
 under  considerable  pressure  to  provide  regulatory  guidance 
-regarding e-cigarettes, often on the basis of the assumption that 
-e-cigarettes will contribute to reducing the harms of smoking 
+regarding ecigarettes often on the basis of the assumption that 
+ecigarettes will contribute to reducing the harms of smoking 
 either by serving as a smoking cessation aid or by replacing 
-combusted cigarettes. The data reviewed here, together with 
-evidence of dual use and youth initiation of e-cigarette use, do 
-not demonstrate any hypothesized harm-reducing effect.
+combusted cigarettes The data reviewed here together with 
+evidence of dual use and youth initiation of ecigarette use do 
+not demonstrate any hypothesized harmreducing effect
 
-Some  countries  (including  Brazil,  Singapore,  Canada, 
-the  Seychelles,  and  Uruguay)  have  prohibited  the  sale  of 
- e-cigarettes,  and  many  others  are  developing  policies.1  The 
-United  States,  European  Union,  and  United  Kingdom  illus-
-trate the range of regulatory approaches being developed.
+Some  countries  including  Brazil  Singapore  Canada 
+the  Seychelles  and  Uruguay  have  prohibited  the  sale  of 
+ ecigarettes  and  many  others  are  developing  policies  The 
+United  States  European  Union  and  United  Kingdom  illus
+trate the range of regulatory approaches being developed
 
 The United States
-In  the  United  States,  as  of  March  2014,  e-cigarette  products 
-remained unregulated by any federal authority, particularly the 
-US FDA. The Sottera Inc case ruling that was upheld on appeal 
-in the US court found that e-cigarettes could be regulated as 
+In  the  United  States  as  of  March    ecigarette  products 
+remained unregulated by any federal authority particularly the 
+US FDA The Sottera Inc case ruling that was upheld on appeal 
+in the US court found that ecigarettes could be regulated as 
 tobacco  products  unless  they  are  marketed  with  health  and 
-therapeutic claims.113 The US FDA has stated its intent to assert 
-(“deem”) authority over e-cigarettes but has yet to act. The US 
-FDA does not have the authority to regulate where e-cigarettes 
-are  used;  that  is  the  domain  of  state  and  local  governments, 
-where almost all activity on smoke-free laws has occurred. 
+therapeutic claims The US FDA has stated its intent to assert 
+deem authority over ecigarettes but has yet to act The US 
+FDA does not have the authority to regulate where ecigarettes 
+are  used  that  is  the  domain  of  state  and  local  governments 
+where almost all activity on smokefree laws has occurred 
 
-Since  e-cigarettes  entered  the  US  market  in  2008,  there 
+Since  ecigarettes  entered  the  US  market  in    there 
 has been a rapid increase in the number of municipalities and 
-states  that  have  adopted  legislation  regulating  where  e-ciga-
-rettes can be used and laws restricting sales to minors. As of 
-March  2014,  27  states  had  laws  restricting  sales  to  minors, 
-1  state  (Minnesota)  taxed  e-cigarettes  as  tobacco  products, 
-and  3  states  (New  Jersey,  North  Dakota,  and  Utah)  and 
->100 municipalities (including New York, Los Angeles, San 
-Francisco, and Chicago) prohibited the use of e-cigarettes in 
-100%   smoke-free  indoor  environments.114  An  additional  9 
-states  restricted  e-cigarettes  in  other  venues  such  as  school 
-district  property,  Department  of  Corrections/prisons,  public 
-educational facilities and grounds, and commuter transit sys-
-tems.114  Some  local  and  statewide  smoke-free  laws  enacted 
-before  the  introduction  of  e-cigarettes  include  language  that 
-could be interpreted as including e-cigarettes.
+states  that  have  adopted  legislation  regulating  where  eciga
+rettes can be used and laws restricting sales to minors As of 
+March      states  had  laws  restricting  sales  to  minors 
+  state  Minnesota  taxed  ecigarettes  as  tobacco  products 
+and    states  New  Jersey  North  Dakota  and  Utah  and 
+ municipalities including New York Los Angeles San 
+Francisco and Chicago prohibited the use of ecigarettes in 
+   smokefree  indoor  environments  An  additional   
+states  restricted  ecigarettes  in  other  venues  such  as  school 
+district  property  Department  of  Correctionsprisons  public 
+educational facilities and grounds and commuter transit sys
+tems  Some  local  and  statewide  smokefree  laws  enacted 
+before  the  introduction  of  ecigarettes  include  language  that 
+could be interpreted as including ecigarettes
 
 European Union Tobacco Product Directive
-In  February  2014,  the  European  Parliament  approved  a 
-revised European Union Tobacco Product Directive that regu-
-lates e-cigarettes with nicotine concentrations up to 20 mg/mL 
-(an  amount  equal  to  that  in  a  pack  of  cigarettes)  as  tobacco 
-products.115  E-cigarettes  with  higher  nicotine  concentrations 
+In  February    the  European  Parliament  approved  a 
+revised European Union Tobacco Product Directive that regu
+lates ecigarettes with nicotine concentrations up to  mgmL 
+an  amount  equal  to  that  in  a  pack  of  cigarettes  as  tobacco 
+products  Ecigarettes  with  higher  nicotine  concentrations 
 or  intended  therapeutic  uses  will  be  regulated  as  medical 
-devices.116  The  directive  stipulates  that  e-cigarettes  must  be 
+devices  The  directive  stipulates  that  ecigarettes  must  be 
 childproof and that packaging must include information about 
-ingredients, adverse effects, and health warnings.115 Refillable 
+ingredients adverse effects and health warnings Refillable 
 cartridges are allowed as long as their volume does not exceed 
-2 mL (but could be banned by the European Commission if 
-at least 3 member states prohibit them on the basis of risks to 
-human health).115 Marketing and advertising restrictions will 
-mirror those of tobacco products.115
+ mL but could be banned by the European Commission if 
+at least  member states prohibit them on the basis of risks to 
+human health Marketing and advertising restrictions will 
+mirror those of tobacco products
 
 The United Kingdom
-In the United Kingdom, the Medicines and Healthcare Products 
-Regulatory Agency announced a plan to regulate e-cigarettes as 
-medicines on the basis of the assumption that e-cigarettes func-
-tion like NRTs for smokers wishing to cut down or quit.78 As of 
-January 2014, Medicines and Healthcare Products Regulatory 
-Agency policies did not include any restrictions on  e-cigarette 
-marketing.117  The  antismoking  advocacy  group  Action  on 
-Smoking  and  Health  UK  has  announced  that  it  “does  not 
+In the United Kingdom the Medicines and Healthcare Products 
+Regulatory Agency announced a plan to regulate ecigarettes as 
+medicines on the basis of the assumption that ecigarettes func
+tion like NRTs for smokers wishing to cut down or quit As of 
+January  Medicines and Healthcare Products Regulatory 
+Agency policies did not include any restrictions on  ecigarette 
+marketing  The  antismoking  advocacy  group  Action  on 
+Smoking  and  Health  UK  has  announced  that  it  does  not 
 
 Grana et al 
 
-  E-Cigarettes: A Scientific Review 
+  ECigarettes A Scientific Review 
 
-  1983
+  
 
-consider it appropriate to include e-cigarettes under smokefree 
-regulations,”118  supporting  one  of  the  e-cigarette  companies’ 
-key  marketing  messages  that  e-cigarettes  can  be  used  every-
-where without the restrictions and social stigma of smoking.3,119
+consider it appropriate to include ecigarettes under smokefree 
+regulations  supporting  one  of  the  ecigarette  companies 
+key  marketing  messages  that  ecigarettes  can  be  used  every
+where without the restrictions and social stigma of smoking
 
 Policy Recommendations
-E-cigarettes deliver lower levels of some of the toxins found 
-in  cigarette  smoke.  Main  concerns  about  the  potential  of 
-e-cigarettes  to  make  a  contribution  to  reducing  the  harm 
-caused by cigarette smoking arise from effects on youth, dual 
+Ecigarettes deliver lower levels of some of the toxins found 
+in  cigarette  smoke  Main  concerns  about  the  potential  of 
+ecigarettes  to  make  a  contribution  to  reducing  the  harm 
+caused by cigarette smoking arise from effects on youth dual 
 use  with  cigarettes  resulting  in  delayed  or  deferred  quitting 
-(among both adults and youth), and renormalization of smok-
-ing behavior.
+among both adults and youth and renormalization of smok
+ing behavior
 
-The  ultimate  effect  of  e-cigarettes  on  public  health  will 
-depend  on  what  happens  in  the  policy  environment.  These 
-policies should be implemented to protect public health:
+The  ultimate  effect  of  ecigarettes  on  public  health  will 
+depend  on  what  happens  in  the  policy  environment  These 
+policies should be implemented to protect public health
 
-•	 Prohibit the use of e-cigarettes anywhere that use of con-
+	 Prohibit the use of ecigarettes anywhere that use of con
 
-ventional cigarettes is prohibited.
+ventional cigarettes is prohibited
 
-•	 Prohibit  the  sale  of  e-cigarettes  to  anyone  who  cannot 
-legally buy cigarettes or in any venues where sale of con-
-ventional cigarettes is prohibited.
+	 Prohibit  the  sale  of  ecigarettes  to  anyone  who  cannot 
+legally buy cigarettes or in any venues where sale of con
+ventional cigarettes is prohibited
 
-•	 Subject e-cigarette marketing to the same level of restric-
-tions that apply to conventional cigarettes (including no 
-television or radio advertising).
+	 Subject ecigarette marketing to the same level of restric
+tions that apply to conventional cigarettes including no 
+television or radio advertising
 
-•	 Prohibit  cobranding  e-cigarettes  with  cigarettes  or  mar-
+	 Prohibit  cobranding  ecigarettes  with  cigarettes  or  mar
 
-keting in a way that promotes dual use.
+keting in a way that promotes dual use
 
-•	 Prohibit the use of characterizing flavors in e-cigarettes, 
+	 Prohibit the use of characterizing flavors in ecigarettes 
 
-particularly candy and alcohol flavors.
+particularly candy and alcohol flavors
 
-•	 Prohibit  claims  that  e-cigarettes  are  effective  smoking 
-cessation  aids  until  e-cigarette  manufacturers  and  com-
-panies provide sufficient evidence that e-cigarettes can be 
-used effectively for smoking cessation.
+	 Prohibit  claims  that  ecigarettes  are  effective  smoking 
+cessation  aids  until  ecigarette  manufacturers  and  com
+panies provide sufficient evidence that ecigarettes can be 
+used effectively for smoking cessation
 
-•	 Prohibit any health claims for e-cigarette products until 
+	 Prohibit any health claims for ecigarette products until 
 and unless approved by regulatory agencies to scientific 
-and regulatory standards.
+and regulatory standards
 
-•	 Establish  standards  for  regulating  product  ingredients 
+	 Establish  standards  for  regulating  product  ingredients 
 
-and functioning.
+and functioning
 
-In  addition  to  being  important  in  their  own  right,  should 
+In  addition  to  being  important  in  their  own  right  should 
 these policies be put in place together with polices designed 
-to make combustible tobacco products (eg, cigarettes, cigars, 
-cigarillos) less desirable and available, it is possible that cur-
+to make combustible tobacco products eg cigarettes cigars 
+cigarillos less desirable and available it is possible that cur
 rent conventional cigarette smokers who will not quit nicotine 
-would  shift  to  e-cigarettes  without  major  dual  use  or  youth 
-initiation  to  nicotine  addiction  with  e-cigarettes.  Absent 
-this  change  in  the  policy  environment,  it  is  reasonable  to 
+would  shift  to  ecigarettes  without  major  dual  use  or  youth 
+initiation  to  nicotine  addiction  with  ecigarettes  Absent 
+this  change  in  the  policy  environment  it  is  reasonable  to 
 assume  that  the  behavior  patterns  that  have  been  observed 
-for   e-cigarettes  will  persist,  which  makes  it  unlikely  that 
+for   ecigarettes  will  persist  which  makes  it  unlikely  that 
 they will contribute to reducing the harm of tobacco use and 
 could increase harm by perpetuating the life of conventional 
-cigarettes.
+cigarettes
 
 Conclusions
-Although most of the discussion of e-cigarettes among health 
-authorities has concentrated on the product itself, its potential 
-toxicity, and use of e-cigarettes to help people quit smoking, 
-the e-cigarette companies have been rapidly expanding using 
+Although most of the discussion of ecigarettes among health 
+authorities has concentrated on the product itself its potential 
+toxicity and use of ecigarettes to help people quit smoking 
+the ecigarette companies have been rapidly expanding using 
 aggressive marketing messages similar to those used to promote 
-cigarettes in the 1950s and 1960s. E-cigarette advertising is on 
+cigarettes in the s and s Ecigarette advertising is on 
 
 television and radio in many countries that have long banned 
 similar advertising for cigarettes and other tobacco products 
-and may be indirectly promoting smoking conventional cig-
-arettes. Although  it  is  reasonable  to  assume  that,  if  existing 
+and may be indirectly promoting smoking conventional cig
+arettes Although  it  is  reasonable  to  assume  that  if  existing 
 smokers  switched  completely  from  conventional  cigarettes 
-(with no other changes in use patterns) to e-cigarettes, there 
-would be a lower disease burden caused by nicotine addiction, 
-the  evidence  available  at  this  time,  although  limited,  points 
-to  high  levels  of  dual  use  of   e-cigarettes  with  conventional 
-cigarettes, no proven cessation benefits, and rapidly increas-
-ing  youth  initiation  with  e-cigarettes. Although  some  cite  a 
-desire to quit smoking by using the e-cigarette, other common 
-reasons for using the products are to circumvent smoke-free 
-laws and to cut down on conventional cigarettes, which may 
-reinforce dual use patterns and delay or deter quitting.
+with no other changes in use patterns to ecigarettes there 
+would be a lower disease burden caused by nicotine addiction 
+the  evidence  available  at  this  time  although  limited  points 
+to  high  levels  of  dual  use  of   ecigarettes  with  conventional 
+cigarettes no proven cessation benefits and rapidly increas
+ing  youth  initiation  with  ecigarettes Although  some  cite  a 
+desire to quit smoking by using the ecigarette other common 
+reasons for using the products are to circumvent smokefree 
+laws and to cut down on conventional cigarettes which may 
+reinforce dual use patterns and delay or deter quitting
 
-The trajectory of the dual use pattern among adults or chil-
-dren is unclear, but studies of youth find that as many as one 
-third of youth who use e-cigarettes have never smoked a con-
-ventional  cigarette.  Nicotine  is  a  highly  addictive  substance 
-with negative effects on animal and human brain development, 
-which is still ongoing in adolescence.120–123 Furthermore, high 
-rates of dual use may result in greater total public health bur-
-den and possibly increased individual risk if a smoker main-
-tains an even low-level tobacco cigarette addiction for many 
-years instead of quitting.
+The trajectory of the dual use pattern among adults or chil
+dren is unclear but studies of youth find that as many as one 
+third of youth who use ecigarettes have never smoked a con
+ventional  cigarette  Nicotine  is  a  highly  addictive  substance 
+with negative effects on animal and human brain development 
+which is still ongoing in adolescence Furthermore high 
+rates of dual use may result in greater total public health bur
+den and possibly increased individual risk if a smoker main
+tains an even lowlevel tobacco cigarette addiction for many 
+years instead of quitting
 
-Although data are limited, it is clear that e-cigarette emissions 
-are not merely “harmless water vapor,” as is frequently claimed, 
-and can be a source of indoor air pollution. Smoke-free poli-
+Although data are limited it is clear that ecigarette emissions 
+are not merely harmless water vapor as is frequently claimed 
+and can be a source of indoor air pollution Smokefree poli
 cies protect nonsmokers from exposure to toxins and encourage 
-smoking cessation.124 One hundred percent smoke-free policies 
-have larger effects on consumption and smoking prevalence,125 
-as well as hospital admissions for myocardial infarction, stroke, 
-and  other  cardiovascular  and  pulmonary  emergencies,126  than 
-weaker  policies.  Introducing  e-cigarettes  into  clean  air  envi-
+smoking cessation One hundred percent smokefree policies 
+have larger effects on consumption and smoking prevalence 
+as well as hospital admissions for myocardial infarction stroke 
+and  other  cardiovascular  and  pulmonary  emergencies  than 
+weaker  policies  Introducing  ecigarettes  into  clean  air  envi
 ronments may result in population harm if use of the product 
 reinforces  the  act  of  smoking  as  socially  acceptable  or  if  use 
-undermines the benefits of smoke-free policies.
+undermines the benefits of smokefree policies
 
 Acknowledgments
-We  thank  the  following  individuals  for  their  advice  and  feedback: 
-Cort Anastasio, PhD; John Balmes, MD; Cynthia Hallett, MPH; Sara 
-Kalkhoran, MD; Lauren Lempert, JD, MPH; C. Arden Pope III, PhD; 
-Martina Pötschke-Langer, MD, MA; Prudence Talbot, PhD; Michael 
-Thun, MD; Gemma Vestal, JD, MPH, MBA; and the reviewers solic-
+We  thank  the  following  individuals  for  their  advice  and  feedback 
+Cort Anastasio PhD John Balmes MD Cynthia Hallett MPH Sara 
+Kalkhoran MD Lauren Lempert JD MPH C Arden Pope III PhD 
+Martina PtschkeLanger MD MA Prudence Talbot PhD Michael 
+Thun MD Gemma Vestal JD MPH MBA and the reviewers solic
 ited by the World Health Organization Tobacco Free Initiative of the 
-longer report prepared for it.
+longer report prepared for it
 
 Sources of Funding 
 This  article  is  a  greatly  condensed  version  of  a  report  prepared  for 
-(and  supported  by)  the  World  Health  Organization  Tobacco  Free 
-Initiative. Additional support came from the University of California 
-Tobacco  Related  Disease  Research  Program  21FT-0040  and  grant 
-1P50CA180890  from  the  National  Cancer  Institute  and  Food  and 
-Drug  Administration  Center  for  Tobacco  Products.  The  content  is 
-solely the responsibility of the authors and does not necessarily rep-
-resent the official views of the National Institutes of Health, the US 
-FDA, or the World Health Organization. Dr Glantz is an American 
-Legacy Foundation Distinguished Professor in Tobacco Control.
+and  supported  by  the  World  Health  Organization  Tobacco  Free 
+Initiative Additional support came from the University of California 
+Tobacco  Related  Disease  Research  Program  FT  and  grant 
+PCA  from  the  National  Cancer  Institute  and  Food  and 
+Drug  Administration  Center  for  Tobacco  Products  The  content  is 
+solely the responsibility of the authors and does not necessarily rep
+resent the official views of the National Institutes of Health the US 
+FDA or the World Health Organization Dr Glantz is an American 
+Legacy Foundation Distinguished Professor in Tobacco Control
 
-1984 
+ 
 
   Circulation 
 
-  May 13, 2014
+  May  
 
 Disclosures
 Dr Benowitz is a consultant to several pharmaceutical companies that 
 market  smoking  cessation  medications  and  has  been  a  paid  expert 
-witness  in  litigation  against  tobacco  companies.  Drs  Grana  and 
-Glantz report no conflicts.
+witness  in  litigation  against  tobacco  companies  Drs  Grana  and 
+Glantz report no conflicts
 
 References
-  1.  Grana R, Benowitz N, Glantz SA. Background paper on E-cigarettes (elec-
-tronic nicotine delivery systems). Center for Tobacco Control Research and 
-Education, University of California, San Francisco, a WHO Collaborating 
-Center  on  Tobacco  Control.  Prepared  for  World  Health  Organization 
-Tobacco  Free  Initiative.  December  2013.  http://pvw.escholarship.org/uc/
-item/13p2b72n. Accessed March 31, 2014.
+    Grana R Benowitz N Glantz SA Background paper on Ecigarettes elec
+tronic nicotine delivery systems Center for Tobacco Control Research and 
+Education University of California San Francisco a WHO Collaborating 
+Center  on  Tobacco  Control  Prepared  for  World  Health  Organization 
+Tobacco  Free  Initiative  December    httppvwescholarshiporguc
+itempbn Accessed March  
 
-  2.  Felberbaum  M.  Old  Tobacco  Playbook  Gets  New  Use  by  E-Cigarettes. 
-The  Associated  Press.  2013.  http://bigstory.ap.org/article/old-tobacco-
-playbook-gets-new-use-e-cigarettes. Accessed August 16, 2013.
+    Felberbaum  M  Old  Tobacco  Playbook  Gets  New  Use  by  ECigarettes 
+The  Associated  Press    httpbigstoryaporgarticleoldtobacco
+playbookgetsnewuseecigarettes Accessed August  
 
-  3.  Grana RA, Ling PM. Smoking revolution? A content analysis of electronic 
+    Grana RA Ling PM Smoking revolution A content analysis of electronic 
 
-cigarette retail websites. Am J Prev Med. 2014;46:395–403.
+cigarette retail websites Am J Prev Med 
 
-  4.  Adkison  SE,  O’Connor  RJ,  Bansal-Travers  M,  Hyland  A,  Borland  R, 
-Yong HH, Cummings KM, McNeill A, Thrasher JF, Hammond D, Fong 
-GT.  Electronic  nicotine  delivery  systems:  international  tobacco  control 
- four-country survey. Am J Prev Med. 2013;44:207–215.
+    Adkison  SE  OConnor  RJ  BansalTravers  M  Hyland  A  Borland  R 
+Yong HH Cummings KM McNeill A Thrasher JF Hammond D Fong 
+GT  Electronic  nicotine  delivery  systems  international  tobacco  control 
+ fourcountry survey Am J Prev Med 
 
-  5.  King BA, Alam S, Promoff G, Arrazola R, Dube SR. Awareness and ever 
-use  of  electronic  cigarettes  among  US  adults,  2010–2011.  Nicotine Tob 
-Res. 2013;15:1623–1627.
+    King BA Alam S Promoff G Arrazola R Dube SR Awareness and ever 
+use  of  electronic  cigarettes  among  US  adults    Nicotine Tob 
+Res 
 
-  6.  Dockrell  M,  Morrison  R,  Bauld  L,  McNeill A.  E-cigarettes:  prevalence 
-and attitudes in Great Britain. Nicotine Tob Res. 2013;15:1737–1744.
-  7.  Pearson  JL,  Richardson  A,  Niaura  RS,  Vallone  DM,  Abrams  DB. 
- e-Cigarette  awareness,  use,  and  harm  perceptions  in  US  adults.  Am  J 
-Public Health. 2012;102:1758–1766.
+    Dockrell  M  Morrison  R  Bauld  L  McNeill A  Ecigarettes  prevalence 
+and attitudes in Great Britain Nicotine Tob Res 
+    Pearson  JL  Richardson  A  Niaura  RS  Vallone  DM  Abrams  DB 
+ eCigarette  awareness  use  and  harm  perceptions  in  US  adults  Am  J 
+Public Health 
 
-  8.  Regan AK, Promoff G, Dube SR, Arrazola R. Electronic nicotine deliv-
-ery  systems:  adult  use  and  awareness  of  the  “e-cigarette”  in  the  USA. 
-Tob Control. 2013;22:19–23.
+    Regan AK Promoff G Dube SR Arrazola R Electronic nicotine deliv
+ery  systems  adult  use  and  awareness  of  the  ecigarette  in  the  USA 
+Tob Control 
 
-  9.  Centers  for  Disease  Control  and  Prevention.  Notes  from  the  field:  elec-
-tronic  cigarette  use  among  middle  and  high  school  students—United 
-States, 2011–2012. Morb Mortal Wkly Rep. 2013;62:729–730.
+    Centers  for  Disease  Control  and  Prevention  Notes  from  the  field  elec
+tronic  cigarette  use  among  middle  and  high  school  studentsUnited 
+States  Morb Mortal Wkly Rep 
 
- 10.  Lee  S,  Grana  RA,  Glantz  SA.  Electronic-cigarette  use  among  Korean 
-adolescents:  a  cross-sectional  study  of  market  penetration,  dual  use, 
-and  relationship  to  quit  attempts  and  former  smoking  [published  online 
-ahead  of  print  November  22,  2013].  J  Adolesc  Health.  doi:  10.1016/j. 
-jadohealth.2013.11.003.  http://www.jahonline.org/article/S1054-139X% 
-2813%2900748-9. Accessed November 22, 2013.
+   Lee  S  Grana  RA  Glantz  SA  Electroniccigarette  use  among  Korean 
+adolescents  a  crosssectional  study  of  market  penetration  dual  use 
+and  relationship  to  quit  attempts  and  former  smoking  published  online 
+ahead  of  print  November      J  Adolesc  Health  doi  j 
+jadohealth  httpwwwjahonlineorgarticleSX 
+ Accessed November  
 
- 11.  Dutra  L,  Glantz  SA.  E-cigarettes  and  conventional  cigarette  use  among 
-U.S. adolescents: a cross-sectional study [published online ahead of print 
-March  6,  2014].  JAMA  Ped.  doi:  10.1001/jamapediatrics.2013.5488. 
-http://archpedi.jamanetwork.com/article.aspx?articleid=1840772. 
-Accessed March 6, 2013.
+   Dutra  L  Glantz  SA  Ecigarettes  and  conventional  cigarette  use  among 
+US adolescents a crosssectional study published online ahead of print 
+March      JAMA  Ped  doi  jamapediatrics 
+httparchpedijamanetworkcomarticleaspxarticleid 
+Accessed March  
 
- 12.  World  Health  Organization.  WHO  Study  Group  on  Tobacco  Product 
-Regulation:  report  on  the  scientific  basis  of  tobacco  product  regulation. 
-WHO Technical Report Series. 2009:i–21.
+   World  Health  Organization  WHO  Study  Group  on  Tobacco  Product 
+Regulation  report  on  the  scientific  basis  of  tobacco  product  regulation 
+WHO Technical Report Series i
 
- 13.  FCTC/COP/5/13. Report: Electronic Nicotine Delivery Systems, Including 
+   FCTCCOP Report Electronic Nicotine Delivery Systems Including 
 
-Electronic Cigarettes. Seoul, Republic of Korea; 2012.
+Electronic Cigarettes Seoul Republic of Korea 
 
- 14.  Schaller K, Ruppert L, Kahnert S, Bethke C, Nair U, Pötschke-Langer M. 
-Electronic Cigarettes: An Overview. Heidelberg, Germany: German Cancer 
-Research Center (DKFZ); 2013.
+   Schaller K Ruppert L Kahnert S Bethke C Nair U PtschkeLanger M 
+Electronic Cigarettes An Overview Heidelberg Germany German Cancer 
+Research Center DKFZ 
 
- 15.  Burstyn  I.  Peering  through  the  Mist:  What  Does  the  Chemistry  of 
-Contaminants  in  Electronic  Cigarettes  Tell  Us  About  Health  Risks? 
-Technical  Report  July-August  2013.  http://publichealth.drexel.edu/~/
-media/Files/publichealth/ms08.pdf. Accessed September 23, 2013.
+   Burstyn  I  Peering  through  the  Mist  What  Does  the  Chemistry  of 
+Contaminants  in  Electronic  Cigarettes  Tell  Us  About  Health  Risks 
+Technical  Report  JulyAugust    httppublichealthdrexeledu
+mediaFilespublichealthmspdf Accessed September  
 
- 16.  Trtchounian A, Talbot P. Electronic nicotine delivery systems: is there a 
+   Trtchounian A Talbot P Electronic nicotine delivery systems is there a 
 
-need for regulation? Tob Control. 2011;20:47–52.
+need for regulation Tob Control 
 
- 17.  Givens  A,  Cheng  P-S.  I-Team:  E-cigarettes,  used  to  smoke  marijuana, 
-spark  new  concerns.  4  New  York.  October  11,  2013.  http://www. 
-nbcnewyork.com/investigations/ECigarettes-Drugs-Marijuana-Vapor-
-Pens-Smoking-I-Team-227269001.html. Accessed November 12, 2013.
- 18.  Shuman  P,  Burns  M.  Latest  cannibis  craze:  marijuana  known  as  “wax.” 
-myFoxLA.com. May 24, 2013. http://www.myfoxla.com/story/22305076/
-its-the-latest-cannabis-craze-a-concerntrated-marijuana-known-as-wax. 
-Accessed November 12, 2013.
+   Givens  A  Cheng  PS  ITeam  Ecigarettes  used  to  smoke  marijuana 
+spark  new  concerns    New  York  October      httpwww 
+nbcnewyorkcominvestigationsECigarettesDrugsMarijuanaVapor
+PensSmokingITeamhtml Accessed November  
+   Shuman  P  Burns  M  Latest  cannibis  craze  marijuana  known  as  wax 
+myFoxLAcom May   httpwwwmyfoxlacomstory
+itsthelatestcannabiscrazeaconcerntratedmarijuanaknownaswax 
+Accessed November  
 
- 19.  Williams  M,  Talbot  P.  Variability  among  electronic  cigarettes  in  the 
-pressure  drop,  airflow  rate,  and  aerosol  production.  Nicotine  Tob  Res. 
-2011;13:1276–1283.
+   Williams  M  Talbot  P  Variability  among  electronic  cigarettes  in  the 
+pressure  drop  airflow  rate  and  aerosol  production  Nicotine  Tob  Res 
 
- 20.  US  Department  of  Health  and  Human  Services.  Preventing  tobacco  use 
-among youth and young adults: a report of the Surgeon General. Atlanta, 
 
-GA: U.S. Department of Health and Human Services, Centers for Disease 
-Prevention and Control, National Center for Chronic Disease Prevention 
-and Health Promotion, Office on Smoking and Health; 2012.
+   US  Department  of  Health  and  Human  Services  Preventing  tobacco  use 
+among youth and young adults a report of the Surgeon General Atlanta 
 
- 21.  Grana RA, Glantz SA, Ling PM. Electronic nicotine delivery systems in 
+GA US Department of Health and Human Services Centers for Disease 
+Prevention and Control National Center for Chronic Disease Prevention 
+and Health Promotion Office on Smoking and Health 
 
-the hands of Hollywood. Tob Control. 2011;20:425–426.
+   Grana RA Glantz SA Ling PM Electronic nicotine delivery systems in 
 
- 22.  de Andrade M, Hastings G, Angus K. Promotion of electronic cigarettes: 
+the hands of Hollywood Tob Control 
 
-tobacco marketing reinvented? BMJ. 2013;347:f7473.
+   de Andrade M Hastings G Angus K Promotion of electronic cigarettes 
 
- 23.  Rooke  C,  Amos  A.  News  media  representations  of  electronic  cigarettes: 
-an  analysis  of  newspaper  coverage  in  the  UK  and  Scotland  [published 
-online ahead of print July 24, 2013]. Tob Control. doi:10.1136/tobaccocon-
-trol-2013–051043. http://tobaccocontrol.bmj.com/content/early/2013/07/24/
-tobaccocontrol-2013-051043.short. Accessed September 9, 2013.
+tobacco marketing reinvented BMJ f
 
- 24.  Kim AE,  Lee YO,  Shafer  P,  Nonnemaker  J,  Makarenko  O. Adult  smok-
-ers’ receptivity to a television advert for electronic nicotine delivery sys-
-tems  [published  online  ahead  of  print  October  3,  2013].  Tob  Control. 
-doi:10.1136/tobaccocontrol-2013–051130. http://tobaccocontrol.bmj.com/
-content/early/2013/10/03/tobaccocontrol-2013-051130.short.  Accessed 
-November 21, 2013.
+   Rooke  C  Amos  A  News  media  representations  of  electronic  cigarettes 
+an  analysis  of  newspaper  coverage  in  the  UK  and  Scotland  published 
+online ahead of print July   Tob Control doitobaccocon
+trol httptobaccocontrolbmjcomcontentearly
+tobaccocontrolshort Accessed September  
 
- 25.  TNS Opinion & Social. Attitudes of Europeans Towards Tobacco. Special 
-Eurobarometer  385,  Wave  Eb77.1  commissioned  by  the  Directorate 
-General Health and Consumers of the European Commission;  Brussels, 
-Belgium; 2012.
+   Kim AE  Lee YO  Shafer  P  Nonnemaker  J  Makarenko  O Adult  smok
+ers receptivity to a television advert for electronic nicotine delivery sys
+tems  published  online  ahead  of  print  October      Tob  Control 
+doitobaccocontrol httptobaccocontrolbmjcom
+contentearlytobaccocontrolshort  Accessed 
+November  
 
- 26.  Etter  JF,  Bullen  C.  A  longitudinal  study  of  electronic  cigarette  users. 
+   TNS Opinion  Social Attitudes of Europeans Towards Tobacco Special 
+Eurobarometer    Wave  Eb  commissioned  by  the  Directorate 
+General Health and Consumers of the European Commission  Brussels 
+Belgium 
 
-Addict Behav. 2014;39:491–494.
+   Etter  JF  Bullen  C  A  longitudinal  study  of  electronic  cigarette  users 
 
- 27.  Douptcheva  N,  Gmel  G,  Studer  J,  Deline  S,  Etter  JF.  Use  of  electronic 
-cigarettes  among  young  Swiss  men.  J  Epidemiol  Community  Health. 
-2013;67:1075–1076.
+Addict Behav 
 
- 28.  Kralikova  E,  Novak  J,  West  O,  Kmetova  A,  Hajek  P.  Do  e-cigarettes 
-have the potential to compete with conventional cigarettes? A survey of 
-conventional  cigarette  smokers’  experiences  with  e-cigarettes.  Chest. 
-2013;144:1609–1614.
+   Douptcheva  N  Gmel  G  Studer  J  Deline  S  Etter  JF  Use  of  electronic 
+cigarettes  among  young  Swiss  men  J  Epidemiol  Community  Health 
 
- 29.  Etter JF, Bullen C. Electronic cigarette: users profile, utilization, satisfac-
 
-tion and perceived efficacy. Addiction. 2011;106:2017–2028.
+   Kralikova  E  Novak  J  West  O  Kmetova  A  Hajek  P  Do  ecigarettes 
+have the potential to compete with conventional cigarettes A survey of 
+conventional  cigarette  smokers  experiences  with  ecigarettes  Chest 
 
- 30.  Goniewicz ML, Lingas EO, Hajek P. Patterns of electronic cigarette use 
-and user beliefs about their safety and benefits: an internet survey. Drug 
-Alcohol Rev. 2013;32:133–140.
 
- 31.  Choi  K,  Forster  JL.  Beliefs  and  experimentation  with  electronic  ciga-
-rettes:  a  prospective  analysis  among  young  adults.  Am  J  Prev  Med. 
-2014;46:175–178.
+   Etter JF Bullen C Electronic cigarette users profile utilization satisfac
 
- 32.  Reddy  A.  Personal  communication:  GYTS  data  Latvia  and  Finland, 
+tion and perceived efficacy Addiction 
 
-November 12, 2013.
+   Goniewicz ML Lingas EO Hajek P Patterns of electronic cigarette use 
+and user beliefs about their safety and benefits an internet survey Drug 
+Alcohol Rev 
 
- 33.  Goniewicz ML, Zielinska-Danch W. Electronic cigarette use among teen-
-agers and young adults in Poland. Pediatrics. 2012;130:e879–e885.
- 34.  Utah  Department  of  Health.  Utah  health  status  update:  electronic  ciga-
-rette use among Utah students (grades 8, 10, and 12) and adults. Updated 
-December  2013.  http://tobacco.ucsf.edu/e-cigarette-use-among-kids-
-skyrocketing-utah-levels-much-higher-among-adults. Accessed February 
-2, 2014.
+   Choi  K  Forster  JL  Beliefs  and  experimentation  with  electronic  ciga
+rettes  a  prospective  analysis  among  young  adults  Am  J  Prev  Med 
 
- 35.  Hadwiger  ME,  Trehy  ML, Ye  W,  Moore  T,  Allgire  J,  Westenberger  B. 
-Identification  of  amino-tadalafil  and  rimonabant  in  electronic  ciga-
+
+   Reddy  A  Personal  communication  GYTS  data  Latvia  and  Finland 
+
+November  
+
+   Goniewicz ML ZielinskaDanch W Electronic cigarette use among teen
+agers and young adults in Poland Pediatrics ee
+   Utah  Department  of  Health  Utah  health  status  update  electronic  ciga
+rette use among Utah students grades   and  and adults Updated 
+December    httptobaccoucsfeduecigaretteuseamongkids
+skyrocketingutahlevelsmuchhigheramongadults Accessed February 
+ 
+
+   Hadwiger  ME  Trehy  ML Ye  W  Moore  T  Allgire  J  Westenberger  B 
+Identification  of  aminotadalafil  and  rimonabant  in  electronic  ciga
 rette  products  using  high  pressure  liquid  chromatography  with  diode 
-array  and  tandem  mass  spectrometric  detection.  J  Chromatogr  A. 
-2010;1217:7547–7555.
+array  and  tandem  mass  spectrometric  detection  J  Chromatogr  A 
 
- 36.  Trehy  ML, Ye  W,  Hadwiger  ME,  Moore  TW, Allgire  JF,  Woodruff  JT, 
-Ahadi  SS,  Black  JC,  Westenberger  BJ. Analysis  of  electronic  cigarette 
-cartridges,  refill  solutions,  and  smoke  for  nicotine  and  nicotine  related 
-impurities. J Liq Chromatogr Relat Technol. 2011;34:1442–1458.
 
- 37.  Goniewicz  ML,  Kuma  T,  Gawron  M,  Knysak  J,  Kosmider  L.  Nicotine 
+   Trehy  ML Ye  W  Hadwiger  ME  Moore  TW Allgire  JF  Woodruff  JT 
+Ahadi  SS  Black  JC  Westenberger  BJ Analysis  of  electronic  cigarette 
+cartridges  refill  solutions  and  smoke  for  nicotine  and  nicotine  related 
+impurities J Liq Chromatogr Relat Technol 
 
-levels in electronic cigarettes. Nicotine Tob Res. 2013;15:158–166.
+   Goniewicz  ML  Kuma  T  Gawron  M  Knysak  J  Kosmider  L  Nicotine 
 
- 38.  Cameron JM, Howell DN, White JR, Andrenyak DM, Layton ME, Roll 
-JM. Variable and potentially fatal amounts of nicotine in e-cigarette nico-
-tine solutions. Tob Control. 2014;23:77–78.
+levels in electronic cigarettes Nicotine Tob Res 
 
- 39.  Schober  W,  Szendrei  K,  Matzen  W,  Osiander-Fuchs  H,  Heitmann 
-D,  Schettgen  T,  Jorres  RA,  Fromme  H.  Use  of  electronic  cigarettes 
- (e-cigarettes)  impairs  indoor  air  quality  and  increases  FeNO  levels  of 
-e-cigarette  consumers  [published  online  ahead  of  print  December  6, 
-2013]. Int J Hyg Environ Health. doi: 10.1016/j.ijheh.2013.11.003. http://
-dx.doi.org/10.1016/j.ijheh.2013.11.003. Accessed February 10, 2014. 
- 40.  Goniewicz ML, Hajek P, McRobbie H. Nicotine content of electronic cig-
-arettes, its release in vapour and its consistency across batches: regulatory 
-implications. Addiction. 2014;109:500–507.
+   Cameron JM Howell DN White JR Andrenyak DM Layton ME Roll 
+JM Variable and potentially fatal amounts of nicotine in ecigarette nico
+tine solutions Tob Control 
 
- 41.  Goniewicz ML, Knysak J, Gawron M, Kosmider L, Sobczak A, Kurek J, 
-Prokopowicz A, Jablonska-Czapla M, Rosik-Dulewska C, Havel C. Levels 
-of selected carcinogens and toxicants in vapour from electronic cigarettes. 
-Tob Control. 2014;23:133–139.
+   Schober  W  Szendrei  K  Matzen  W  OsianderFuchs  H  Heitmann 
+D  Schettgen  T  Jorres  RA  Fromme  H  Use  of  electronic  cigarettes 
+ ecigarettes  impairs  indoor  air  quality  and  increases  FeNO  levels  of 
+ecigarette  consumers  published  online  ahead  of  print  December   
+ Int J Hyg Environ Health doi jijheh http
+dxdoiorgjijheh Accessed February   
+   Goniewicz ML Hajek P McRobbie H Nicotine content of electronic cig
+arettes its release in vapour and its consistency across batches regulatory 
+implications Addiction 
+
+   Goniewicz ML Knysak J Gawron M Kosmider L Sobczak A Kurek J 
+Prokopowicz A JablonskaCzapla M RosikDulewska C Havel C Levels 
+of selected carcinogens and toxicants in vapour from electronic cigarettes 
+Tob Control 
 
 Grana et al 
 
-  E-Cigarettes: A Scientific Review 
+  ECigarettes A Scientific Review 
 
-  1985
+  
 
- 42.  Kim HJ, Shin HS. Determination of tobacco-specific nitrosamines in replace-
-ment  liquids  of  electronic  cigarettes  by  liquid   chromatography-tandem 
-mass spectrometry. J Chromatogr A. 2013;1291:48–55.
+   Kim HJ Shin HS Determination of tobaccospecific nitrosamines in replace
+ment  liquids  of  electronic  cigarettes  by  liquid   chromatographytandem 
+mass spectrometry J Chromatogr A 
 
- 43.  Bahl V, Lin S, Xu N, Davis B, Wang YH, Talbot P. Comparison of elec-
-tronic cigarette refill fluid cytotoxicity using embryonic and adult models. 
-Reprod Toxicol. 2012;34:529–537.
+   Bahl V Lin S Xu N Davis B Wang YH Talbot P Comparison of elec
+tronic cigarette refill fluid cytotoxicity using embryonic and adult models 
+Reprod Toxicol 
 
- 44.  Romagna  G,  Allifranchini  E,  Bocchietto  E,  Todeschi  S,  Esposito  M, 
-Farsalinos  KE.  Cytotoxicity  evaluation  of  electronic  cigarette  vapor 
-extract on cultured mammalian fibroblasts (ClearStream-LIFE): compari-
-son with tobacco cigarette smoke extract. Inhal Toxicol. 2013;25:354–361.
- 45.  Farsalinos KE, Romagna G, Allifranchini E, Ripamonti E, Bocchietto E, 
-Todeschi  S,  Tsiapras  D,  Kyrzopoulos  S, Voudris V.  Comparison  of  the 
+   Romagna  G  Allifranchini  E  Bocchietto  E  Todeschi  S  Esposito  M 
+Farsalinos  KE  Cytotoxicity  evaluation  of  electronic  cigarette  vapor 
+extract on cultured mammalian fibroblasts ClearStreamLIFE compari
+son with tobacco cigarette smoke extract Inhal Toxicol 
+   Farsalinos KE Romagna G Allifranchini E Ripamonti E Bocchietto E 
+Todeschi  S  Tsiapras  D  Kyrzopoulos  S Voudris V  Comparison  of  the 
 cytotoxic  potential  of  cigarette  smoke  and  electronic  cigarette  vapour 
-extract  on  cultured  myocardial  cells.  Int  J  Environ  Res  Public  Health. 
-2013;10:5146–5162.
+extract  on  cultured  myocardial  cells  Int  J  Environ  Res  Public  Health 
 
- 65.  Nides MA, Leischow SJ, Bhatter M, Simmons M. Nicotine blood levels 
-and short-term smoking reduction with an electronic nicotine delivery sys-
-tem. Am J Health Beh. 2014;38:265–274.
 
- 66.  Sciencelab.com,  Inc.  Material  Data  Safety  Sheet:  Propylene  Glycol. 
+   Nides MA Leischow SJ Bhatter M Simmons M Nicotine blood levels 
+and shortterm smoking reduction with an electronic nicotine delivery sys
+tem Am J Health Beh 
 
-Updated May 21, 2013. Sciencelab.com, Inc., Houston, TX.
+   Sciencelabcom  Inc  Material  Data  Safety  Sheet  Propylene  Glycol 
 
- 67.  Dow Chemical Co. Product Safety Assessment (PSA): propylene glycol. 
-2013.  http://www.dow.com/productsafety/finder/prog.htm#HealthInfo. 
-Accessed November 21, 2013.
+Updated May   Sciencelabcom Inc Houston TX
 
- 68.  The  American  Chemistry  Council.  Propylene  glycol:  considerations 
-against use in theatrical fogs. July 2001. http://www.lyondellbasell.com/
-techlit/techlit/2280.pdf. Accessed November 21, 2013.
+   Dow Chemical Co Product Safety Assessment PSA propylene glycol 
+  httpwwwdowcomproductsafetyfinderproghtmHealthInfo 
+Accessed November  
 
- 69.  Laino T, Tuma C, Moor P, Martin E, Stolz S, Curioni A. Mechanisms of pro-
-pylene glycol and triacetin pyrolysis. J Phys Chem A. 2012;116:4602–4609.
- 70.  US  Environmental  Protection  Agency.  Acrolein.  http://www.epa.gov/
+   The  American  Chemistry  Council  Propylene  glycol  considerations 
+against use in theatrical fogs July  httpwwwlyondellbasellcom
+techlittechlitpdf Accessed November  
 
-ttnatw01/hlthef/acrolein.html. Accessed November 24, 2013.
+   Laino T Tuma C Moor P Martin E Stolz S Curioni A Mechanisms of pro
+pylene glycol and triacetin pyrolysis J Phys Chem A 
+   US  Environmental  Protection  Agency  Acrolein  httpwwwepagov
 
- 46.  Schripp T,  Markewitz  D,  Uhde  E,  Salthammer T.  Does  e-cigarette  con-
+ttnatwhlthefacroleinhtml Accessed November  
 
- 71.  Henderson TR, Clark CR, Marshall TC, Hanson RL, CH H. Heat degrada-
+   Schripp T  Markewitz  D  Uhde  E  Salthammer T  Does  ecigarette  con
 
-sumption cause passive vaping? Indoor Air. 2013;23:25–31.
+   Henderson TR Clark CR Marshall TC Hanson RL CH H Heat degrada
 
- 47.  Flouris  AD,  Chorti  MS,  Poulianiti  KP,  Jamurtas  AZ,  Kostikas  K, 
-Tzatzarakis  MN, Wallace  Hayes A, Tsatsakis AM,  Koutedakis Y. Acute 
-impact of active and passive electronic cigarette smoking on serum coti-
-nine and lung function. Inhal Toxicol. 2013;25:91–101.
+sumption cause passive vaping Indoor Air 
 
- 48.  Armitage AK, Dollery CT, George CF, Houseman TH, Lewis PJ, Turner 
-DM. Absorption and metabolism of nicotine from cigarettes. Br Med J. 
-1975;4:313–316.
+   Flouris  AD  Chorti  MS  Poulianiti  KP  Jamurtas  AZ  Kostikas  K 
+Tzatzarakis  MN Wallace  Hayes A Tsatsakis AM  Koutedakis Y Acute 
+impact of active and passive electronic cigarette smoking on serum coti
+nine and lung function Inhal Toxicol 
 
- 49.  Czogala  J,  Goniewicz  ML,  Fidelus  B,  Zielinska-Danch  W,  Travers 
-MJ,  Sobczak  A.  Secondhand  exposure  to  vapors  from  electronic  ciga-
-rettes  [published  online  ahead  of  print  December  11,  2013].  Nicotine 
-Tob  Res.  doi:  10.1093/ntr/ntt203.  http://ntr.oxfordjournals.org/content/
-early/2013/12/10/ntr.ntt203.long. Accessed February 12, 2014.
+   Armitage AK Dollery CT George CF Houseman TH Lewis PJ Turner 
+DM Absorption and metabolism of nicotine from cigarettes Br Med J 
 
- 50.  Ostro B, Feng WY, Broadwin R, Green S, Lipsett M. The effects of com-
-ponents of fine particulate air pollution on mortality in California: results 
-from CALFINE. Environ Health Perspect. 2007;115:13–19.
 
- 51.  Secondhand Smoke Exposure and Cardiovascular Effects: Making Sense 
+   Czogala  J  Goniewicz  ML  Fidelus  B  ZielinskaDanch  W  Travers 
+MJ  Sobczak  A  Secondhand  exposure  to  vapors  from  electronic  ciga
+rettes  published  online  ahead  of  print  December      Nicotine 
+Tob  Res  doi  ntrntt  httpntroxfordjournalsorgcontent
+earlyntrnttlong Accessed February  
 
-of the Evidence. Washington, DC: Institute of Medicine; 2010.
+   Ostro B Feng WY Broadwin R Green S Lipsett M The effects of com
+ponents of fine particulate air pollution on mortality in California results 
+from CALFINE Environ Health Perspect 
 
- 52.  Brook  RD,  Rajagopalan  S,  Pope  CA,  Brook  JR,  Bhatnagar  A,  Diez-
-Roux AV, Holguin F, Hong Y, Luepker RV, Mittleman MA. Particulate 
-matter  air  pollution  and  cardiovascular  disease:  an  update  to  the  sci-
-entific  statement  from  the  American  Heart  Association.  Circulation. 
-2010;121:2331–2378.
+   Secondhand Smoke Exposure and Cardiovascular Effects Making Sense 
 
- 53.  Pope CA 3rd, Burnett RT, Krewski D, Jerrett M, Shi Y, Calle EE, Thun 
-MJ.  Cardiovascular  mortality  and  exposure  to  airborne  fine  particulate 
-matter and cigarette smoke: shape of the exposure-response relationship. 
-Circulation. 2009;120:941–948.
+of the Evidence Washington DC Institute of Medicine 
 
- 54.  Mehta S, Shin H, Burnett R, North T, Cohen AJ. Ambient particulate air 
-pollution and acute lower respiratory infections: a systematic review and 
-implications for estimating the global burden of disease. Air Qual Atmos 
-Health. 2013:1–15.
+   Brook  RD  Rajagopalan  S  Pope  CA  Brook  JR  Bhatnagar  A  Diez
+Roux AV Holguin F Hong Y Luepker RV Mittleman MA Particulate 
+matter  air  pollution  and  cardiovascular  disease  an  update  to  the  sci
+entific  statement  from  the  American  Heart  Association  Circulation 
 
- 55.  Fuoco FC, Buonanno G, Stabile L, Vigo P. Influential parameters on par-
-ticle concentration and size distribution in the mainstream of e-cigarettes. 
-Environ Pollut. 2014;184:523–529.
 
- 56.  Ingebrethsen BJ, Cole SK, Alderman SL. Electronic cigarette aerosol par-
-ticle size distribution measurements. Inhal Toxicol. 2012;24:976–984.
- 57.  Zhang Y, Sumner W, Chen DR. In vitro particle size distributions in elec-
+   Pope CA rd Burnett RT Krewski D Jerrett M Shi Y Calle EE Thun 
+MJ  Cardiovascular  mortality  and  exposure  to  airborne  fine  particulate 
+matter and cigarette smoke shape of the exposureresponse relationship 
+Circulation 
+
+   Mehta S Shin H Burnett R North T Cohen AJ Ambient particulate air 
+pollution and acute lower respiratory infections a systematic review and 
+implications for estimating the global burden of disease Air Qual Atmos 
+Health 
+
+   Fuoco FC Buonanno G Stabile L Vigo P Influential parameters on par
+ticle concentration and size distribution in the mainstream of ecigarettes 
+Environ Pollut 
+
+   Ingebrethsen BJ Cole SK Alderman SL Electronic cigarette aerosol par
+ticle size distribution measurements Inhal Toxicol 
+   Zhang Y Sumner W Chen DR In vitro particle size distributions in elec
 tronic and conventional cigarette aerosols suggest comparable deposition 
-patterns. Nicotine Tob Res. 2013;15:501–508.
+patterns Nicotine Tob Res 
 
- 58.  Williams M, Villarreal A, Bozhilov K, Lin S, Talbot P. Metal and silicate 
-particles including nanoparticles are present in electronic cigarette carto-
-mizer fluid and aerosol. PLoS One. 2013;8:e57987.
+   Williams M Villarreal A Bozhilov K Lin S Talbot P Metal and silicate 
+particles including nanoparticles are present in electronic cigarette carto
+mizer fluid and aerosol PLoS One e
 
- 59.  Vansickel  AR,  Cobb  CO,  Weaver  MF,  Eissenberg  TE.  A  clinical  labo-
-ratory  model  for  evaluating  the  acute  effects  of  electronic  “cigarettes”: 
-nicotine delivery profile and cardiovascular and subjective effects. Cancer 
-Epidemiol Biomarkers Prev. 2010;19:1945–1953.
+   Vansickel  AR  Cobb  CO  Weaver  MF  Eissenberg  TE  A  clinical  labo
+ratory  model  for  evaluating  the  acute  effects  of  electronic  cigarettes 
+nicotine delivery profile and cardiovascular and subjective effects Cancer 
+Epidemiol Biomarkers Prev 
 
- 60.  Bullen C, McRobbie H, Thornley S, Glover M, Lin R, Laugesen M. Effect 
-of an electronic nicotine delivery device (e cigarette) on desire to smoke 
-and  withdrawal,  user  preferences  and  nicotine  delivery:  randomised 
- cross-over trial. Tob Control. 2010;19:98–103.
+   Bullen C McRobbie H Thornley S Glover M Lin R Laugesen M Effect 
+of an electronic nicotine delivery device e cigarette on desire to smoke 
+and  withdrawal  user  preferences  and  nicotine  delivery  randomised 
+ crossover trial Tob Control 
 
- 61.  Etter JF, Bullen C. Saliva cotinine levels in users of electronic cigarettes. 
+   Etter JF Bullen C Saliva cotinine levels in users of electronic cigarettes 
 
-Eur Respir J. 2011;38:1219–1220.
+Eur Respir J 
 
- 62.  Vansickel AR, Eissenberg T. Electronic cigarettes: effective nicotine deliv-
-ery after acute administration. Nicotine Tob Res. 2013;15:267–270.
+   Vansickel AR Eissenberg T Electronic cigarettes effective nicotine deliv
+ery after acute administration Nicotine Tob Res 
 
- 63.  Dawkins L, Corcoran O. Acute electronic cigarette use: nicotine delivery 
-and subjective effects in regular users. Psychopharmacology. 2013:1–7.
- 64.  Dawkins L, Turner J, Hasna S, Soar K. The electronic-cigarette: effects 
-on desire to smoke, withdrawal symptoms and cognition. Addict Behav. 
-2012;37:970–973.
+   Dawkins L Corcoran O Acute electronic cigarette use nicotine delivery 
+and subjective effects in regular users Psychopharmacology 
+   Dawkins L Turner J Hasna S Soar K The electroniccigarette effects 
+on desire to smoke withdrawal symptoms and cognition Addict Behav 
 
-tion studies of solar heat transfer fluids Solar Energy. 1981;27:121–128.
- 72.  Chen  IL.  FDA  summary  of  adverse  events  on  electronic  cigarettes. 
 
-Nicotine Tob Res. 2013;15:615–616.
+tion studies of solar heat transfer fluids Solar Energy 
+   Chen  IL  FDA  summary  of  adverse  events  on  electronic  cigarettes 
 
- 73.  CBS News. Electronic cigarette explodes in man’s mouth, causes serious 
-injuries.  February  16,  2012.  http://www.cbsnews.com/news/electronic-
-cigarette-explodes-in-mans-mouth-causes-serious-injuries/.  Accessed 
-November 24, 2013.
+Nicotine Tob Res 
 
- 74.  Strickland J. Woman says e-cigarette exploded, shot flames 4 feet across 
-living room. WSB-TV Atlanta. 2013. http://www.wsbtv.com/news/news/
-local/woman-says-e-cigarette-exploded-shot-flames-4-feet/nZkCX/.
- 75.  Vardavas  CI,  Anagnostopoulos  N,  Kougias  M,  Evangelopoulou  V, 
-Connolly  GN,  Behrakis  PK.  Short-term  pulmonary  effects  of  using  an 
-electronic cigarette: impact on respiratory flow resistance, impedance, and 
-exhaled nitric oxide. Chest. 2012;141:1400–1406.
+   CBS News Electronic cigarette explodes in mans mouth causes serious 
+injuries  February      httpwwwcbsnewscomnewselectronic
+cigaretteexplodesinmansmouthcausesseriousinjuries  Accessed 
+November  
 
- 76.  Flouris AD, Poulianiti KP, Chorti MS, Jamurtas AZ, Kouretas D, Owolabi 
-EO, Tzatzarakis MN, Tsatsakis AM, Koutedakis Y. Acute effects of elec-
-tronic  and  tobacco  cigarette  smoking  on  complete  blood  count.  Food 
-Chem Toxicol. 2012;50:3600–3603.
+   Strickland J Woman says ecigarette exploded shot flames  feet across 
+living room WSBTV Atlanta  httpwwwwsbtvcomnewsnews
+localwomansaysecigaretteexplodedshotflamesfeetnZkCX
+   Vardavas  CI  Anagnostopoulos  N  Kougias  M  Evangelopoulou  V 
+Connolly  GN  Behrakis  PK  Shortterm  pulmonary  effects  of  using  an 
+electronic cigarette impact on respiratory flow resistance impedance and 
+exhaled nitric oxide Chest 
 
- 77.  McAuley TR, Hopke PK, Zhao J, Babaian S. Comparison of the effects of 
-e-cigarette vapor and cigarette smoke on indoor air quality. Inhal Toxicol. 
-2012;24:850–857.
+   Flouris AD Poulianiti KP Chorti MS Jamurtas AZ Kouretas D Owolabi 
+EO Tzatzarakis MN Tsatsakis AM Koutedakis Y Acute effects of elec
+tronic  and  tobacco  cigarette  smoking  on  complete  blood  count  Food 
+Chem Toxicol 
 
- 78.  Medicines and Healthcare Products Regulatory Agency. The Regulation 
-of Nicotine Containing Products (NCPS). London, UK: Public Summary 
-Report,  Medicines  and  Healthcare  Products  Regulatory Agency;  June 
-12, 2013.
+   McAuley TR Hopke PK Zhao J Babaian S Comparison of the effects of 
+ecigarette vapor and cigarette smoke on indoor air quality Inhal Toxicol 
 
- 79.  Grana R, Popova L, Ling P. A longitudinal analysis of electronic ciga-
-rette use and smoking cessation [published online ahead of print March 
-24,  2014].  JAMA  Int  Med.  doi:10.1001/jamainternmed.2014.187. 
-http://archinte.jamanetwork.com/article.aspx?articleid=1846627. 
-Accessed March 24, 2014.
 
- 80.  Vickerman KA, Carpenter KM, Altman T, Nash CM, Zbikowski SM. Use 
-of  electronic  cigarettes  among  state  tobacco  cessation  quitline  callers. 
-Nicotine Tob Res. 2013;15:1787–1791.
+   Medicines and Healthcare Products Regulatory Agency The Regulation 
+of Nicotine Containing Products NCPS London UK Public Summary 
+Report  Medicines  and  Healthcare  Products  Regulatory Agency  June 
+ 
 
- 81.  Choi K, Forster JL. Response to Letter to the Editor Regarding “Beliefs 
-and Experimentation with Electronic Cigarettes: A Prospective Analysis 
-Among Young Adults.” Am J Prev Med. In press.
+   Grana R Popova L Ling P A longitudinal analysis of electronic ciga
+rette use and smoking cessation published online ahead of print March 
+    JAMA  Int  Med  doijamainternmed 
+httparchintejamanetworkcomarticleaspxarticleid 
+Accessed March  
 
- 82.  Popova L, Ling PM. Alternative tobacco product use and smoking cessa-
+   Vickerman KA Carpenter KM Altman T Nash CM Zbikowski SM Use 
+of  electronic  cigarettes  among  state  tobacco  cessation  quitline  callers 
+Nicotine Tob Res 
 
-tion: a national study. Am J Public Health. 2013;103:923–930.
+   Choi K Forster JL Response to Letter to the Editor Regarding Beliefs 
+and Experimentation with Electronic Cigarettes A Prospective Analysis 
+Among Young Adults Am J Prev Med In press
 
- 83.  Polosa R, Caponnetto P, Morjaria JB, Papale G, Campagna D, Russo C. 
-Effect of an electronic nicotine delivery device (e-cigarette) on smoking 
-reduction and cessation: a prospective 6-month pilot study. BMC Public 
-Health. 2011;11:786.
+   Popova L Ling PM Alternative tobacco product use and smoking cessa
 
- 84.  Caponnetto P, Campagna D, Cibella F, Morjaria JB, Caruso M, Russo C, 
-Polosa R. EffiCiency and Safety of an eLectronic cigAreTte (ECLAT) as 
-tobacco cigarettes substitute: a prospective 12-month randomized control 
-design study. PLoS One. 2013;8:e66317.
+tion a national study Am J Public Health 
 
- 85.  Caponnetto P, Auditore R, Russo C, Cappello GC, Polosa R. Impact of an 
+   Polosa R Caponnetto P Morjaria JB Papale G Campagna D Russo C 
+Effect of an electronic nicotine delivery device ecigarette on smoking 
+reduction and cessation a prospective month pilot study BMC Public 
+Health 
+
+   Caponnetto P Campagna D Cibella F Morjaria JB Caruso M Russo C 
+Polosa R EffiCiency and Safety of an eLectronic cigAreTte ECLAT as 
+tobacco cigarettes substitute a prospective month randomized control 
+design study PLoS One e
+
+   Caponnetto P Auditore R Russo C Cappello GC Polosa R Impact of an 
 electronic cigarette on smoking reduction and cessation in schizophrenic 
-smokers:  a  prospective  12-month  pilot  study.  Int  J  Environ  Res  Public 
-Health. 2013;10:446–461.
+smokers  a  prospective  month  pilot  study  Int  J  Environ  Res  Public 
+Health 
 
- 86.  Bullen  C,  Howe  C,  Laugesen  M,  McRobbie  H,  Parag  V,  Williman  J, 
-Walker N. Electronic cigarettes for smoking cessation: a randomised con-
-trolled trial. Lancet. 2013;382:1629–1637.
+   Bullen  C  Howe  C  Laugesen  M  McRobbie  H  Parag  V  Williman  J 
+Walker N Electronic cigarettes for smoking cessation a randomised con
+trolled trial Lancet 
 
- 87.  Polosa R, Morjaria JB, Caponnetto P, Campagna D, Russo C, Alamo A, 
-Amaradio  M,  Fisichella  A.  Effectiveness  and  tolerability  of  electronic 
-cigarette in real-life: a 24-month prospective observational study. Intern 
-Emerg Med. 2013:1–10.
+   Polosa R Morjaria JB Caponnetto P Campagna D Russo C Alamo A 
+Amaradio  M  Fisichella  A  Effectiveness  and  tolerability  of  electronic 
+cigarette in reallife a month prospective observational study Intern 
+Emerg Med 
 
- 88.  Hughes JR, Shiffman S, Callas P, Zhang J. A meta-analysis of the efficacy 
-of over-the-counter nicotine replacement. Tob Control. 2003;12:21–27.
+   Hughes JR Shiffman S Callas P Zhang J A metaanalysis of the efficacy 
+of overthecounter nicotine replacement Tob Control 
 
-1986 
+ 
 
   Circulation 
 
-  May 13, 2014
+  May  
 
-  89.  Eissenberg T. Electronic nicotine delivery devices: ineffective nicotine 
-delivery and craving suppression after acute administration. Tob Control. 
-2010;19:87–88.
+    Eissenberg T Electronic nicotine delivery devices ineffective nicotine 
+delivery and craving suppression after acute administration Tob Control 
 
-  90.  Moore  D,  Aveyard  P,  Connock  M,  Wang  D,  Fry-Smith  A,  Barton  P. 
+
+    Moore  D  Aveyard  P  Connock  M  Wang  D  FrySmith  A  Barton  P 
 Effectiveness  and  safety  of  nicotine  replacement  therapy  assisted 
-reduction to stop smoking: systematic review and meta-analysis. BMJ. 
-2009;338:b1024.
+reduction to stop smoking systematic review and metaanalysis BMJ 
+b
 
-  91.  Godtfredsen  N,  Osler  M,  Vestbo  J,  Andersen  I,  Prescott  E.  Smoking 
-reduction,  smoking  cessation,  and  incidence  of  fatal  and  non-fatal 
-myocardial  infarction  in  Denmark  1976–1998:  a  pooled  cohort  study. 
-J Epidemiol Commun Health. 2003;57:412–416.
+    Godtfredsen  N  Osler  M  Vestbo  J  Andersen  I  Prescott  E  Smoking 
+reduction  smoking  cessation  and  incidence  of  fatal  and  nonfatal 
+myocardial  infarction  in  Denmark    a  pooled  cohort  study 
+J Epidemiol Commun Health 
 
-  92.  Jha P, Ramasundarahettige C, Landsman V, Rostron B, Thun M, Anderson 
-RN, McAfee T, Peto R. 21st-Century hazards of smoking and benefits of 
-cessation in the United States. N Engl J Med. 2013;368:341–350.
-  93.  Gerber Y, Myers V, Goldbourt U. Smoking reduction at midlife and life-
-time mortality risk in men: a prospective cohort study. Am J Epidemiol. 
-2012;175:1006–1012.
+    Jha P Ramasundarahettige C Landsman V Rostron B Thun M Anderson 
+RN McAfee T Peto R stCentury hazards of smoking and benefits of 
+cessation in the United States N Engl J Med 
+    Gerber Y Myers V Goldbourt U Smoking reduction at midlife and life
+time mortality risk in men a prospective cohort study Am J Epidemiol 
 
-  94.  Tverdal A, Bjartveit K. Health consequences of reduced daily cigarette 
 
-consumption. Tob Control. 2006;15:472–480.
+    Tverdal A Bjartveit K Health consequences of reduced daily cigarette 
 
-  95.  US Department of Health and Human Services. The Health Consequences 
-of  Smoking:  50 Years  of  Progress:  A  Report  of  the  Surgeon  General. 
-Atlanta,  GA:  Centers  for  Disease  Control  and  Prevention,  National 
-Center on Chronic Disease Prevention and Health Promotion, Office on 
-Smoking and Health; 2014.
+consumption Tob Control 
 
-  96.  Barnoya  J,  Glantz  SA.  Cardiovascular  effects  of  secondhand  smoke: 
+    US Department of Health and Human Services The Health Consequences 
+of  Smoking   Years  of  Progress  A  Report  of  the  Surgeon  General 
+Atlanta  GA  Centers  for  Disease  Control  and  Prevention  National 
+Center on Chronic Disease Prevention and Health Promotion Office on 
+Smoking and Health 
 
-nearly as large as smoking. Circulation. 2005;111:2684–2698.
+    Barnoya  J  Glantz  SA  Cardiovascular  effects  of  secondhand  smoke 
 
-  97.  Bjartveit K, Tverdal A. Health consequences of smoking 1-4 cigarettes 
+nearly as large as smoking Circulation 
 
-per day. Tob Control. 2005;14:315–320.
+    Bjartveit K Tverdal A Health consequences of smoking  cigarettes 
 
-  98.  Thun  MJ,  Carter  BD,  Feskanich  D,  Freedman  ND,  Prentice  R,  Lopez 
-AD, Hartge P, Gapstur SM. 50-Year trends in smoking-related mortality 
-in the United States. N Engl J Med. 2013;368:351–364.
+per day Tob Control 
 
-  99.  Lynch  SM, Vrieling A,  Lubin  JH,  Kraft  P,  Mendelsohn  JB,  Hartge  P, 
-Canzian F, Steplowski E, Arslan AA, Gross M, Helzlsouer K, Jacobs EJ, 
-LaCroix A, Petersen G, Zheng W, Albanes D, Amundadottir L, Bingham 
-SA, Boffetta P, Boutron-Ruault MC, Chanock SJ, Clipp S, Hoover RN, 
-Jacobs K, Johnson KC, Kooperberg C, Luo J, Messina C, Palli D, Patel 
-AV, Riboli E, Shu XO, Rodriguez Suarez L, Thomas G, Tjønneland A, 
-Tobias GS, Tong E, Trichopoulos D, Virtamo J, Ye W, Yu K, Zeleniuch-
-Jacquette  A,  Bueno-de-Mesquita  HB, 
- Stolzenberg-Solomon  RZ. 
-Cigarette smoking and pancreatic cancer: a pooled analysis from the pan-
-creatic cancer cohort consortium. Am J Epidemiol. 2009;170:403–413.
+    Thun  MJ  Carter  BD  Feskanich  D  Freedman  ND  Prentice  R  Lopez 
+AD Hartge P Gapstur SM Year trends in smokingrelated mortality 
+in the United States N Engl J Med 
 
- 100.  Pandeya N, Williams GM, Sadhegi S, Green AC, Webb PM, Whiteman 
-DC. Associations  of  duration,  intensity,  and  quantity  of  smoking  with 
-adenocarcinoma and squamous cell carcinoma of the esophagus. Am J 
-Epidemiol. 2008;168:105–114.
+    Lynch  SM Vrieling A  Lubin  JH  Kraft  P  Mendelsohn  JB  Hartge  P 
+Canzian F Steplowski E Arslan AA Gross M Helzlsouer K Jacobs EJ 
+LaCroix A Petersen G Zheng W Albanes D Amundadottir L Bingham 
+SA Boffetta P BoutronRuault MC Chanock SJ Clipp S Hoover RN 
+Jacobs K Johnson KC Kooperberg C Luo J Messina C Palli D Patel 
+AV Riboli E Shu XO Rodriguez Suarez L Thomas G Tjnneland A 
+Tobias GS Tong E Trichopoulos D Virtamo J Ye W Yu K Zeleniuch
+Jacquette  A  BuenodeMesquita  HB 
+ StolzenbergSolomon  RZ 
+Cigarette smoking and pancreatic cancer a pooled analysis from the pan
+creatic cancer cohort consortium Am J Epidemiol 
 
- 101.  Vineis P, Kogevinas M, Simonato L, Brennan P, Boffetta P.  Levelling-off 
-of  the  risk  of  lung  and  bladder  cancer  in  heavy  smokers:  an  analysis 
-based  on  multicentric  case-control  studies  and  a  metabolic  interpreta-
-tion. Mutat Res. 2000;463:103–110.
+   Pandeya N Williams GM Sadhegi S Green AC Webb PM Whiteman 
+DC Associations  of  duration  intensity  and  quantity  of  smoking  with 
+adenocarcinoma and squamous cell carcinoma of the esophagus Am J 
+Epidemiol 
 
- 102.  Doll R, Peto R. Cigarette smoking and bronchial carcinoma: dose and 
-time  relationships  among  regular  smokers  and  lifelong  non-smokers. 
-J Epidemiol Community Health. 1978;32:303–313.
+   Vineis P Kogevinas M Simonato L Brennan P Boffetta P  Levellingoff 
+of  the  risk  of  lung  and  bladder  cancer  in  heavy  smokers  an  analysis 
+based  on  multicentric  casecontrol  studies  and  a  metabolic  interpreta
+tion Mutat Res 
 
- 103.  Flanders  WD,  Lally  CA,  Zhu  BP,  Henley  SJ,  Thun  MJ.  Lung  cancer 
-mortality  in  relation  to  age,  duration  of  smoking,  and  daily  cigarette 
-consumption:  results  from  Cancer  Prevention  Study  II.  Cancer  Res. 
-2003;63:6556–6562.
+   Doll R Peto R Cigarette smoking and bronchial carcinoma dose and 
+time  relationships  among  regular  smokers  and  lifelong  nonsmokers 
+J Epidemiol Community Health 
 
- 104.  Fiore M. Treating Tobacco Use and Dependence: 2008 Update: Clinical 
+   Flanders  WD  Lally  CA  Zhu  BP  Henley  SJ  Thun  MJ  Lung  cancer 
+mortality  in  relation  to  age  duration  of  smoking  and  daily  cigarette 
+consumption  results  from  Cancer  Prevention  Study  II  Cancer  Res 
 
-Practice Guideline. Darby, PA: DIANE Publishing; 2008.
 
- 105.  Esterl M. Lorillard isn’t backing away from menthol or e-cigarettes. Wall 
-Street J. August 27, 2013. http://online.wsj.com/news/articles/SB10001
-424127887324906304579038844211701578.  Accessed  November  24, 
-2013.
+   Fiore M Treating Tobacco Use and Dependence  Update Clinical 
 
- 106.  Kessler  MS.  E-cigarettes  could  reduce  harm:  opposing  view:  regula-
-tory  actions,  including  tax  policy  should  encourage  cigarette  smokers 
-to  switch.  USA Today.  September  22,  2013.  http://www.usatoday.com/
-story/opinion/2013/09/22/electronic-cigarettes-blu-ecigs-editorials-
-debates/2850859/. Accessed November 24, 2013.
+Practice Guideline Darby PA DIANE Publishing 
 
- 107.  Peeters  S,  Gilmore  AB.  Transnational  tobacco  company  interests  in 
-smokeless  tobacco  in  Europe:  analysis  of  internal  industry  documents 
-and contemporary industry materials. PLoS Med. 2013;10:e1001506.
- 108.  Peeters  S,  Gilmore  AB.  Understanding  the  emergence  of  the  tobacco 
-industry’s  use  of  the  term  tobacco  harm  reduction  in  order  to  inform 
+   Esterl M Lorillard isnt backing away from menthol or ecigarettes Wall 
+Street J August   httponlinewsjcomnewsarticlesSB
+  Accessed  November   
 
-public  health  policy  [published  online  ahead  of  print  January  22, 
-2014].  Tob  Control.  doi:  10.1136/tobaccocontrol-2013-051502.  http:// 
-tobaccocontrol.bmj.com/content/early/2014/01/22/tobaccocontrol-
- 2013-051502.long. Accessed February 2, 2014.
 
- 109.  US  Department  of  Health  and  Human  Services.  How  Tobacco 
-Smoke  Causes  Disease:  The  Biology  and  Behavioral  Basis  for 
- Smoking-Attributable  Disease:  A  Report  of  the  Surgeon  General. 
-Atlanta, GA: US Department of Health and Human Services, Centers for 
-Disease  Control  and  Prevention,  National  Center  for  Chronic  Disease 
-Prevention and Health Promotion, Office on Smoking and Health; 2010.
- 110.  Samuels  B,  Glantz  SA.  The  politics  of  local  tobacco  control.  JAMA. 
+   Kessler  MS  Ecigarettes  could  reduce  harm  opposing  view  regula
+tory  actions  including  tax  policy  should  encourage  cigarette  smokers 
+to  switch  USA Today  September      httpwwwusatodaycom
+storyopinionelectroniccigarettesbluecigseditorials
+debates Accessed November  
 
-1991;266:2110–2117.
+   Peeters  S  Gilmore  AB  Transnational  tobacco  company  interests  in 
+smokeless  tobacco  in  Europe  analysis  of  internal  industry  documents 
+and contemporary industry materials PLoS Med e
+   Peeters  S  Gilmore  AB  Understanding  the  emergence  of  the  tobacco 
+industrys  use  of  the  term  tobacco  harm  reduction  in  order  to  inform 
 
- 111.  Fallin  A,  Grana  R,  Glantz  SA.  “To  quarterback  behind  the  scenes, 
-third-party  efforts”:  the  tobacco  industry  and  the  tea  party  [published 
-online  ahead  of  print  February  20,  2013].  Tob  Control.  doi:10.1136/
-tobaccocontrol-2012–050815.  http://tobaccocontrol.bmj.com/content/
-early/2013/02/20/tobaccocontrol-2012-050815.long.
+public  health  policy  published  online  ahead  of  print  January   
+  Tob  Control  doi  tobaccocontrol  http 
+tobaccocontrolbmjcomcontentearlytobaccocontrol
+ long Accessed February  
 
- 112.  Higgins  A.  Aided  by  army  of  “’vapers,”  e-cigarette 
+   US  Department  of  Health  and  Human  Services  How  Tobacco 
+Smoke  Causes  Disease  The  Biology  and  Behavioral  Basis  for 
+ SmokingAttributable  Disease  A  Report  of  the  Surgeon  General 
+Atlanta GA US Department of Health and Human Services Centers for 
+Disease  Control  and  Prevention  National  Center  for  Chronic  Disease 
+Prevention and Health Promotion Office on Smoking and Health 
+   Samuels  B  Glantz  SA  The  politics  of  local  tobacco  control  JAMA 
 
-indus-
-try  woos  and  wins  Europe.  The  New  York  Times.  November  9,  
-2013. 
-http://www.nytimes.com/2013/11/10/world/europe/aided-by- 
-army-of-vapers-e-cigarette-industry-woos-and-wins-europe.
-html?pagewanted=1&_r=1&seid=auto&smid=tw-nytimeshealth. 
-Accessed November 12, 2013.
 
- 113.  Sottera, Inc. v Food & Drug Administration, 627 F.3d 891 (2010).
- 114.  American  Nonsmokers’  Rights  Foundation.  U.S.  state  and  local  laws 
-regulating use of electronic cigarettes October 1, 2013. http://no-smoke.
-org/pdf/ecigslaws.pdf. Accessed December 14, 2013.
 
- 115.  European  Parliament  and  European  Council  of 
+   Fallin  A  Grana  R  Glantz  SA  To  quarterback  behind  the  scenes 
+thirdparty  efforts  the  tobacco  industry  and  the  tea  party  published 
+online  ahead  of  print  February      Tob  Control  doi
+tobaccocontrol  httptobaccocontrolbmjcomcontent
+earlytobaccocontrollong
+
+   Higgins  A  Aided  by  army  of  vapers  ecigarette 
+
+indus
+try  woos  and  wins  Europe  The  New  York  Times  November    
+ 
+httpwwwnytimescomworldeuropeaidedby 
+armyofvapersecigaretteindustrywoosandwinseurope
+htmlpagewantedrseidautosmidtwnytimeshealth 
+Accessed November  
+
+   Sottera Inc v Food  Drug Administration  Fd  
+   American  Nonsmokers  Rights  Foundation  US  state  and  local  laws 
+regulating use of electronic cigarettes October   httpnosmoke
+orgpdfecigslawspdf Accessed December  
+
+   European  Parliament  and  European  Council  of 
 
 the  European 
-Union.  Directive  of  the  European  Parliament  and  of  the  Council  on 
-the  Approximation  of  the  Laws,  Regulations,  and  Administrative 
-Provisions  of  the  Member  States  concerning  the  manufacture,  pre-
-sentation  and  sale  of  tobacco  and  related  products.  Pe-Cons  No/
-Yy  -  2012/0366  (Cod).  February  26,  2014.  http://www.europarl.
-europa.eu/sides/getDoc.do?type=REPORT&reference=A7-2013-
-0276&format=XML&language=EN. Accessed March 25, 2014..
- 116.  European  Commission.  Memo:  questions  &  answers:  new  rules  for 
-tobacco  products.  March  5,  2014.  http://europa.eu/rapid/press-release_
-MEMO-14-134_en.htm. Accessed March 5, 2014.
+Union  Directive  of  the  European  Parliament  and  of  the  Council  on 
+the  Approximation  of  the  Laws  Regulations  and  Administrative 
+Provisions  of  the  Member  States  concerning  the  manufacture  pre
+sentation  and  sale  of  tobacco  and  related  products  PeCons  No
+Yy      Cod  February      httpwwweuroparl
+europaeusidesgetDocdotypeREPORTreferenceA
+formatXMLlanguageEN Accessed March  
+   European  Commission  Memo  questions    answers  new  rules  for 
+tobacco  products  March      httpeuropaeurapidpressrelease
+MEMOenhtm Accessed March  
 
- 117.  Medicines and Healthcare Products Regulatory Agency. The regulation of 
-nicotine containing products: questions and answers. 2013. http://www.
-mhra.gov.uk/home/groups/comms-ic/documents/ websiteresources/
-con286835.pdf. Accessed October 4, 2013.
+   Medicines and Healthcare Products Regulatory Agency The regulation of 
+nicotine containing products questions and answers  httpwww
+mhragovukhomegroupscommsicdocuments websiteresources
+conpdf Accessed October  
 
- 118.  Action on Smoking and Health. Electronic cigarettes. ash briefing. June 
-2013.  http://www.ash.org.uk/files/documents/ASH_715.pdf.  Accessed 
-October 4, 2013.
+   Action on Smoking and Health Electronic cigarettes ash briefing June 
+  httpwwwashorgukfilesdocumentsASHpdf  Accessed 
+October  
 
- 119.  McKee M. E-cigarettes and the marketing push that surprised everyone. 
+   McKee M Ecigarettes and the marketing push that surprised everyone 
 
-BMJ. 2013;347:f5780.
+BMJ f
 
- 120.  Dwyer JB, Broide RS, Leslie FM. Nicotine and brain development. Birth 
+   Dwyer JB Broide RS Leslie FM Nicotine and brain development Birth 
 
-Defects Res C Embryo Today. 2008;84:30–44.
+Defects Res C Embryo Today 
 
- 121.  Liao  C-Y,  Chen Y-J,  Lee  J-F,  Lu  C-L,  Chen  C-H.  Cigarettes  and  the 
-developing  brain:  picturing  nicotine  as  a  neuroteratogen  using  clinical 
-and preclinical studies. Tzu Chi Med J. 2012;24:157–161.
+   Liao  CY  Chen YJ  Lee  JF  Lu  CL  Chen  CH  Cigarettes  and  the 
+developing  brain  picturing  nicotine  as  a  neuroteratogen  using  clinical 
+and preclinical studies Tzu Chi Med J 
 
- 122.  Lichtensteiger  W,  Ribary  U,  Schlumpf  M,  Odermatt  B,  Widmer  HR. 
-Prenatal adverse effects of nicotine on the developing brain. Prog Brain 
-Res. 1988;73:137–157.
+   Lichtensteiger  W  Ribary  U  Schlumpf  M  Odermatt  B  Widmer  HR 
+Prenatal adverse effects of nicotine on the developing brain Prog Brain 
+Res 
 
- 123.  Longo CA, Fried PA, Cameron I, Smith AM. The long-term effects of 
-prenatal  nicotine  exposure  on  response  inhibition:  an  fMRI  study  of 
-young adults. Neurotoxicol Teratol. 2013;39:9–18.
+   Longo CA Fried PA Cameron I Smith AM The longterm effects of 
+prenatal  nicotine  exposure  on  response  inhibition  an  fMRI  study  of 
+young adults Neurotoxicol Teratol 
 
- 124.  US Department of Health and Human Services. The Health Consequences 
-of  Involuntary  Exposure  to  Tobacco  Smoke:  A  Report  of  the  Surgeon 
-General Washington,  DC:  Department  of  Health  and  Human  Services 
-PHS, Centers for Disease Control and Prevention, National Center for 
-Chronic Disease Prevention and Health Promotion, Office of Smoking 
-and Health; 2006.
+   US Department of Health and Human Services The Health Consequences 
+of  Involuntary  Exposure  to  Tobacco  Smoke  A  Report  of  the  Surgeon 
+General Washington  DC  Department  of  Health  and  Human  Services 
+PHS Centers for Disease Control and Prevention National Center for 
+Chronic Disease Prevention and Health Promotion Office of Smoking 
+and Health 
 
- 125.  Fichtenberg CM, Glantz SA. Effect of smoke-free workplaces on smok-
+   Fichtenberg CM Glantz SA Effect of smokefree workplaces on smok
 
-ing behaviour: systematic review. BMJ. 2002;325:188.
+ing behaviour systematic review BMJ 
 
- 126.  Tan  CE,  Glantz  SA.  Association  between  smoke-free  legislation  and 
-hospitalizations for cardiac, cerebrovascular, and respiratory diseases: a 
-meta-analysis. Circulation. 2012;126:2177–2183. 
+   Tan  CE  Glantz  SA  Association  between  smokefree  legislation  and 
+hospitalizations for cardiac cerebrovascular and respiratory diseases a 
+metaanalysis Circulation  
 
-KEY  WORDS:  adolescent  ◼  particulate  matter  ◼  public  policy  ◼  smoking 
+KEY  WORDS  adolescent    particulate  matter    public  policy    smoking 
 
 
