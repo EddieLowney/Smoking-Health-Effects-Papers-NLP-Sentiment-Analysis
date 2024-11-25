@@ -1,0 +1,23 @@
+### Abstract:
+Electronic cigarettes are a recent development in tobacco harm reduction. They are marketed as less harmful alternatives to smoking. Awareness and use of these devices have grown exponentially in recent years, with millions of people currently using them. This systematic review appraises existing laboratory and clinical research on the potential risks from electronic cigarette use, compared with the wellestablished devastating effects of smoking tobacco cigarettes. Currently available evidence indicates that electronic cigarettes are by far a less harmful alternative to smoking and significant health benefits are expected in smokers who switch from tobacco to electronic cigarettes. Research will help make electronic cigarettes more effective as smoking substitutes and will better define and further reduce residual risks from use to as low as possible, by establishing appropriate quality control and standards.
+
+
+
+### Key Defining Sentences:
+ "Complete tobacco cessation is the best outcome for smokers. However, the powerful addictive properties of nicotine and the ritualistic behavior of smoking create a huge hurdle, even for those with a strong desire to quit."
+ "Electronic cigarettes (ECs) are the newest and most promising products for tobacco harm reduction (THR)."
+ "Currently, most research is focused on in vitro effects, with clinical studies confined into evaluation of shortterm use or pathophysiological mechanisms of smokingrelated diseases."
+ "Existing studies about the safety/risk profile of ECs can be divided into chemical, toxicological, and clinical studies."
+ "In conclusion, clinical studies evaluating the effects of shortterm EC use on selected cardiovascular and respiratory functional outcomes have shown that even if some harmful effects of vaping are reported, these are considerably milder compared with smoking conventional cigarettes."
+ "There is no tobacco and no combustion involved in EC use; therefore, regular vapers may avoid several harmful toxic chemicals that are typically present in the smoke of tobacco cigarettes."
+ "It is promising to see that penetration of EC use in youngsters is virtually nonexistent, especially when you take into consideration that there is currently no official regulation in most countries to prohibit the access to ECs by youngsters."
+
+
+
+### Discussion:
+Existing evidence indicates that ECs are less harmful than smoking. They eliminate the combustion process, which is responsible for the vast majority of harmful toxic chemicals in tobacco smoke. However, there are still residual risks related to the use of electronic cigarettes, such as exposure to trace levels of harmful chemicals like formaldehyde, heavy metals, and certain flavorings. Studies on the safety/risk profile of ECs are categorized into chemical, toxicological, and clinical research. These studies have shown a substantial reduction in harmful exposures compared to conventional smoking. While there is currently no direct evidence of longterm harm reduction benefits, the available toxicological data provide strong theoretical support for EC's safer profile. Additionally, clinical studies demonstrate a significant reduction in exposure to tobaccospecific harmful substances when users switch to ECs. Even so, concerns related to nicotine addiction, regulation, and potential uptake by nonsmokers or youngsters need addressing.
+
+
+
+### Conclusion:
+Existing evidence indicates that EC use is by far a less harmful alternative to smoking. There is no tobacco combustion involved, and toxic chemical levels in EC vapor are substantially lower when compared to tobacco smoke, often comparable to pharmaceutical nicotine products. While some risks may exist, they are minimal relative to smoking. Current research suggests ECs can significantly reduce smoking prevalence and smokingrelated harm while serving as a cessation or harm reduction tool for smokers or former smokers. Regulatory approaches should ensure safe use without compromising accessibility for smokers looking to quit, and research should continue investigating longterm outcomes to fully explore the public health potential of ECs.

@@ -1,290 +1,290 @@
-Cite this article as BMJ doibmjAE published  June 
+Cite this article as: BMJ, doi:10.1136/bmj.38142.554479.AE (published 22 June 2004)
 
 Papers
 
-Mortality in relation to smoking  years observations on male
+Mortality in relation to smoking: 50 years’ observations on male
 British doctors
-Richard Doll Richard Peto Jillian Boreham Isabelle Sutherland
+Richard Doll, Richard Peto, Jillian Boreham, Isabelle Sutherland
 
 Abstract
 
 Objective To compare the hazards of cigarette smoking in men
-who formed their habits at different periods and the extent of
+who formed their habits at different periods, and the extent of
 the reduction in risk when cigarette smoking is stopped at
-different ages
-Design Prospective study that has continued from  to
-
-Setting United Kingdom
-Participants   male British doctors Information about
-their smoking habits was obtained in  and periodically
-thereafter cause specific mortality was monitored for  years
-Main outcome measures Overall mortality by smoking habit
-considering separately men born in different periods
+different ages.
+Design Prospective study that has continued from 1951 to
+2001.
+Setting United Kingdom.
+Participants 34 439 male British doctors. Information about
+their smoking habits was obtained in 1951, and periodically
+thereafter; cause specific mortality was monitored for 50 years.
+Main outcome measures Overall mortality by smoking habit,
+considering separately men born in different periods.
 Results The excess mortality associated with smoking chiefly
-involved vascular neoplastic and respiratory diseases that can
-be caused by smoking Men born in  who smoked
+involved vascular, neoplastic, and respiratory diseases that can
+be caused by smoking. Men born in 1900-1930 who smoked
 only cigarettes and continued smoking died on average about
- years younger than lifelong nonsmokers Cessation at age
-   or  years gained respectively about    or 
-years of life expectancy The excess mortality associated with
-cigarette smoking was less for men born in the th century
-and was greatest for men born in the s The cigarette
-smoker versus nonsmoker probabilities of dying in middle age
- were  v  a twofold death rate ratio for those
-born in  but were  v  a threefold death rate
-ratio for those born in the s At older ages the cigarette
-smoker versus nonsmoker probabilities of surviving from age
- to  were  v  at the death rates of the s that is
-among men born around the s but were  v  again
-a threefold death rate ratio at the death rates of the s that
-is among men born around the s
+10 years younger than lifelong non-smokers. Cessation at age
+60, 50, 40, or 30 years gained, respectively, about 3, 6, 9, or 10
+years of life expectancy. The excess mortality associated with
+cigarette smoking was less for men born in the 19th century
+and was greatest for men born in the 1920s. The cigarette
+smoker versus non-smoker probabilities of dying in middle age
+(35-69) were 42% v 24% (a twofold death rate ratio) for those
+born in 1900-1909, but were 43% v 15% (a threefold death rate
+ratio) for those born in the 1920s. At older ages, the cigarette
+smoker versus non-smoker probabilities of surviving from age
+70 to 90 were 10% v 12% at the death rates of the 1950s (that is,
+among men born around the 1870s) but were 7% v 33% (again
+a threefold death rate ratio) at the death rates of the 1990s (that
+is, among men born around the 1910s).
 Conclusion A substantial progressive decrease in the mortality
-rates among nonsmokers over the past half century due to
-prevention and improved treatment of disease has been wholly
-outweighed among cigarette smokers by a progressive increase
-in the smoker v nonsmoker death rate ratio due to earlier and
-more intensive use of cigarettes Among the men born around
- prolonged cigarette smoking from early adult life tripled
-age specific mortality rates but cessation at age  halved the
-hazard and cessation at age  avoided almost all of it
+rates among non-smokers over the past half century (due to
+prevention and improved treatment of disease) has been wholly
+outweighed, among cigarette smokers, by a progressive increase
+in the smoker v non-smoker death rate ratio due to earlier and
+more intensive use of cigarettes. Among the men born around
+1920, prolonged cigarette smoking from early adult life tripled
+age specific mortality rates, but cessation at age 50 halved the
+hazard, and cessation at age 30 avoided almost all of it.
 
 Introduction
 
-During the th century much tobacco was smoked in pipes or
-as cigars and little was smoked as cigarettes but during the first
-the th century the consumption of
+During the 19th century much tobacco was smoked in pipes or
+as cigars and little was smoked as cigarettes, but during the first
+the 20th century the consumption of
 few decades of
-manufactured cigarettes increased greatly This led eventually to
-a rapid increase in male lung cancer particularly in the United
+manufactured cigarettes increased greatly.1 This led eventually to
+a rapid increase in male lung cancer, particularly in the United
 
-Kingdom where the disease became by the s a major cause
-of death Throughout the first half of the th century the haz
-ards of smoking had remained largely unsuspected Around the
-middle of the century however several casecontrol studies of
-lung cancer were published in Western Europe and North
-America leading to the conclusion in  that smoking was
-a cause and an important cause of the disease
+Kingdom (where the disease became by the 1940s a major cause
+of death). Throughout the first half of the 20th century the haz-
+ards of smoking had remained largely unsuspected.1 Around the
+middle of the century, however, several case-control studies of
+lung cancer were published in Western Europe2–6 and North
+America,7–10 leading to the conclusion in 1950 that smoking was
+“a cause, and an important cause” of the disease.5
 
- prospective study
+1951 prospective study
 This discovery stimulated much further research into the effects
-of smoking not only on lung cancer but also on many other dis
-eases including a UK prospective study of smoking and death
-among British doctors that began in  and has now
-continued for  years The decision that this study would be
+of smoking (not only on lung cancer but also on many other dis-
+eases), including a UK prospective study of smoking and death
+among British doctors that began in 1951 and has now
+continued for 50 years.11–17 The decision that this study would be
 conducted among doctors was taken partly because it was
 thought that doctors might take the trouble to describe their own
-smoking habits accurately but principally because their
-subsequent mortality would be relatively easy to follow as they
+smoking habits accurately, but principally because their
+subsequent mortality would be relatively easy to follow, as they
 had to keep their names on the medical register if they were to
-continue to practise Moreover as most doctors would
-themselves have access to good medical care the medical causes
+continue to practise. Moreover, as most doctors would
+themselves have access to good medical care, the medical causes
 of any deaths among them should be reasonably accurately
-certified
+certified.
 
-The  study has now continued for much longer than
-originally anticipated as the doctors did indeed prove easy to
-follow and they provided further information about any changes
-in their smoking habits along the way in    
-and  A final questionnaire was sent out in 
+The 1951 study has now continued for much longer than
+originally anticipated, as the doctors did indeed prove easy to
+follow, and they provided further information about any changes
+in their smoking habits along the way (in 1957, 1966, 1971, 1978,
+and 1991). A final questionnaire was sent out in 2001.
 
-By  the early findings had confirmed prospectively the
+By 1954 the early findings11 had confirmed prospectively the
 excess of lung cancer among smokers that had been seen in the
-retrospective studies Findings on cause specific mortality in
+retrospective studies.2–10 Findings on cause specific mortality in
 relation to smoking were published after four periods of follow
-up after four years  years  years  and  years The
-early results from this study together with those from several
+up (after four years,12 10 years,13 20 years,14 15 and 40 years17). The
+early results from this study,12–14 together with those from several
 others
 smoking was
-associated with mortality from many different diseases Indeed
+associated with mortality from many different diseases. Indeed,
 although smoking was a cause of the large majority of all UK
-lung cancer deaths lung cancer accounted for less than half of
-the excess mortality among smokers
+lung cancer deaths, lung cancer accounted for less than half of
+the excess mortality among smokers.
 
-that began soon after showed that
+that began soon after, showed that
 
-As recently as the s however the full eventual effects on
+As recently as the 1980s, however, the full eventual effects on
 overall mortality of smoking substantial numbers of cigarettes
-throughout adult life were still greatly underestimated as no
+throughout adult life were still greatly underestimated, as no
 population that had done this had yet been followed to the end
-of its life span The present report of the  year results chiefly
-emphasises the effects on overall mortality subdivided by period
-of birth of continuing to smoke cigarettes and of ceasing to do
-so at various ages
+of its life span. The present report of the 50 year results chiefly
+emphasises the effects on overall mortality (subdivided by period
+of birth) of continuing to smoke cigarettes and of ceasing to do
+so at various ages.
 
-BMJ Online First bmjcom
+BMJ Online First bmj.com
 
-page  of 
+page 1 of 9
 
 Papers
 
 Long term hazards
 With the passage of time and the maturation among UK males
-of the smoking epidemicthat is the arrival of a period in which
-even in old age those who still smoked had in general been
-smoking cigarettes regularly since youththe  year results
+of the smoking epidemic—that is, the arrival of a period in which
+even in old age those who still smoked had, in general, been
+smoking cigarettes regularly since youth—the 40 year results17
 showed that the risks from really persistent cigarette smoking
-were much larger than had previously been suspected and sug
+were much larger than had previously been suspected1 and sug-
 gested that about half of all persistent cigarette smokers would
-eventually be killed by their habit The  year results consolidate
-these findings following even the participants who were born
-after  well into old age
+eventually be killed by their habit. The 50 year results consolidate
+these findings, following even the participants who were born
+after 1900 well into old age.
 
 Britain was the first country in the world to experience a
-large increase in male lung cancer from cigarette smoking
-But even in Britain those born in the latter part of the th cen
-tury had at a given age much lower lung cancer rates than the
+large increase in male lung cancer from cigarette smoking.18–20
+But, even in Britain, those born in the latter part of the 19th cen-
+tury had, at a given age, much lower lung cancer rates than the
 worst affected generation of men who were born in Britain in the
-first few decades of the next century Hence after presenting the
-findings for mortality during  in the study as a whole
+first few decades of the next century. Hence, after presenting the
+findings for mortality during 1951-2001 in the study as a whole,
 this report considers separately the findings among those
-doctors born in the th century  and those born in
-the th century  considering separately 
- and  Only among those born in the th
-centurymany of whom were young when they started smoking
-substantial numbers of cigarettescan we hope to assess the full
-hazards of continuing to smoke cigarettes throughout adult life
-and correspondingly the full long term benefits of stopping at
-various ages
+doctors born in the 19th century (1851-1899) and those born in
+the 20th century (1900-1930, considering separately 1900-1909,
+1910-19, and 1920-29). Only among those born in the 20th
+century—many of whom were young when they started smoking
+substantial numbers of cigarettes—can we hope to assess the full
+hazards of continuing to smoke cigarettes throughout adult life,
+and, correspondingly, the full long term benefits of stopping at
+various ages.
 
-Previous reports of this and other studies     have
+Previous reports of this and other studies13 14 17 21 22 have
 reviewed the associations of smoking with many specific causes
-of death and considered the reasons for them leading to the
+of death and considered the reasons for them, leading to the
 conclusion that in this study the substantial differences between
-smokers and nonsmokers in overall mortality are due chiefly to
-the causal effects of smoking This report therefore uses only 
-major categories of cause of death some of which are quite
-broad and several of its main analyses are of all cause mortality
+smokers and non-smokers in overall mortality are due chiefly to
+the causal effects of smoking. This report therefore uses only 11
+major categories of cause of death, some of which are quite
+broad, and several of its main analyses are of all cause mortality.
 
 Methods
 
-Information about smoking habits was obtained in  and
-periodically thereafter from two thirds of all male British
-doctors and their cause specific mortality has been monitored
+Information about smoking habits was obtained in 1951, and
+periodically thereafter, from two thirds of all male British
+doctors, and their cause specific mortality has been monitored
 prospectively
 the
 information available from state records with data from personal
-inquiries
+inquiries.
 
-from  to 
+from 1951 to 2001,
 
 supplementing
 
 Study population
-The  questionnaire was sent to all doctors resident in the
-United Kingdom whose addresses were known to the BMA At
+The 1951 questionnaire was sent to all doctors resident in the
+United Kingdom whose addresses were known to the BMA. At
 that
-time no relevant ethics committees existed Usable
-responses were received from two thirds yielding information on
-the smoking habits of   male doctors   
-and  respectively born before  in  in 
- and in  Their age specific smoking habits have been
-reported previously only  were lifelong nonsmokers
+time no relevant ethics committees existed. Usable
+responses were received from two thirds, yielding information on
+the smoking habits of 34 439 male doctors (10118, 7477, 9459,
+and 7385 respectively born before 1900, in 1900-1909, in 1910-
+19, and in 1920-30). Their age specific smoking habits have been
+reported previously14; only 17% were lifelong non-smokers.
 
-Efforts have been made to follow until  all those not
-known to have died with the exception of  who were struck off
-the medical register for unprofessional conduct  who
-requested mostly in the fifth decade of the study no further
-questionnaires and  who were known to be alive but living
-abroad on  November  when we withdrew them Among
-the remaining   the follow up of mortality is irrespective of
-any other migration  complete with only  untraced
-usually since the s  are known to have been alive on
- November  and   are known to have died before
-then Those withdrawn before the end of the study or untraced
+Efforts have been made to follow until 2001 all those not
+known to have died, with the exception of 17 who were struck off
+the medical register for unprofessional conduct, 467 who
+requested (mostly in the fifth decade of the study) no further
+questionnaires, and 2459 who were known to be alive but living
+abroad on 1 November 1971, when we withdrew them. Among
+the remaining 31 496 the follow up of mortality is, irrespective of
+any other migration, 99.2% complete (with only 248 untraced
+(usually since the 1970s)); 5902 are known to have been alive on
+1 November 2001 and 25 346 are known to have died before
+then. Those withdrawn before the end of the study or untraced
 
 are included in the analyses of mortality until the time of
-withdrawal or until contact was last made
+withdrawal, or until contact was last made.
 
 Questionnaires
-The original questionnaire in  asked only a few questions
-about the individuals current smoking habits or for exsmokers
-about the types and amounts of tobacco last smoked These were
-elaborated in further questionnaires in    
-and  to which the response rates after reminders varied
-between  initially and  finally Accounts of the questions
-asked have been reported previously as have the trends in
-cigarette consumption Only the  questionnaire which
+The original questionnaire in 1951 asked only a few questions
+about the individual’s current smoking habits or, for ex-smokers,
+about the types and amounts of tobacco last smoked. These were
+elaborated in further questionnaires in 1957, 1966, 1971, 1978,
+and 1991, to which the response rates (after reminders) varied
+between 98% initially and 94% finally. Accounts of the questions
+asked have been reported previously,11–17 as have the trends in
+cigarette consumption.14 Only the 1978 questionnaire,16 which
 was
-limited to those born in the th century sought
-information about a wide range of characteristics height weight
-blood pressure alcohol etc including medical history and asked
+limited to those born in the 20th century, sought
+information about a wide range of characteristics (height, weight,
+blood pressure, alcohol, etc, including medical history) and asked
 those who had stopped smoking whether they had done so
 because they had already developed some serious respiratory or
-vascular disease The  questionnaire sought only to check
+vascular disease. The 2001 questionnaire sought only to check
 that we had identified correctly the individuals we believed we
-had traced
+had traced.
 
-To help assess the effects of persistent cigarette smoking
-those categorised as current cigarette smokers in reply to a
+To help assess the effects of persistent cigarette smoking,
+those categorised as “current cigarette smokers” in reply to a
 particular questionnaire had to have reported smoking
-cigarettes and only cigarettes in that and any previous reply
+cigarettes, and only cigarettes, in that and any previous reply.
 This excludes all who had previously replied that they were using
 any other type of
-tobacco or no tobacco Likewise those
-classified as former cigarette smokers were either exsmokers
-in  whose last habit involved only cigarettes or current ciga
-rette smokers defined as above who had stopped The terms
-never smoker or nonsmoker mean lifelong nonsmoker
-that is they exclude any respondent who had smoked on most
-days for a year Those who despite reminders failed perhaps
-because of illness to complete a particular questionnaire could
+tobacco, or no tobacco. Likewise, those
+classified as “former cigarette smokers” were either ex-smokers
+in 1951 whose last habit involved only cigarettes, or current ciga-
+rette smokers (defined as above) who had stopped. The terms
+“never smoker” or “non-smoker” mean lifelong non-smoker—
+that is, they exclude any respondent who had smoked on most
+days for a year. Those who, despite reminders, failed (perhaps
+because of illness) to complete a particular questionnaire could
 generally be traced for mortality and so continued to be analysed
-according to their previously reported smoking habits
+according to their previously reported smoking habits.
 
 Causes of death
-Causes were obtained for  of the deaths The underlying
-cause on the death certificate was classified according to ICD
-international classification of diseases seventh revision until
- then ICD except that lung cancer always excluded
-pleural mesothelioma and pulmonary heart disease included
-death from myocardial degeneration or heart failure with men
-tion of chronic obstructive pulmonary disease Until 
-special inquiries of any mention of lung cancer were made but
-perhaps because these men were themselves doctors this rarely
-changed the certified cause
+Causes were obtained for 98.9% of the deaths. The underlying
+cause on the death certificate was classified according to ICD-7
+(international classification of diseases, seventh revision) until
+1978, then ICD-9 (except that “lung cancer” always excluded
+pleural mesothelioma, and “pulmonary heart disease” included
+death from myocardial degeneration or heart failure with men-
+tion of chronic obstructive pulmonary disease). Until 1971
+special inquiries of any mention of lung cancer were made, but
+(perhaps because these men were themselves doctors) this rarely
+changed the certified cause.14
 
 Statistical methods
 
 Standardised mortality rates
 The main analyses of mortality in relation to smoking seek to
-determine whether among men in the same five year age group
- groups from  years to  years then   years
-and the same time period either  five year or  one year
-periods the death rate is related to the previously reported
-smoking habits Apart from some directly standardised analyses
-at ages 
+determine whether, among men in the same five year age group
+(16 groups, from 20-24 years to 90-94 years, then ≥ 95 years)
+and the same time period (either 10 five year or 50 one year
+periods), the death rate is related to the previously reported
+smoking habits. Apart from some directly standardised analyses
+at ages 70-89,
 indirect
-standardisation for age group and time period to the person
-years distribution of the whole population being considered
-From these indirectly standardised death rates we calculated
-relative risks
+standardisation (for age group and time period) to the “person
+years” distribution of the whole population being considered.
+From these indirectly standardised death rates, we calculated
+relative risks.
 
-this generally involves as before
+this generally involves, as before,17
 
-To assess the effects of smoking on mortality at ages  and
-above for the cohort of men born in the th century and the
-cohort born in the th century the relative risks comparing
+To assess the effects of smoking on mortality at ages 60 and
+above for the cohort of men born in the 19th century and the
+cohort born in the 20th century, the relative risks comparing
 various categories of smokers with never smokers are calculated
 
-page  of 
+page 2 of 9
 
-BMJ Online First bmjcom
+BMJ Online First bmj.com
 
-Table  Cause specific mortality by smoking habit standardised indirectly for age and study year for all   men born in th or th century
- and observed 
+Table 1 Cause specific mortality by smoking habit, standardised indirectly for age and study year, for all 34 439 men born in 19th or 20th century
+(1851-1930) and observed 1951-2001
 
 Papers
 
-Age standardised mortality rate per  menyear
+Age standardised mortality rate per 1000 men/year
 
-Cigarette smokers no other smoking habit previously reported
+Cigarette smokers (no other smoking habit previously reported)
 
 Cause of death
 
 Cancer of lung
 
-Cancers of mouth
-pharynx larynx
+Cancers of mouth,
+pharynx, larynx,
 oesophagus
 
 All other neoplasms
@@ -299,9 +299,9 @@ Ischaemic heart disease
 
 Cerebrovascular disease
 
-Other vascular including
+Other vascular (including
 
-respiratory heart
+respiratory heart)
 disease
 
 Other medical conditions
@@ -312,438 +312,438 @@ Cause unknown
 
 All cause
 
-No of deaths
+(No of deaths)
 
 No of deaths
-
+1951-2001
 
 Lifelong
-nonsmokers
+non-smokers
 
 Former
 
 Current
 
+1052
 
+340
 
+3893
 
+640
 
+1701
 
+7628
 
+3307
 
+3052
 
+2565
 
+891
 
+277
 
+25 346
 
+0.17
 
+0.09
 
+3.34
 
+0.11
 
+1.27
 
+6.19
 
+2.75
 
+2.28
 
+2.26
 
+0.71
 
- 
+0.17
 
+0.68
 
+0.26
 
+3.72
 
+0.64
 
+1.70
 
+7.61
 
+3.18
 
+2.83
 
+2.47
 
+0.75
 
+0.28
 
+19.38
+(2917)
 
+24.15
+(5354)
 
+2.49
 
+0.60
 
+4.69
 
+1.56
 
+2.39
 
+10.01
 
+4.32
 
+4.15
 
+3.49
 
+1.13
 
+0.52
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+35.40
+(4680)
 
 Standardised tests for
-trend cid on  df
+trend ((cid:1)2 on 1 df)*
 
-Current cigarettesday
+Current (cigarettes/day)
 
 Other smokers
 
+1-14
 
+1.31
 
+0.36
 
+4.21
 
+1.04
 
+1.76
 
+9.10
 
+3.76
 
+3.37
 
+2.94
 
+1.08
 
+0.39
 
+29.34
+(1450)
 
+15-24
 
+2.33
 
+0.47
 
+4.67
 
+1.41
 
+2.65
 
+10.07
 
+4.35
 
+4.40
 
+3.33
 
+0.79
 
+0.57
 
+34.79
+(1725)
 
+≥25
+4.17
 
+1.06
 
+5.38
 
+2.61
 
+3.11
 
+11.11
 
+5.23
 
+5.33
 
+4.60
 
+1.76
 
+0.59
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+45.34
+(1505)
 
 Former
 
 Current
 
-NXC
+N/X/C†
 
-Amount
+Amount†
 
+0.71
 
+0.30
 
+3.66
 
+0.45
 
+1.69
 
+7.24
 
+3.24
 
+2.99
 
+2.49
 
+0.89
 
+0.25
 
+1.30
 
+0.47
 
+4.22
 
+0.64
 
+1.67
 
+7.39
 
+3.28
 
+3.08
 
+2.44
 
+0.92
 
+0.31
 
+23.96
+(5713)
 
+25.70
+(6682)
 
+394
 
+68
 
+32
 
+212
 
+44
 
+138
 
+48
 
+77
 
+34
 
+17
 
+16
 
+699
 
+452
 
+83
 
+36
 
+258
 
+70
 
+133
 
+65
 
+94
 
+54
 
+27
 
+24
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Values of cid on one degree of freedom for trend between three or four groups values  correspond to P
-NXC compares three groups lifelong nonsmokers former cigarette smokers and current cigarette smokers Amount compares four groups never smoked regularly and current cigarette
-smokers consuming   or  cigarettesday when last asked
-
-separately within each cohort Thus the relative risk is  for
-nonsmokers in both cohorts irrespective of any changes over
-time in the death rates for nonsmokers
+869
+
+*Values of (cid:1)2 on one degree of freedom for trend between three or four groups: values ≥15 correspond to P<0.0001.
+†N/X/C compares three groups: lifelong non-smokers, former cigarette smokers, and current cigarette smokers. Amount compares four groups: never smoked regularly, and current cigarette
+smokers consuming 1-14, 15-24 or ≥25 cigarettes/day when last asked.
+
+separately within each cohort. (Thus, the relative risk is 1 for
+non-smokers in both cohorts, irrespective of any changes over
+time in the death rates for non-smokers.)
 
 Survival curves
 The proportions expected to survive from one age to another
 are calculated by multiplying together the relevant five year age
-specific survival probabilities These probabilities are calculated
-as exp  R where exp is the exponential function and R is the
-annual death rate deathsperson years in that age range This
+specific survival probabilities. These probabilities are calculated
+as exp( − 5R), where exp is the exponential function and R is the
+annual death rate (deaths/person years) in that age range. (This
 exponential approximation is of adequate accuracy for each age
-range up to and including  years
+range up to and including 90-94 years.)
 
-When survival curves of smokers and nonsmokers or of
-smokers nonsmokers and exsmokers are to be compared to
-assess the effects of tobacco they have to be standardised for cal
-endar year To do this we calculated the death rate in each five
+When survival curves of smokers and non-smokers (or of
+smokers, non-smokers, and ex-smokers) are to be compared to
+assess the effects of tobacco, they have to be standardised for cal-
+endar year. To do this, we calculated the death rate in each five
 year age group by dividing the weighted sum of the numbers of
 deaths in the relevant five year time periods by the similarly
-weighted sum of the numbers of person years The weights are
-proportional to the amount of statistical information contrib
+weighted sum of the numbers of person years. (The weights are
+proportional to the amount of statistical information contrib-
 uted by that time period to the smoker versus never smoker
-comparison in that age group hence this ignores periods with
-no deaths or without any smokers in the relevant age group
+comparison in that age group; hence, this ignores periods with
+no deaths or without any smokers in the relevant age group.)
 
 Results
 
 Mortality by smoking habit and cause of death
-Table  shows mortality by smoking habit
-for  major
-categories of cause of death and for all causes combined In
-these and all other analyses current cigarette smokers are
-restricted to those who in all their previous replies including the
-first in  reported smoking only cigarettes Likewise former
-cigarette smokers are restricted to those who before stopping
+Table 1 shows mortality by smoking habit
+for 11 major
+categories of cause of death, and for all causes combined. In
+these and all other analyses, current cigarette smokers are
+restricted to those who in all their previous replies (including the
+first, in 1951) reported smoking only cigarettes. Likewise, former
+cigarette smokers are restricted to those who, before stopping,
 had reported in all their previous replies smoking only cigarettes
-or who had stopped before  having last smoked only
-cigarettes
+(or who had stopped before 1951, having last smoked only
+cigarettes).
 
-As previously lung cancer and chronic obstructive lung dis
+As previously,17 lung cancer and chronic obstructive lung dis-
 ease are closely related to continued cigarette smoking and to
 
-the daily number of cigarettes smoked For each of the other
-nine categories of cause of death there are more moderate but
-again highly significant each P   positive relations with
+the daily number of cigarettes smoked. For each of the other
+nine categories of cause of death there are more moderate, but
+again highly significant (each P < 0.0001), positive relations with
 the continuation of cigarette smoking and with the daily number
-smoked
+smoked.
 
-from external
+from “external”
 
 Effects on overall mortality
-How far in this particular population such relations between
+How far, in this particular population, such relations between
 smoking and mortality reflect cause and effect has been
-discussed previously  Midway through the study the results
-from the  questionnaire confirmed the well known associa
-tion between smoking and drinking but showed little or no
+discussed previously.17 23 Midway through the study, the results
+from the 1978 questionnaire confirmed the well known associa-
+tion between smoking and drinking,24 but showed little or no
 relation between smoking and either obesity or blood pressure
-table  so these particular factors cannot help to account for
-the excess vascular mortality among smokers The excess
+(table 2), so these particular factors cannot help to account for
+the excess vascular mortality among smokers. The excess
 mortality
 and
-poisoningamong smokers is unlikely to be due chiefly to
-smoking although two men did die from fire because of smok
-ing in bed but rather is likely to be due to other behavioural
-factors with which smoking is associated such as the heavy con
-sumption of alcohol or a willingness to take risks Such external
-causes however account for less than  of the overall excess
-mortality among cigarette smokers A quarter of the excess mor
+poisoning—among smokers is unlikely to be due chiefly to
+smoking (although two men did die from fire because of smok-
+ing in bed) but, rather, is likely to be due to other behavioural
+factors with which smoking is associated, such as the heavy con-
+sumption of alcohol or a willingness to take risks. Such external
+causes, however, account for less than 3% of the overall excess
+mortality among cigarette smokers. A quarter of the excess mor-
 tality among smokers is accounted for by lung cancer and
-chronic obstructive lung disease and another quarter by ischae
-mic heart disease most of the rest involves other neoplastic res
-piratory or vascular diseases that could well be made more
-probable among the survivors at a given age by smoking
+chronic obstructive lung disease and another quarter by ischae-
+mic heart disease; most of the rest involves other neoplastic, res-
+piratory, or vascular diseases that could well be made more
+probable (among the survivors at a given age) by smoking.
 
-causesaccidents
+causes—accidents,
 
-injury
+injury,
 
-Some of the  relations in table  have been increased by
-confounding most notably with alcohol which can increase the
-risk of developing cirrhosis of the liver and cancers of the mouth
-pharynx larynx and oesophagus and with personality in the
-case of accidents injury and poisoning Confounding however
-can act in two directions as alcohol consumptionwhich is
-higher among smokers than among nonsmokers table can
+Some of the 11 relations in table 1 have been increased by
+confounding, most notably with alcohol (which can increase the
+risk of developing cirrhosis of the liver and cancers of the mouth,
+pharynx, larynx, and oesophagus) and with personality (in the
+case of accidents, injury, and poisoning). Confounding, however,
+can act in two directions, as alcohol consumption—which is
+higher among smokers than among non-smokers (table 2)—can
 also decrease the risk of ischaemic heart disease and perhaps of
 some other
-factor not
-is the possibility of reverse
-previously much emphasised
+factor, not
+is the possibility of “reverse
+previously much emphasised,
 
-conditions Another
+conditions.24 Another
 
 important
 
-BMJ Online First bmjcom
+BMJ Online First bmj.com
 
-page  of 
+page 3 of 9
 
 Papers
 
-Table  Characteristics in  of smokers exsmokers and smokers born in th century aged  at  survey Means and prevalences are
-standardised to age distribution of all   respondents to  questionnaire
+Table 2 Characteristics in 1978 of smokers, ex-smokers, and smokers born in 20th century (aged 48-78 at 1978 survey). Means and prevalences are
+standardised to age distribution of all 12 669 respondents to 1978 questionnaire
 
-Current smoker n
+Current smoker (n=3866)
 
-Exsmoker for  years
-n
+Ex-smoker for <10 years
+(n=1787)
 
-Exsmoker for  years n
+Ex-smoker for ≥10 years (n=4074)
 
-Never smoker n
+Never smoker (n=2942)
 
 Means of some vascular risk factors
 
-Alcohol consumption unitsweek
+Alcohol consumption (units/week)
 
-Body mass index
+Body mass index*
 
-Blood pressure systolic mm Hg
+Blood pressure, systolic (mm Hg)
 
-Blood pressure diastolic mm Hg
+Blood pressure diastolic (mm Hg)
 
-Prevalences  of various replies
+Prevalences (%) of various replies
 
 Quit for vascular disease
 
@@ -751,202 +751,202 @@ Quit for respiratory disease
 
 Any vascular disease
 
-Short of breath hurrying
+Short of breath hurrying†
 
-Phlegm in winter
+Phlegm in winter†
 
+19.0
 
+24.5
 
+136.9
 
-
-
-
-
-
-NA
-
-NA
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-NAnot applicable
-Body mass indexweight kgheightm
-Are you short of breath when hurrying and do you usually bring up phlegm from your chest during the winter
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+83.1
 
 NA
 
 NA
 
+18.6
 
+17.2
 
+25.5
 
+18.1
 
+24.7
 
+137.6
 
-causalitythat is some reduction in the apparent risk of death
+84.3
+
+12.2
+
+14.0
+
+29.2
+
+20.2
+
+12.4
+
+NA=not applicable.
+*Body mass index=weight (kg)/(height(m)2).
+†Are you short of breath when hurrying; and, do you usually bring up phlegm from your chest during the winter?
+
+14.8
+
+24.3
+
+137.2
+
+83.5
+
+3.9
+
+8.3
+
+20.8
+
+13.8
+
+8.6
+
+8.3
+
+24.1
+
+135.6
+
+83.1
+
+NA
+
+NA
+
+15.7
+
+9.1
+
+5.5
+
+causality”—that is, some reduction in the apparent risk of death
 among current smokers because of a tendency for people to give
-up smoking after they begin to be affected by some life threaten
-ing condition table  whether or not their illness was caused by
-smoking
+up smoking after they begin to be affected by some life threaten-
+ing condition (table 2), whether or not their illness was caused by
+smoking.
 
-When all  categories in table  are added together
-however yielding overall mortality the combined effects of all
-these noncausal factorsacting to increase or decrease the
-apparent hazards among smokersare unlikely to have
+When all 11 categories in table 1 are added together,
+however, yielding overall mortality, the combined effects of all
+these non-causal factors—acting to increase or decrease the
+apparent hazards among smokers—are unlikely to have
 influenced greatly the absolute difference between the overall
-mortality rates of cigarette smokers and lifelong nonsmokers
-This difference we conclude provides a reasonably quantitative
-estimate of the extent to which at particular ages cigarette
-smoking caused death in this population
+mortality rates of cigarette smokers and lifelong non-smokers.
+This difference, we conclude, provides a reasonably quantitative
+estimate of the extent to which, at particular ages, cigarette
+smoking caused death in this population.
 
-Trends over time successive birth cohorts
+Trends over time: successive birth cohorts
 
-th and th century births
-In table  the relations between smoking and mortality at ages
- and over are shown separately for the cohort of men born late
-in the th century and for the cohort born early in the th
-century Restriction to ages  and over is necessary because the
-study began in  so for those born in the th century it pro
-vides little information on mortality at earlier ages
+19th and 20th century births
+In table 3, the relations between smoking and mortality at ages
+60 and over are shown separately for the cohort of men born late
+in the 19th century and for the cohort born early in the 20th
+century. (Restriction to ages 60 and over is necessary because the
+study began in 1951, so for those born in the 19th century it pro-
+vides little information on mortality at earlier ages.)
 
 Cigarette smoking had become common among young men
-in Britain by the end of the first world war  and
-remained so for half a century reinforced by the issue of low
-cost cigarettes to young military conscripts from  As a
-result men who were born in the first second and particularly
-the third decade of the th century and were still smoking ciga
-rettes after the age of  had been smoking substantial numbers
-throughout adult life This would not have been as much the case
-for men who were born in the last decades of the th century
-even if they too were smoking cigarettes after the age of 
+in Britain by the end of the first world war (1914-1918) and
+remained so for half a century,18 reinforced by the issue of low
+cost cigarettes to young military conscripts from 1939. As a
+result, men who were born in the first, second, and, particularly,
+the third decade of the 20th century and were still smoking ciga-
+rettes after the age of 60 had been smoking substantial numbers
+throughout adult life. This would not have been as much the case
+for men who were born in the last decades of the 19th century,
+even if they too were smoking cigarettes after the age of 60.
 
-The smoker versus nonsmoker relative risks in table  are
-therefore much more adverse for smokers born in the th cen
-tury than for those born earlier particularly for cigarette smok
-ers For the cohort born in the th century the cigarette smoker
-versus nonsmoker relative risk when they were over  years of
-age was only  excess mortality  but for the cohort born
-in the th century it was  excess mortality  For heavy
-cigarette smokers  or more a day at their last reply the
-smoker versus nonsmoker relative risk was  for the cohort
-born in the th century and  for the cohort born in the
-th century corresponding respectively to  and 
-excess mortality among the smokers
+The smoker versus non-smoker relative risks in table 3 are,
+therefore, much more adverse for smokers born in the 20th cen-
+tury than for those born earlier, particularly for cigarette smok-
+ers. For the cohort born in the 19th century the cigarette smoker
+versus non-smoker relative risk when they were over 60 years of
+age was only 1.46 (excess mortality 46%), but for the cohort born
+in the 20th century it was 2.19 (excess mortality 119%). For heavy
+cigarette smokers (25 or more a day at their last reply) the
+smoker versus non-smoker relative risk was 1.83 for the cohort
+born in the 19th century and 2.61 for the cohort born in the
+20th century, corresponding, respectively, to 83% and 161%
+excess mortality among the smokers.
 
-The patterns of survival from age  in these two birth
-cohorts among lifelong nonsmokers and among those who
-smoked only cigarettes since  are shown in figure  which
-gives the proportions of  year olds who would be expected to
-be still alive at ages    and  The substantial improve
-ment among nonsmokers is apparent as is the lack of substan
-improvement among smokers corresponding to the
+The patterns of survival from age 60 in these two birth
+cohorts among lifelong non-smokers and among those who
+smoked only cigarettes since 1951 are shown in figure 1, which
+gives the proportions of 60 year olds who would be expected to
+be still alive at ages 70, 80, 90, and 100. The substantial improve-
+ment among non-smokers is apparent, as is the lack of substan-
+improvement among smokers, corresponding to the
 tial
-increasing effects from one century of birth to the next of ciga
-rette smoking on overall mortality The comparisons in table 
-and figure  involve only about a  year difference between the
+increasing effects, from one century of birth to the next, of ciga-
+rette smoking on overall mortality. The comparisons in table 3
+and figure 1 involve only about a 20 year difference between the
 times when the mortality rates at a given age are being
-comparedfor although the median years of birth for all men in
-the two cohorts differed by  years the median years of birth of
-those who died differed less
+compared—for, although the median years of birth for all men in
+the two cohorts differed by 26 years, the median years of birth of
+those who died differed less.
 
- births
+1900-1930 births
 Subdivision of the younger participants by decade of birth
-  or  only one was born in
- shows that even among those born in the th century
+(1900-1909, 1910-1919, or 1920-1929; only one was born in
+1930) shows that, even among those born in the 20th century,
 the hazards associated with cigarette smoking differ substantially
-from one birth cohort to another fig  For those born in the
+from one birth cohort to another (fig 2). For those born in the
 
-Table  Relative risks of smokers versus nonsmokers by century of birth overall mortality among men aged  and over In each century of birth th or
-th relative risks are standardised indirectly for age and for study year 
+Table 3 Relative risks of smokers versus non-smokers by century of birth: overall mortality among men aged 60 and over. In each century of birth (19th or
+20th), relative risks are standardised indirectly for age and for study year (1951-2001)
 
-Risk relative to lifelong nonsmokers born in same century No of deaths
+Risk relative to lifelong non-smokers born in same century (No of deaths)
 
-Cigarette smokers no other smoking habit previously reported
+Cigarette smokers (no other smoking habit previously reported)
 
 Century of
 birth
 
-th
+19th
 
-th
+20th
 
 No of deaths at
-age 
-
+age ≥60
+9671
 
 Lifelong
-nonsmokers
+non-smokers
 
 Former
 
 Current
 
+1-14
 
+15-24
 
+1.00 (903)
 
+1.07 (1733)
 
- 
+1.46 (1913)
 
- 
+1.33 (819)
 
- 
+1.44 (626)
 
- 
+Current (cigarettes/day)
 
- 
-
-Current cigarettesday
-
-
- 
+≥25
+1.83 (468)
 
 Other smokers
 
@@ -954,84 +954,53 @@ Former
 
 Current
 
- 
+1.17 (2091)
 
- 
+1.12 (3031)
 
- 
+12 770
 
- 
+1.00 (1656)
 
- 
+1.31 (3198)
 
- 
+2.19 (1621)
 
- 
+1.79 (403)
 
- 
+2.17 (641)
 
- 
+2.61 (577)
 
- 
+1.24 (3383)
 
- 
+1.48 (2912)
 
-See notes for table 
-See notes for table 
+*See notes for table 1.
+†See notes for table 1.
 
-page  of 
+page 4 of 9
 
 Standardised tests for
-trend cid on  df
-NXC
+trend ((cid:1)2 on 1 df)*
+N/X/C†
 
-Amount
+Amount†
 
+102
 
+475
 
+117
 
+576
 
+BMJ Online First bmj.com
 
+Doctors born 1851-1899
 
-
-
-BMJ Online First bmjcom
-
-Doctors born 
-
-
-
-
-e
-g
-a
-m
-o
-r
-f
-
-l
-a
-v
-i
-v
-r
-u
-s
-
-e
-g
-a
-t
-n
-e
-c
-r
-e
-P
-
-
-
+0
+6
 
 e
 g
@@ -1061,190 +1030,188 @@ r
 e
 P
 
+0
+6
 
+e
+g
+a
+m
+o
+r
+f
 
+l
+a
+v
+i
+v
+r
+u
+s
 
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
 
+100
 
+80
 
+60
 
+40
 
+20
 
+0
 
+100
 
+80
 
+60
 
+40
 
+20
 
+0
 
+82
 
+68
 
-
-
-
-
-
-
-
-
-
-
-Nonsmokers
+Non-smokers
 
 Cigarette smokers
 
+45
 
+31
 
+13
 
+5
 
+1
 
+Doctors born 1900-1930
 
+88
 
+71
 
+Non-smokers
 
-
-Doctors born 
-
-
-
-
-
-Nonsmokers
-
-
+65
 
 Cigarette smokers
 
+32
 
+26
 
+40
 
+50
 
+60
 
+70
 
+80
 
+5
+90
 
+2
 
+100
 
+Age (years)
 
-
-
-
-
-
-
-
-
-
-
-Age years
-
-Fig  Survival from age  for continuing cigarette smokers and lifelong
-nonsmokers among UK male doctors born  median  and
- median  with percentages alive at each decade of age
+Fig 1 Survival from age 60 for continuing cigarette smokers and lifelong
+non-smokers among UK male doctors born 1851-1899 (median 1889) and
+1900-1930 (median 1915), with percentages alive at each decade of age
 
 first decade of the century the difference between cigarette
-smokers and nonsmokers in the probability of surviving from
-age  to age  was only   v  corresponding to a
-twofold death rate ratio but it was   v  a threefold
-death rate ratio for those born in the third decade This
-comparison again involves only a  year time difference
+smokers and non-smokers in the probability of surviving from
+age 35 to age 70 was only 18% (58% v 76% (corresponding to a
+twofold death rate ratio)), but it was 28% (57% v 85% (a threefold
+death rate ratio)) for those born in the third decade. This
+comparison again involves only a 20 year time difference.
 
-Trends over time successive study decades
-If we compare mortality at ages  during the five separate
-decades of the study  then the effects of a  year
-time difference s v s can be studied as the ages of the
-original respondents varied from only  to  Some 
-men were already aged  at the start of the study and some
- of the younger respondents eventually survived to reach
-their th birthday during the fifth decade of the study Thus in
+Trends over time: successive study decades
+If we compare mortality at ages 70-89 during the five separate
+decades of the study (1951-2001) then the effects of a 40 year
+time difference (1950s v 1990s) can be studied, as the ages of the
+original respondents varied from only 21 to 100. Some 2000
+men were already aged 70-89 at the start of the study, and some
+4000 of the younger respondents eventually survived to reach
+their 70th birthday during the fifth decade of the study. Thus, in
 each study decade we can observe the death rates of men in their
-s and s and can calculate the probability that at the age spe
-cific death rates prevailing in that particular decade a  year old
-man would survive to age  table 
+70s and 80s and can calculate the probability that, at the age spe-
+cific death rates prevailing in that particular decade, a 70 year old
+man would survive to age 90 (table 4).
 
 Over the five decades there is both a progressive reduction in
-the mortality of elderly never smokers and counterbalancing
-this a progressive maturing of the epidemic of the effects of
-cigarette smoking on mortality in old age Table  shows a halv
-ing of the standardised mortality rate at ages  among non
+the mortality of elderly never smokers and, counterbalancing
+this, a progressive maturing of the epidemic of the effects of
+cigarette smoking on mortality in old age. Table 4 shows a halv-
+ing of the standardised mortality rate at ages 70-89 among non-
 smokers and almost a tripling of their probability of surviving
-from age  to age  which was  at the nonsmoker death
-rates of the s and  at those of the s The mean
-years of birth for those who died at ages  in the s and
-the s were respectively  and 
+from age 70 to age 90, which was 12% at the non-smoker death
+rates of the 1950s and 33% at those of the 1990s. (The mean
+years of birth for those who died at ages 70-89 in the 1950s and
+the 1990s were, respectively, 1875 and 1915.)
 
-These reductions in mortality of the lifelong nonsmokers
-were presumably due both to prevention of and particularly to
-improvements in the treatment of various diseases in elderly
-people For example one of the present authors who is a
-participant in the study acquired a pacemaker  years ago But
-among successive birth cohorts of cigarette smokers the increas
+These reductions in mortality of the lifelong non-smokers
+were presumably due both to prevention of, and, particularly, to
+improvements in the treatment of, various diseases in elderly
+people. (For example, one of the present authors who is a
+participant in the study acquired a pacemaker 10 years ago.) But,
+among successive birth cohorts of cigarette smokers the increas-
 
 Papers
 
 ing effects of cigarette smoking completely eliminated the great
-reductions in overall mortality at ages  that were occurring
-among nonsmokers table  Among those born in about the
-s and observed at ages  during the s the cigarette
-smoker versus nonsmoker death rate ratio was only  
- whereas for those born in about the s and observed at
-ages  during the s the death rate ratio was 
+reductions in overall mortality at ages 70-89 that were occurring
+among non-smokers (table 4). Among those born in about the
+1870s and observed at ages 70-89 during the 1950s, the cigarette
+smoker versus non-smoker death rate ratio was only 1.16 (92.9/
+80.1), whereas for those born in about the 1910s and observed at
+ages 70-89 during the 1990s the death rate ratio was 2.83
+(113.1/39.9).
 
-
-Hazards among cigarette smokers born 
+Hazards among cigarette smokers born 1900-1930
 
 By decade of birth
 For
-those born in  annual mortality among
-nonsmokers was both in middle and in old age about half that
-among cigarette smokers These twofold death rate ratios are
+those born in 1900-1909, annual mortality among
+non-smokers was, both in middle and in old age, about half that
+among cigarette smokers. (These twofold death rate ratios are
 calculated from the logarithms of the probabilities of surviving
-from   and  in figure  top graph Taking as
-before the excess overall mortality among these smokers as an
+from 35-70, 70-80, and 80-90 in figure 2 (top graph).) Taking, as
+before, the excess overall mortality among these smokers as an
 approximate measure of the excess mortality actually caused by
-smoking this twofold ratio indicates that about half of the
-persistent cigarette smokers born in  would eventually
-be killed by their habit
+smoking, this twofold ratio indicates that about half of the
+persistent cigarette smokers born in 1900-1909 would eventually
+be killed by their habit.
 
-For those born in  the probability of death in mid
-dle age  was  in nonsmokers and  in cigarette
-smokers corresponding to a threefold death rate ratio
+For those born in 1920-1929 the probability of death in mid-
+dle age (35-69) was 15% in non-smokers and 43% in cigarette
+smokers, corresponding to a threefold death rate ratio
 
-
-
-
-e
-g
-a
-m
-o
-r
-f
-
-l
-
-i
-
-a
-v
-v
-r
-u
-s
-
-e
-g
-a
-t
-n
-e
-c
-r
-e
-P
-
-
-
+5
+3
 
 e
 g
@@ -1276,8 +1243,41 @@ r
 e
 P
 
+5
+3
 
+e
+g
+a
+m
+o
+r
+f
 
+l
+
+i
+
+a
+v
+v
+r
+u
+s
+
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+
+5
+3
 
 e
 g
@@ -1307,131 +1307,131 @@ r
 e
 P
 
+100
 
+80
 
+60
 
+40
 
+20
 
+0
 
+100
 
+80
 
+60
 
+40
 
+20
 
+0
 
+100
 
+80
 
+60
 
+40
 
+20
 
+0
 
+Doctors born 1900-1909
 
+97
 
+94
 
+89
 
+81
 
+76
 
-
-
-
-
-
-
-
-
-
-
-
-
-Doctors born 
-
-
-
-
-
-
-
-
-
-
-
-Nonsmokers
+Non-smokers
 
 Cigarette smokers
 
+58
 
+50
 
+26
 
+18
 
+4
 
+Non-smokers
 
+59
 
+26
 
+Non-smokers
 
+80
 
-Nonsmokers
+58
 
+85
 
+57
 
+Doctors born 1910-1919
 
+97
 
-Nonsmokers
+94
 
+91
 
-
-
-
-
-
-
-
-Doctors born 
-
-
-
-
-
-
-
-
-
-Cigarette smokers
-
-Doctors born 
-
-
-
-
-
-
-
-
+81
 
 Cigarette smokers
 
+Doctors born 1920-1929
 
+97
 
+93
 
+93
 
+79
 
+Cigarette smokers
 
+40
 
+50
 
+60
 
+70
 
+80
 
+90
 
+100
 
+Age (years)
 
-Age years
+Fig 2 Survival from age 35 for continuing cigarette smokers and lifelong
+non-smokers among UK male doctors born 1900-1909, 1910-1919, and
+1920-1929, with percentages alive at each decade of age
 
-Fig  Survival from age  for continuing cigarette smokers and lifelong
-nonsmokers among UK male doctors born   and
- with percentages alive at each decade of age
+BMJ Online First bmj.com
 
-BMJ Online First bmjcom
-
-page  of 
+page 5 of 9
 
  
  
@@ -1455,122 +1455,122 @@ page  of
  
 Papers
 
-Table  Trends during  in overall mortality at ages  among lifelong nonsmokers and continuing cigarette smokers men born November
- who survived to age 
+Table 4 Trends during 1951-2001 in overall mortality at ages 70-89 among lifelong non-smokers and continuing cigarette smokers (men born November
+1861-1930 who survived to age 70)
 
-No of deaths at ages 
+No of deaths at ages 70-89
 
-Age standardised mortality per  men aged 
+Age standardised mortality per 1000 men aged 70-89*
 
-Probability  at current death rates of a  year
-old surviving to age 
+Probability (%), at current death rates, of a 70 year
+old surviving to age 90
 
 Study decade
-November to October
+(November to October)
 
 Lifelong
-nonsmoker
+non-smoker
 
 Cigarette
-smoker
+smoker*
 
 Lifelong
-nonsmoker
+non-smoker
 
-Cigarette smoker
+Cigarette smoker*
 
 Ratio of rates
 
-Lifelong nonsmoker
+Lifelong non-smoker
 
-Cigarette smoker
+Cigarette smoker*
 
+1951-61
 
+1961-71
 
+1971-81
 
+1981-91
 
+1991-2001
 
+232†
 
+230
 
+319
 
+470
 
+596†
 
+544
 
+508
 
+390
 
+478
 
+227
 
+80.1
 
+72.0
 
+63.3
 
+49.6
 
+39.9
 
+92.9
 
+112.5
 
+103.3
 
+106.7
 
+113.1
 
+1.16
 
+1.56
 
+1.63
 
+2.15
 
+2.83
 
+12
 
+17
 
+20
 
+26
 
+33
 
+10
 
+6
 
+7
 
+7
 
+7
 
+*Standardised directly to a population with 40%, 30%, 20%, and 10% respectively at ages 70-74, 75-79, 80-84, and 85-89 (that is, to a mean age of 75-79), but not standardised for study year
+within study decade.
+†For these non-smokers who died during the first and last decades of the study, the mean years of birth were 1875.6 and 1915.1 respectively.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Standardised directly to a population with    and  respectively at ages    and  that is to a mean age of  but not standardised for study year
-within study decade
-For these nonsmokers who died during the first and last decades of the study the mean years of birth were  and  respectively
-
-
-
+5
+3
 
 e
 g
@@ -1600,397 +1600,397 @@ r
 e
 P
 
+100
 
+80
 
+60
 
+40
 
+20
 
+0
 
+Doctors born 1900-1930
 
+97
 
+94
 
+91
 
-
-
-Doctors born 
-
-
-
-
-
-
-
-
+81
 
 Cigarette smokers
 
+81%81
 
+Non-smokers
 
-Nonsmokers
+58%58
 
+59
 
+10 years
 
+26
 
+40
 
- years
+50
 
+60
 
+70
 
+80
 
+24
 
+4
+90
 
+2
 
+100
 
+Age (years)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Age years
-
-Fig  Survival from age  for continuing cigarette smokers and lifelong
-nonsmokers among UK male doctors born  with percentages alive at
+Fig 3 Survival from age 35 for continuing cigarette smokers and lifelong
+non-smokers among UK male doctors born 1900-1930, with percentages alive at
 each decade of age
 
-calculated from the logarithms of the survival probabilities in
-figure  bottom graph Extrapolation of the trends in table 
+(calculated from the logarithms of the survival probabilities in
+figure 2 (bottom graph)). Extrapolation of the trends in table 4
 suggests that these men will also have about a threefold smoker
-versus nonsmoker death rate ratio in old age  This indi
+versus non-smoker death rate ratio in old age (70-89). This indi-
 cates that about two thirds of the persistent cigarette smokers
-born in the s would eventually be killed by their habit
+born in the 1920s would eventually be killed by their habit.
 
-Over whole  year period
-Figure  averages the findings in figure  for all men born in
- distinguishing between lifelong nonsmokers and
-continuing cigarette smokers Among the latter the median age
-when they began smoking was  and at the start of the study
-their median age was  and their mean self reported cigarette
-consumption was  a day The results suggest a shift of about
- years between the overall survival patterns of the continuing
-cigarette smokers and the lifelong nonsmokers in this particular
-generation That is not to say that all such smokers died about 
-years earlier than they would otherwise have done some were
+Over whole 30 year period
+Figure 3 averages the findings in figure 2 for all men born in
+1900-1930, distinguishing between lifelong non-smokers and
+continuing cigarette smokers. (Among the latter, the median age
+when they began smoking was 18, and at the start of the study
+their median age was 36 and their mean self reported cigarette
+consumption was 18 a day.) The results suggest a shift of about
+10 years between the overall survival patterns of the continuing
+cigarette smokers and the lifelong non-smokers in this particular
+generation. That is not to say that all such smokers died about 10
+years earlier than they would otherwise have done: some were
 
-not killed by their habit but about half were thereby losing on
-average more than  years of nonsmoker life expectancy
-Indeed some of those killed by tobacco must have lost a few
-decades of life
+not killed by their habit, but about half were, thereby losing on
+average more than 10 years of non-smoker life expectancy.
+Indeed, some of those killed by tobacco must have lost a few
+decades of life.
 
 Mortality on stopping smoking
 A high proportion of the doctors who had been smoking in
- stopped during the first decades of this study after it had
+1951 stopped during the first decades of this study, after it had
 become generally accepted by the British medical profession
 that cigarette smoking was a cause of most of the UK mortality
-from lung cancer  We can therefore examine mortality for
-some decades after stopping smoking table  As the benefits of
+from lung cancer.25 26 We can, therefore, examine mortality for
+some decades after stopping smoking (table 5). As the benefits of
 stopping cigarette smoking can be assessed directly only in a
 population where the hazards of continuing to smoke cigarettes
-are already substantial our main analyses of cessation are again
-restricted to the men born in  Among them those
+are already substantial, our main analyses of cessation are again
+restricted to the men born in 1900-1930. Among them, those
 who stopped and those who continued smoking differed little in
 obesity and blood pressure and differed only moderately in
-mean alcohol consumption table 
+mean alcohol consumption (table 2).
 
-But although many stopped when still relatively young and
-healthy during the s and s some who stopped in later
-middle age did so because they were already ill table  This
+But, although many stopped when still relatively young and
+healthy during the 1950s and ’60s, some who stopped in later
+middle age did so because they were already ill (table 2). This
 removal of some imminent deaths of smokers from the current
-to the exsmoker category reduces the apparent mortality
-among current smokers and may substantially inflate the appar
-ent mortality of recent exsmokers For example mortality at
-ages  among those who stopped smoking at ages  was
+to the ex-smoker category reduces the apparent mortality
+among current smokers and may substantially inflate the appar-
+ent mortality of recent ex-smokers. For example, mortality at
+ages 55-64 among those who stopped smoking at ages 55-64 was
 spuriously somewhat greater than mortality among continuing
-smokers in that age group Although the death rates for
-exsmokers in table  are given only for the age ranges after the
-range in which smoking stopped they too may still be somewhat
-affected by such reverse causality see above for definition
+smokers in that age group. Although the death rates for
+ex-smokers in table 5 are given only for the age ranges after the
+range in which smoking stopped, they too may still be somewhat
+affected by such reverse causality (see above for definition).
 
 Mortality by age stopped smoking
-Nevertheless table  shows a steady trend in mortality at older
-ages  or  between lifelong nonsmokers excigarette
-smokers who stopped at ages   or  and
+Nevertheless, table 5 shows a steady trend in mortality at older
+ages (65-74 or 75-84) between lifelong non-smokers, ex-cigarette
+smokers who stopped at ages 35-44, 45-54, or 55-64, and
 
-Table  Overall mortality among never smokers exsmokers and continuing cigarette smokers in relation to stopping smoking at ages  men born
- and observed during 
+Table 5 Overall mortality among never smokers, ex-smokers, and continuing cigarette smokers in relation to stopping smoking at ages 35-64 (men born
+1900-1930 and observed during 1951-2001)
 
-Age range years
+Age range (years)
 
-Lifelong nonsmokers
+Lifelong non-smokers
 
+35-44
 
+45-54
 
+55-64
 
+65-74
 
+75-84
 
+1.6† (55)
 
+3.8 (145)
 
+8.4 (290)
 
+18.6 (528)
 
+51.7 (666)
 
- 
+Annual mortality per 1000 men* (No of deaths)
 
- 
+Ex-cigarette smokers, by age stopped
 
- 
+35-44
 
- 
+—
 
- 
+5.4† (95)
 
-Annual mortality per  men No of deaths
+9.0 (132)
 
-Excigarette smokers by age stopped
+22.7 (262)
 
+53.1 (316)
 
+45-54
 
+—
 
+—
 
- 
+16.4† (229)
 
- 
+31.7 (331)
 
- 
+69.1 (370)
 
- 
+55-64
 
+—
 
+—
 
+—
 
+36.4 (250)
 
-
-
- 
-
- 
-
- 
-
-
-
-
-
-
-
-
-
- 
-
- 
+78.9 (299)
 
 Continuing cigarette
 smokers
 
-Mortality ratio cigarette smoker v
-nonsmoker
+Mortality ratio (cigarette smoker v
+non-smoker)
+
+2.7 (150)
+
+8.5 (487)
+
+21.4 (703)
+
+50.7 (722)
+
+112.2 (453)
+
+1.6†
+
+2.3
+
+2.5
+
+2.7
+
+2.2
+
+Division of the rate by the square root of the number of deaths indicates its standard error.
+*Mean of two five yearly age specific rates.
+†Marked rates are P<0.001, significantly lower than in continuing cigarette smokers (P<0.00001 for all unmarked non-smokers and ex-smoker rates).
+
+page 6 of 9
+
+BMJ Online First bmj.com
 
  
-
- 
-
- 
-
- 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-Division of the rate by the square root of the number of deaths indicates its standard error
-Mean of two five yearly age specific rates
-Marked rates are P significantly lower than in continuing cigarette smokers P for all unmarked nonsmokers and exsmoker rates
-
-page  of 
-
-BMJ Online First bmjcom
-
  
  
  
- 
-continuing cigarette smokers Thus stopping earlier is associated
-with greater benefit
+continuing cigarette smokers. Thus, stopping earlier is associated
+with greater benefit.
 
-Mortality for exsmokers is shown in figure  which bearing
-in mind the possible relevance of reverse causality indicates that
-even a  year old cigarette smoker could gain at least three years
-of life expectancy by stopping fig  bottom graph In figure 
-the mortality rates that would be seen at ages  among those
-who stop at about age  had to be interpolated half way
-between the smoker and nonsmoker rates as they could not be
-assessed directly partly because of reverse causality and partly
+Mortality for ex-smokers is shown in figure 4, which (bearing
+in mind the possible relevance of reverse causality) indicates that
+even a 60 year old cigarette smoker could gain at least three years
+of life expectancy by stopping (fig 4 (bottom graph)). In figure 4,
+the mortality rates that would be seen at ages 60-64 among those
+who stop at about age 60 had to be interpolated (half way
+between the smoker and non-smoker rates), as they could not be
+assessed directly (partly because of reverse causality and partly
 because in this study there was often a delay of a few years before
-the next questionnaire arrived and cessation could be reported
-This however makes little difference to the long term survival
-differences between continuing and excigarette smokers
+the next questionnaire arrived and cessation could be reported).
+This, however, makes little difference to the long term survival
+differences between continuing and ex-cigarette smokers.
 
-Those who stopped at about age  gained about six years of
-life expectancy those who stopped at about age  gained about
-nine years and those who stopped before middle age gained
-about  years and had a pattern of survival similar to that of
-men who had never smoked fig  top graph
+Those who stopped at about age 50 gained about six years of
+life expectancy; those who stopped at about age 40 gained about
+nine years; and those who stopped before middle age gained
+about 10 years and had a pattern of survival similar to that of
+men who had never smoked (fig 4 (top graph)).
 
-The mean cigarette consumption in  or when last
-smoked if this was before  was similar to that in continuing
-smokers for those who stopped at  and was only slightly
-lower for those who stopped at  or  Thus the latter
-had on average had substantial exposure to cigarette smoking
-for about  years before giving up the habit yet they still
+The mean cigarette consumption in 1951 (or when last
+smoked, if this was before 1951) was similar to that in continuing
+smokers for those who stopped at 45-64 and was only slightly
+lower for those who stopped at 25-34 or 35-44. Thus, the latter
+had, on average, had substantial exposure to cigarette smoking
+for about 20 years before giving up the habit, yet they still
 avoided most of the excess mortality that they would have
-suffered if they had continued to smoke
+suffered if they had continued to smoke.
 
 Lung cancer mortality
-Table  describes the age specific mortality just from lung cancer
-among the same nonsmokers exsmokers and current cigarette
-smokers comparing the observed numbers with the numbers
+Table 6 describes the age specific mortality just from lung cancer
+among the same non-smokers, ex-smokers, and current cigarette
+smokers, comparing the observed numbers with the numbers
 that would have been expected if they had had the age specific
-lung cancer death rates of lifelong nonsmokers For statistical
-stability these lung cancer death rates for nonsmokers are taken
-from a much larger prospective study which began in  in
-the United States see footnote to table  At these US rates
- lung cancer deaths at ages  would have been expected
-among the lifelong nonsmokers in the present study and 
-were observed which is a reasonably good match mortality ratio
- For the current cigarette smokers the corresponding
-mortality ratio was   expected and  observed
+lung cancer death rates of lifelong non-smokers. For statistical
+stability, these lung cancer death rates for non-smokers are taken
+from a much larger prospective study, which began in 1981 in
+the United States (see footnote to table 6).19 At these US rates,
+19.5 lung cancer deaths at ages 35-84 would have been expected
+among the lifelong non-smokers in the present study, and 18
+were observed, which is a reasonably good match (mortality ratio
+0.9). For the current cigarette smokers the corresponding
+mortality ratio was 15.9 (13.7 expected and 218 observed).
 
 There was a steady trend in this lung cancer mortality ratio
-between lifelong nonsmokers exsmokers who had stopped at
- see table  footnote   or  and continu
-ing smokers This trend confirms the findings from casecontrol
-studies that there is substantial protection even for those who
-stop at  and progressively greater protection for those who
-stop earlier None the less those who had smoked until about 
+between lifelong non-smokers, ex-smokers who had stopped at
+25-34 (see table 6 footnote), 35-44, 45-54, or 55-64, and continu-
+ing smokers. This trend confirms the findings from case-control
+studies27 that there is substantial protection even for those who
+stop at 55-64, and progressively greater protection for those who
+stop earlier. None the less, those who had smoked until about 40
 years of age before they stopped had some excess risk of lung
-cancer at older ages
+cancer at older ages.
 
-By combining the penultimate columns of tables  and  we
-calculated the annual lung cancer mortality rates per  con
-tinuing cigarette smokers at ages  through to  to be
- that is    and  respectively At ages
- these rates are somewhat lower than in the general UK
-population born around  which includes a mixture of non
-smokers exsmokers and current smokers and at ages 
-they are similar Hence the lung cancer death rates among male
+By combining the penultimate columns of tables 5 and 6, we
+calculated the annual lung cancer mortality rates per 1000 con-
+tinuing cigarette smokers at ages 45-54 through to 75-84 to be
+0.6 (that is, 8.5×33/487), 1.8, 6.2 and 8.7 respectively. At ages
+45-64 these rates are somewhat lower than in the general UK
+population born around 1915, which includes a mixture of non-
+smokers, ex-smokers, and current smokers, and at ages 65-84
+they are similar. Hence, the lung cancer death rates among male
 cigarette smokers must have been even greater in the general
-UK population than in this study
+UK population than in this study.
 
 Papers
 
+100
 
+80
 
+60
 
+40
 
+20
 
+0
 
+100
 
+80
 
+60
 
+40
 
+20
 
+0
 
+100
 
+80
 
+60
 
+40
 
+20
 
+0
 
+100
 
+80
 
+60
 
+40
 
+20
 
+0
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Stopping smoking at age 
-
-Cigarette smokers
-
-Stopped smoking
-
-Nonsmokers
-
-Stopping smoking at age 
+Stopping smoking at age 25-34
 
 Cigarette smokers
 
 Stopped smoking
 
-Nonsmokers
+Non-smokers
 
-Stopping smoking at age 
+Stopping smoking at age 35-44
+
+Cigarette smokers
+
+Stopped smoking
+
+Non-smokers
+
+Stopping smoking at age 45-54
 
 Stopped smoking
 
 Cigarette smokers
 
-Nonsmokers
+Non-smokers
 
-Stopping smoking at age 
+Stopping smoking at age 55-64
 
 Stopped smoking
 
 Cigarette smokers
 
-Nonsmokers
+Non-smokers
 
+40
 
+50
 
+60
 
+70
 
+80
 
+90
 
+100
 
+Age (years)
 
-
-
-
-
-
-
-Age years
-
-
-
+5
+3
 
 e
 g
@@ -2020,8 +2020,8 @@ r
 e
 P
 
-
-
+0
+4
 
 e
 g
@@ -2051,41 +2051,8 @@ r
 e
 P
 
-
-
-
-e
-g
-a
-m
-o
-r
-f
-
-l
-
-i
-
-a
-v
-v
-r
-u
-s
-
-e
-g
-a
-t
-n
-e
-c
-r
-e
-P
-
-
-
+0
+5
 
 e
 g
@@ -2117,28 +2084,61 @@ r
 e
 P
 
-Fig  Effects on survival of stopping smoking cigarettes at age  effect
-from age  age  effect from age  age  effect from age 
-and age  effect from age 
+0
+6
+
+e
+g
+a
+m
+o
+r
+f
+
+l
+
+i
+
+a
+v
+v
+r
+u
+s
+
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+
+Fig 4 Effects on survival of stopping smoking cigarettes at age 25-34 (effect
+from age 35), age 35-44 (effect from age 40), age 45-54 (effect from age 50),
+and age 55-64 (effect from age 60)
 
 Discussion
 
 Emergence of full hazards for persistent cigarette smokers
 In many populations nowadays the consumption of substantial
-numbers of cigarettes begins in early adult life and then contin
-ues But the full eventual effects of this on mortality in middle
-and old age can be studied directly only in a population such as
-British males in which cigarette consumption by young adults
-was already substantial when those who are now old were young
+numbers of cigarettes begins in early adult life and then contin-
+ues. But the full eventual effects of this on mortality in middle
+and old age can be studied directly only in a population, such as
+British males, in which cigarette consumption by young adults
+was already substantial when those who are now old were young.
 The generation of men born in Britain during the first few
-the th century is probably the first major
+the 20th century is probably the first major
 decades of
-population in the world of which this is true Daily cigarette con
-sumption per UK adult one two four and six a day in 
+population in the world of which this is true. Daily cigarette con-
+sumption per UK adult (one, two, four, and six a day in 1905,
 
-BMJ Online First bmjcom
+BMJ Online First bmj.com
 
-page  of 
+page 7 of 9
 
  
  
@@ -2158,458 +2158,458 @@ page  of
  
 Papers
 
-  and  respectivelymostly consumed by men
-was three times as great in the second world war  as in
-the first world war  Hence men born in the s
+1915, 1933, and 1941 respectively—mostly consumed by men)
+was three times as great in the second world war (1939-45) as in
+the first world war (1914-18).28 Hence, men born in the 1920s
 may well have had even more intense early exposure than those
-born a decade or two earlier as in the United Kingdom
-widespread military conscription of  year old men which
-began again in  and continued for decades routinely
-involved provision of low cost cigarettes to the conscripts This
-established in many  year olds a persistent habit of smoking
-substantial numbers of manufactured cigarettes which could
-well cause the death of more than half of those who continued
+born a decade or two earlier, as in the United Kingdom
+widespread military conscription of 18 year old men, which
+began again in 1939 and continued for decades, routinely
+involved provision of low cost cigarettes to the conscripts. This
+established in many 18 year olds a persistent habit of smoking
+substantial numbers of manufactured cigarettes, which could
+well cause the death of more than half of those who continued.
 
-Many however avoided the greater part of the risk by
-stopping smoking although  of all UK males born around
- were smoking manufactured cigarettes in  at ages
- only  were still doing so in  at ages 
-Hence as UK males born in  reached extreme old age
-at the end of the th centuryor for those born in the s in
-the early years of the st centurythey provide the first oppor
-tunity to assess directly the hazards of persistent cigarette smok
-ing and correspondingly in comparison with those who
-continued the long term benefits of cessation
+Many, however, avoided the greater part of the risk by
+stopping smoking: although 70% of all UK males born around
+1920 were smoking manufactured cigarettes in 1950 (at ages
+25-34), only 29% were still doing so in 1985 (at ages 50-64).28
+Hence, as UK males born in 1900-1930 reached extreme old age
+at the end of the 20th century—or, for those born in the 1920s, in
+the early years of the 21st century—they provide the first oppor-
+tunity to assess directly the hazards of persistent cigarette smok-
+ing and, correspondingly (in comparison with those who
+continued), the long term benefits of cessation.
 
-Trends in mortality from smoking and trends among
-nonsmokers
-The experience of the   men in this study who were born
-in  shows persistent cigarette smoking to be more
-hazardous than had appeared in previous analyses of this or any
-other study figs  and  and shows correspondingly greater
-long term benefits from cessation fig  Those who continued
-to smoke cigarettes lost on average about  years of life
-compared with nonsmokers while those who stopped at around
-age    or  gained respectively about    or  years
-life expectancy compared with those who continued
+Trends in mortality from smoking, and trends among
+non-smokers
+The experience of the 24 000 men in this study who were born
+in 1900-1930 shows persistent cigarette smoking to be more
+hazardous than had appeared in previous analyses of this, or any
+other, study (figs 2 and 3), and shows correspondingly greater
+long term benefits from cessation (fig 4). Those who continued
+to smoke cigarettes lost, on average, about 10 years of life
+compared with non-smokers, while those who stopped at around
+age 60, 50, 40, or 30 gained, respectively, about 3, 6, 9, or 10 years
+life expectancy compared with those who continued.
 of
-Moreover among those born in  the absolute
-difference between cigarette smokers and nonsmokers in the
-probability of death in middle age increased from   v
- a twofold death rate ratio for those born in the first decade
-of the century to   v  a threefold death rate ratio
-for those born in the s fig 
+Moreover, among those born in 1900-1930 the absolute
+difference between cigarette smokers and non-smokers in the
+probability of death in middle age increased from 18% (42% v
+24%, a twofold death rate ratio) for those born in the first decade
+of the century to 28% (43% v 15%, a threefold death rate ratio)
+for those born in the 1920s (fig 2).
 
-In old age table  the difference between cigarette smokers
-and nonsmokers in the probability of a  year old surviving to
- increased from only   v  at the death rates seen
-during the first decade of the study among men born on aver
-age around  to   v  at the death rates seen
-during the fifth decade of the study among men born on aver
-age around  indicating that the corresponding difference
-will be still greater for those born in the s If so then about
+In old age (table 4) the difference between cigarette smokers
+and non-smokers in the probability of a 70 year old surviving to
+90 increased from only 2% (10% v 12%) at the death rates seen
+during the first decade of the study (among men born, on aver-
+age, around 1875) to 26% (7% v 33%) at the death rates seen
+during the fifth decade of the study (among men born, on aver-
+age, around 1915), indicating that the corresponding difference
+will be still greater for those born in the 1920s. If so, then about
 two thirds of the persistent cigarette smokers among them would
-be killed by their habit Both in middle and in old age the
+be killed by their habit. Both in middle and in old age, the
 
 increasing difference between the mortality of cigarette smokers
-and nonsmokers arises because the large progressive decrease
-in the mortality of nonsmokers in recent decades has for the
+and non-smokers arises because the large progressive decrease
+in the mortality of non-smokers in recent decades has, for the
 the
 counterbalanced by
-cigarette smokers been wholly
-increasing death rate ratio of smokers versus nonsmokers
+cigarette smokers, been wholly
+increasing death rate ratio of smokers versus non-smokers.
 
 Applicability of findings
-Our  report of the  year findings concluded that Results
-from the first  years of this study and of other studies at that
-time the s substantially underestimated the hazards of
-long term use of tobacco It now in the s seems that about
+Our 1994 report of the 40 year findings concluded that “Results
+from the first 20 years of this study, and of other studies at that
+time [the 1970s], substantially underestimated the hazards of
+long term use of tobacco.17 It now [in the 1990s] seems that about
 half of all regular cigarette smokers will eventually be killed by
-their habit Ten years later the  year findings show that for the
+their habit.” Ten years later, the 50 year findings show that for the
 continuing cigarette smokers in this study who were born in the
-first second and third decades of the th century the eventual
-risks vary from about one half to about two thirds fig 
-although the mortality rates among them from lung cancer were
-if anything somewhat lower than among their contemporaries
-in the general UK population who smoked
+first, second, and third decades of the 20th century, the eventual
+risks vary from about one half to about two thirds (fig 2),
+although the mortality rates among them from lung cancer were,
+if anything, somewhat lower than among their contemporaries
+in the general UK population who smoked.
 
 It is a new finding that the risk of being killed by tobacco can
-be as great as two thirds but this applies directly only to the haz
+be as great as two thirds, but this applies directly only to the haz-
 ards suffered by this particular group of professional British men
-during the past half century If these results are to be used indi
-rectly to help predict the risks that male female rich poor Brit
-ish and nonBritish populations of persistent cigarette smokers
-are likely to face over the next half century then it may be more
+during the past half century. If these results are to be used indi-
+rectly to help predict the risks that male, female, rich, poor, Brit-
+ish, and non-British populations of persistent cigarette smokers
+are likely to face over the next half century, then it may be more
 appropriate to retain the previous semiquantitative conclusion
-that smoking kills about one half For although we have found
-a population in which persistent cigarette smoking killed some
-what more than half fig  there may be other circumstances in
-which it kills somewhat less than half
+that “smoking kills about one half.” For, although we have found
+a population in which persistent cigarette smoking killed some-
+what more than half (fig 2), there may be other circumstances in
+which it kills somewhat less than half.
 
 Changes in cigarette manufacture might somewhat limit the
-eventual hazards as might favourable changes in the prevention
-or treatment of neoplastic respiratory or particularly vascular
-disease But unless such changes produce much bigger propor
-tional reductions in mortality among smokers than among non
-smokers they will not make the age specific smoker versus non
-smoker death rate ratios much less than  so the statement that
-about half are killed by their habit will not be an exaggeration
-Moreover the death rate ratios in table  which underlie figure
- are actually somewhat greater than  and the tendency in
+eventual hazards, as might favourable changes in the prevention
+or treatment of neoplastic, respiratory or, particularly, vascular
+disease. But, unless such changes produce much bigger propor-
+tional reductions in mortality among smokers than among non-
+smokers, they will not make the age specific smoker versus non-
+smoker death rate ratios much less than 2, so the statement that
+about half are killed by their habit will not be an exaggeration.
+Moreover, the death rate ratios in table 5 (which underlie figure
+3) are actually somewhat greater than 2, and the tendency in
 some populations for intense cigarette smoking to be established
-before the median age of  that was seen in this study can only
-exacerbate the eventual risks
+before the median age of 18 that was seen in this study can only
+exacerbate the eventual risks.
 statement
 
 in many very different
 populations the future risk of death from persistent cigarette
-smoking will still be about one half is therefore a reasonable one
+smoking will still be about one half is therefore a reasonable one,
 and the results thus far in a widening range of studies in other
-developed  and developing country populations such as
+developed19 20 and developing country populations such as
 
 The general
 
 that
 
-Table  Mortality from lung cancer among never smokers exsmokers and continuing cigarette smokers in relation to stopping smoking at ages 
-men born  and observed  compared with that expected at death rates for US male nonsmokers
+Table 6 Mortality from lung cancer among never smokers, ex-smokers, and continuing cigarette smokers, in relation to stopping smoking at ages 35-64
+(men born 1900-1930 and observed 1951-2001), compared with that expected at death rates for US male non-smokers
 
-Age range years
+Age range (years)
 
-Lifelong nonsmokers
+Lifelong non-smokers
 
+35-44
 
+45-54
 
+55-64
 
+65-74
 
+75-84
 
+1 (0.8)
 
+3 (2.2)
 
+3 (4.3)
 
+5 (6.7)
 
+6 (5.5)
 
- 
+Observed (expected US rate*)
 
- 
+Ex-cigarette smokers, by age stopped
 
- 
+35-44
 
- 
+—
 
- 
+1 (1.0)
 
-Observed expected US rate
+1 (1.8)
 
-Excigarette smokers by age stopped
+4 (2.7)
 
+10 (2.5)
 
+45-54
 
+—
 
+—
 
- 
+7 (1.7)
 
- 
+11 (2.5)
 
- 
+6 (2.2)
 
- 
-
-
-
-
-
-
-
- 
-
- 
-
- 
-
-
+55-64
 
 Continuing cigarette smokers
 
+—
 
+—
 
+—
 
+14 (1.6)
 
+10 (1.6)
 
+3 (1.3)
 
- 
+33 (3.3)
 
- 
+58 (4.1)
 
- 
+89 (3.4)
 
- 
+35 (1.7)
 
- 
+Total†; mortality ratio
 
- 
+18 (19.5); 0.9
 
- 
+16 (8.1); 2.0
 
-Total mortality ratio
+24 (6.4); 3.8
 
-  
+24 (3.2); 7.5
 
-  
+218 (13.7); 15.9
 
-  
-
-  
-
-  
-
-Mortality ratio UK continuing
+Mortality ratio (UK continuing
 cigarette smoker v US lifelong
-nonsmoker
+non-smoker)
 
+2
 
+10
 
+14
 
+26
 
+21
 
+16
 
+*Among US male non-smokers in the five year range starting at a given age, the annual lung cancer death rate is taken to be 11.2 times the fourth power of (age/1000). This is based on a large
+US prospective study in the 1980s, but similar results were seen in a large US prospective study in the 1960s, indicating that US non-smoker lung cancer death certification rates have been
+approximately constant over the past few decades.19
+†Total for ex-cigarette smokers who stopped at ages 25-34 is observed 7, expected 4.7; mortality ratio is 1.5.
 
+page 8 of 9
 
-
-
-
-
-Among US male nonsmokers in the five year range starting at a given age the annual lung cancer death rate is taken to be  times the fourth power of age This is based on a large
-US prospective study in the s but similar results were seen in a large US prospective study in the s indicating that US nonsmoker lung cancer death certification rates have been
-approximately constant over the past few decades
-Total for excigarette smokers who stopped at ages  is observed  expected  mortality ratio is 
-
-page  of 
-
-BMJ Online First bmjcom
+BMJ Online First bmj.com
 
 What is already known on this topic
 
 About half of all persistent cigarette smokers are killed by
-their habita quarter while still in middle age  years
+their habit—a quarter while still in middle age (35-69 years)
 
-After a large increase in cigarette smoking by young people
+After a large increase in cigarette smoking by young people,
 the full effects on national mortality rates can take more
-than  years to mature
+than 50 years to mature
 
-British men born in the first few decades of the th
+British men born in the first few decades of the 20th
 century could be the first population in the world in which
-the full long term hazards of cigarette smoking and the
-corresponding benefits of stopping can be assessed directly
+the full long term hazards of cigarette smoking, and the
+corresponding benefits of stopping, can be assessed directly
 
 What this study adds
 
 Among the particular generation of men born around
- cigarette smoking tripled the age specific mortality
+1920, cigarette smoking tripled the age specific mortality
 rates
 
-Among British men born  cigarette smoking
+Among British men born 1900-1909, cigarette smoking
 approximately doubled the age specific mortality rates in
 both middle and old age
 
-Longevity has been improving rapidly for nonsmokers but
+Longevity has been improving rapidly for non-smokers, but
 not for men who continued smoking cigarettes
 
-Cessation at age  halved the hazard cessation at 
+Cessation at age 50 halved the hazard; cessation at 30
 avoided almost all of it
 
-On average cigarette smokers die about  years younger
-than nonsmokers
+On average, cigarette smokers die about 10 years younger
+than non-smokers
 
-Stopping at age    or  gains respectively about 
-  or  years of life expectancy
+Stopping at age 60, 50, 40, or 30 gains, respectively, about 3,
+6, 9, or 10 years of life expectancy
 
-China and India  seem consistent with it as long as the
-prolonged delay between cause and full effect is properly appre
-ciated If so then on current worldwide smoking patterns
-whereby about  of young adults become smokers there will
-be about one billion tobacco deaths in this century unless there
-is widespread cessation For with low tar cigarettes still
-involving substantial hazards the quantitative conclusion from
-this study that seems most likely to be robust is that even among
-middle aged smokers cessation is effective and cessation at ear
-lier ages is even more so
+China29–31 and India32 33 seem consistent with it (as long as the
+prolonged delay between cause and full effect is properly appre-
+ciated). If so, then on current worldwide smoking patterns
+(whereby about 30% of young adults become smokers) there will
+be about one billion tobacco deaths in this century, unless there
+is widespread cessation.34–36 For, with low tar cigarettes still
+involving substantial hazards,37 the quantitative conclusion from
+this study that seems most likely to be robust is that, even among
+middle aged smokers, cessation is effective and cessation at ear-
+lier ages is even more so.
 
-PowerPoint versions of the figures are available on wwwctsuoxacuk
+PowerPoint versions of the figures are available on www.ctsu.ox.ac.uk
 
-We thank chiefly the participating doctors the BMA and the Office for
-National Statistics We also thank Cathy Harwood for
+We thank chiefly the participating doctors, the BMA, and the Office for
+National Statistics. We also thank Cathy Harwood for
 typing the
-manuscript and the Medical Research Council the British Heart Founda
-tion and Cancer Research UK which have funded this study for many
-yearsmost recently through their direct support of the University of
-Oxford Clinical Trial Service Unit and Epidemiological Studies Unit the
-existence computing facilities and administration of which made continu
-ation of the study possible
-Contributors RD and A B Hill deceased designed the study in  RP
-has worked on it since  and all four authors have collaborated on the
-current update to  the analyses and the manuscript RD will act as
-guarantor for the paper
-Competing interests None declared
-Ethical approval No relevant ethics committees existed in  when the
-study began
+manuscript; and the Medical Research Council, the British Heart Founda-
+tion, and Cancer Research UK, which have funded this study for many
+years—most recently through their direct support of the University of
+Oxford Clinical Trial Service Unit and Epidemiological Studies Unit, the
+existence, computing facilities, and administration of which made continu-
+ation of the study possible.
+Contributors: RD and A B Hill (deceased) designed the study in 1951; RP
+has worked on it since 1971, and all four authors have collaborated on the
+current update to 2001, the analyses, and the manuscript. RD will act as
+guarantor for the paper.
+Competing interests: None declared.
+Ethical approval: No relevant ethics committees existed in 1951, when the
+study began.
 
- Doll R Tobacco a medical history J Urban Health 
- Mller FH Tabakmissbrauch und lungencarcinoma Zeitschrift Krebsforsch 
+1 Doll R. Tobacco: a medical history. J Urban Health 1999;76:289-313.
+2 Müller FH. Tabakmissbrauch und lungencarcinoma. Zeitschrift Krebsforsch 1939;49:57-
 
-
+85.
 
 Papers
 
- Schairer E Schniger E Lungenkrebs und Tabakverbrauch Zeitschrift Krebsforsch
+3 Schairer E, Schöniger E. Lungenkrebs und Tabakverbrauch. Zeitschrift Krebsforsch
 
+1943;54:261-69.
 
+4 Wassink WF. Onstaansvoorwasrden voor Longkanker. Ned Tijdschr Geneeskd
 
- Wassink WF Onstaansvoorwasrden voor Longkanker Ned Tijdschr Geneeskd
+1948;92:3732-47.
 
+5 Doll R, Hill AB. Smoking and carcinoma of the lung. BMJ 1950;221(ii):739-48.
+6 Doll R, Hill AB. A study of aetiology of carcinoma of the lung. BMJ 1952;225(ii):1271-
 
+86.
 
- Doll R Hill AB Smoking and carcinoma of the lung BMJ ii
- Doll R Hill AB A study of aetiology of carcinoma of the lung BMJ ii
+7 Wynder EL, Graham EA. Tobacco smoking as a possible etiologic factor in
 
+bronchogenic carcinoma. JAMA 1950;143:329-36.
 
-
- Wynder EL Graham EA Tobacco smoking as a possible etiologic factor in
-
-bronchogenic carcinoma JAMA 
-
- Levin MI Goldstein H Gerhardt PR Cancer and tobacco smoking
+8 Levin MI, Goldstein H, Gerhardt PR. Cancer and tobacco smoking.
 
 JAMA
 
+1950;143:336-38.
 
+9 Mills CA, Porter MM. Tobacco smoking habits and cancer of the mouth and respiratory
 
- Mills CA Porter MM Tobacco smoking habits and cancer of the mouth and respiratory
+system. Cancer Res 1950;10:539-42.
 
-system Cancer Res 
+10 Shrek R, Baker LA, Ballard GP, Dolgoff S. Tobacco smoking as an etiologic factor in
 
- Shrek R Baker LA Ballard GP Dolgoff S Tobacco smoking as an etiologic factor in
+disease: cancer. Cancer Res 1950;10:49-58.
 
-disease cancer Cancer Res 
+11 Doll R, Hill AB. The mortality of doctors in relation to their smoking habits. A prelimi-
 
- Doll R Hill AB The mortality of doctors in relation to their smoking habits A prelimi
+nary report. BMJ 1954;228(i):1451-55.
 
-nary report BMJ i
+12 Doll R, Hill AB. Lung cancer and other causes of death in relation to smoking. A sec-
 
- Doll R Hill AB Lung cancer and other causes of death in relation to smoking A sec
+ond report on the mortality of British doctors. BMJ 1956;233(ii):1071-6.
 
-ond report on the mortality of British doctors BMJ ii
+13 Doll R, Hill AB. Mortality in relation to smoking: ten years’ observations of British doc-
 
- Doll R Hill AB Mortality in relation to smoking ten years observations of British doc
+tors. BMJ 1964;248(i):1399-1410, 1460-67.
 
-tors BMJ i 
+14 Doll R, Peto R. Mortality in relation to smoking: 20 years’ observations on male British
 
- Doll R Peto R Mortality in relation to smoking  years observations on male British
+doctors. BMJ 1976;273(ii):1525-36.
 
-doctors BMJ ii
+15 Doll R, Peto R. Cigarette smoking and bronchial carcinoma: dose and time
+relationships among regular smokers and lifelong non-smokers. J Epidem Comm Health
+1978;32:303-13.
 
- Doll R Peto R Cigarette smoking and bronchial carcinoma dose and time
-relationships among regular smokers and lifelong nonsmokers J Epidem Comm Health
+16 Peto R, Gray R, Collins R, Wheatley K, Hennekens C, Jamrozik K, et al. Randomised
 
+trial of prophylactic daily aspirin in British male doctors. BMJ 1988;296:313-6.
 
- Peto R Gray R Collins R Wheatley K Hennekens C Jamrozik K et al Randomised
+17 Doll R, Peto R, Wheatley K, Gray R, Sutherland I. Mortality in relation to smoking: 40
 
-trial of prophylactic daily aspirin in British male doctors BMJ 
+years’ observations on male British doctors. BMJ 1994;309:901-11.
 
- Doll R Peto R Wheatley K Gray R Sutherland I Mortality in relation to smoking 
+18 Doll R, Peto R. The causes of cancer: quantitative estimates of avoidable risks of cancer
+in the United States today. J Natl Cancer Inst 1981;66:1193-308. (Republished by
+Oxford University Press as a monograph in 1983).
 
-years observations on male British doctors BMJ 
+19 Peto R, Lopez AD, Boreham J, Thun M, Heath CJ. Mortality from tobacco in developed
+countries: indirect estimation from national vital statistics. Lancet 1992;339:1268-78.
+20 Peto R, Lopez AD, Boreham J, Thun M, Heath CJ. Mortality from smoking in developed
+countries 1950-2000: indirect estimates from national vital statistics. Oxford University
+Press, 1994. (2004 update on www.ctsu.ox.ac.uk)
 
- Doll R Peto R The causes of cancer quantitative estimates of avoidable risks of cancer
-in the United States today J Natl Cancer Inst  Republished by
-Oxford University Press as a monograph in 
+21 Zaridze D, Peto R. Tobacco: a major international health hazard. Lyons: IARC, 1986. (Sci-
 
- Peto R Lopez AD Boreham J Thun M Heath CJ Mortality from tobacco in developed
-countries indirect estimation from national vital statistics Lancet 
- Peto R Lopez AD Boreham J Thun M Heath CJ Mortality from smoking in developed
-countries  indirect estimates from national vital statistics Oxford University
-Press   update on wwwctsuoxacuk
+entific Publications No 74.)
 
- Zaridze D Peto R Tobacco a major international health hazard Lyons IARC  Sci
+22 US Department of Health and Human Services. Reducing the health consequences of
+smoking: 25 years of progress. A report of the surgeon general. Rockville, MD: DHHS, Centers
+for Disease Control, 1989. (DHHS Publication No (CDC) 89-8411.)
 
-entific Publications No 
+23 Vineis P, Alavanja M, Buffler P, Fontham E, Franceschi S, Gao YT, et al. Tobacco and
 
- US Department of Health and Human Services Reducing the health consequences of
-smoking  years of progress A report of the surgeon general Rockville MD DHHS Centers
-for Disease Control  DHHS Publication No CDC 
+Cancer: Recent Epidemiological Evidence. J Natl Cancer Inst 2004;96:99-106.
 
- Vineis P Alavanja M Buffler P Fontham E Franceschi S Gao YT et al Tobacco and
+24 Thun MJ, Peto R, Lopez AD, Monaco JH, Henley J, Heath CW, et al. Alcohol consump-
+tion and mortality among middle-aged and elderly US adults. N Engl J Med 1997;
+337:1705-14.
 
-Cancer Recent Epidemiological Evidence J Natl Cancer Inst 
+25 Medical Research Council. Tobacco smoking and cancer of
 
- Thun MJ Peto R Lopez AD Monaco JH Henley J Heath CW et al Alcohol consump
-tion and mortality among middleaged and elderly US adults N Engl J Med 
+the lung. BMJ
 
+1957;234(i):1523.
 
- Medical Research Council Tobacco smoking and cancer of
+26 Royal College of Physicians. Smoking and health. London: Pitman Medical Publishing,
 
-the lung BMJ
+1962.
 
-i
+27 Peto R, Darby S, Deo H, Silcocks P, Whitley E, Doll R. Smoking, smoking cessation, and
+lung cancer in the UK since 1950: combination of national statistics with two
+case-control studies. BMJ 2000;321:323-9.
 
- Royal College of Physicians Smoking and health London Pitman Medical Publishing
+28 Nicolaides-Bouman A, Wald N, Forey B, Lee P. International smoking statistics. Oxford:
 
+Oxford University Press, 1993.
 
+29 Liu B-Q, Peto R, Chen Z-M, Boreham J, Wu Y-P, Li J-Y, et al. Emerging tobacco hazards
+in China: 1. Retrospective proportional mortality study of one million deaths. BMJ
+1998;317:1411-22.
 
- Peto R Darby S Deo H Silcocks P Whitley E Doll R Smoking smoking cessation and
-lung cancer in the UK since  combination of national statistics with two
-casecontrol studies BMJ 
+30 Peto R, Chen ZM, Boreham J. Tobacco—the growing epidemic. Nat Med 1999;5:15-7.
+31 Lam TH, Ho SY, Hedley AJ, Mak KH, Peto R. Mortality and smoking in Hong Kong: a
 
- NicolaidesBouman A Wald N Forey B Lee P International smoking statistics Oxford
+case-controlled study of all adult deaths in 1998. BMJ 2001;323:1-6.
 
-Oxford University Press 
+32 Gupta PC, Mehta HC. Cohort study of all-cause mortality among tobacco users in
 
- Liu BQ Peto R Chen ZM Boreham J Wu YP Li JY et al Emerging tobacco hazards
-in China  Retrospective proportional mortality study of one million deaths BMJ
+Mumbai, India. Bull World Health Organ 2000;78:877-83.
 
+33 Gajalakshmi V, Peto R, Kanaka TS, Jha P. Smoking and mortality from tuberculosis and
+other diseases in India: retrospective study of 43,000 adult male deaths and 35,000
+controls. Lancet 2003;362:507-15.
 
- Peto R Chen ZM Boreham J Tobaccothe growing epidemic Nat Med 
- Lam TH Ho SY Hedley AJ Mak KH Peto R Mortality and smoking in Hong Kong a
+34 Peto R, Lopez AD. Future worldwide health effects of current smoking patterns. In:
+Koop CE, Pearson CE, Schwarz MR, eds. Critical issues in global health. San Francisco:
+Wiley (Jossey-Bass), 2001:154-61.
 
-casecontrolled study of all adult deaths in  BMJ 
+35 Lopez AD, Collishaw N, Zolty B, eds. Tobacco or health: a global status report. Geneva:
 
- Gupta PC Mehta HC Cohort study of allcause mortality among tobacco users in
+World Health Organization, 1997.
 
-Mumbai India Bull World Health Organ 
+36 International Agency for Research on Cancer. General remarks: future worldwide
+health effects of current smoking patterns. In: IARC monographs on the evaluation of car-
+cinogenic risks to humans. Vol 83. Tobacco smoke and involuntary smoking. Lyons: IARC,
+2004:33-47.
 
- Gajalakshmi V Peto R Kanaka TS Jha P Smoking and mortality from tuberculosis and
-other diseases in India retrospective study of  adult male deaths and 
-controls Lancet 
+37 Harris JE, Thun MJ, Mondul AM, Calle EE. Cigarette tar yields in relation to mortality
+from lung cancer in the cancer prevention study II prospective cohort, 1982-8. BMJ
+2004;328:72-6.
+(Accepted 27 May 2004)
 
- Peto R Lopez AD Future worldwide health effects of current smoking patterns In
-Koop CE Pearson CE Schwarz MR eds Critical issues in global health San Francisco
-Wiley JosseyBass 
+doi 10.1136/bmj.38142.554479.AE
 
- Lopez AD Collishaw N Zolty B eds Tobacco or health a global status report Geneva
-
-World Health Organization 
-
- International Agency for Research on Cancer General remarks future worldwide
-health effects of current smoking patterns In IARC monographs on the evaluation of car
-cinogenic risks to humans Vol  Tobacco smoke and involuntary smoking Lyons IARC
-
-
- Harris JE Thun MJ Mondul AM Calle EE Cigarette tar yields in relation to mortality
-from lung cancer in the cancer prevention study II prospective cohort  BMJ
-
-Accepted  May 
-
-doi bmjAE
-
-Clinical Trial Service Unit and Epidemiological Studies Unit CTSU Radcliffe
-Infirmary Oxford OX HE
+Clinical Trial Service Unit and Epidemiological Studies Unit (CTSU), Radcliffe
+Infirmary, Oxford OX2 6HE
 Richard Doll emeritus professor of medicine
 Richard Peto professor of medical statistics and epidemiology
 Jillian Boreham senior research fellow
 Isabelle Sutherland research assistant
-Correspondence to R Doll secretaryctsuoxacuk
+Correspondence to: R Doll (secretary@ctsu.ox.ac.uk)
 
-BMJ Online First bmjcom
+BMJ Online First bmj.com
 
-page  of 
+page 9 of 9
 
 

@@ -1,0 +1,25 @@
+### Abstract:
+Objective To compare the hazards of cigarette smoking in men who formed their habits at different periods, and the extent of the reduction in risk when cigarette smoking is stopped at different ages.  
+Design Prospective study that has continued from 1951 to 2001.  
+Setting United Kingdom.  
+Participants 34 439 male British doctors. Information about their smoking habits was obtained in 1951, and periodically thereafter; cause specific mortality was monitored for 50 years.  
+Main outcome measures Overall mortality by smoking habit, considering separately men born in different periods.  
+Results The excess mortality associated with smoking chiefly involved vascular, neoplastic, and respiratory diseases that can be caused by smoking. Men born in 19001930 who smoked only cigarettes and continued smoking died on average about 10 years younger than lifelong nonsmokers. Cessation at age 60, 50, 40, or 30 years gained, respectively, about 3, 6, 9, or 10 years of life expectancy. The excess mortality associated with cigarette smoking was less for men born in the 19th century and was greatest for men born in the 1920s. The cigarette smoker versus nonsmoker probabilities of dying in middle age (3569) were 42% v 24% (a twofold death rate ratio) for those born in 19001909, but were 43% v 15% (a threefold death rate ratio) for those born in the 1920s. At older ages, the cigarette smoker versus nonsmoker probabilities of surviving from age 70 to 90 were 10% v 12% at the death rates of the 1950s (that is, among men born around the 1870s) but were 7% v 33% (again a threefold death rate ratio) at the death rates of the 1990s (that is, among men born around the 1910s).  
+Conclusion A substantial progressive decrease in the mortality rates among nonsmokers over the past half century (due to prevention and improved treatment of disease) has been wholly outweighed, among cigarette smokers, by a progressive increase in the smoker v nonsmoker death rate ratio due to earlier and more intensive use of cigarettes. Among the men born around 1920, prolonged cigarette smoking from early adult life tripled age specific mortality rates, but cessation at age 50 halved the hazard, and cessation at age 30 avoided almost all of it.
+
+
+
+### Key Defining Sentences (Discussion and Interpretation):
+ "Those who continued to smoke cigarettes lost, on average, about 10 years of life compared with nonsmokers, while those who stopped at around age 60, 50, 40, or 30 gained, respectively, about 3, 6, 9, or 10 years of life expectancy compared with those who continued."
+ "Longevity has been improving rapidly for nonsmokers, but not for men who continued smoking cigarettes."
+ "Among the particular generation of men born around 1920, cigarette smoking tripled the agespecific mortality rates."
+ "Those born in the third decade of the 20th century have shown even greater hazards of cigarette smoking compared to earlier generations."
+
+
+
+### Conclusion:
+A substantial progressive decrease in mortality among nonsmokers over the past halfcentury has been offset by a significant and progressive increase in the smoker v nonsmoker death rate ratio, due to earlier and intensified cigarette use among smokers. Among men born around 1920, prolonged cigarette smoking from early adulthood tripled agespecific mortality rates, with cessation demonstrating profound life expectancy benefits depending on the age of quitting (e.g., cessation before age 30 avoiding almost all the hazard). Persistent smokers lost about 10 years of life compared with nonsmokers.
+
+ 
+
+: The extracted sections focus on the critical parts that summarize the research study, key findings, and resulting interpretations.

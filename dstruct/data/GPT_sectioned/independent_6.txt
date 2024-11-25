@@ -1,0 +1,34 @@
+### Abstract:
+  
+The smoking epidemic in Australia is characterised by historic levels of prolonged smoking, heavy smoking, very high levels of longterm cessation, and low current smoking prevalence, with 13% of adults reporting that they smoked daily in 2013. Largescale quantitative evidence on the relationship of tobacco smoking to mortality in Australia is not available despite the potential to provide independent international evidence about the contemporary risks of smoking.
+
+  
+This is a prospective study of 204,953 individuals aged ≥45 years sampled from the general population of New South Wales, Australia, who joined the 45 and Up Study from 2006–2009, with linked questionnaire, hospitalisation, and mortality data to mid2012 and with no history of cancer (other than melanoma and nonmelanoma skin cancer), heart disease, stroke, or thrombosis. Hazard ratios (described here as relative risks, RRs) for allcause mortality among current and past smokers compared to neversmokers were estimated, adjusting for age, education, income, region of residence, alcohol, and body mass index.
+
+  
+Overall, 5,593 deaths accrued during followup (874,120 personyears; mean: 4.26 years); 7.7% of participants were current smokers and 34.1% past smokers at baseline. Compared to neversmokers, the adjusted RR (95% CI) of mortality was 2.96 (2.69–3.25) in current smokers and was similar in men (2.82 (2.49–3.19)) and women (3.08 (2.63–3.60)) and according to birth cohort. Mortality RRs increased with increasing smoking intensity, with around two and fourfold increases in mortality in current smokers of ≤14 (mean 10/day) and ≥25 cigarettes/day, respectively, compared to neversmokers. Among past smokers, mortality diminished gradually with increasing time since cessation and did not differ significantly from neversmokers in those quitting prior to age 45. Current smokers are estimated to die an average of 10 years earlier than nonsmokers.
+
+  
+In Australia, up to twothirds of deaths in current smokers can be attributed to smoking. Cessation reduces mortality compared with continuing to smoke, with cessation earlier in life resulting in greater reductions.
+
+
+
+### Key Defining Sentences:
+1.   
+"Compared to neversmokers, the adjusted RR (95% CI) of mortality was 2.96 (2.69–3.25) in current smokers and was similar in men (2.82 (2.49–3.19)) and women (3.08 (2.63–3.60)) and according to birth cohort."
+   
+2.   
+"On average, smokers died around 10 years earlier than nonsmokers, over the ages examined."
+
+3.   
+"These data indicate that, in a low prevalence setting, the risks of continuing to smoke and the benefits of cessation remain high."
+
+
+
+### Discussion:
+"In this largescale, populationbased Australian study, death rates in current smokers were around threefold those of people who had never smoked, in both men and women. On average, smokers died around 10 years earlier than nonsmokers, over the ages examined. Mortality rates increased substantially with increasing intensity of smoking, with rates approximately doubling in those smoking around 10 cigarettes per day and four to fivefold those of neversmokers in current smokers of 25 or more cigarettes per day. Cessation of smoking conferred large mortality benefits compared with continuing to smoke. These findings were adjusted for a range of potential confounding factors, including socioeconomic status, alcohol intake, and BMI."
+
+
+
+### Conclusion:
+"The national prevalence of smoking in Australia has fallen rapidly and is now among the lowest in the world, with an estimated 13% of adults smoking daily. A number of countries are moving towards tobacco 'eradication.' These data indicate that, in a low prevalence setting, the risks of continuing to smoke and the benefits of cessation remain high."

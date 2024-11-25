@@ -1,0 +1,29 @@
+Here are the key sections from the provided text that contribute to its meaning:
+
+### Abstract:
+>  To measure the relation between environmental tobacco smoke, as estimated by smoking in spouses, and long term mortality from tobacco related disease.  
+>  Prospective cohort study covering 39 years.  
+>  Adult population of California, United States.  
+>  118 094 adults enrolled in late 1959 in the American Cancer Society cancer prevention study (CPS I), who were followed until 1998. Particular focus is on the 35 561 never smokers who had a spouse in the study with known smoking habits.  
+>  Relative risks and 95% confidence intervals for deaths from coronary heart disease, lung cancer, and chronic obstructive pulmonary disease related to smoking in spouses and active cigarette smoking.  
+>  For participants followed from 1960 until 1998 the age adjusted relative risk (95% confidence interval) for never smokers married to ever smokers compared with never smokers married to never smokers was 0.94 (0.85 to 1.05) for coronary heart disease, 0.75 (0.42 to 1.35) for lung cancer, and 1.27 (0.78 to 2.08) for chronic obstructive pulmonary disease among 9619 men, and 1.01 (0.94 to 1.08), 0.99 (0.72 to 1.37), and 1.13 (0.80 to 1.58), respectively, among 25 942 women.  
+> No significant associations were found for current or former exposure to environmental tobacco smoke before or after adjusting for seven confounders and before or after excluding participants with preexisting disease. No significant associations were found during the shorter follow up periods of 19605, 196672, 197385, and 197398.  
+>  The results do not support a causal relation between environmental tobacco smoke and tobacco related mortality, although they do not rule out a small effect. The association between exposure to environmental tobacco smoke and coronary heart disease and lung cancer may be considerably weaker than generally believed.
+
+
+
+### Key Defining Sentences:
+> Several major reviews have determined that exposure to environmental tobacco smoke increases the relative risk of coronary heart disease, based primarily on comparing never smokers married to smokers with never smokers married to never smokers.  
+> ...The results do not support a causal relation between environmental tobacco smoke and tobacco related mortality, although they do not rule out a small effect.  
+
+
+
+### Discussion:
+> On the basis of our findings from the long term follow up of the California cohort of the cancer prevention study (CPS I), the association between exposure to environmental tobacco smoke and coronary heart disease and lung cancer may be considerably weaker than generally believed. Although participants in CPS I are not a representative sample of the US population, never smokers in this cohort had a total death rate that was close to that of US white never smokers.  
+> Furthermore, the relative risks were based on comparisons within the cohort and should be valid. Although the participants’ total exposure to smoking in a spouse was affected by the substantial extent of smoking cessation since 1959, this did not affect the relative comparisons.  
+> ...The results for coronary heart disease and lung cancer are consistent with those of most of the other individual studies on environmental tobacco smoke.  
+
+
+
+### Conclusion:
+>  The results of the California CPS I cohort do not support a causal relation between environmental tobacco smoke and tobacco related mortality, although they do not rule out a small effect. Given the limitations of the underlying data in this and the other studies of environmental tobacco smoke and the small size of the risk, it seems premature to conclude that environmental tobacco smoke causes death from coronary heart disease and lung cancer.

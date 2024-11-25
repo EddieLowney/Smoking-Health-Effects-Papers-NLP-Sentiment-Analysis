@@ -1,96 +1,96 @@
-STATISTICS IN MEDICINE VOL       
+STATISTICS IN MEDICINE, VOL.  15,  581-605  (1996) 
 
 MISCLASSIFICATION OF SMOKING HABITS AS A SOURCE 
 OF BIAS IN THE STUDY OF ENVIRONMENTAL TOBACCO 
 SMOKE AND LUNG CANCER 
 
-PETER N LEE AND  BARBARA A  FOREY 
-PN Lee Statistics and Computing Ltd   Cedar Road Sutton Surrey Sh  DA UK 
+PETER N. LEE AND  BARBARA A.  FOREY 
+P.N. Lee Statistics and Computing Ltd., 17  Cedar Road, Sutton, Surrey, Sh42  5DA, U.K. 
 
 SUMMARY 
-The relationship of environmental tobacco smoke to lung cancer risk in lifelong nonsmokers is commonly 
-studied using marriage to a smoker as the index of exposure As smokers tend to marry smokers relative risk 
-estimates will  be biased  if some current or former smokers are misclassified as lifelong nonsmokers This 
+The relationship of environmental tobacco smoke to lung cancer risk in lifelong non-smokers is commonly 
+studied using marriage to a smoker as the index of exposure. As smokers tend to marry smokers, relative risk 
+estimates will  be biased  if some current or former smokers are misclassified as lifelong non-smokers. This 
 paper  shows how  various factors affect  the magnitude of  the bias  and  describes a method  for  obtaining 
-misclassificationadjusted relative  risk  estimates Application  of  the method  to  US  and  Asian  data for 
+misclassification-adjusted relative  risk  estimates. Application  of  the method  to  U.S.  and  Asian  data for 
 women  suggests  misclassification  is  an  important  determinant  of  the  slight  excess  risk  observed  in 
-nonsmokers married to smokers Reasons why our conclusions differ from those of  others are discussed as 
-are other difficulties in  interpreting  the association between spousal smoking and lung cancer  risk 
+non-smokers married to smokers. Reasons why our conclusions differ from those of  others are discussed, as 
+are other difficulties in  interpreting  the association between spousal smoking and lung cancer  risk. 
 
-  INTRODUCTION 
+1.  INTRODUCTION 
 
-Error in the variables studied can bias the relationship of a risk factor to a disease In  x  tables 
-random  misclassification  of  exposure  or  disease  biases  relative  risk  RR  estimate  towards 
-unity  How  the  bias  relates  to  the  misclassification  rate  and  the  disease  and  exposure 
-frequency has been decribed Additional information on accuracy of exposure data can be used 
-to obtain unbiased  RR  estimates 
+Error in the variables studied can bias the relationship of a risk factor to a disease. In 2 x 2 tables, 
+random  misclassification  of  exposure  or  disease  biases  relative  risk  (RR)  estimate  towards 
+unity.'-3  How  the  bias  relates  to  the  misclassification  rate,  and  the  disease  and  exposure 
+frequency has been de~cribed.~ Additional information on accuracy of exposure data can be used 
+to obtain unbiased  RR  estimates.' 
 
 Random  misclassification  of  exposure  understates 
 
 random 
-misclassification of  confounding variables may  not How misclassification affects RR estimates 
+misclassification of  confounding variables may  not. How misclassification affects RR estimates 
 adjusted for a single confounder with two levels has been 
-errors in the  confounder  adjustment  has  little effect Even for  smaller      per  cent errors 
-about half the confounding effect remains after adjustment Tzonou et aL note that Generally in 
+errors in the  confounder,  adjustment  has  little effect. Even for  smaller ( -   10 per  cent) errors, 
+about half the confounding effect remains after adjustment. Tzonou et aL6 note that 'Generally, in 
 the presence  of  strong risk  factors which have potentially  large confounding  effects and which 
-may  have  been  imprecisely  measured  the  etiological  significance of  factors  observed  to  be 
-relatively weakly associated with disease must  be treated  with caution 
+may  have  been  imprecisely  measured,  the  etiological  significance of  factors  observed  to  be 
+relatively weakly associated with disease must  be treated  with caution. 
 
-With large    per cent 
+With large ( - 30 per cent) 
 
-true  associations  but 
+true  associations,  but 
 
-Since  the possible association of  lung cancer with environmental  tobacco smoke ETS 
-exposure has been extensively studied Since this association if it existed would be much weaker 
-than that with active smoking and since it is hard to quantify precisely the many aspects of active 
-smoking  correlated  with  risk  ETS  studies  usually  consider  only  lifelong  nonsmokers  The 
-exposure index usually used and that for which an association has been claimed 
+Since 1981, the possible association of  lung cancer with environmental  tobacco smoke (ETS) 
+exposure has been extensively studied. Since this association, if it existed, would be much weaker 
+than that with active smoking, and since it is hard to quantify precisely the many aspects of active 
+smoking  correlated  with  risk,  ETS  studies  usually  consider  only  lifelong  non-smokers.  The 
+exposure index usually used, and that for which an association has been claimed,'.' 
 is marriage to 
-a smoker there being far more data for females than males Some  years agog one of  us PNL 
-pointed  out that as smokers tend to marry smokers misclassification of  some current or former 
+a smoker, there being far more data for females than males. Some 10 years agog one of  us (PNL) 
+pointed  out that, as smokers tend to marry smokers, misclassification of  some current or former 
 
-CCC     
-  by  John Wiley  Sons Ltd 
+CCC 0277-67  15/96/060581- 25 
+0 1996 by  John Wiley & Sons, Ltd. 
 
-Received January  I 
-Revised June   
+Received January  I995 
+Revised June  1995 
 
- 
+582 
 
-P LEE AND B FOREY 
+P. LEE AND B. FOREY 
 
-smokers as Iifelong nonsmokers would bias the spousal smoking RR Since then many attempts 
-have been made to quantify the bias    O     with conflicting conclusions about its importance 
-This paper reviews the issue of  bias from smoking misclassification in ETSlung cancer studies 
-Section  considers misclassification in a  x  table assuming no true ETS effect and describes 
-the relationship of  the observed spousal smokinglung cancer association to various factors and 
-assumptions It is shown that misclassification of  smokers as nonsmokers causes much greater 
-bias than misclassification either of  nonsmokers as smokers or of  spousal smoking Restricting 
-attention  to  misclassification of  smoking subjects Section  considers the possibility  of  a true 
-ETS effect  acting  multiplicatively or  additively with  active  smoking It  also  reveals  errors  in 
-published methodologies for bias adjustment  l o  Section  allows for different misclassification 
-rates for different types of  smokers and shows how to estimate bias based  on observed rather 
-than  true  underlying data Weaknesses in  the  methods  of  the  US  Environmental  Protection 
-Agency EPA are demonstrated and an alternative methodology described Using this and the 
-complex  set  of  misclassification  rates  used  by  EPA  the  estimated  biases  are  shown  to  be 
-virtually the same as those estimated using a single misclassification rate of ever smokers as never 
-smokers After considering plausible values of  the betweenspouse smoking concordance rate and 
-of  the  eversmokerneversmoker misclassification  rate  the simplified methodology  is  then in 
-Section  applied  to US data  In  Section  the  methodology  is  applied  to data from  Asian 
-studies accounting  for  possible  higher  misclassification  rates  Section   discusses other issues 
-affecting interpretation of  the ETSlung cancer relationship and in  Section  the main findings 
-are reviewed and discussed 
+smokers as Iifelong non-smokers would bias the spousal smoking RR. Since then many attempts 
+have been made to quantify the bias,’.  ’* ‘ O - ”   with conflicting conclusions about its importance. 
+This paper reviews the issue of  bias from smoking misclassification in ETS/lung cancer studies. 
+Section 2 considers misclassification in a 2 x 2 table assuming no true ETS effect, and describes 
+the relationship of  the observed spousal smoking/lung cancer association to various factors and 
+assumptions. It is shown that misclassification of  smokers as non-smokers causes much greater 
+bias than misclassification, either of  non-smokers as smokers or of  spousal smoking. Restricting 
+attention  to  misclassification of  smoking subjects, Section 3 considers the possibility  of  a true 
+ETS effect,  acting  multiplicatively or  additively with  active  smoking. It  also  reveals  errors  in 
+published methodologies for bias adjustment.”  l o  Section 4 allows for different misclassification 
+rates for different types of  smokers, and shows how to estimate bias based  on observed rather 
+than  true  underlying data. Weaknesses in  the  methods  of  the  U.S.  Environmental  Protection 
+Agency (EPA)8 are demonstrated, and an alternative methodology described. Using this, and the 
+complex  set  of  misclassification  rates  used  by  EPA,’  the  estimated  biases  are  shown  to  be 
+virtually the same as those estimated using a single misclassification rate, of ever smokers as never 
+smokers. After considering plausible values of  the between-spouse smoking concordance rate and 
+of  the  ever-smoker/never-smoker misclassification  rate,  the simplified methodology  is  then, in 
+Section 5, applied  to US. data.  In  Section 6 the  methodology  is  applied  to data from  Asian 
+studies, accounting  for  possible  higher  misclassification  rates.  Section 7  discusses other issues 
+affecting interpretation of  the ETS/lung cancer relationship, and in  Section 8 the main findings 
+are reviewed and discussed. 
 
-  MISCLASSIFICATION IN A   x  TABLE NO TRUE EFFECT OF ETS EXPOSURE 
+2.  MISCLASSIFICATION IN A  2 x 2 TABLE; NO TRUE EFFECT OF ETS EXPOSURE 
 
-  The simplest situation 
+2.1.  The simplest situation 
 
-Consider  N  married  individuals  of  which  a  proportion  s smokes Let  the  proportion  whose 
-spouse smokes be rnl  for nonsmokers and m   for smokers Assume m    ml Let the lung cancer 
-risk for a given period be y for nonsmokers and Ry for smokers and be independent of  spouse 
-smoking Assume  a  random  proportion  p     of  smokers are misclassified  as  nonsmokers 
-Expected numbers of  subjects before true data and after observed  data misclassification are 
-then 
+Consider  N  married  individuals  of  which  a  proportion  s smokes. Let  the  proportion  whose 
+spouse smokes be rnl  for non-smokers and m 2  for smokers. Assume m 2  > ml. Let the lung cancer 
+risk for a given period be y for non-smokers and Ry for smokers, and be independent of  spouse 
+smoking. Assume  a  random  proportion  p  ( > 0) of  smokers are misclassified  as  non-smokers. 
+Expected numbers of  subjects before (‘true data’) and after (‘observed  data’) misclassification are 
+then: 
 
 Group 
 
@@ -109,520 +109,520 @@ Subject
 Population 
 
 Population 
-a   a  pc 
-Nonsmoker  Nonsmoker  a   N  l   s   ml A   ya 
-b   b  pd 
-Nonsmoker  Smoker 
-B   yb 
-U  u  p v  
-Nonsmoker  All 
-U  YU 
-C   R c  C     P  C  
+a*  = a + pc 
+Non-smoker  Non-smoker  a  = N ( l  - s)(1  - ml) A  = ya 
+b*  = b + pd 
+Non-smoker  Smoker 
+B  = yb 
+U* = u + p v  
+Non-smoker  All 
+U = YU 
+C = ~ R c  C*  = (1 - P ) C  
 Smoker 
-D   yRd 
+D  = yRd 
 Smoker 
-d     Pd 
-V    R u  V       P  U   V  yl    R v  
+d*  = (1 - P)d 
+V  = ~ R u  V *   = (1 - P ) U   V* = y(l - ~ ) R v  
 Smoker 
 
-Nonsmoker  c   Ns  m    
+Non-smoker  c  = Ns(1 - m 2 )  
 Smoker 
 All 
 
 Cases 
-A   ya  pRc 
-B   y  b   pRd 
-U  Y  U    pRv 
+A*  = y(a + pRc) 
+B*  = y ( b  + pRd) 
+U* = Y ( U   + pRv) 
 
-b  Nl  sm 
-u  N  l   S 
+b = N(l - s)m, 
+u = N ( l  - S) 
 
-d  Nsmz 
-v   Ns 
+d = Nsmz 
+v  = Ns 
 
- 
- 
- 
- 
- 
- 
+1 
+2 
+3 
+4 
+5 
+6 
 
-Asterisks  indicate  observed  rather  than  true  data  Upper  and  lower  case  letters  indicate 
-cases  and  the  population  respectively The  bias  calculations  do  not  depend  on  the  scaling 
-factors  N  and  y  The mathematics  below  deals  only with  expected  values  and  not  sampling 
-distributions 
+Asterisks  indicate  observed  rather  than  true  data.  Upper  and  lower  case  letters  indicate 
+cases  and  the  population,  respectively. The  bias  calculations  do  not  depend  on  the  scaling 
+factors  N  and  y.  The mathematics  below  deals  only with  expected  values,  and  not  sampling 
+distributions. 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS  A SOURCE OF BIAS 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS  A SOURCE OF BIAS 
 
- 
+583 
 
-  Effect of  misclassification on the concordance ratio 
+2.2.  Effect of  misclassification on the concordance ratio 
 
-The association of  husbands and wives smoking habits is often measured  by  the concordance 
-ratio  k  adbc  m  mlmll   m Since  m  m l    k     The  observed  concordance 
-ratio k   adbc satisfies the conditions    k   k 
+The association of  husbands’ and wives’ smoking habits is often measured  by  the concordance 
+ratio  k = ad/bc = m2(1 - ml)/ml(l  - m2). Since  m2 > m l ,   k  > 1.  The  observed  concordance 
+ratio k*  = a*d*/b*c* satisfies the conditions  1 < k*  < k. 
 
-  Effect of  misclassification on the active smoking risk 
+2.3.  Effect of  misclassification on the active smoking risk 
 
-The observed active smoking RR obtained by dividing risks in groups  and  ignoring spousal 
-smoking is  R   Ru  puu  pRu It  satisfies    R   R  The  ratio  of  observed  to  true 
-excess risks  R  lR    equals    sl   s  pRs and  declines as the misclassification 
-rate proportion  of  smokers and true risk increase 
+The observed active smoking RR, obtained by dividing risks in groups 6 and 3 (ignoring spousal 
+smoking) is  R*  = R(u + pu)/(u + pRu). It  satisfies  1 < R*  < R.  The  ratio  of  observed  to  true 
+excess risks  (R* - l)/(R  - 1) equals  (1 - s)/(l  - s + pRs) and  declines as the misclassification 
+rate, proportion  of  smokers and true risk increase. 
 
-  Effect of  misclassification on the spousal smoking risk 
+2.4.  Effect of  misclassification on the spousal smoking risk 
 
-The observed spousal smoking RR obtained by dividing risks in groups  and  in nonsmokers 
-is E   a  pcb  pRdb  pda  pRc and satisfies E    Thus misclassification creates 
-an  apparent  risk  from  spousal  smoking  when  no  true  effect  exists  We  refer  to  this  as  the 
-misclassification bias 
+The observed spousal smoking RR, obtained by dividing risks in groups 2 and 1 (in non-smokers), 
+is E*  = (a + pc)(b + pRd)/(b + pd)(a + pRc) and satisfies E*  > 1. Thus misclassification creates 
+an  apparent  risk  from  spousal  smoking  when  no  true  effect  exists.  We  refer  to  this  as  the 
+‘misclassification bias’. 
 
-  Maximum misclassification bias and rate 
+2.5.  Maximum misclassification bias and rate 
 
-E  can be expressed in terms of  the observed population  by 
+E*  can be expressed in terms of  the observed population  by: 
 
-E   b  dR  lpl      u      u    cR  lpl   pb 
-E  is a maximum when R is infinite E  then equals k so the bias cannot  exceed the observed 
-infinite  R   u  pupu  ul   pup  and  p   
+E*  = [(b* + d*(R - l)p/(l  - ~ ) ) u * ] / [ ( u *  + c*(R - l)p/(l  - p))b*]. 
+E*  is a maximum when R is infinite. E*  then equals k*, so the bias cannot  exceed the observed 
+infinite,  R*  = (u + pu)/pu = u*(l  - p)/u*p,  and  p  = 
 concordance 
-uu  Ro which is thus the maximum misclassification consistent with the observed active 
-smoking data 
+u*/(u* + R*o*), which is thus the maximum misclassification consistent with the observed active 
+smoking data. 
 
-ratio  When  R 
+ratio.  When  R 
 
 is 
 
-  Factors affecting the  magnitude of  the misclassification bias 
-Defining Q   cR  lpal   p E     kQl   Q E  increases monotonically with k 
-and  Q  Given  an  observed  distribution  of  smoking  habits  a c  and  k  E  thus  increases 
-strongly with the misclassification rate being for small p approximately proportional  to p   and 
-with the active smoking RR being proportional  to R    This formulation also suggests E 
-increases  with  the  concordance  ratio  and  with  the  proportion  of  smokers  Defining 
-z   mm   E can be expressed as the crossproduct  ratio of  four ratios of  observed to true 
-data 
+2.6.  Factors affecting the  magnitude of  the misclassification bias 
+Defining Q  = c*(R - l)p/a*(l  - p), E*  = (1 + k*Q)/(l  + Q). E*  increases monotonically with k* 
+and  Q.  Given  an  observed  distribution  of  smoking  habits  (a*, c*  and  k*)  E*  thus  increases 
+strongly with the misclassification rate (being, for small p, approximately proportional  to p )  and 
+with the active smoking RR (being proportional  to (R  - 1)). This formulation also suggests E* 
+increases  with  the  concordance  ratio  and  with  the  proportion  of  smokers.  Defining 
+z  = m2/m1 > 1, E* can be expressed as the cross-product  ratio of  four ratios of  observed to true 
+data: 
 
-Cases  Spouse smoker 
+Cases:  Spouse smoker 
 
-Cases  Spouse nonsmoker 
+Cases:  Spouse non-smoker 
 
-Population  Spouse smoker 
+Population:  Spouse smoker 
 
-Population  Spouse nonsmoker 
+Population:  Spouse non-smoker 
 
-hi   b  pRdb    pRszl   S      
-h    pRs  mlzl   sl  ml     
-h     pszl   s       
-h    ps  mlzl   sl  ml     
+hi  = (b + pRd)/b = 1 + pRsz/(l  - S)  = 1 + 6, 
+h2 = 1 + pRs(1 - mlz)/(l  - s)(l - ml) = 1 + 8, 
+h3  = 1 + psz/(l  - s) = 1 + 8 3  
+h4 = 1 + ps(1 - mlz)/(l  - s)(l - ml) = 1 + 84 
 
-For small p  di are small so E  can be estimated approximately  by 
+For small p,  di are small, so E*  can be estimated approximately  by 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons License 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License584 
 
-P LEE AND B FOREY 
+P. LEE AND B. FOREY 
 
-Table I  Variation  in misclassification bias according  to variation  in p   R    s  m and k 
+Table I.  Variation  in misclassification bias according  to variation  in p ,  R - 1,  s,  m, and k 
 
- 
+~ 
 
- 
+~ 
 
- 
+~ 
 
- 
+~ 
 
- 
+~~ 
 
- 
+-~ 
 
- 
+~ 
 
 Misclassification 
 rate 
- P 
+( P) 
 
 Excess 
 smoking 
 risk 
- R    
+( R  - 1) 
 
 Proportion 
 of  subjects 
 smoking 
- 
+(4 
 
-Proportion of  spouses who smoke m 
+Proportion of  spouses who smoke (m,) 
 
- 
+0.1 
 
- 
+2.0 
 
- 
+3.0 
 
- 
+4.0 
 
- 
-Concordance ratio k 
- 
+0.3 
+Concordance ratio (k) 
+3.0 
 
- 
+20 
 
- 
+4.0 
 
- 
+0.01 
 
- 
+0.02 
 
- 
+0.05 
 
- 
+4 
 
- 
+9 
 
- 
+19 
 
- 
+4 
 
- 
+9 
 
- 
+19 
 
- 
+4 
 
- 
+9 
 
- 
+19 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+0.2 
+0.4 
+0.6 
+0.2 
+0.4 
+0.6 
+0.2 
+0-4 
+0.6 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+0-2 
+0.4 
+0.6 
+0.2 
+0.4 
+0.6 
+0.2 
+0.4 
+0.6 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+0.2 
+0.4 
+0.6 
+0.2 
+0.4 
+0.6 
+0.2 
+0.4 
+0.6 
 
-   
-   
-   
-   
-   
-   
-   
-   
-   
+1.009  1.016 
+1.023  1043 
+1.050  1.091 
+1,020  1.037 
+1,051  1,093 
+1.105  1.193 
+1.041  1.076 
+1,101  1.187 
+1.198  1.366 
 
-   
-   
-   
-   
-   
-   
-   
-   
-   
+1.018  1.032 
+1,045  1.081 
+1.091  1-165 
+1.039  1.071 
+1.095  1.174 
+1.183  1.335 
+1.078  1.144 
+1.181  1.334 
+1.318  1.589 
 
-   
-   
-   
-   
-   
-   
-   
-   
-   
+1.042  1.077 
+1.099  1.180 
+1.179  1.321 
+1.090  1.165 
+1.197  1,361 
+1.321  1.583 
+1.172  1.318 
+1.338  1.626 
+1.482  1.889 
 
- 
- 
- 
- 
- 
- 
- 
- 
-  
+1.023 
+1.059 
+1.125 
+1.051 
+1.129 
+1.267 
+1.105 
+1.260 
+1.51 1 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+1,045 
+1.112 
+1.227 
+1.098 
+1.241 
+1.463 
+1.200 
+1.466 
+1.824 
 
- 
- 
- 
- 
-  
- 
- 
- 
- 
+1.106 
+1.247 
+1.437 
+1.228 
+1 500 
+1.803 
+1.443 
+1.876 
+2.241 
 
- 
- 
- 
- 
- 
- 
-  
- 
- 
+1.008 
+1.020 
+1.043 
+1.017 
+1.043 
+1.091 
+1.03 5 
+1.087 
+1.174 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+1.015 
+1.038 
+1.079 
+1.033 
+1.082 
+1.161 
+1.067 
+1.158 
+1.287 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+1.036 
+1.086 
+1.161 
+1.077 
+1.175 
+1.295 
+1.150 
+1.306 
+1.456 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+1.012 
+1.032 
+1.070 
+1.028 
+1.071 
+1.150 
+1.057 
+1.144 
+1.292 
 
- 
- 
- 
- 
- 
- 
- 
- 
-  
+1.024 
+1.062 
+1.130 
+1.054 
+1.135 
+1.269 
+1.111 
+1.265 
+1.49 1 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+1.059 
+1.142 
+1.266 
+1.127 
+1.292 
+1.504 
+1.251 
+1.526 
+1.806 
 
- 
- 
- 
- 
- Q 
- 
- 
- 
- 
+1.016 
+1.041 
+1.088 
+1.035 
+1 Q90 
+1.192 
+1.073 
+1.184 
+1.377 
 
-  
- 
- 
- 
- 
- 
- 
- 
- 
+1.03 1 
+1.079 
+1.165 
+1.069 
+1.172 
+1.346 
+1.141 
+1.341 
+1.643 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+1.074 
+1.181 
+1.342 
+1.162 
+1.377 
+1.660 
+1.323 
+1.692 
+2.086 
 
- 
+0.5 
 
- 
+3.0 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+1.010 
+1.026 
+1.057 
+1.022 
+1.057 
+1.123 
+1,046 
+1.118 
+1.242 
 
- 
- 
- 
- 
- 
- 
- Q 
- 
- 
+1.020 
+1.051 
+1.107 
+1.044 
+1.110 
+1.225 
+1 Q90 
+1.219 
+1.420 
 
- 
-  
- 
- 
- 
- 
- 
- 
- 
+1,048 
+1.1 17 
+1.227 
+1.104 
+1.245 
+1.441 
+1.207 
+1.452 
+1.732 
 
- 
+4.0 
 
- 
- 
-i  
- 
- 
- 
- 
- 
- 
+1.012 
+1.031 
+i ,068 
+1.027 
+1.069 
+1.149 
+1.056 
+1.143 
+1.298 
 
- 
- 
- 
- 
- 
- 
+1.024 
+1.061 
+1.130 
+1.053 
+1.134 
+1.276 
 
- 
- 
- 
+1.109 
+1.269 
+1.526 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+1.057 
+1.142 
+1.280 
+1.126 
+1.302 
+1.556 
+1.254 
+1.570 
+1,954 
 
- 
+2.0 
 
- 
- 
- 
- 
- 
- 
-  
- 
- 
+1.007 
+1.017 
+1.037 
+1.015 
+1.038 
+1.080 
+1.03 1 
+1.077 
+1.155 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+1.013 
+1.033 
+1.070 
+1.029 
+1.072 
+1.144 
+1.059 
+1.141 
+1.261 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+1.031 
+1.077 
+1.145 
+1.068 
+1.157 
+1.273 
+1.133 
+1.280 
+1.432 
 
-The  bias  increases with  the  misclassification  rate  the  smoking  excess risk  the  proportion  of 
-smokers and the concordance ratio here parameterized  indirectly by  z  and decreases with  the 
-proportion of spouses who smoke Table I shows how E  actually not approximately varies with 
-these parameters The same relationships apply 
+The  bias  increases with  the  misclassification  rate,  the  smoking  excess risk,  the  proportion  of 
+smokers and the concordance ratio (here parameterized  indirectly by  z)  and decreases with  the 
+proportion of spouses who smoke. Table I shows how E*  actually (not approximately varies with 
+these parameters. The same relationships apply. 
 
-  Casekontrol rather than prospective study 
+2.7.  Casekontrol rather than prospective study 
 
-E  can be calculated by  dividing an estimate  h l  h    based on case data by  an estimate hh 
-based  on  population  data  If  the  controls  are  representative  of  the  population  and  if 
-misclassification is independent of  casecontrol status the above procedures can also be applied 
-to  casecontrol  study  data  Note  misclassification  of  cases  produces  upward  bias  while 
-misclassification  of  controls  produces  downward  bias  For  small  p 
+E*  can be calculated by  dividing an estimate ( h l / h 2 )  based on case data by  an estimate (h3/h4) 
+based  on  population  data.  If  the  controls  are  representative  of  the  population,  and  if 
+misclassification is independent of  case-control status, the above procedures can also be applied 
+to  case-control  study  data.  Note  misclassification  of  cases  produces  upward  bias,  while 
+misclassification  of  controls  produces  downward  bias.  For  small  p, 
 the  upward 
-the  downward  bias  hh N    g  where  g  psz   
-bias  hlhz I   Rg  and 
-  sl  ml 
+the  downward  bias = h3/h4 N  1 + g,  where  g = ps(z - 1)/ 
+bias = hl/hz /I: 1 + Rg  and 
+(1 - s)(l - ml). 
 
-  Risk of  disease associated with misclassification 
+2.8.  Risk of  disease associated with misclassification 
 
-In  Section    misclassification  of  smoking  was  assumed  random  with  the  same  risk  in 
-misclassified and correctly classified smokers This may well  be untrue in practice Misclassified 
+In  Section  2.1  misclassification  of  smoking  was  assumed  random,  with  the  same  risk  in 
+misclassified and correctly classified smokers. This may well  be untrue in practice. Misclassified 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS  A  SOURCE OF BIAS 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS  A  SOURCE OF BIAS 
 
- 
+585 
 
-smokers may  have smoked less andor  longer  ago suggesting a  lower  risk  than  smokers who 
-report their smoking On the other hand misclassification may be common in subjects who have 
-ignored doctors advice to give up smoking following a visit relating to symptoms rendering them 
-at higher than average risk 
-If correctly classified smokers have w times the risk of misclassified smokers and R  and R are 
-their risks relative to true nonsmokers we can solve R  wR and   pR  pR   R to give 
-R   R   p     pw and  R   wRp    pw The  observed  active smoking  RR  is then 
-given by  R   Ru  puu  pRu R  is usually    R but this need not be so for example if 
-p  is small and  u is much larger than  u R  N R  which is   R  if  w   
+smokers may  have smoked less and/or  longer  ago, suggesting a  lower  risk  than  smokers who 
+report their smoking. On the other hand, misclassification may be common in subjects who have 
+ignored doctor's advice to give up smoking following a visit relating to symptoms rendering them 
+at higher than average risk. 
+If correctly classified smokers have w times the risk of misclassified smokers, and R'  and R" are 
+their risks, relative to true non-smokers, we can solve R' = wR" and (1 - p)R' + pR"  = R to give 
+R  = R / ( p  + (1 - p)w) and  R'  = wR/(p + (1 - p)w). The  observed  active smoking  RR  is then 
+given by  R*  = R'(u + pu)/(u + pR"u). R*  is usually  -=  R, but this need not be so, for example, if 
+p  is small and  u is much larger than  u, R*  N R'  which is  > R  if  w > 1. 
 
-The observed spousal smoking RR is given by the same formulae as in Sections   with 
-R  replaced  by  R   Assuming  the  risk  of  misclassified  smokers  exceeds  that  of  nonsmokers 
-positive misclassification bias will  occur 
+The observed spousal smoking RR is given by the same formulae as in Sections 2.4-2.6  with 
+R  replaced  by  R .  Assuming  the  risk  of  misclassified  smokers  exceeds  that  of  non-smokers, 
+positive misclassification bias will  occur. 
 
-  Misclassification associated with spousal smoking habits 
+2.9.  Misclassification associated with spousal smoking habits 
 
 The  random  misclassification  assumption  also  means  that  rates  are  independent  of  spousal 
-smoking This may  also be  untrue with  people married  to a nonsmoker  less willing to admit 
-smoking 
-If  the misclassification rate is p when the spouse smokes and p   when  the spouse does not 
-E   a  pcb  pIRdb  p  d   a   pRc It is clear p causes positive bias and p   negative 
-bias Given p l   E  declines with increasing p    the overall bias ceasing to be positive E   if 
-pp  k  If  p    k p    negative bias will  occur 
+smoking. This may  also be  untrue, with  people married  to a non-smoker  less willing to admit 
+smoking. 
+If  the misclassification rate is p1 when the spouse smokes and p 2  when  the spouse does not, 
+E'  = (a + p2c)(b + pIRd)/(b + p , d ) ( a  + p2Rc). It is clear p1 causes positive bias and p 2  negative 
+bias. Given p l ,  E'  declines with increasing p 2 ,  the overall bias ceasing to be positive (E' = 1) if 
+p2/p1 = k.  If  p 2  > k p , ,  negative bias will  occur. 
 
-  Misclassification of nonsmokers as smokers 
-So  far  it  has  been  assumed  no  nonsmokers  are  misclassified  as  smokers  Now  if  q  is  the 
-proportion  of  misclassified nonsmokers we  have 
+2.10.  Misclassification of non-smokers as smokers 
+So  far  it  has  been  assumed  no  non-smokers  are  misclassified  as  smokers.  Now  if  q  is  the 
+proportion  of  misclassified non-smokers, we  have: 
 
 Group 
 
@@ -632,70 +632,70 @@ Subject
 
 Spouse 
 
- 
- 
- 
- 
- 
- 
+1 
+2 
+3 
+4 
+5 
+6 
 
-Nonsmoker  Nonsmoker 
-Nonsmoker  Smoker 
-Nonsmoker  All 
+Non-smoker  Non-smoker 
+Non-smoker  Smoker 
+Non-smoker  All 
 Smoker 
 Smoker 
 Smoker 
 
-Nonsmoker 
+Non-smoker 
 Smoker 
 All 
 
 Observed data 
 
 Population 
-a     qa  pc 
-b     qb  pd 
-u     u  PO 
-c   qa    pc 
-d   qb    pd 
-v   qu    p  u  
+a** = (1  - q)a + pc 
+b**  = (1 - q)b + pd 
+u**  = (1 - 4)u + PO 
+c**  = qa + (1 - p)c 
+d**  = qb + (1 - p)d 
+v**  = qu + (1 - p ) u  
 
 Cases 
-y   n  pRc 
-  qb  p R d   
-Y   u  pRv 
+y((1  - 4)n + pRc) 
+~((1 - q)b + p R d )  
+Y((1  - 4)u + pRv) 
 
-yqu     pRv 
+y(qu  + (1 - p)Rv) 
 
-If  p   q    as  should  always  be  true  in  practice  the  observed  concordance  ratio 
+If  p  + q < 1,  as  should  always  be  true  in  practice,  the  observed  concordance  ratio 
 
-k   adbc  satisfies   k   k   k 
+k**  = a**d**/b**c**  satisfies 1 < k**  < k*  < k. 
 The observed active smoking RR is given by 
 
-R          pRul       p V    q U     pul   qu  PRO 
+R**  = ( 4 ~  + (1 - p)Ru)((l - 4 ) ~  + p V ) / ( q U  + (1 - p)u)((l  - q)u + PRO). 
 
-If  p   q   R  satisfies   R   R   R 
+If  p  + q < 1, R**  satisfies 1 < R**  < R*  < R. 
 
 The observed spousal smoking RR is given by 
 
-E     a  pCl  qb  pRdl  qb  p d    l   qa   R c    
+E**  = ((1 - 4)a + pC)((l - q)b + pRd)/((l - q)b + p d ) ( ( l  - q)a + ~ R c ) .  
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons License 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License586 
 
-P LEE AND B FOREY 
+P. LEE AND B. FOREY 
 
-Writing p   pl   q it is clear the formula for E is identical to that in Section  with p 
-replacing p   Thus for example a    per  cent  misclassification  rate  of  smokers as nonsmokers 
-causes the same bias as a   per cent rate in  both  directions Misclassification of  smokers is 
-clearly a much more important  cause of  bias than is the reverse misclassification which has no 
-effect  on its own  and only slightly reduces the spurious  RR estimate otherwise Because of  this 
-and as false claiming of  smoking is probably  quite rare most attempts to quantify the bias have 
-ignored this reverse misclassification 
+Writing p**  = p/(l  - q) it is clear the formula for E** is identical to that in Section 2.4, with p** 
+replacing p .  Thus, for example, a  5  per  cent  misclassification  rate  of  smokers as non-smokers 
+causes the same bias as a  5.26 per cent rate in  both  directions. Misclassification of  smokers is 
+clearly a much more important  cause of  bias than is the reverse misclassification, which has no 
+effect  on its own  and only slightly reduces the spurious  RR estimate otherwise. Because of  this, 
+and as false claiming of  smoking is probably  quite rare, most attempts to quantify the bias have 
+ignored this reverse misclassification. 
 
-   Misclassification of  spousal smoking 
+2.1 1.  Misclassification of  spousal smoking 
 
-So  far it has  been assumed  subjects but  not  spouses are misclassified If  r  is the  proportion  of 
-smoking spouses misclassified we  have 
+So  far it has  been assumed  subjects but  not  spouses are misclassified. If  r  is the  proportion  of 
+smoking spouses misclassified we  have: 
 
 Group 
 
@@ -705,73 +705,73 @@ Subject
 
 Spouse 
 
- 
- 
- 
- 
- 
- 
+1 
+2 
+3 
+4 
+5 
+6 
 
-Nonsmoker  Nonsmoker 
-Nonsmoker  Smoker 
-Nonsmoker  All 
+Non-smoker  Non-smoker 
+Non-smoker  Smoker 
+Non-smoker  All 
 Smoker 
 Smoker 
 Smoker 
 
-Nonsmoker 
+Non-smoker 
 Smoker 
 All 
 
-The observed concordance ratio k   adbc is a more severely biased estimate of 
-k satisfying   k   k   k   
+The observed concordance ratio k***  = a***d***/b***c*** is a more severely biased estimate of 
+k, satisfying 1 < k***  < k*  < k .  
 
-Misclassification  of  spousal  smoking  does  not  affect  the  observed  active  smoking  risk  so 
+Misclassification  of  spousal  smoking  does  not  affect  the  observed  active  smoking  risk,  so 
 
-R   R 
+R***  = R* 
 
 The observed spousal smoking RR is given by 
 
-E   a  pc  r  b   p d    b   pRda  pRc  rb  p R d    b   p d    
-If  p     E    so  that  misclassification  of  spousal  smoking  causes  no  apparent  effect  of 
-spousal smoking when  no  true  risk exists Assuming p    E  satisfies   E  E For 
-small p E  lE   approximately equals  aa   rb For small r  this is close to   
+E***  = (a + pc + r ( b  + p d ) ) ( b  + pRd)/(a + pRc + r(b + p R d ) ) ( b  + p d ) .  
+If  p  = 0,  E***  = 1, so  that  misclassification  of  spousal  smoking  causes  no  apparent  effect  of 
+spousal smoking when  no  true  risk exists. Assuming p  > 0, E***  satisfies 1 < E*** < E*. For 
+small p, (E*** - l)/(E* - 1) approximately equals  a*/(a*  + rb*). For small r  this is close to  1, 
 implying that ignoring misclassification of  spousal smoking only leads to slight overestimation of 
-the spousal smoking RR which arises mainly from misclassification of  smoking by  the subject 
+the spousal smoking RR, which arises mainly from misclassification of  smoking by  the subject. 
 The  above  calculations  assume  misclassification  of  subject  and  spousal  smoking  are 
-independent If  they are positively correlated which might occur if say both  were reported  by 
-the same respondent E would be reduced If  all smokers who deny their smoking also deny their 
-spouses the observed spousal smoking RR will  be    
+independent. If  they are positively correlated, which might occur, if, say, both  were reported  by 
+the same respondent, E would be reduced. If  all smokers who deny their smoking also deny their 
+spouse’s, the observed spousal smoking RR will  be  < 1. 
 
-  Summary 
+2.12.  Summary 
 
-The  results  above  show  that  misclassification  of  a  subjects  smoking  habits  leads  to 
-underestimation  of  the  strength  of  the  active  smokinglung cancer  relationship  and  of  the 
-concordance  between  husbands and  wives smoking habits  consistent  with  the  general thesis 
-that random misclassification leads to underestimation  of  the strength  of  positive associations 
-By contrast providing there is positive concordance between spouses smoking habits random 
-misclassification of some subjects who smoke as nonsmokers leads to an apparent relationship of 
-spousal  smoking  to  risk  in  nonsmokers  when  no  true  relationship  exists  The  size  of  the 
+The  results  above  show  that  misclassification  of  a  subject’s  smoking  habits  leads  to 
+underestimation  of  the  strength  of  the  active  smoking/lung cancer  relationship  and  of  the 
+concordance  between  husbands’ and  wives’ smoking habits,  consistent  with  the  general thesis 
+that random misclassification leads to underestimation  of  the strength  of  positive associations. 
+By contrast, providing there is positive concordance between spouses’ smoking habits, random 
+misclassification of some subjects who smoke as non-smokers leads to an apparent relationship of 
+spousal  smoking  to  risk  in  non-smokers  when  no  true  relationship  exists.  The  size  of  the 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS A SOURCE OF BIAS 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS A SOURCE OF BIAS 
 
- 
+587 
 
-misclassification bias  depends on  the misclassification rate the excess active smoking risk the 
-proportion  of  smokers the concordance ratio  and  the proportion  of  spouses who smoke It is 
-little affected by  misclassification of  nonsmokers as smokers or of  smoking by  spouses which 
-will  be  ignored  hereafter  More  crucial  to  the  size  of  the  bias  are  the  possibilities  that 
-misclassification rates may depend  on risk of  disease or on spousal smoking habits If  smokers 
-with a relatively low risk of lung cancer or who are married to nonsmokers tend to be more likely 
-to deny smoking the bias will  be less than indicated  by  the formula in  Section  
+misclassification bias  depends on  the misclassification rate, the excess active smoking risk, the 
+proportion  of  smokers, the concordance ratio,  and  the proportion  of  spouses who smoke. It is 
+little affected by  misclassification of  non-smokers as smokers, or of  smoking by  spouses, which 
+will  be  ignored  hereafter.  More  crucial  to  the  size  of  the  bias  are  the  possibilities  that 
+misclassification rates may depend  on risk of  disease or on spousal smoking habits. If  smokers 
+with a relatively low risk of lung cancer or who are married to non-smokers tend to be more likely 
+to deny smoking, the bias will  be less than indicated  by  the formula in  Section 2.4. 
 
-  MISCLASSIFICATION IN A   x  TABLE TRUE EFFECT OF ETS EXPOSURE 
+3.  MISCLASSIFICATION IN A  2 x 2 TABLE: TRUE EFFECT OF ETS EXPOSURE 
 
-  Multiplicative and additive model 
+3.1.  Multiplicative and additive model 
 
-Let the risk be y for nonsmokers married to nonsmokers with RRs in groups  and  in the 
-ratios    E  R  RE  and    E R  E  R   for  the  multiplicative  model  and  for  the  additive 
-model Expected numbers  of  subjects after misclassification are then 
+Let the risk be y for non-smokers married to non-smokers, with RRs in groups 1,2,4 and 5 in the 
+ratios  1 : E : R : RE  and  1 : E: R : E + R - 1 for  the  multiplicative  model  and  for  the  additive 
+model. Expected numbers  of  subjects after misclassification are then: 
 
 Group 
 
@@ -786,160 +786,160 @@ Population
 Observed data 
 
 Cases 
-multiplicative 
+(multiplicative) 
 
 Cases 
-additive 
+(additive) 
 
- 
- 
- 
- 
- 
- 
+1 
+2 
+3 
+4 
+5 
+6 
 
-Nonsmoker  Nonsmoker 
-Nonsmoker  Smoker 
-Nonsmoker  All 
+Non-smoker  Non-smoker 
+Non-smoker  Smoker 
+Non-smoker  All 
 Smoker 
 Smoker 
 Smoker 
 
-Nonsmoker 
+Non-smoker 
 Smoker 
 All 
 
-a   a  pc 
-b   b  pd 
-u   u  pv 
-c       p  c  
-d     p  d  
-v     p  v  
+a*  = a + pc 
+b*  = b + pd 
+u*  = u + pv 
+c*  = ( 1  - p ) c  
+d*  = (1 - p ) d  
+v*  = (1 - p ) v  
 
-Y a  PRC 
-y E  b   p R d   
+Y (a + PRC) 
+y E ( b  + p R d )  
 
-y R  l   pc 
-yRE  Pd 
+y R ( l  - p)c 
+yRE(1 - P)d 
 
-Y a  PRC 
-y  E b   P  E   R     d   
+Y (a + PRC) 
+y ( E b  + P ( E  + R  - 1 ) d )  
 By  summation 
-Y W   P I C  
-y  E   R         Pd 
+Y W  - P I C  
+y ( E  + R  - 1 ) ( 1  - P)d 
 
 By  summation 
 
-The changed assumptions which only affect risks do not change the effect of  misclassification 
+The changed assumptions, which only affect risks, do not change the effect of  misclassification 
 
-on the concordance ratio see Section  
+on the concordance ratio (see Section 2.2). 
 
-  Effect of misclassification on  the active smoking relative risk 
+3.2.  Effect of misclassification on  the active smoking relative risk 
 
-For  the multiplicative model the observed active smoking RR  is given by 
-RC   Rc  Ed  pvva   R c    E  b   pRd 
-This is biased even without misclassification p   due to failure to adjust for spousal smoking 
-When adjustment for spousal smoking is made the active smoking RR will be biased downwards 
-by misclassification For example within subjects with nonsmoking spouses the observed active 
-smoking RR will  be given by  the expression Ra  pca  pRc which is   R 
+For  the multiplicative model, the observed active smoking RR  is given by 
+RC  = R(c + Ed)(# + pv)/v((a + ~ R c )  + E ( b  + pRd)). 
+This is biased even without misclassification (p = 0) due to failure to adjust for spousal smoking. 
+When adjustment for spousal smoking is made, the active smoking RR will be biased downwards 
+by misclassification. For example, within subjects with non-smoking spouses, the observed active 
+smoking RR will  be given by  the expression R(a + pc)/(a + pRc), which is  < R. 
 
-For the additive model the observed active smoking RR  is given by 
+For the additive model, the observed active smoking RR  is given by 
 
-RZ   Rc   E   R   l  d      P U   U       R c    Eb  p  E   R   d 
-The  ratio  of  risks  in  smokers to nonsmokers  among  those  married  to a smoker  is  equal  to 
-E  R   lE As this is   R the active smoking RR will be biased downwards even when there 
-is no misclassification and when  adjustment  is made for spousal  smoking 
+RZ  = (Rc + ( E  + R  - l ) d ) ( ~  + P U ) / U ( ( ~  + ~ R c )  + Eb + p ( E  + R  - 1)d). 
+The  ratio  of  risks  in  smokers to non-smokers,  among  those  married  to a smoker  is  equal  to 
+(E + R  - l)/E. As this is  < R, the active smoking RR will be biased downwards even when there 
+is no misclassification and when  adjustment  is made for spousal  smoking. 
 
-  Effect  of misclassification on the spousal smoking relative risk 
+3.3.  Effect  of misclassification on the spousal smoking relative risk 
 
-For the multiplicative model the observed spousal smoking RR is given by 
+For the multiplicative model, the observed spousal smoking RR is given by 
 
-EC   Ea  pcb  pRdb  pdu   R c    EE 
+EC  = E(a + pc)(b + pRd)/(b + pd)(u + ~ R c )  = EE*. 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons License 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License588 
 
-P LEE AND B FOREY 
+P. LEE AND B. FOREY 
 
-Thus any  circumstances causing a given  bias in  the  simple model described in  Section  will 
-multiply a true risk associated with spousal smoking by  the same factor 
-For the additive model the observed spousal smoking RR is given by 
+Thus any  circumstances causing a given  bias in  the  simple model described in  Section 2 will 
+multiply a true risk associated with spousal smoking by  the same factor. 
+For the additive model, the observed spousal smoking RR is given by 
 
-E  a  pcEb  p  E   R   ldb  a  Rc 
-This satisfies E  E t   Given p   E increases with  increasing E starting at the value E  when 
-E   The increase in EZ  is less steep than that in E so that EX   E when E   adbc which is 
-approximately equal to the concordance ratio k For higher values of  E E  will underestimate E 
+E]: = (a + pc)(Eb + p ( E  + R  - l)d)/(b + @)(a + ~Rc). 
+This satisfies E]: -= E t .  Given p ,  E]: increases with  increasing E, starting at the value E*  when 
+E = 1. The increase in EZ  is less steep than that in E, so that EX  = E when E  = a*d/b*c, which is 
+approximately equal to the concordance ratio k. For higher values of  E, E:  will underestimate E, 
 though  this  is  unlikely  in  practice  since  estimates  of  concordance  ratio  usually  substantially 
-exceed estimates of  spousal smoking relative risk 
+exceed estimates of  spousal smoking relative risk. 
 
-  Estimates of  Wald and of  the US National Research Council 
+3.4.  Estimates of  Wald and of  the US National Research Council 
 
-In  Wald et al  and the US National Research Council used an additive model to correct 
-spousal smoking RR estimates for bias The methodology used was similar to that described here 
-However it was applied using observed data to estimate s  rn and R ignoring the fact that these 
-data would themselves be subject to misclassification This resulted in understatement  of the bias 
-Thus  Wald  et  al  using  estimates  of  s     p     ml     m   R     and 
-E   calculated the observed spousal smoking RR should be   that is an upward bias by 
- per cent In fact after accounting for misclassification appropriate estimates of s mi  and R are 
- and  The observed spousal smoking RR can  then be estimated as   
-that is an upward bias by   per cent almost  per cent more than Wald  et  a  calculated 
+In 1986, Wald et al."  and the US National Research Council7 used an additive model to correct 
+spousal smoking RR estimates for bias. The methodology used was similar to that described here. 
+However, it was applied using observed data to estimate s,  rn, and R, ignoring the fact that these 
+data would themselves be subject to misclassification. This resulted in understatement  of the bias. 
+Thus,  Wald  et  al.,"  using  estimates  of  s  = 050,  p  = 0.07,  ml  = 0.59,  m2 = 0-81, R  = 2  and 
+E = 1.3 calculated the observed spousal smoking RR should be  1.3454, that is, an upward bias by 
+3.5 per cent. In fact, after accounting for misclassification, appropriate estimates of s, mi  and R are 
+05376,05721 and 2.3079. The observed spousal smoking RR can  then be estimated as  1.3725, 
+that is, an upward bias by  5.6 per cent, almost 60 per cent more than Wald  et  a!."  calculated. 
 
-  MISCLASSIFICATION IN A   x N  TABLE 
+4.  MISCLASSIFICATION IN A  2 x N  TABLE 
 
-  The WellsStewart method 
+4.1.  The WellsStewart method 
 
-In  their  report  the  EPA described  and  used  the  method  of  Wells  and  Stewart  to  correct 
-individual  study  RR  estimates  for  smoking  misclassification The  method  has  two  notable 
-features First rather  than simply classify subjects as smokers or nonsmokers four groups are 
-considered regular occasional former smokers and lifelong nonsmokers The association with 
-spousal  smoking  which  remains  classified  in  two  groups  is  studied  in  observed  lifelong 
-nonsmokers  which  contain  true  lifelong  nonsmokers  together  with  misclassified  regular 
-occasional and former smokers the misclassification rate varying by smoking group Second the 
-method  is based  on observed data While in Sections  and   above emphasis is on describing 
-how  observed  RRs  depend  on  the  misclassification  rate  given  true  underlying  values  of 
-parameters such as s  ml m k E and R the WellsStewart  method  aims at estimating the true 
-value of E given assumed misclassification rates and observed values of the parameters including 
-the spousal smoking RR 
+In  their  report,  the  EPA8 described  and  used  the  method  of  Wells  and  Stewart  to  correct 
+individual  study  RR  estimates  for  smoking  misclassification. The  method  has  two  notable 
+features. First, rather  than simply classify subjects as smokers or non-smokers, four groups are 
+considered: regular; occasional; former smokers, and lifelong non-smokers. The association with 
+spousal  smoking  (which  remains  classified  in  two  groups)  is  studied  in  observed  lifelong 
+non-smokers,  which  contain  true  lifelong  non-smokers  together  with  misclassified  regular, 
+occasional and former smokers, the misclassification rate varying by smoking group. Second, the 
+method  is based  on observed data. While in Sections 2 and  3 above, emphasis is on describing 
+how  observed  RRs  depend  on  the  misclassification  rate,  given  true  underlying  values  of 
+parameters such as s,  ml, m2, k, E and R, the Wells-Stewart  method  aims at estimating the true 
+value of E, given assumed misclassification rates, and observed values of the parameters, including 
+the spousal smoking RR. 
 
-Elsewhere Lee  discusses the  WellsStewart  method  in  detail  He  points  out  the  method 
+Elsewhere, Lee'3  discusses the  Wells-Stewart  method  in  detail.  He  points  out  the  method 
 depends  on  many  inadequately  explained  and  justified  assumptions  and  imprecisely  known 
-parameters and refers to errors in the method Thus i it was assumed totally implausibly that 
-the spousal smoking  RR multiplies the former smoking RR but  not  the current  smoking RR 
-ii the multiplicative model was  applied to observed  RRs when  logically it would  only  apply 
-were it appropriate to true RRs that is RRs before misclassification iii the estimated RR for 
-current  versus never smoking was  applied  to current  regular  smoking but  current  smokers 
-include  both  regular  and  occasional  smokers iv in  estimating  the  observed  smoking  habit 
-distribution of  the cases the frequency of all former smokers longterm and short term has been 
-multiplied by  a  risk  factor  derived for  longterm  smokers  only  and  v the actual  method  of 
+parameters, and refers to errors in the method. Thus: (i) it was assumed, totally implausibly, that 
+the spousal smoking  RR multiplies the former smoking RR, but  not  the current  smoking RR; 
+(ii) the multiplicative model was  applied to observed  RRs when  logically it would  only  apply 
+(were it appropriate) to true RRs, that is, RRs before misclassification; (iii) the estimated RR for 
+current  (versus never) smoking was  applied  to current  regular  smoking, but  current  smokers 
+include  both  regular  and  occasional  smokers; (iv) in  estimating  the  observed  smoking  habit 
+distribution of  the cases, the frequency of all former smokers (long-term and short term) has been 
+multiplied by  a  risk  factor  derived for  long-term  smokers  only;  and  (v) the actual  method  of 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS  A SOURCE OF BIAS 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS  A SOURCE OF BIAS 
 
- 
+589 
 
-estimating corrected  numbers  of  never  smokers given  the  observed  distribution  of  cases and 
-controls  by  self  and  spouses  smoking  habits  and  the  assumed  misclassification  rates  is 
-mathematically erroneous 
+estimating corrected  numbers  of  never  smokers, given  the  observed  distribution  of  cases and 
+controls  by  self  and  spouse's  smoking  habits  and  the  assumed  misclassification  rates,  is 
+mathematically erroneous. 
 
-In the following we describe an alternative procedure which is simpler exact and involves fewer 
-assumptions As with the EPA method it estimates E based on observed data and allows various 
-categories  of  smokers  to  be  misclassified  though  it  can  also  be  applied  to  the  simple 
-smokernonsmoker  case 
+In the following we describe an alternative procedure which is simpler, exact and involves fewer 
+assumptions. As with the EPA method, it estimates E based on observed data, and allows various 
+categories  of  smokers  to  be  misclassified  (though  it  can  also  be  applied  to  the  simple 
+smoker/non-smoker  case). 
 
-  Adjusting the spousal smoking relative risk  using observed data  assumptions and notation 
-Let  subjects  who  smoke  be  categorized  into  n  increasing  levels   i     n The  notation 
-previously used is extended by  a subscript for smoking level The true distribution of smoking in 
-controls is then 
+4.2.  Adjusting the spousal smoking relative risk  using observed data - assumptions and notation 
+Let  subjects  who  smoke  be  categorized  into  n  increasing  levels  ( i  = 1, ... ,n). The  notation 
+previously used is extended by  a subscript for smoking level. The true distribution of smoking in 
+controls is then: 
 
 Spouse 
 
 Subject 
 
-Never  Level   
+Never  Level  1 
 
-  Level  i 
+...  Level  i 
 
-  Level  n 
+...  Level  n 
 
-Nonsmoker 
+Non-smoker 
 Smoker 
 Total 
 
@@ -947,11 +947,11 @@ a
 b 
 U 
 
-C   
+C 1  
 
 d i  
 
- J l  
+' J l  
 
 Ci 
 di 
@@ -959,140 +959,140 @@ ui
 
 Cn 
 d n  
-Jn 
+'Jn 
 
-with asterisks used  for the observed distribution 
-For a multiplicative model the true RRs are 
+with asterisks used  for the observed distribution. 
+For a multiplicative model, the true RRs are: 
 
 Spouse 
 
 Subject 
 
-Never  Level   
+Never  Level  1 
 
-  Level  i 
+...  Level  i 
 
-  Level  n 
+...  Level  n 
 
- 
+~ 
 
-Nonsmoker 
+Non-smoker 
 Smoker 
 
- 
+1 
 E 
 
-R 
+R1 
 R l E  
 
 Ri 
 RiE 
 
-R 
+R. 
 RnE 
 
-The true distribution for cases ignoring scaling factors is given by  multiplying corresponding 
-elements in  the  two  tables Upper  case letters  indicate  the  result for example Di  diRiE for 
-a multiplicative model For an additive model RiE is replaced by  Ri  E   
+The true distribution for cases (ignoring scaling factors) is given by  multiplying corresponding 
+elements in  the  two  tables. Upper  case letters  indicate  the  result, for example, Di = diRiE for 
+a multiplicative model. For an additive model, RiE is replaced by  Ri + E - 1. 
 
-Let p i j  be the probability a smoker at level i  is misclassified at a lower level j The relationship 
-between true and observed distributions for controls or cases for spouse nonsmoker or smoker 
-can be written down easily for example with n    and considering cases married  to a smoker 
+Let p i j  be the probability a smoker at level i  is misclassified at a lower level j. The relationship 
+between true and observed distributions (for controls or cases, for spouse non-smoker or smoker) 
+can be written down easily, for example, with n  = 2 and considering cases married  to a smoker: 
 
-B     B   
-  
-D t   
+B * =   B +  
+0: = 
+D t  = 
 
-PlODl   
-  PlDl  
+PlODl  + 
+(1 - Pl0)Dl + 
 
-P   D   
+P 2 0 D 2  
 
-P   D   
-  P      P  l  D Z   
+P 2 1 D 2  
+(1 - P 2 0   - P 2 l ) D Z .  
 
-These formulae can be inverted to estimate true from observed data 
+These formulae can be inverted to estimate true from observed data. 
 
-Following the EPA it is assumed there is no misclassification of  never smokers as smokers or 
+Following the EPA, it is assumed there is no misclassification of  never smokers as smokers or 
 of  spousal smoking and that misclassification of smoking by the subject is independent of spousal 
-smoking and of  disease status 
+smoking and of  disease status. 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons License 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License590 
 
-P LEE AND B FOREY 
+P. LEE AND B. FOREY 
 
-  The estimation procedure  Step  obtaining observed and true smoking habit distributions for 
+4.3.  The estimation procedure - Step 1: obtaining observed and true smoking habit distributions for 
 controls 
 
-The casecontrol study for which the RR is to be adjusted provides estimates of observed number 
-of  never smokers by  spousal smoking a  and b which can be  summed to give u 
+The case-control study for which the RR is to be adjusted provides estimates of observed number 
+of  never smokers by  spousal smoking, a*  and b*, which can be  summed to give u*. 
 
-Data on the total number of  subjects who smoke t   X u    can be obtained directly in some 
-studies  or  indirectly  from  an  estimate  of  smoking  frequency  in  the  population  s  by 
-t   su   s  t can then be multiplied by estimates of  the relative frequency of  smoking in 
-the n  categories to give  
-d f  can then be estimated by  solving c f   d    u  and kf   adbcf 
+Data on the total number of  subjects who smoke, t*  = X u ) ,  can be obtained directly in some 
+studies,  or  indirectly  from  an  estimate  of  smoking  frequency  in  the  population,  s*,  by 
+t*  = s*u*/( 1 - s*).  t* can then be multiplied by estimates of  the relative frequency of  smoking in 
+the n  categories to give 0). 
+d f  can then be estimated by  solving c f  + d )  = u)  and kf  = a*d)/b*cf. 
 
-Given af  bf and u  and estimates of  the concordance ratio for each smoking level kf  cf  and 
+Given af,  bf and u),  and estimates of  the concordance ratio for each smoking level, kf , cf  and 
 
-This gives the whole of the table for observed controls from which as described in Section  
+This gives the whole of the table for observed controls from which, as described in Section 4.2, 
 
-the table for true controls can then be  estimated 
+the table for true controls can then be  estimated. 
 
-  The estimation procedure  Step   obtaining smoking habit distributions for cases regardless of 
+4.4.  The estimation procedure - Step 2  obtaining smoking habit distributions for cases regardless of 
 spouse smoking 
 
 The study for which the RR is  to be  adjusted  provides estimates of  observed numbers of  never 
-smokers by spousal smoking A and B which can be summed to give U Given estimates of the 
-observed smoking RR in  the various  categories R  estimates  of  V  can  then  be  obtained  by 
-Rf   VuvU 
+smokers by spousal smoking, A* and B*, which can be summed to give U*. Given estimates of the 
+observed smoking RR in  the various  categories, R),  estimates  of  V:  can  then  be  obtained  by 
+Rf  = V:u*/v:U*. 
 
-Alternatively if the total number of  smokers in the cases T   XV is known and estimates of 
-the  excess risks  of  smoking in  the  various  categories X    relative to category  nX  l are 
-available estimates of  V  can  be  obtained  from  n  equations  R   VyuufU  i    n 
-R      XR   i      n   l and  T    Z V 
+Alternatively, if the total number of  smokers in the cases, T * = XV?, is known and estimates of 
+the  excess risks  of  smoking in  the  various  categories, X ) ,  relative to category  n(X,* = l), are 
+available, estimates of  V:  can  be  obtained  from  2n  equations:  R)  = Vyu*/ufU*  (i = 1, ... ,n), 
+R )  = 1 + X?(R,* - 1) (i = 1,. . . , n  - l), and  T *  = Z V:. 
 
-The relationships of  Section  are then used to give U and  V i   the total number of true cases 
+The relationships of  Section 4.2 are then used to give U and  V i ,  the total number of true cases 
 
-subdivided by  subjects smoking 
+subdivided by  subject’s smoking. 
 
-  The estimation procedure  Step  estimating the true spousal smoking relative risk 
-Assume  a  starting  value  of  E  k perhaps  the  observed  value  of  the  spousal  smoking  RR 
-i  BaAb  or  a  value  somewhat  less  Solve     BaAb  and  U   A   B 
+4.5.  The estimation procedure - Step 3: estimating the true spousal smoking relative risk 
+Assume  a  starting  value  of  E = k, perhaps  the  observed  value  of  the  spousal  smoking  RR 
+i = B*a*/A*b*  or  a  value  somewhat  less.  Solve  ,!?  = Ba/Ab  and  U  = A  + B 
 to  give 
-A   aUa  b k   and B  U   A   
-For  the  multiplicative  model  Ri  CiaAci Ri  DibBdi and  Ci  D i   V i   Solving  gives 
-Ci  AbciViBadi  Abc and hence D i  and  R i   
-For  the  additive  model the  second  equation  is  replaced  by  Ri     l   i   DibBdi and 
+A  = aU/(a + b k )  and B = U  - A .  
+For  the  multiplicative  model  Ri = Cia/Aci, Ri = Dib/Bdi and  Ci + D i  = V i .  Solving  gives 
+Ci = AbciVi/(Badi + Abc,) and hence D i  and  R i .  
+For  the  additive  model, the  second  equation  is  replaced  by  (Ri + ,!?  - l ) / i  = Dib/Bdi, and 
 
 solving gives 
 
-C i   AcibVik  Bdik  lBadi  Abcik 
+C i  = Aci(bVik - Bdi(k - l))/(Badi + Abcik) 
 
-and hence D i  and R    
+and hence D i  and R , .  
 
-The whole table for true cases has now been obtained and using the relationships in Section 
- the complete table for observed cases can then be estimated If  the estimate of  B  exceeds the 
-actual study value assume a lower value of  k if  it  is less try  a higher value 
+The whole table for true cases has now been obtained, and using the relationships in Section 
+4.2, the complete table for observed cases can then be estimated. If  the estimate of  B*  exceeds the 
+actual study value assume a lower value of  k; if  it  is less try  a higher value. 
 
-The whole procedure is then repeated iteratively until the estimate of  B  equals that observed 
+The whole procedure is then repeated iteratively until the estimate of  B*  equals that observed. 
 
-This gives the value of  E  adjusted for smoking habit  misclassification 
+This gives the value of  E  adjusted for smoking habit  misclassification. 
 
-The relationships of  Section  then allow completion of  the table of  observed case data and 
+The relationships of  Section 4.2 then allow completion of  the table of  observed case data and 
 can be estimated in the normal 
 
-hence of  observed RRs  per cent confidence limits of  E  and 
-way from the true and observed  x  tables a b A  B  and  a b A  B 
+hence of  observed RRs. 95 per cent confidence limits of  E  and 
+way from the true and observed 2 x 2 tables (a, b, A,  B  and  a*, b*, A*,  B*). 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS A SOURCE OF BIAS 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS A SOURCE OF BIAS 
 
-  
+59 1 
 
-  Example 
+4.6.  Example 
 
-As in the EPA report  data from Correa et a l l   study are used to illustrate the method The data 
-observed are as follows 
+As in the EPA report,'  data from Correa et a l l 4  study are used to illustrate the method. The data 
+observed are as follows: 
 
 Smoking habits 
 Subject 
@@ -1102,84 +1102,84 @@ Controls
 
 Cases 
 
-Nonsmoker  Nonsmoker 
-Nonsmoker  Smoker 
+Non-smoker  Non-smoker 
+Non-smoker  Smoker 
 Smoker 
 
 All 
 
-U     
-b     
-t    
+U*  =  72 
+b*  =  61 
+t*  = 119 
 
- 
-A    
-B     
-T     
+8 
+A * =  
+B*  =  14 
+T *  = 244 
 
-Associated with these data are estimates of   per cent for the observed proportion of  subjects 
-who had never smoked and of  and  for the observed spousal and active smoking RRs 
+Associated with these data are estimates of  52.8 per cent for the observed proportion of  subjects 
+who had never smoked and of 2.066 and 12.396 for the observed spousal and active smoking RRs. 
 
-Following to a considerable extent the  EPA  report  we  assume 
+Following to a considerable extent the  EPA  report,'  we  assume: 
 
- 
- 
- 
- 
- 
- 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
 
- 
+7. 
 
- 
- 
+8. 
+9. 
 
-Three levels of  smoking by  the subject former  i   l occasional  i    and regular  i    
-Former  smokers are  per cent  of  ever smokers u   t 
- per cent of  current  smokers are regular smokers u    u   u 
-The concordance  ratio for evernever smokers is  aXd  bZc 
-The concordance  ratio for formernever smokers is  k   
-The  concordance  ratios  for  occasionalnever  and  regularfnever  smokers  are  the  same 
-k   k 
-The observed excess risks for former and occasional smokers are respectively  per cent and 
-  per cent of  those for regular smokers 
-There is a multiplicative model between the true risks 
-The true to observed misclassification probabilities  pij are 
+Three levels of  smoking by  the subject: former ( i  = l), occasional ( i  = 2), and regular ( i  = 3). 
+Former  smokers are 35.5 per cent  of  ever smokers (u:  = 0.355t*). 
+90 per cent of  current  smokers are regular smokers (u:  = 0.9 (u:  + u:)). 
+The concordance  ratio for ever/never smokers is 2.8 (a*Xd* = 2*8b*Zc*). 
+The concordance  ratio for former/never smokers is 2-2 (k: = 2.2). 
+The  concordance  ratios  for  occasional/never  and  regularfnever  smokers  are  the  same 
+(k:  = k;). 
+The observed excess risks for former and occasional smokers are, respectively, 9 per cent and 
+20  per cent of  those for regular smokers. 
+There is a multiplicative model between the true risks. 
+The true to observed misclassification probabilities  (pij) are 
 
 True 
 
-Regular  
-Occasional  
-Former  
-Never  
+Regular (3) 
+Occasional (2) 
+Former (1) 
+Never (0) 
 
-Regular  
+Regular (3) 
 
-Occasional   Former   Never  
+Occasional (2)  Former (1)  Never (0) 
 
-Observed  j   
+Observed ( j )  
 
- 
+- 
 
-OoooO 
- 
+O~oooO 
+- 
 
- 
- 
- 
+0.0107 
+0.0910 
+- 
 
- 
- 
- 
- 
+0.0107 
+0.1770 
+0.1081 
+- 
 
-Assumption   is  the main  difference from the  EPA assumptions  Their multiplicative model 
+Assumption 8  is  the main  difference from the  EPA assumptions.  Their multiplicative model 
 
-applied to observed rather than true smokers and did not  apply  to current  smokers 
+applied to observed rather than true smokers, and did not  apply  to current  smokers. 
 
-Following Section  with minor adaptation as the concordance ratios are not given level by 
-level the data together with assumptions   to  lead to the following table of  observed control 
-data 
+Following Section 4.3 (with minor adaptation as the concordance ratios are not given level by 
+level) the data, together with assumptions  1 to 6, lead to the following table of  observed control 
+data: 
 
 Spouse 
 
@@ -1193,35 +1193,35 @@ Occasional
 
 Regular 
 
-Nonsmoker 
+Non-smoker 
 Smoker 
 Total 
 
- 
- 
- 
+72 
+61 
+133 
 
- 
- 
- 
+14.751 
+27.494 
+42.245 
 
- 
- 
- 
+2.054 
+5.622 
+7.676 
 
- 
- 
- 
+18.484 
+50.596 
+69.080 
 
-This is essentially identical to Table B of  the EPA report 
+This is essentially identical to Table B-13 of  the EPA report.' 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons License 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License592 
 
-P LEE AND B FOREY 
+P. LEE AND B. FOREY 
 
 The misclassification probability  matrix can now  be  applied to convert  these to true control 
 
-data 
+data: 
 
 Spouse 
 
@@ -1235,28 +1235,28 @@ Occasional
 
 Regular 
 
-Nonsmoker 
+Non-smoker 
 Smoker 
 Total 
 
- 
- 
- 
+69.569 
+55.907 
+125.476 
 
- 
- 
- 
+16.026 
+29.423 
+45.449 
 
- 
- 
- 
+2.806 
+7.680 
+10.486 
 
- 
- 
- 
+18.888 
+51.702 
+70.590 
 
-Using assumption   and the procedures in  Section  we  estimate the following table of  data 
-and risks ignoring spousal smoking 
+Using assumption  7, and the procedures in  Section 4.4, we  estimate the following table of  data 
+and risks, ignoring spousal smoking: 
 
 Observed data 
 
@@ -1278,45 +1278,45 @@ Regular
 
 Ever 
 
- 
+~ 
 
- 
+~~~ 
 
- 
+22 
 
-  
+1 .00 
 
- 
- oo 
+16.316 
+1 .oo 
 
- 
- 
+18.449 
+2.640 
 
- 
- 
+17.170 
+2.905 
 
- 
- 
+5.897 
+4.645 
 
- 
- 
+8.056 
+5.908 
 
- 
- 
+219.655 
+19.223 
 
- 
- 
+224.458 
+24.453 
 
- 
+244 
 
- 
+12.396 
 
- 
- 
+249.684 
+15.176 
 
-Finally the iterative procedures  of  Section  in  conjunction  with  the multiplicative model 
+Finally, the iterative procedures  of  Section 4.5, in  conjunction  with  the multiplicative model 
 
-assumption lead to 
+assumption, lead to: 
 
 Multiplicative model 
 
@@ -1330,83 +1330,83 @@ Occasional
 
 Regular 
 
-Observed data  spouse nonsmoker 
+Observed data - spouse non-smoker 
 
 Cases 
 Relative risk 
 
-Observed data  spouse smoker 
+Observed data - spouse smoker 
 
 Cases 
 Relative risk 
 
-True data  spouse nonsmoker 
+True data - spouse non-smoker 
 
 Cases 
 Relative risk 
 
-True data  spouse smoker 
+True data - spouse smoker 
 
 Cases 
 Relative risk 
 
- 
-  
+8 
+1 .00 
 
- 
- 
+14 
+2.066 
 
- 
- 
+6.877 
+1.00 
 
- 
- 
+9.440 
+1.708 
 
- 
- 
+4.255 
+2.596 
 
- 
- 
+14.194 
+4.646 
 
- 
- 
+4.151 
+2.621 
 
- 
- 
+13.018 
+4.476 
 
- 
- 
+1.039 
+4.553 
 
- 
- 
+4.858 
+1.777 
 
- 
- 
+1.419 
+5.118 
 
- 
- 
+6.637 
+8.742 
 
- 
- 
+38.702 
+18.845 
 
- 
- 
+180.953 
+32.188 
 
- 
- 
+39.548 
+21.182 
 
- 
- 
+184.910 
+36.181 
 
-The misclassification corrected spousal smoking RR is thus  so that misclassification has 
-caused upward  bias by  a factor     An  additive model  would lead as shown 
-below to a corrected RR of   a bias of   The latter is closer to the EPA bias estimate of 
- corrected  RR   presumably  as the  RRs  in  the  current  smoking  groups  are  less 
-dependent on spousal smoking so being more consistent with their assumptions 
+The misclassification corrected spousal smoking RR is thus 1.708, so that misclassification has 
+caused upward  bias by  a factor  2.066/1.708 = 1.209. An  additive model  would lead, as shown 
+below, to a corrected RR of  1-900, a bias of  1.087. The latter is closer to the EPA bias estimate of 
+1.10 (corrected  RR = 1.89), presumably  as the  RRs  in  the  current  smoking  groups  are  less 
+dependent on spousal smoking, so being more consistent with their assumptions. 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS  A SOURCE OF BIAS 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS  A SOURCE OF BIAS 
 
- 
+593 
 
 Additive model 
 
@@ -1418,16 +1418,13 @@ Former
 
 Occasional 
 
-Observed data  spouse nonsmoker 
+Observed data - spouse non-smoker 
 
-Observed data  spouse smoker 
+Observed data - spouse smoker 
 
-True data  spouse nonsmoker 
+True data - spouse non-smoker 
 
-True data  spouse smoker 
-
-Cases 
-Relative risk 
+True data - spouse smoker 
 
 Cases 
 Relative risk 
@@ -1438,263 +1435,266 @@ Relative risk
 Cases 
 Relative risk 
 
- 
- 
+Cases 
+Relative risk 
 
- 
- 
+8 
+1-00 
 
- 
- 
+14 
+2.066 
 
- 
- 
+6.458 
+1-00 
 
- 
- 
+9.859 
+1.900 
 
- 
- 
+5-438 
+3.318 
 
- 
- 
+13.011 
+4,259 
 
- 
- 
+5-188 
+3,487 
 
- 
- 
+11.982 
+4.387 
 
- 
- 
+1.452 
+6.364 
 
- 
- 
+4.445 
+7.116 
 
- 
- 
+1.984 
+7.618 
+
+6.072 
+8.517 
 
 Regular 
 
- 
- 
+57.643 
+28.067 
 
-  
- 
+162.01 2 
+28.819 
 
- 
- 
+58.903 
+33.596 
 
- 
- 
+165.555 
+34-496 
 
-  Simplification of  the  model 
+4.7.  Simplification of  the  model 
 
-In  the  example  above  the  upward  bias  depends  on  assumed  values  of  six  misclassification 
-probabilities To simplify further  work the  relationship of  the  bias to  these probabilities was 
-investigated further 
+In  the  example  above,  the  upward  bias  depends  on  assumed  values  of  six  misclassification 
+probabilities. To simplify further  work, the  relationship of  the  bias to  these probabilities was 
+investigated further. 
 
-First it was clear the values of the misclassification probabilities from regular or occasional to 
-former smokers had  little effect on the  bias Setting these to zero changed the  bias only from 
- to   multiplicative model or from   to   additive 
+First, it was clear the values of the misclassification probabilities from regular or occasional to 
+former smokers had  little effect on the  bias. Setting these to zero changed the  bias only from 
+1.2093 to  1.2167 (multiplicative model) or from  1.0873 to  1.0871 (additive). 
 
-Second it  was also clear misclassification of  regular smokers as never smokers contributed 
-most to the bias With other misclassification rates set to zero and using a multiplicative model 
-the biases resulting from misclassification of  regular occasional or former smokers only were 
-respectively  and  These represent excess biases that are respectively   
-and    per  cent  compared  with  the  bias   associated  with  all  three  misclassification 
-probabilities combined These excess biases are in the  ratio       quite close to that 
-predicted      by assuming bias is proportional to the product of misclassification rate 
-observed  excess  risk  observed  concordance  ratio  and  observed  frequency  of  the  smoking 
-category in the controls an approximate formula suggested by  Section  For the additive model 
-the biases resulting from misclassification of regular occasional and former smokers only were 
-respectively   and  These represent excess biases that are respectively  
-and   per cent compared with  the combined bias of   
+Second, it  was also clear misclassification of  regular smokers as never smokers contributed 
+most to the bias. With other misclassification rates set to zero and using a multiplicative model, 
+the biases resulting from misclassification of  regular, occasional or former smokers only were, 
+respectively, 1-1021,14416 and 1.0427. These represent excess biases that are, respectively, 47, 19 
+and  20  per  cent  compared  with  the  bias,  1.2167, associated  with  all  three  misclassification 
+probabilities combined. These excess biases are in the  ratio  1 : 0-407 : 0.418, quite close to that 
+predicted 1 : 0.368 : 0.378 by assuming bias is proportional to the product of misclassification rate, 
+observed  excess  risk,  observed  concordance  ratio  and  observed  frequency  of  the  smoking 
+category in the controls, an approximate formula suggested by  Section 2. For the additive model, 
+the biases resulting from misclassification of regular, occasional and former smokers only were, 
+respectively, 1.0480, 1-0190 and 14040. These represent excess biases that are respectively 55,22 
+and  5 per cent compared with  the combined bias of  1-0871. 
 
-Thirdly for both multiplicative and additive models the bias from the full analysis described in 
-Section  was quite close to that arising from a simpler model with only one smoking level in 
-which   per cent of  ever smokers were misclassified as never smokers with the concordance 
-ratio  set  as   Thus  for  a  multiplicative model  this  simpler model  gave a  bias  of   
-compared with   for the full model For the additive model the simpler model gave  
-and the full model   
+Thirdly, for both multiplicative and additive models the bias from the full analysis described in 
+Section 4.6 was quite close to that arising from a simpler model with only one smoking level, in 
+which  1-75 per cent of  ever smokers were misclassified as never smokers, with the concordance 
+ratio  set  as  3-0. Thus,  for  a  multiplicative model,  this  simpler model  gave a  bias  of  1.1850 
+compared with  1.2093 for the full model. For the additive model, the simpler model gave 1-0806 
+and the full model  1.0873. 
 
-These general conclusions were confirmed using data from other studies Table I summarizes 
-results for the Correa study and for four other large US 
-These show misclassifi 
-cation to former smokers is unimportant misclassification of  regular smokers as never smokers 
+These general conclusions were confirmed using data from other studies. Table I1 summarizes 
+results for the Correa study14 and for four other large U.S. 
+These show misclassifi- 
+cation to former smokers is unimportant, misclassification of  regular smokers as never smokers 
 accounts for about  half  of  the total  bias and that  the assumptions used  are similar in effect to 
-using the simpler model with a misclassification rate of   per cent and a concordance ratio of 
- The biases for the multiplicative and additive models are similar where the observed spousal 
+using the simpler model with a misclassification rate of  1.75 per cent and a concordance ratio of 
+3.0. The biases for the multiplicative and additive models are similar where the observed spousal 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons License 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License594 
 
-P LEE AND B FOREY 
+P. LEE AND B. FOREY 
 
-Table   Biases from five studies in US females under various assumptions 
+Table 11.  Biases from five studies in U.S. females under various assumptions 
 
-Correa 
+Correa14 
 
-Brownson  Fontham  Garfinkel 
+Brownson15  Fontham16  Garfinkel” 
 
 Study 
 
-Stockwell 
+Stockwell” 
 
 Observed spousal risk 
 Multiplicative  model 
-  Bias from full model 
-  Bias ignoring misclassifica 
+1.  Bias from full model 
+2.  Bias ignoring misclassifica- 
 tion to former smokers 
-  Bias from misclassification 
+3.  Bias from misclassification 
 of  regular smokers only 
- of  excess bias   of   
-  Bias from simpler model 
+% of  excess bias (3  of  2) 
+4.  Bias from ‘simpler’ model 
 Additive model 
-  Bias from full model 
-  Bias ignoring misclassifica 
+1.  Bias from ‘full’ model 
+2.  Bias ignoring misclassifica- 
 tion to former smokers 
-  Bias from misclassification 
+3.  Bias from misclassification 
 of  regular smokers only 
- of  excess bias  of   
-  Bias from simpler model 
+% of  excess bias (3 of  2) 
+4.  Bias from ‘simpler’ model 
 
- 
+2.066 
 
- 
+0.972 
 
- 
+1.263 
 
- 
+1.209 
 
- 
+1.217 
 
- 
- 
- 
+1.102 
+47.1 
+1.185 
 
- 
+1.087 
 
- 
+1.087 
 
- 
- 
- 
+1.048 
+55.1 
+1.081 
 
- 
+1.117 
 
- 
+1.120 
 
- 
- 
- 
+1.059 
+48.7 
+1.102 
 
- 
+1.132 
 
- 
+1.137 
 
- 
- 
- 
+1.062 
+45.6 
+1.114 
 
- 
+1.099 
 
- 
+1.102 
 
- 
- 
- 
+1.050 
+48.9 
+1.088 
 
- 
+1.088 
 
- 
+1.090 
 
- 
- 
- 
+1.044 
+48.6 
+1.077 
 
- 
+1.233 
 
- 
+1.045 
 
- Q 
+1 Q46 
 
- 
- 
- a 
+1.0235 
+50.9 
+1 a40 
 
- 
+1.039 
 
- 
+1.040 
 
-  
- 
- 
+1.02 1 
+51.5 
+1.035 
 
- 
+1.600 
 
- 
+1.089 
 
- 
+1.092 
 
- 
- 
- 
+1.046 
+49.5 
+1.080 
 
- 
+1.060 
 
- 
+1.061 
 
- 
- 
- 
+1-032 
+55.2 
+1.055 
 
-RR is near unity Brownson Fontham Garfinkel For larger spousal risks Stockwell Correa 
-the bias from the multiplicative model is larger 
+RR is near unity (Brownson, Fontham, Garfinkel). For larger spousal risks (Stockwell, Correa) 
+the bias from the multiplicative model is larger. 
 
-  APPLICATION OF THE METHODOLOGY T O  DATA  FOR US FEMALES 
+5.  APPLICATION OF THE METHODOLOGY T O  DATA  FOR U.S. FEMALES 
 
-  Introduction 
+5.1.  Introduction 
 
-The simplified methodology of Section  is now applied to available data for US females Studies 
-conducted  in  the US and in  Asia considered in  Section   are the  main  contributors to the 
-evidence  and  data  for  females  are much  more  extensive  than  for  males  The  US data  are 
-described in Section  followed by discussion in Sections  and  of appropriate ranges of 
-concordance ratios and misclassification rates to use The methodology is applied in Section  
-and the results  compared with  those  of  others in Section  
+The simplified methodology of Section 4 is now applied to available data for U.S. females. Studies 
+conducted  in  the U.S. and in  Asia (considered in  Section  6) are the  main  contributors to the 
+evidence,  and  data  for  females  are much  more  extensive  than  for  males.  The  US. data  are 
+described in Section 5.2, followed by discussion, in Sections 5.3 and 5.4, of appropriate ranges of 
+concordance ratios and misclassification rates to use. The methodology is applied in Section 5.5, 
+and the results  compared with  those  of  others in Section 5.6. 
 
-  US epidemiological data on lung cancer and spousal smoking in females 
+5.2.  U.S. epidemiological data on lung cancer and spousal smoking in females 
 
-Table  I  summarizes  relevant  data  from   US   t u d i e s        
-Data from  one  studyz are 
-ignored being based  on only nine lung cancer cases and only  one in ever smokers whose risk 
-unusually was less than in never smokers Points to note  about the  studies are 
+Table  I11  summarizes  relevant  data  from  13 U.S.  ~ t u d i e s . ’ ~ - ’ ~  
+(Data from  one  studyz7 are 
+ignored, being based  on only nine lung cancer cases, and only  one in ever smokers whose risk, 
+unusually, was less than in never smokers.) Points to note  about the  studies are: 
 
-i  Only  one  study was  prospective  For this  study  number  of  controls are number of 
+(i)  Only  one  study2’ was  prospective.  For this  study,  ‘number  of  controls’ are number of 
 
-subjects at the start of  the study 
+subjects at the start of  the study. 
 
-ii  Most studies concerned all histological  types of lung cancer but three 
+(ii)  Most studies concerned all histological  types of lung cancer but three14* 
 
-z   considered 
+z 6  considered 
 
-specific types only 
+specific types only. 
 
-iii The index  of  exposure  varied Ten  studies concerned  spousal  smoking but  varied  as to 
-whether  smoking of  products  other  than cigarettes  was considered and when  smoking 
-    concerned  at home  exposure  not  specifically from the 
-occurred  Three  studiesg  
-spouse For one study  the index  related  only to heavier exposure 
+(iii) The index  of  exposure  varied. Ten  studies concerned  spousal  smoking but  varied  as to 
+whether  smoking of  products  other  than cigarettes  was considered, and when  smoking 
+2 5   concerned  at home  exposure,  not  specifically from the 
+occurred.  Three  studies’g* ”* 
+spouse. For one study”  the index  related  only to heavier exposure. 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons Licensee
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons Licensee
 v
 i
 t
 c
 A
 
+%
 
-
-
+)
 s
 t
 i
@@ -1704,10 +1704,10 @@ m
 i
 l
 
-
-
-
-
+%
+5
+9
+(
 
 k
 s
@@ -1738,9 +1738,9 @@ m
 e
 f
 
+.
 
-
-
+.
 
 S
 U
@@ -1791,8 +1791,8 @@ u
 t
 s
 
-
-
+3
+1
 m
 o
 r
@@ -1802,9 +1802,9 @@ a
 t
 a
 D
- 
-
-
+1. 
+1
+1
 
 e
 l
@@ -1840,7 +1840,7 @@ o
 p
 S
 
-
+%
 
 e
 r
@@ -1986,51 +1986,51 @@ u
 t
 S
 
+0
+3
+4
 
+8
+.
+8
+2
 
+)
+0
+9
+5
+4
+9
+3
+0
+ (
+8
+6
+.
+1
 
+)
+6
+9
+5
+-
+9
+3
+0
+(
+2
+5
+.
+1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+8
+2
+1
 
 y
 a
 d
-
+/
 s
 r
 u
@@ -2046,8 +2046,8 @@ p
 f
 o
 
- 
-
+ +
+4
 g
 n
 i
@@ -2080,17 +2080,11 @@ e
 d
 A
 
+3
+3
 
-
-
-
-
-
-l
-a
-t
-o
-T
+9
+1
 
 l
 a
@@ -2098,100 +2092,106 @@ t
 o
 T
 
+l
+a
+t
+o
+T
 
+4
 
 s
 e
 Y
 
-
-
-
+1
+0
+.
 D
 
+6
+0
+.
+7
 
+0
+4
+.
+2
+1
 
+7
+.
+8
+5
 
+2
+.
+7
+4
 
+-
 
+-
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1
+0
+.
+3
+4
 C
 
+)
+0
+2
+.
+1
+-
+0
+8
+0
+(
+0
+0
+.
+1
 
+)
+1
+2
+.
+1
+-
+8
+7
+.
+0
+ (
+7
+9
+0
 
+)
+0
+9
+1
+-
+4
+3
+0
+ (
+0
+8
+0
 
+3
+-
+1
+5
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
+7
+3
+8
 
 r
 e
@@ -2240,26 +2240,26 @@ o
 p
 S
 
+)
+5
+2
+.
+5
+-
+1
+8
+.
+0
+ (
+7
+0
+.
+2
 
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
+9
+.
+5
+4
 
 d
 e
@@ -2291,55 +2291,55 @@ g
 i
 c
 
-
-
-
-
+1
+0
+.
+8
 C
 
-
-
-
-
-
+1
+0
+.
+3
+4
 c
 
+)
+0
+6
+.
+1
+-
+4
+0
+.
+1
+(
+9
+2
+.
+1
 
+)
+4
+5
+.
+1
+-
+4
+0
+.
+1
+ (
+6
+2
+.
+1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
+1
+.
+1
+6
 
 d
 e
@@ -2417,43 +2417,43 @@ l
 
 A
 
+-
 
+2
+1
+4
 
+4
+4
+2
 
+1
+4
 
+2
+2
 
+3
+3
 
+4
+1
 
+8
 
+8
 
+1
+3
+4
 
+8
+1
+2
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+3
+1
+2
 
 s
 e
@@ -2466,311 +2466,311 @@ l
 
 A
 
+-
 
+1
+5
+6
 
+3
+3
+4
 
+8
+1
+2
 
+8
+5
+3
 
+]
+0
+6
+[
 
+8
+2
+6
+1
 
+0
+9
+.
+5
 
+]
+0
+8
+[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+]
 O
 S
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[
+
+1
+7
+2
+
+0
+.
+2
+2
+
+)
+4
+5
+.
+1
+-
+0
+9
+.
+0
+(
+8
+1
+.
+1
+
+)
+1
+6
+.
+1
+-
+5
+8
+0
+ (
+7
+1
+.
+1
+
+]
+0
+.
+4
+3
+[
+
+7
+0
+4
+
+0
+.
+2
+4
+
+]
+0
+.
+2
+4
+[
+
+)
+0
+6
+.
+6
+-
+0
+8
+0
+ (
+0
+2
+.
+2
+
+)
+5
+7
+4
+1
+8
+0
+ (
+4
+3
+.
+2
+
+-
+
+)
+7
+8
+.
+1
+-
+1
+8
+0
+ (
+3
+2
+.
+1
+
+-
+
+-
+
+-
+
+)
+0
+2
+.
+1
+-
+7
+4
+0
+(
+5
+1
+0
+
+)
+5
+4
+.
+2
 S
+2
+0
+(
+9
+7
+.
+0
 
+)
+6
+7
+.
+1
+6
+4
+0
+ (
+0
+9
+0
 
+1
+0
+.
+2
+4
+1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+)
+0
+0
+.
+3
 r
 C
+8
+.
+0
+(
+0
+6
+1
 
+.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+)
+0
+2
+.
+3
 M
+0
+ (
+0
+6
+.
+1
 
- 
+3
+.
+1
+6
 
+)
+0
+3
+.
+3
+-
+0
+5
+0
+(
+0
+2
+.
+1
 
+)
+7
+6
+.
+3
+-
+4
+5
+0
+(
+1
+4
+.
+1
 
+1
+.
+3
+5
 
+2
+3
+6
 
+2
+6
+5
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+7
+.
+9
+5
 
 O
-
+)
 M
 
+3
+.
+8
+6
 
+4
+@
+6
 
-
-
-
-
-
-
-
-
-
-
-
+0
+.
+0
+6
 
 y
 l
@@ -2957,7 +2957,7 @@ l
 
 A
 
-
+~
 
 s
 e
@@ -2986,7 +2986,7 @@ p
 y
 t
 
-
+!
 I
 
 A
@@ -3011,96 +3011,96 @@ l
 l
 A
 
+-
 
+3
+2
+2
 
+-
 
+-
 
+-
 
+-
 
+0
+2
+1
 
+3
+5
+1
 
+4
+3
+1
 
+0
+2
 
+4
+4
+1
 
+4
+2
 
+3
+5
 
+2
+6
 
+8
+2
 
+8
+8
 
+1
+9
 
+5
+1
 
+6
+7
 
+3
+1
 
+5
+3
 
+4
+4
 
+9
+1
 
+5
+6
 
+3
+4
 
+5
 
+8
+6
 
+1
+1
 
+8
+1
 
+8
+1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+9
 
 d
 e
@@ -3156,77 +3156,77 @@ e
 d
 A
 
+9
+1
 
+-
 
+9
+7
+2
 
+9
+1
+1
 
+-
 
+-
 
+-
 
+1
+1
+1
 
+-
 
+-
 
+-
 
+-
 
+7
+8
 
+6
+6
+1
+1
 
+6
+9
+1
 
+4
+6
+1
 
+3
+3
+1
 
+1
+6
 
+8
+9
+5
 
+8
+6
+5
 
+5
+'
+2
+9
+9
+1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.
+/
 a
 
 t
@@ -3241,17 +3241,17 @@ o
 r
 B
 
+2
+3
 
+2
+7
 
+1984'' 
 
+1983'' 
 
-
-
- 
-
- 
-
-
+.
 l
 a
 
@@ -3266,7 +3266,7 @@ f
 u
 B
 
-
+.
 l
 a
 
@@ -3280,28 +3280,28 @@ r
 o
 C
 
+3
+5
+2
+1
 
+6
+6
+7
 
+1
+8
+4
 
+6
+1
+4
+9
+9
+1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.
+(
 a
 
 t
@@ -3314,26 +3314,26 @@ n
 o
 F
 
+9
+3
+7
+6
+7
+1
 
+0
+8
+8
+4
+9
 
+9
+5
+8
+1
+8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
+1981'' 
 
 l
 e
@@ -3345,93 +3345,93 @@ r
 a
 G
 
+2
+0
+4
 
+2
+6
+1
 
+4
+4
+1
 
+5
+2
 
+2
+4
+1
 
+1
+9
 
+5
+5
 
+4
+5
+2
 
+8
+4
+1
 
+1
+9
 
+6
+8
 
+5
+1
 
+7
+9
 
+5
+5
 
+3
+3
 
+1
+7
 
+8
+5
 
+0
+1
 
+5
+4
 
+6
+3
 
+2
+2
 
+'
+'
+5
+8
+9
+1
 
+"
+7
+8
+9
+1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"
+0
+9
+9
+1
 
 l
 o
@@ -3449,8 +3449,8 @@ r
 a
 G
 
-
-
+.
+/
 a
 
 f
@@ -3463,10 +3463,10 @@ m
 u
 H
 
+.
 
-
-
-
+1
+0
 
 t
 e
@@ -3480,12 +3480,12 @@ n
 a
 J
 
-
-
-
-
-
-
+4
+2
+4
+8
+9
+1
 
 r
 e
@@ -3503,17 +3503,17 @@ b
 a
 K
 
- 
+1990'' 
 
+"
+2
+9
+9
+1
 
+1985'6 
 
-
-
-
-
- 
-
-
+.
 l
 a
 
@@ -3530,7 +3530,7 @@ o
 t
 S
 
-
+.
 l
 a
 
@@ -3582,29 +3582,29 @@ s
 e
 Y
 
-
+5
 I
 
+7
+4
 
-
-
-
+7
 
 o
 N
 
+0
+4
 
+9
+1
+7
+8
+9
+1
 
-
-
-
-
-
-
-
-
-
-
+.
+/
 a
 
 t
@@ -3619,7 +3619,7 @@ o
 r
 B
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons License 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License 
  
  
  
@@ -3965,196 +3965,196 @@ B
  
  
  
- 
+596 
 
-P LEE AND B FOREY 
+P. LEE AND B. FOREY 
 
-iv The crude spousal RR  corresponds to the   x   table  of  unexposed  and  exposed  never 
-smoking controls and cases For the prospective studyz the RR and numbers of controls 
-are in fact age standardized crude data not  being presented 
+(iv) The crude spousal RR  corresponds to the  2 x 2  table  of  unexposed  and  exposed  never 
+smoking controls and cases. For the prospective study,z1 the RR and numbers of controls 
+are in fact age standardized, crude data not  being presented. 
 
-v  Adjusted spousal RRs are as reported with the potential confounding variables considered 
+(v)  Adjusted spousal RRs are as reported, with the potential confounding variables considered 
 
-varying by  study 
+varying by  study. 
 
-vi  Some  s t  d i e s                
+(vi)  Some  s t ~ d i e s ~ ~ * ~ ~ ~ ~ ~ * ~ ~ * ~ ~  
 
 gave  direct  data  on  numbers  of  ever  smoking  cases  and 
-controls from which estimates of proportions of ever smokers and of active smoking RRs 
-could be  calculated directly For  other studies estimates were  either  taken  from  other 
-publications or shown in  square brackets calculated from other  studies conducted  at 
-a similar time 
+controls, from which estimates of proportions of ever smokers and of active smoking RRs 
+could be  calculated directly. For  other studies, estimates were  either  taken  from  other 
+publications or, shown in  square brackets, calculated from other  studies conducted  at 
+a similar time. 
 
-The data in Table  are as used by EPA  except a three additional studies 
+The data in Table 111 are as used by EPA’  except: (a) three additional studies15* 
 
- have been 
-included b the  Fontham  et  at study  data  are  updated  from  a  recent  reportI c  for  the 
-Garfinkel casecontrol study  data  were  used  for  spouse ever  smoked rather  than  spouse 
-smoked at home the former index being more  consistent with  that  used  in  other studies d 
-numbers for the Janerich et al 
-given for the sexes combined by EPA have been estimated 
-separately for females  and e ever smoking RRs have  been  used  for  the  Wu  et  al studyz 
-whereas EPA gave current smoking risks 
+’’ have been 
+included; (b) the  Fontham  et  at. study  data  are  updated  from  a  recent  report;I6 (c)  for  the 
+Garfinkel case-control study”  data  were  used  for  ‘spouse ever  smoked‘ rather  than  ‘spouse 
+smoked at home’, the former index being more  consistent with  that  used  in  other studies; (d) 
+numbers for the Janerich et al. 
+given for the sexes combined by EPA, have been estimated 
+separately for females;”  and (e) ever smoking RRs have  been  used  for  the  Wu  et  al. studyz6 
+whereas EPA gave current smoking risks. 
 
-Ignoring misclassification the data show some evidence of  a positive association for spousal 
-smoking Fixedeffects metaanalysis  gives an RR estimate of    per cent CI    for 
-the  unadjusted  data  and      per  cent  CI    for  the  covariateadjusted  data  As 
-adjustment for covariates had little effect as the misclassification adjustment procedures are not 
-designed to  deal  with  data  subdivided by  covariates and  as the  source papers  rarely  if  ever 
-present such subdivided data anyway misclassification adjustment will in Sections  and  be 
-applied to the data unadjusted for covariates 
+Ignoring misclassification, the data show some evidence of  a positive association for spousal 
+smoking. Fixed-effects meta-analysis”  gives an RR estimate of  1-13 (95 per cent CI  1.01-1.27)  for 
+the  unadjusted  data  and  1.13  (95  per  cent  CI  1.01-1.26)  for  the  covariate-adjusted  data.  As 
+adjustment for covariates had little effect, as the misclassification adjustment procedures are not 
+designed to  deal  with  data  subdivided by  covariates, and  as the  source papers  rarely  if  ever 
+present such subdivided data anyway, misclassification adjustment will (in Sections 5.5 and 6) be 
+applied to the data unadjusted for covariates. 
 
-  Concordance ratios 
+5.3.  Concordance ratios 
 
-EPA  assumed that for the  x  table subject neverever smoker spouse neverever smoker the 
-concordance crossproduct ratio is  and  that for the  x  table subject neverexsmoker 
-spouse neverfever smoker is  A value of   for the concordance ratio subject nevercurrent 
-smoker spouse neverever smoker was also provided but not used in the adjustment procedure 
-as this would lead to over definition 
+EPA’  assumed that, for the 2 x 2 table subject: never/ever smoker; spouse: never/ever smoker, the 
+concordance (cross-product) ratio is 2.8, and  that, for the 2 x 2 table subject; never/ex-smoker; 
+spouse: neverfever smoker, is 22. A value of  3.2 for the concordance ratio subject: never/current 
+smoker; spouse: never/ever smoker, was also provided, but not used in the adjustment procedure, 
+as this would lead to over definition. 
 
-As support for these estimates EPA cited four 
+As support for these estimates, EPA cited four 
 
-but gave no detailed data In 
-fact the first referene gives no relevant data at all the second  only gives data relevant to 
-a different concordance ratio while the third only gives data relevant to the first of  the three 
-concordance  ratios  giving  a  value  of    for  women  and    for  men  Only  the  fourth 
-reference  gives  a  joint  breakdown  of  smoking  habits  of  subjects  and  spouses  by 
-neverexcurrent status and even that was estimated indirectly and suggests concordance ratios 
-of     and  rather than   and  
+but gave no detailed data. In 
+fact, the first referen~e’~ gives no relevant data at all, the second3’  only gives data relevant to 
+a different concordance ratio, while the third3’ only gives data relevant to the first of  the three 
+concordance  ratios  (giving  a  value  of  1.74  for  women  and  2.49  for  men).  Only  the  fourth 
+reference3’  gives  a  joint  breakdown  of  smoking  habits  of  subjects  and  spouses  by 
+never/ex/current status and even that was estimated indirectly, and suggests concordance ratios 
+of  2.4,  1-9 and 2.8 rather than 2.8, 2.2 and 3.2. 
 
 EPA also assumed that for current smokers the association with spousal smoking was the same 
-for occasional and regular smokers In fact the only study cited actually showed that the more 
-the subject smoked the more likely the subject was to be married to a smoker 
+for occasional and regular smokers. In fact, the only study cited3’ actually showed that the more 
+the subject smoked the more likely the subject was to be married to a smoker. 
 
-The concordance ratio estimates of  EPA are not solidly based Elsewhere  Lee summarizes 
-data  from    studies  Four  provide  estimates  of  the  subject  neverever  smoker  Spouse 
-neverever smoker concordance ratio For females the estimates were  and  For 
-males the estimates whose expected values are the same due to symmetry were    
-and   The mean  of  these  values  is    The  remaining studies provided   independent 
-estimates  of  the  subject  noncurrentcurrent  smoker  spouse  noncurrentcurrent  smoker 
+The concordance ratio estimates of  EPA are not solidly based. Elsewhere”  Lee summarizes 
+data  from  17  studies.  Four  provide  estimates  of  the  subject:  never/ever  smoker;  Spouse: 
+never/ever smoker concordance ratio. For females the estimates were 1.74,2.67,2.19 and 2.65. For 
+males, the estimates (whose expected values are the same due to symmetry) were 2.49, 1.95, 2-32 
+and  3-10. The mean  of  these  values  is  239.  The  remaining studies provided  16 independent 
+estimates  of  the  subject:  non-current/current  smoker;  spouse:  non-current/current  smoker 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS A  SOURCE OF BIAS 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS A  SOURCE OF BIAS 
 
- 
+597 
 
-concordance ratio which ranged from  to  with a mean of  Based on the  x  table of 
-Lee the  noncurrentcurrent  concordance ratio  should  be  about   times higher  than  the 
-neverever concordance ratio If so the mean of  for the former ratio implies a value of  for the 
-latter ratio rather higher than the mean of  for the four studies providing direct data This look at 
-the data suggests an appropriate value of the neverever concordance ratio is almost definitely in the 
-range  to  probably below  and probably nearer  than  However we should bear in mind 
-there is  highly  significant variation  between  estimates for different studies Concordance  may 
-depend  among  other  things  on  national  characteristics the  exact  questions  asked  and  the 
-circumstances of interview Limited evidence  suggests no clear relationship with age however 
+concordance ratio which ranged from 2.56 to 6.04, with a mean of 3.98. Based on the 3 x 3 table of 
+Lee,32 the  non-current/current  concordance ratio  should  be  about  1.36 times higher  than  the 
+never/ever concordance ratio. If so, the mean of 3.98 for the former ratio implies a value of 2.93 for the 
+latter ratio, rather higher than the mean of 2.39 for the four studies providing direct data. This look at 
+the data suggests an appropriate value of the never/ever concordance ratio is almost definitely in the 
+range 2 to 4, probably below 3 and probably nearer 3 than 2. However, we should bear in mind 
+there is  highly  significant variation  between  estimates for different studies. Concordance  may 
+depend,  among  other  things,  on  national  characteristics, the  exact  questions  asked  and  the 
+circumstances of interview. Limited evidence’  suggests no clear relationship with age, however. 
 
-  Misclassification rates 
+5.4.  Misclassification rates 
 
-Evidence on the extent of  misclassification has been discussed by  Lee     and Wells          
-There are two main sources of  data studies in which biochemical markers of  smoke uptake are 
-used  to validate statements about current  smoking and  studies in which  statements made on 
-different occasions about  smoking are  checked for  consistency It  is  useful  to summarize the 
-evidence from these studies so highlighting difficulties in obtaining reliable rate estimates for use 
-in adjustment procedures 
+Evidence on the extent of  misclassification has been discussed by  Lee”.  12, 33  and Wells.’.  3 4 9   3 5  
+There are two main sources of  data, studies in which biochemical markers of  smoke uptake are 
+used  to validate statements about current  smoking, and  studies in which  statements made on 
+different occasions about  smoking are  checked for  consistency. It  is  useful  to summarize the 
+evidence from these studies, so highlighting difficulties in obtaining reliable rate estimates for use 
+in adjustment procedures. 
 
 As increases in carbon monoxide and thiocyanate commonly occur from sources other than 
-smoking  both  Lee  and  Wells  have  restricted  attention  to  studies  using  cotinine  a  major 
-metabolite of  nicotine as a  biochemical marker  of  uptake  Although  there are  some  dietary 
-sources of nicotine these cannot produce cotinine levels typical even of a light smoker Cotinine 
+smoking,  both  Lee  and  Wells  have  restricted  attention  to  studies  using  cotinine,  a  major 
+metabolite of  nicotine, as a  biochemical marker  of  uptake.  Although  there are  some  dietary 
+sources of nicotine, these cannot produce cotinine levels typical even of a light smoker.36 Cotinine 
 levels of  current smokers are about two orders of  magnitude higher than those of  ETS exposed 
-nonsmokers Although there may be slight overlap between levels in very light smokers and very 
-heavily ETSexposed nonsmokers it seems generally accepted that a cutoff of   per cent of the 
-level of average smokers can be used to distinguish true smokers A    per cent cutoff is often 
-used  to  distinguish  regular  smokers Reviewing  evidence from  cotinine  studies virtually  all 
-conducted in the US UK or other Western populations some points emerge 
+non-smokers. Although there may be slight overlap between levels in very light smokers and very 
+heavily ETS-exposed non-smokers, it seems generally accepted that a cut-off of  10 per cent of the 
+level of average smokers can be used to distinguish true smokers. A  30  per cent cut-off is often 
+used  to  distinguish  regular  smokers. Reviewing  evidence from  cotinine  studies, virtually  all 
+conducted in the U.S., U.K. or other Western populations, some points emerge. 
 
-First misclassified smokers that is selfreported nonsmokers above the cutoff have lower 
-cotinine levels than  selfreported smokers occasional smokers more often deny smoking than 
-regular smokers but see Section  
+First, misclassified smokers (that is, self-reported non-smokers above the cut-off) have lower 
+cotinine levels than  self-reported smokers; occasional smokers more often deny smoking than 
+regular smokers (but see Section 6). 
 
-Second with similar cutoffs there is wide variation in the proportion of nonsmokers found to 
-be  smokers Studies in  which  smokers are advised to give up smoking often report  very  high 
-proportions of    per cent Even ignoring such studies as Lee and Wells have done there is 
-still marked  heterogeneity proportions  ranging  from  under    per  cent  to  over    per  cent 
-Clearly study circumstances affect  misclassification rates and as  the  cotinine  and  ETSlung 
-cancer studies may  not  be comparable there is uncertainty in extrapolating results from one 
-study type to another Wells  suggests misclassification rates from general population  studies 
-may  be  much  higher  than  those  from  epidemiological studies but  this  runs  counter  to  the 
-conclusions of  Velicer et d that the less the likelihood of  intervention the greater the accuracy 
-of  selfreport In any case the distinction between such study types is unclear 
+Second, with similar cut-offs there is wide variation in the proportion of non-smokers found to 
+be  smokers. Studies in  which  smokers are advised to give up smoking often report  very  high 
+proportions of  15-40  per cent. Even ignoring such studies, as Lee and Wells have done, there is 
+still marked  heterogeneity, proportions  ranging  from  under  1  per  cent  to  over  6  per  cent.” 
+Clearly, study circumstances affect  misclassification rates, and, as  the  cotinine  and  ETS/lung 
+cancer studies may  not  be comparable, there is uncertainty in extrapolating results from one 
+study type to another. Wells’  suggests misclassification rates from ‘general population  studies’ 
+may  be  much  higher  than  those  from  ‘epidemiological studies’, but  this  runs  counter  to  the 
+conclusions of  Velicer et d3’ that the less the likelihood of  intervention the greater the accuracy 
+of  self-report. In any case the distinction between such study types is unclear. 
 
-Many cotinine studies only record current smoking habits and some studies only report data 
-for  selfreported  nonsmokers  Misclassification  adjustment  requires  knowledge  not  of  the 
-proportion  of  nonsmokers  found  to  be  current  smokers but  of  the  proportion  of  current 
-smokers reporting they are Ivefelong  nonsmokers Wells  estimates  per cent of  true regular 
-smokers  and    per  cent  of  true  occasional  smokers  are  misclassified  as  never  smokers 
-Elsewhere Lee presents data from more studies showing in total   per cent higher rates of 
-misclassification of  current smoking 
+Many cotinine studies only record current smoking habits, and some studies only report data 
+for  self-reported  non-smokers.  Misclassification  adjustment  requires  knowledge,  not  of  the 
+proportion  of  non-smokers  found  to  be  current  smokers, but  of  the  proportion  of  current 
+smokers reporting they are Ivefelong  non-smokers. Wells’  estimates 1-07 per cent of  true regular 
+smokers  and  17.7  per  cent  of  true  occasional  smokers  are  misclassified  as  never  smokers. 
+Elsewhere33 Lee presents data from more studies showing, in total, 68  per cent higher rates of 
+misclassification of  current smoking. 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons License 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License598 
 
-P LEE  AND B FOREY 
+P. LEE  AND B. FOREY 
 
-Various studies have compared smoking as reported by subjects on two occasions some years 
-apart In a large study in Scotland for example cited by Lee   per cent of  exsmokers and 
-  per  cent  of  current  smokers at initial  interview later  claimed never to have  smoked Such 
-studies may underestimate misclassification as smokers may deny smoking on both  occasions 
-Data from six other studies were summarized by Wells  from which similar estimates of   per 
-cent for exsmokers and  per cent for current smokers were calculated The individual study 
-estimates varied considerably however for exsmokers ranging from  per cent to  per cent 
-Compared  with  subjects  who  consistently  report  being  exsmokers  subjects  reporting  past 
+Various studies have compared smoking as reported by subjects on two occasions, some years 
+apart. In a large study in Scotland, for example, cited by Lee,”  10.1 per cent of  ex-smokers and 
+2.5  per  cent  of  current  smokers at initial  interview later  claimed never to have  smoked. Such 
+studies may underestimate misclassification, as smokers may deny smoking on both  occasions. 
+Data from six other studies were summarized by Wells,’  from which similar estimates of  11.7 per 
+cent for ex-smokers and 3-9 per cent for current smokers were calculated. The individual study 
+estimates varied considerably, however, for ex-smokers ranging from 0.0 per cent to 26.8 per cent. 
+Compared  with  subjects  who  consistently  report  being  ex-smokers,  subjects  reporting  past 
 smoking on only one occasion tend to report having given up longer ago and to have smoked less 
-when they were moking Because of this Wells in the EPA report  assumed that inconsistent 
-exsmokers could be assigned the excess risk of  longterm exsmokes estimated as  per cent of 
-that  of  current  smokers  As  some  recent  exsmokers  deny  smoking  this  estimate  may  be 
-somewhat too low 
+when they were ~moking.~’ Because of this, Wells, in the EPA report,’  assumed that inconsistent 
+ex-smokers could be assigned the excess risk of  long-term ex-smokes, estimated as 9 per cent of 
+that  of  current  smokers.  As  some  recent  ex-smokers  deny  smoking  this  estimate  may  be 
+somewhat too low. 
 
-The misclassification estimates of  Wells  are similar in effect to assuming about  per cent of 
-average ever smokers are misclassified as never smokers Based on higher misclassification rates 
-found in a more extensive data review Lee estimated  per cent would be more appropriate 
-Taking into  account  other points  multiple report  studies may  miss subjects denying on each 
-occasion some recent exsmokers may  deny smoking the figure would be slightly higher than 
-this However there are considerable uncertainties An appropriate figure is probably in the range 
-  per cent but  could not implausibly be anywhere in the range    per cent 
+The misclassification estimates of  Wells’  are similar in effect to assuming about 1-75 per cent of 
+average ever smokers are misclassified as never smokers. Based on higher misclassification rates 
+found in a more extensive data review, Lee33 estimated 2.5 per cent would be more appropriate. 
+Taking into  account  other points  (multiple report  studies may  miss subjects denying on each 
+occasion; some recent ex-smokers may  deny smoking), the figure would be slightly higher than 
+this. However, there are considerable uncertainties. An appropriate figure is probably in the range 
+2-3  per cent but  could, not implausibly, be anywhere in the range  1-4  per cent. 
 
-Strictly bias  calculations  should  allow for  a  smoker  being more  ready  to deny  his  habit  if 
-married  to a nonsmoker The limited data on this  do not suggest this is a major  issue Full 
-investigation would require a study with cotinine measured for both  husband  and  wife 
+Strictly, bias  calculations  should  allow for  a  smoker  being more  ready  to deny  his  habit  if 
+married  to a non-smoker. The limited data on this”  do not suggest this is a major  issue. Full 
+investigation would require a study with cotinine measured for both  husband  and  wife. 
 
-There  is  no  evidence  whether  given  actual  smoking  habits  subjects  who  deny  smoking 
-are  more  or  less  at  risk  of  lung  cancer  than  those  who  admit  it  In  a  Danish  prospective 
-study Gyntelberg personal communication five  deaths occurred  from ischaemic  heart  disease 
+There  is  no  evidence  whether,  given  actual  smoking  habits,  subjects  who  deny  smoking 
+are  more  or  less  at  risk  of  lung  cancer  than  those  who  admit  it.  In  a  Danish  prospective 
+study (Gyntelberg, personal communication), five  deaths occurred  from ischaemic  heart  disease 
 among  men  who  had  reported  not  smoking  but  with  cotinine  levels  consistent  with  current 
-smoking  This  compared  with    expected  for  men  of  similar  age  reporting  smoking 
-p   
+smoking.  This  compared  with  0.8  expected  for  men  of  similar  age  reporting  smoking 
+(p < 0.001). 
 
-  Effect  of  misclassification adjustment on spousal risk  estimates 
+5.5.  Effect  of  misclassification adjustment on spousal risk  estimates 
 
-Table  IV  presents  metaanalysis  RRs  for  the  US  data  assuming  i  various  levels  of 
-misclassification ii various concordance ratios and iii either  a  multiplicative or an additive 
-model  The  combined  RR risk  estimate  decreases with  increasing  misclassification and  for 
-a  nonzero  misclassification  with  increasing  concordance  For  low  misclassification  rates 
-estimates  from  the  multiplicative  and  additive  models  are  very  similar  but  for  higher 
-misclassification  rates  the  additive  model  gives  slightly  lower  RR  estimates  Even  with  an 
-estimated misclassification rate as low as  per cent the RR estimate becomes nonsignificant 
-For a rate of   per cent and a concordance ratio of   shown above to give results comparable 
-to EPAs more complex assumptions the unadjusted  RR of   reduces to  Assuming a  
-per cent misclassification rate as noted  to be  reasonable the association essentially disappears 
-with  RR    per  cent  CI  C for  a  concordance of   While there  is  uncertainty 
-about the true misclassification rate and concordance ratio these  analyses are consistent with 
-the slight excess lung cancer risk observed in relation to smoking by  the husband being due not 
-to  ETS  exposure  but  to  an  artefact  arising  from  misclassification  of  some  smokers  as 
-nonsmokers 
+Table  IV  presents  meta-analysis  RRs  for  the  U.S.  data  assuming:  (i)  various  levels  of 
+misclassification; (ii) various concordance ratios; and (iii) either  a  multiplicative or an additive 
+model.  The  combined  RR risk  estimate  decreases with  increasing  misclassification, and  (for 
+a  non-zero  misclassification)  with  increasing  concordance.  For  low  misclassification  rates, 
+estimates  from  the  multiplicative  and  additive  models  are  very  similar,  but  for  higher 
+misclassification  rates,  the  additive  model  gives  slightly  lower  RR  estimates.  Even  with  an 
+estimated misclassification rate as low as 0.5 per cent, the RR estimate becomes non-significant. 
+For a rate of  1-75 per cent and a concordance ratio of  3.0, shown above to give results comparable 
+to EPA’s more complex assumptions, the unadjusted  RR of  1.13 reduces to 1.05. Assuming a 2.5 
+per cent misclassification rate, as noted  to be  reasonable, the association essentially disappears, 
+with  RR  1.01 (95 per  cent  CI  0.9C1.14) for  a  concordance of  3.0. While there  is  uncertainty 
+about the true misclassification rate and concordance ratio, these  analyses are consistent with 
+the slight excess lung cancer risk observed in relation to smoking by  the husband, being due not 
+to  ETS  exposure,  but  to  an  artefact  arising  from  misclassification  of  some  smokers  as 
+non-smokers. 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS  A  SOURCE O F  BIAS 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS  A  SOURCE O F  BIAS 
 
- 
+599 
 
-Table  IV  Lung  cancer  risk  associated  with  spousal  smoking    per  cent  CI  after  adjustment  for 
-misclassification of  smoking  habits   based  on  metaanalysis  of  data  from    studies  in  US  females 
-see Table  
+Table  IV.  Lung  cancer  risk  associated  with  spousal  smoking  (95  per  cent  CI)  after  adjustment  for 
+misclassification of  smoking  habits  - based  on  meta-analysis  of  data  from  13  studies  in  U.S.  females 
+(see Table 111) 
 
 Misclassification 
-rate  
+rate (%) 
 
 Multiplicative model 
 
@@ -4162,570 +4162,570 @@ Additive model
 
 Concordance ratio 
 
- 
+0 
 
- 
+0.5 
 
- o 
+1 .o 
 
- 
+1.5 
 
- 
+1.75 
 
- 
+2.0 
 
- 
+2.5 
 
- 
+3.0 
 
- 
+4.0 
 
- 
+2.0 
 
- 
+30 
 
- 
+4.0 
 
- 
+2.0 
 
- 
+3.0 
 
- 
+4.0 
 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+1.13 
+(1.01-1.27) 
+1.11 
+(0.99-1 '25) 
+1.10 
+(0.98-1.23) 
+1.08 
+(0.961.22) 
+1.07 
+(0.95-1.21) 
+1.06 
+(0.94-1.20) 
+1.05 
+(0.93-1.18) 
+1.03 
+(0.91-1.16) 
+1.00 
+(0.88-1.13) 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
+1.13 
+(1.01-1.27) 
+1.11 
+(0.99-1.24) 
+1.08 
+(0.961.22) 
+1.06 
+(0.94-1.19) 
+1.05 
+(093-1.18) 
+1.03 
+(0.92-1.1  7) 
+1.01 
+(0.90-1.14) 
+0.99 
+(087-1.11) 
+0.94 
+(083-1.06) 
 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
+1.13 
+(1.01-1'27) 
+1.10 
+(0.98-1.24) 
+1.07 
+(0.961.2 1) 
+1.05 
+(0.93-1.18) 
+1.03 
+(092-1.16) 
+1.02 
+(0.90-1.15) 
+0.99 
+(0.88-1.12) 
+0.96 
+(085-1 '08) 
+0.90 
+(080-1.02) 
 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+1.13 
+(1.01-1.27) 
+1.1 1 
+(0.99-1'25) 
+1.10 
+(0.98-1.24) 
+1.08 
+(0.961.22) 
+1.08 
+(0.961.21) 
+1.07 
+(0.95-1.20) 
+1.05 
+(0.93-1.18) 
+1.03 
+(0.91-1.17) 
+099 
+(087-1.12) 
 
- 
- 
- 
-  
- 
- 
- 
- 
- 
-   
- 
-   
- 
-   
- 
- 
- 
- 
+1.13 
+(1.01-1.27) 
+1.11 
+(0.99-1 '24) 
+1.08 
+(0.961.22) 
+1.06 
+(0.941.19) 
+1.05 
+(0.93-1.1  8) 
+1.04 
+(092- 1.1 7) 
+1.01 
+(0.89-1  14) 
+0.98 
+(084-1.16) 
+0.92 
+(081-1.04) 
 
- 
- 
- 
- 
- 
-   
- 
- 
- 
-  
- 
-     
- 
- 
- 
- 
- 
- 
+1.13 
+(1.01-1.27) 
+1.10 
+(0.98-1.24) 
+1.08 
+(0.96-1.2  1) 
+1.05 
+(0.93-1.18) 
+1.03 
+(0.92-1.1 6) 
+1.02 
+(0.90-1.1  5 )  
+099 
+(0.87-1.11) 
+095 
+(084-1.08) 
+0.88 
+(0.78-1.00) 
 
-  Difference from conclusions reached by others 
+5.6.  Difference from conclusions reached by others 
 
-In  the NRC  summarized data from  studies five in the USA  They estimated an overall 
-adjusted  RR  of    per  cent  CI   After misclassification adjustment  the RR  was 
-estimated to be about  and at least  Although see Section  the methodology used was 
-incorrect the conclusions were similar to those derived from Table IV Thus the NRC suggested 
-a bias of     and at most    Applied to the unadjusted US estimate of 
- for the updated  data these biases would  give adjusted figures of   and  The NRC 
+In 1986 the NRC'  summarized data from 13 studies, five in the U.S.A.  They estimated an overall 
+adjusted  RR  of  1-34 (95 per  cent  CI  1-18-153). After misclassification adjustment  the RR  was 
+estimated to be about 1.25, and at least 1.15. Although (see Section 3.4) the methodology used was 
+incorrect, the conclusions were similar to those derived from Table IV. Thus the NRC suggested 
+a bias of  1.34/1.25 = 1.07 and at most 1.34/1.15 = 1.17. Applied to the unadjusted US. estimate of 
+1.13 for the updated  data, these biases would  give adjusted figures of  1.06 and 0.97. The NRC 
 conclusion that misclassification bias could not explain the association was not due to inadequate 
-adjustment but to the much higher RR they started with In this context it is notable that there 
-has  been  a  striking  tendency for more  recent studies to report  lower RRs  Thus while  the   
-worldwide studies reporting findings up to  provided a covariateadjusted metaanalysis RR 
-estimate of    per  cent  CI  g for  spousal  smoking the   studies reported  later 
-provide a RR  estimate of  only    per cent  CI  
+adjustment but to the much higher RR they started with. In this context, it is notable that there 
+has  been  a  striking  tendency for more  recent studies to report  lower RRs.  Thus, while  the  22 
+worldwide studies reporting findings up to 1988 provided a covariate-adjusted meta-analysis RR 
+estimate of  1.35 (95 per  cent  CI  1.2g1.52) for  spousal  smoking, the  15 studies reported  later 
+provide a RR  estimate of  only  1.01 (95 per cent  CI 091-1.11). 
 
-The analysis of  Wald et a  also conducted  in   was similar to that of  the NRC  being 
-based on the same   studies However as they assumed an exceptionally low misclassification 
-rate a lower bias estimate of  only     was calculated 
+The analysis of  Wald et a/."  also conducted  in  1986, was similar to that of  the NRC,  being 
+based on the same  13 studies. However, as they assumed an exceptionally low misclassification 
+rate, a lower bias estimate of  only  1.35/1.30 = 1.04 was calculated. 
 
-The recent EPA report  considered data from  US studies with an RR estimate of    
-per  cent  CI    reducing to    per  cent CI    after adjustment Assuming 
-a  per cent misclassification rate and a concordance ratio of   our analysis reduces an RR 
-of    per cent CI   to   per cent CI  There are three main reasons 
-why  our misclassification adjusted  RR is much lower than that of  EPA and nonsignificant i 
-our analysis includes three studies not considered by  EPAv onei a large study Overall 
+The recent EPA report'  considered data from 11 U.S. studies, with an RR estimate of  1.22 (95 
+per  cent  CI  1.04-1.44)  reducing to  1.19 (95 per  cent CI  1.01-1.38)  after adjustment. Assuming 
+a 1.75 per cent misclassification rate, and a concordance ratio of  3-0, our analysis reduces an RR 
+of  1.13 (95 per cent CI 1.01-1.27)  to 1.05 (95 per cent CI 0-93-1.18). There are three main reasons 
+why  our misclassification adjusted  RR is much lower than that of  EPA, and non-significant: (i) 
+our analysis includes three studies not considered by  EPA,'5*'8v25 onei5 a large study. Overall 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons License 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License600 
 
-P LEE AND B FOREY 
+P. LEE AND B. FOREY 
 
-the three studies show no association with spousal smoking RR    per cent CI  
-ii the individual study data we used give slightly lower RRs see Section  Thus our estimate 
-for the same  studies EPA used is   per cent CI   rather than  iii the actual 
-bias estimated by  EPA of   is substantially  lower than  we  estimate  using apparently 
-similar assumptions The most notable difference is for the largest studyI where we estimate  
-and the EPA only  This study was unusual as urine samples were used to determine cotinine 
-levels As  no  selfreported lifelong nonsmoking  women with  lung  cancer  were  found  to have 
-cotinine levels consistent with regular smoking the EPA assumed a misclassification rate of  zero 
-for regular smoking for  this study This assumption is wholly  unjustified Urine  samples were 
-taken in hospital  after diagnosis Since many  smokers give up smoking at time of  diagnosis of 
-lung cancer it is unusual for smoking to be permitted in hospitals and cotinine has a relatively 
-short  half  life  of  about  a  day  one  cannot  infer that  none  of  those  cases who  were  regularly 
-smoking around  the time of  diagnosis reported  being lifelong never smokers 
+the three studies show no association with spousal smoking (RR = 1.01; 95 per cent CI 0.82-1.23); 
+(ii) the individual study data we used give slightly lower RRs (see Section 5.2). Thus our estimate 
+for the same 11 studies EPA used is 1-20 (95 per cent CI 1.05-1.38)  rather than 1.22; (iii) the actual 
+bias estimated by  EPA, of  1.03, is substantially  lower than  we  estimate, 1.08, using apparently 
+similar assumptions. The most notable difference is for the largest study,I6 where we estimate 1.08 
+and the EPA only 1.01. This study was unusual as urine samples were used to determine cotinine 
+levels. As  no  self-reported lifelong non-smoking  women with  lung  cancer  were  found  to have 
+cotinine levels consistent with regular smoking, the EPA assumed a misclassification rate of  zero 
+for regular smoking for  this study. This assumption is wholly  unjustified. Urine  samples were 
+taken in hospital  after diagnosis. Since many  smokers give up smoking at time of  diagnosis of 
+lung cancer, it is unusual for smoking to be permitted in hospitals, and cotinine has a relatively 
+short  half  life  of  about  a  day,  one  cannot  infer that  none  of  those  cases who  were  regularly 
+smoking around  the time of  diagnosis reported  being lifelong never smokers. 
 
-  EFFECT O F  MISCLASSIFICATION IN ASIAN FEMALES 
+6.  EFFECT O F  MISCLASSIFICATION IN ASIAN FEMALES 
 
-Of    studies of  ETS and lung cancer worldwide  have  been conducted  in Japan China  or 
-Hong K  n g     Based on  lung cancer cases in females an overall RR estimate unadjusted for 
-covariates or misclassification is a marginally significant   per cent CI   For these 
-data  misclassification  adjustment  at  about  the  level  suggested  by  EPA that  is  using  an 
-evernever smoker  misclassification  rate  of   per  cent  a  concordance ratio  of   and  an 
-additive  model has  very  little  effect reducing  the  RR  only  by   to    per  cent  CI 
-  This trivial adjustment as EPA also reported is due to the few Asian  women who 
-smoke and the lower RR  when they do However this assumes misclassification rates in Asian 
-and  Western  populations  are  similar  as  the  evidence  on  misclassification  comes  almost 
-exclusively from Western populations Great doubt has been cast on this assumption by a recent 
-of  married Japanese women in which as many as  per cent of current smokers as 
-determined by cotinine reported being never smokers The misclassified smokers had very similar 
-cotinine  levels  to  smokers  who  admitted  smoking  While  the  circumstances  of  interview 
-doortodoor interviews and age range   differed from the ETSJungcancer  studies the 
-findings fit  in  with  a  longheld  suspicion that  misclassification  rates  may  be  much  higher  in 
-Japanese  than  US  women  smoking  by  women  being  socially  unacceptable  in  Japan 
-A concordance ratio of   and a  per cent misclassification rate applied to the overall Asian 
-data would totally eliminate the association RR   per cent CI   while even 
-a   per  cent  rate  would  render  it  nonsignificant RR    per  cent  CI   The 
-Japanese  study  actually  suggested rather  a  higher  concordance than  seen  in  Western  studies 
-further emphasizing the importance of  bias due to misclassification 
+Of  37  studies of  ETS and lung cancer worldwide, 16 have  been conducted  in Japan, China  or 
+Hong K ~ n g . ~ '  Based on 1918 lung cancer cases in females, an overall RR estimate, unadjusted for 
+covariates or misclassification, is a marginally significant 1.16 (95 per cent CI 1.03-1.31).  For these 
+data,  misclassification  adjustment  at  about  the  level  suggested  by  EPA8 (that  is,  using  an 
+ever/never smoker  misclassification  rate  of  1.75 per  cent,  a  concordance ratio  of  3-0, and  an 
+additive  model) has  very  little  effect, reducing  the  RR  only  by  001 to  1.15 (95 per  cent  CI 
+1.02-1.30).  This trivial adjustment, as EPA8 also reported, is due to the few Asian  women who 
+smoke and the lower RR  when they do. However, this assumes misclassification rates in Asian 
+and  Western  populations  are  similar,  as  the  evidence  on  misclassification  comes  almost 
+exclusively from Western populations. Great doubt has been cast on this assumption by a recent 
+of 400 married Japanese women, in which as many as 20.8 per cent of current smokers (as 
+determined by cotinine) reported being never smokers. The misclassified smokers had very similar 
+cotinine  levels  to  smokers  who  admitted  smoking.  While  the  circumstances  of  interview 
+(door-to-door interviews) and age range (2&55)  differed from the ETSJung-cancer  studies, the 
+findings fit  in  with  a  long-held  suspicion that  misclassification  rates  may  be  much  higher  in 
+Japanese  than  U.S.  women,  smoking  by  women  being  socially  unacceptable  in  Japan. 
+A concordance ratio of  3.0 and a 20 per cent misclassification rate applied to the overall Asian 
+data would totally eliminate the association (RR = 0.99,95 per cent CI = 0.87-1-12), while even 
+a  10 per  cent  rate  would  render  it  non-significant (RR = 1.09, 95 per  cent  CI 0.97-1.23).  The 
+Japanese  study  actually  suggested rather  a  higher  concordance than  seen  in  Western  studies, 
+further emphasizing the importance of  bias due to misclassification. 
 
-  OTHER  ISSUES AFFECTING INTERPRETATION  O F  DATA ON ETS 
+7.  OTHER  ISSUES AFFECTING INTERPRETATION  O F  DATA ON ETS 
 AND LUNG CANCER 
 
-  Other sources of  bias 
+7.1.  Other sources of  bias 
 
 Misclassification of smoking is not the only source of bias relevant to the relationship of  spousal 
-smoking to lung cancer Others include 
+smoking to lung cancer. Others include: 
 
-i Inaccuracy  of  exposure  Misclassification  of  spousal  exposure  will  see  Section   
-underestimate  any  true  risk  Also  as  some  nonsmokers  married  to  nonsmokers  are 
-exposed to ETS the RR for nonsmokers married to smokers as traditionally  calculated 
+(i) Inaccuracy  of  exposure.  Misclassification  of  spousal  exposure  will  (see  Section  2.10) 
+underestimate  any  true  risk.  Also,  as  some  non-smokers  married  to  non-smokers  are 
+exposed to ETS, the RR for non-smokers married to smokers, as traditionally  calculated, 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS  A  SOURCE OF BIAS 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS  A  SOURCE OF BIAS 
 
-  
+60 1 
 
-will underestimate their risk relative to a truly nonexposed population Layard reviews 
-the difficulties in adjusting for background  risk 
+will underestimate their risk relative to a truly non-exposed population. Layard4’ reviews 
+the difficulties in adjusting for background  risk. 
 
-ii Inaccuracy of diagnosis  Without autopsy a falsepositive clinical diagnosis of lung cancer 
-is common In many of the Asian and European studies a high proportion of cases were 
-diagnosed without  histological confirmation 
+(ii) Inaccuracy of diagnosis.  Without autopsy, a false-positive clinical diagnosis of lung cancer 
+is common.41 In many of the Asian and European studies a high proportion of cases were 
+diagnosed without  histological confirmation. 
 
-iii Recall  bias  Almost all the ETSlung cancer studies are casecontrol in  which  recall of 
+(iii) Recall  bias.  Almost all the ETS/lung cancer studies are case-control, in  which  recall of 
 
-smoking ETS and other exposures may be affected by disease presence 
+smoking, ETS, and other exposures may be affected by disease presence. 
 
-iv Confounding  For  many  lifestyle risk  factors  for  many  diseases prevalence is  not  only 
-increased  in  smokers but  is  also  somewhat increased in  ETSexposed never  smokers 
-A  recent  study  concluded  that  confounding by  multiple  risk  factors  may  be  an 
-important issue in passive smoking studies 
+(iv) Confounding.  For  many  lifestyle risk  factors  for  many  diseases, prevalence is  not  only 
+increased  in  smokers, but  is  also  somewhat increased in  ETS-exposed never  smokers. 
+A  recent  study4’  concluded  that  ‘confounding by  multiple  risk  factors  may  be  an 
+important issue in passive smoking studies’. 
 
-v  Publication  bias  Spousal smoking RR estimates tend to be lower for studies with  large 
-numbers of casess Based on the latest data this difference is significant  p    with 
-covariateadjusted RRs of    per cent CI     per cent CI  
-and    per cent CI    for studies with respectively more than    
-and less than  cases This is consistent with publication bias A technique for carrying 
-out a metaanalysis whilst adjusting for publication bias has been proposed 
+(v)  Publication  bias.  Spousal smoking RR estimates tend to be lower for studies with  large 
+numbers of cases.12s43 Based on the latest data, this difference is significant ( p  = 0.01) with 
+(covariate-adjusted) RRs of  1.07 (95 per cent CI 0.97-1.17),  1.35 (95 per cent CI 1.14-159) 
+and  1.42 (95 per cent CI  1.07-1.90)  for studies with, respectively, more than  100, 50-100, 
+and less than 50 cases. This is consistent with publication bias. A technique for carrying 
+out a meta-analysis whilst adjusting for publication bias has been proposed.44 
 
-vi  Study quality  Elsewhere Lee defined a study as having a serious weakness if any of seven 
-criteria were present   studies can be  classified inferior using these criteria including 
- out of   of the studies with the highest RRs The overall RR adjusted for covariates for 
-the inferior studies is   per cent CI  significantly p   greater than 
-that  for  the    superior studies which  at      per  cent  CI    show  no 
-significant association with spousal smoking 
+(vi)  Study quality.  Elsewhere43 Lee defined a study as having a serious weakness if any of seven 
+criteria were present. 16  studies can be  classified ‘inferior’ using these criteria including 
+9 out of  10 of the studies with the highest RRs. The overall RR (adjusted for covariates) for 
+the ‘inferior’ studies is 1.29 (95 per cent CI 1.15-1-45), significantly (p < 0.01) greater than 
+that  for  the  21  ‘superior’ studies, which,  at  1.03  (95  per  cent  CI  0.93-1.14),  show  no 
+significant association with spousal smoking. 
 
-  Evidence from other indices of  ETS exposure 
+7.2.  Evidence from other indices of  ETS exposure 
 
-Early  ETSlung  cancer  studies  presented  data  only  for  husbands  smoking  and  published 
-metaanalyses have tended to concentrate on this index This includes the  EPA report  which 
-considered these results at length but did not give even basic results for any other index although 
-considerable evidence has accumulated for workplace and childhood ETS exposure Based on  
-individual sexspecific RR  estimates from    studies a  combined  RR  estimate  adjusted  for 
-covariates for workplace exposure is   per cent CI  Based on  estimates from 
-  studies the  RR  estimate for  childhood  exposure  is      per  cent  CI    This 
-compares with     per  cent  CI   based  on    studies for  husbands  smoking 
-Concentration  on  the index showing an  association at the expense of  others which  do not is 
-a  major  form  of  publication  bias  Two  alternative extreme views  of  the  conflict  between the 
-spousal and the workplacechildhood results are possible One is that spousal smoking is much 
-more susceptible than the other indices to misclassification and perhaps also confounding bias 
-as concordance is much stronger for spouses than for coworkers or for parents and their children 
+Early  ETS/lung  cancer  studies  presented  data  only  for  husband’s  smoking,  and  published 
+meta-analyses have tended to concentrate on this index. This includes the  EPA report,’  which 
+considered these results at length but did not give even basic results for any other index, although 
+considerable evidence has accumulated for workplace and childhood ETS exposure. Based on 15 
+individual sex-specific RR  estimates from  12  studies, a  combined  RR  estimate  (adjusted  for 
+covariates) for workplace exposure is 1.00 (95 per cent CI 0-91-1.08). Based on 15 estimates from 
+14  studies, the  RR  estimate for  childhood  exposure  is  0.96  (95  per  cent  CI  0.87-1.06).  This 
+compares with  1-14 (95  per  cent  CI  1*061.23), based  on  37  studies, for  husband‘s  smoking. 
+Concentration  on  the index showing an  association, at the expense of  others which  do not, is 
+a  major  form  of  publication  bias.  Two  alternative extreme views  of  the  conflict  between the 
+spousal and the workplace/childhood results are possible. One is that spousal smoking is much 
+more susceptible than the other indices to misclassification, and perhaps also confounding, bias 
+as concordance is much stronger for spouses than for co-workers or for parents and their children. 
 The other is that working with a smoker and having a parent smoke in childhood are both very 
-poor markers of actual exposure spousal smoking finding an association as it is the only adequate 
-marker  This  second  explanation  seems  weak  Working  with  a  smoker  is  clearly  correlated 
-with increased ETS exposure though probably less so than is marriage to a smoker and if  ETS 
-exposure really increased risk an association with lung cancer incidence would be expected 
+poor markers of actual exposure, spousal smoking finding an association as it is the only adequate 
+marker.  This  second  explanation  seems  weak.  Working  with  a  smoker  is  clearly  correlated 
+with increased ETS exposure (though probably less so than is marriage to a smoker), and, if  ETS 
+exposure really increased risk, an association with lung cancer incidence would be expected. 
 
-  Doseresponse  relationships 
+7.3.  Dose-response  relationships 
 
-Our  methodology compares  risk  in  nonsmokers  according  to  whether  or  not  the  husband 
-smoked  regardless  of  how  much  he  smoked  The  EPA  report  stressed  the  existence  of 
+Our  methodology compares  risk  in  non-smokers  according  to  whether  or  not  the  husband 
+smoked,  regardless  of  how  much  he  smoked.  The  EPA  report’  stressed  the  existence  of 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons License 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License602 
 
-P LEE AND B FOREY 
+P. LEE AND B. FOREY 
 
-a doseresponse  relationship with RR estimates generally highest in the women whose husbands 
-smoked the most In interpreting this finding it should be noted that studies reporting relatively 
+a dose-response  relationship, with RR estimates generally highest in the women whose husbands 
+smoked the most. In interpreting this finding it should be noted that studies reporting relatively 
 high  RRs for spousal smoking are much  more  likely to present  data by  amount  smoked  than 
-those  that  do  not  Thus  for  the    studies  which  presented  doseresponse  data  the  overall 
-spousal  smoking  RR  adjusted  for  covariates  was      per  cent  CI    highly 
-significantly  p    greater than the RR  of    per cent CI   for the  studies 
-which  did  not  This  form  of  publication  bias  means  RR  estimates  for  nonsmoking  women 
-married  to heavily  smoking husbands  are strongly  biased  upward  It  may  also  be  that  given 
-a choice of  indices of  ETS exposure an author may only present detailed findings for the index 
-showing the  clearest  trend  Other  biases  may  affect  the  doseresponse  relationship  Thus  as 
-concordance increases with amount smoked smoking misclassification will also contribute to the 
-observed dose response 
+those  that  do  not.  Thus,  for  the  19  studies  which  presented  dose-response  data,  the  overall 
+spousal  smoking  RR  (adjusted  for  covariates)  was  1.36  (95  per  cent  CI  1.23-1-51),  highly 
+significantly ( p  < 0.001) greater than the RR  of  093 (95 per cent CI 0.83-1.04)  for the 18 studies 
+which  did  not.  This  form  of  publication  bias  means  RR  estimates  for  non-smoking  women 
+married  to heavily  smoking husbands  are strongly  biased  upward.  It  may  also  be  that,  given 
+a choice of  indices of  ETS exposure, an author may only present detailed findings for the index 
+showing the  clearest  trend.  Other  biases  may  affect  the  dose-response  relationship.  Thus,  as 
+concordance increases with amount smoked, smoking misclassification will also contribute to the 
+observed dose response. 
 
-  Histological type 
+7.4.  Histological type 
 
 The association of lung cancer with active smoking is much greater for squamous carcinoma than 
-for adenocarcinoma  If  ETS is  seen crudely as a  smaller dose  of  active smoking it  might  be 
-expected had it any effect at all to be more strongly associated with risk of  squamous carcinoma 
-Findings for those ETSlung cancer studies reporting  results separately by  histological type do 
-not fit in with this expectation While for some studies the results do seem more consistent with 
-a relationship with squamous carcinoma there are an equal number where the relationship seems 
-more with adenocarcinoma as well  as some studies with similar or a lack of relationship  with 
-either 
+for adenocarcinoma.  If  ETS is  seen, crudely, as a  smaller dose  of  active smoking, it  might  be 
+expected, had it any effect at all, to be more strongly associated with risk of  squamous carcinoma. 
+Findings for those ETS/lung cancer studies reporting  results separately by  histological type do 
+not fit in with this expectation. While for some studies the results do seem more consistent with 
+a relationship with squamous carcinoma, there are an equal number where the relationship seems 
+more with adenocarcinoma, as well  as some studies with similar, or a lack of, relationship  with 
+either.43 
 
-  Plausibility 
+7.5.  Plausibility 
 
 Active smoking is strongly associated with risk of  lung cancer and ETS and mainstream  smoke 
-contain many chemicals in common albeit in different relative concentrations It can be argued 
-especially by  adherents of  the nothreshold hypothesis that  an association of  ETS with  lung 
-cancer is to be  expected However the amount  of  particulate matter tar  retained  by  passive 
-smokers is thousands of  times lower than that retained by active smokers If as many believe tar 
-retention is relevant to lung carcinogenesis and the doseresponse  relationship is approximately 
-linear the observed spousal smoking RR about   would be much higher than expected 
-on  dosimetric  grounds  about    Based  on  this  argument  most  of  the  observed 
-association could be  due to bias 
+contain many chemicals in common, albeit in different relative concentrations.8 It can be argued 
+(especially by  adherents of  the ‘no-threshold’ hypothesis) that  an association of  ETS with  lung 
+cancer is to be  expected. However, the amount  of  particulate matter (‘tar’)  retained  by  passive 
+smokers is thousands of  times lower than that retained by active smokers. If, as many believe, ‘tar’ 
+retention is relevant to lung carcinogenesis, and the dose-response  relationship is approximately 
+linear, the observed spousal smoking RR (about  1.15-1-20) would be much higher than expected 
+on  dosimetric  grounds  (about  1.01-1.02).  Based  on  this  argument,  most  of  the  observed 
+association could be  due to bias. 
 
-  DISCUSSION 
+8.  DISCUSSION 
 
 Misclassification of  smoking habits  leads to underestimation  of  the association  of  lung cancer 
-with active smoking Given positive concordance  between smoking habits of  spouses however 
-random  misclassification of  some smokers as nonsmokers  will  result in  overestimation  of  the 
-association of  lung cancer with ETS in studies of  nonsmokers where marriage to a smoker is the 
-index of  exposure Sections  and   show how  this bias depends on various factors It tends to 
-increase  with  an  increasing  misclassification  rate  of  smokers  as  nonsmokers  concordance 
-proportion  of  subjects who smoke and proportion  of  spouses who  smoke Misclassification of 
-nonsmoking subjects as smokers or of  smoking by  spouses has little effect on the bias and the 
-mathematics is simplified by ignoring these possibilities Bias estimates can be materially affected 
-if  misclassification  of  smoking is  not  random  Section  accounts for  one  important  form  of 
-nonrandomness  arising as current  regular  smokers are less likely to deny  smoking  than  are 
+with active smoking. Given positive concordance  between smoking habits of  spouses, however, 
+random  misclassification of  some smokers as non-smokers  will  result in  overestimation  of  the 
+association of  lung cancer with ETS in studies of  non-smokers where marriage to a smoker is the 
+index of  exposure. Sections 2 and 3  show how  this bias depends on various factors. It tends to 
+increase  with  an  increasing  misclassification  rate  of  smokers  as  non-smokers,  concordance, 
+proportion  of  subjects who smoke, and proportion  of  spouses who  smoke. Misclassification of 
+non-smoking subjects as smokers or of  smoking by  spouses has little effect on the bias, and the 
+mathematics is simplified by ignoring these possibilities. Bias estimates can be materially affected 
+if  misclassification  of  smoking is  not  random.  Section 4 accounts for  one  important  form  of 
+non-randomness,  arising as current  regular  smokers are less likely to deny  smoking  than  are 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS A  SOURCE OF BIAS 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS A  SOURCE OF BIAS 
 
- 
+603 
 
-occasional  or  longterm  exsmokers  However  various  other  mechanisms  may  cause 
-nonrandomness If for example smokers tend to be much more likely to deny smoking if  their 
-spouse does not smoke the bias will be reduced and may even be reversed If on the other hand 
+occasional  or  long-term  ex-smokers.  However,  various  other  mechanisms  may  cause 
+non-randomness. If, for example, smokers tend to be much more likely to deny smoking if  their 
+spouse does not smoke, the bias will be reduced and may even be reversed. If, on the other hand, 
 smokers who  are ill  and  at more  risk  of  developing lung cancer  are also  more  likely to deny 
-smoking the bias may be increased Without hard data indicating the existence or importance of 
-these forms of  nonrandonness we make no attempt to account for them However there is need 
-for further research here for example a  study  where smoking by  husbands  and wives is both 
-assessed and separately validated  using cotinine assays 
+smoking, the bias may be increased. Without hard data indicating the existence or importance of 
+these forms of  non-randonness, we make no attempt to account for them. However, there is need 
+for further research here, for example, a  study  where smoking by  husbands  and wives is both 
+assessed and separately validated  using cotinine assays. 
 
-Section   considers  the  possibility that  misclassification may  vary  by  type  of  smoker and 
-improves  the  correction  method  used  by  EPA  which  has  numerous  errors  Given  known 
-misclassification rates and concordance ratios and various other assumptions the methodology 
+Section 4  considers  the  possibility that  misclassification may  vary  by  type  of  smoker, and 
+improves  the  correction  method  used  by  EPA,  which  has  numerous  errors.  Given  known 
+misclassification rates and concordance ratios, and various other assumptions, the methodology 
 allows estimation of  true numbers of  cases and controls in the various smoking categories from 
-the observed data and hence of  the misclassificationadjusted RR  associated with  marriage to 
-a  smoker  RR  estimates  for  individual  studies  can  then  be  metaanalysed  This  method  is 
-problematic due to the large number of misclassification rates and concordance ratios assumed 
-with data sparse or nonexistent for many of  them Luckily matters are simplified by noting see 
-Section  that for many studies the bias implied by the assumed values of the misclassification 
+the observed data, and hence of  the misclassification-adjusted RR  associated with  marriage to 
+a  smoker.  RR  estimates  for  individual  studies  can  then  be  meta-analysed.  This  method  is 
+problematic due to the large number of misclassification rates and concordance ratios assumed, 
+with data sparse or non-existent for many of  them. Luckily matters are simplified by noting (see 
+Section 4.7) that for many studies the bias implied by the assumed values of the misclassification 
 rates and concordance ratios is virtually identical to that implied by  a simpler model with only 
-two  smoking  categories  never  ever  a  single  misclassification  rate  of    and  a  single 
-concordance ratio of   
+two  smoking  categories  (never,  ever),  a  single  misclassification  rate  of  1.75  and  a  single 
+concordance ratio of  3.0. 
 
-In Section  this simpler model is applied to data for US females With the misclassification 
-rate of   and concordance ratio of  a marginally significant unadjusted metaanalysis RR of 
- drops to a nonsignificant   In fact the misclassification rate could well be higher than 
- per cent further reducing the RR estimate Though there is some doubt as to the appropriate 
-rate misclassification can certainly explain most of  the observed association of  spousal smoking 
-with  lung cancer 
+In Section 5 this simpler model is applied to data for U.S. females. With the misclassification 
+rate of  1.75 and concordance ratio of 3.0, a marginally significant unadjusted meta-analysis RR of 
+1.13 drops to a non-significant  1.05. In fact the misclassification rate could well be higher than 
+1.75 per cent, further reducing the RR estimate. Though there is some doubt as to the appropriate 
+rate, misclassification can certainly explain most of  the observed association of  spousal smoking 
+with  lung cancer. 
 
-As  fewer Asian  women  smoke and  have  lower active smoking  RRs  when  they  do a  given 
-misclassification rate will cause far less bias in Asian than US studies However evidence which 
-needs  replicating from  Japan  suggests misclassification  rates  may  be  much  higher  in  Asian 
-women  If  so  misclassification  may  cause  marked  bias  there  Until  results  of  the  IARC 
-multicentre study are published European data are rather  sparse and are not considered here 
+As  fewer Asian  women  smoke, and  have  lower active smoking  RRs  when  they  do, a  given 
+misclassification rate will cause far less bias in Asian than U.S. studies. However, evidence (which 
+needs  replicating) from  Japan  suggests misclassification  rates  may  be  much  higher  in  Asian 
+women.  If  so,  misclassification  may  cause  marked  bias  there.  Until  results  of  the  IARC 
+multicentre study are published, European data are rather  sparse and are not considered here. 
 Misclassification is only one reason to be wary of  accepting the association of lung cancer risk 
-with spousal smoking as indicative of  a true effect of  ETS As  discussed in  Section   there are 
-other sources of  bias such as confounding There is also evidence of  a lack of  association  with 
-workplace  or  childhood  ETS  exposure The  very  low  particulate  matter  retention  of  passive 
-smokers also suggests the association with spousal smoking may  be  mainly an artefact 
+with spousal smoking as indicative of  a true effect of  ETS. As  discussed in  Section 7,  there are 
+other sources of  bias (such as confounding). There is also evidence of  a lack of  association  with 
+workplace  or  childhood  ETS  exposure. The  very  low  particulate  matter  retention  of  passive 
+smokers also suggests the association with spousal smoking may  be  mainly an artefact. 
 
-Our paper emphasizes the difficulties of  interpreting weak associations in epidemiology and 
-the need to quantify the various sources of  bias before coming to a firm conclusion Though there 
-are difficulties in  quantifying the exact effects of  smoking habit  misclassification our analyses 
+Our paper emphasizes the difficulties of  interpreting weak associations in epidemiology, and 
+the need to quantify the various sources of  bias before coming to a firm conclusion. Though there 
+are difficulties in  quantifying the exact effects of  smoking habit  misclassification, our analyses 
 show its likely importance and cast doubt on simple interpretation  of  the association  between 
-lung cancer and spousal smoking as indicative of  a cause and effect relationship 
+lung cancer and spousal smoking as indicative of  a cause and effect relationship. 
 
 ACKNOWLEDGEMENTS 
 
 We thank John Fry for computing assistance and Pauline Wassell for typing the numerous drafts 
-of the manuscript A number of colleagues provided helpful comments but we remain responsible 
-for the views expressed Finally we thank various companies of the tobacco industry for financial 
-support 
+of the manuscript. A number of colleagues provided helpful comments but we remain responsible 
+for the views expressed. Finally, we thank various companies of the tobacco industry for financial 
+support. 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons License 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License604 
 
-P LEE AND B FOREY 
+P. LEE AND B. FOREY 
 
 REFERENCES 
 
-  Bross I D J Misclassification in  x   tables Biometrics      
-  Newell D J Misclassification in   x   tables Biometrics      
-  Goldberg J D The effect of misclassification on the bias in the difference between two proportions and 
-the  American  Statistical  Association   
+1.  Bross, I. D. J. ‘Misclassification in 2 x  2 tables’, Biometrics,  10, 478-486  (1954). 
+2.  Newell, D. J. ‘Misclassification in  2 x  2 tables’, Biometrics,  19,  187 (1963). 
+3.  Goldberg, J. D. ‘The effect of misclassification on the bias in the difference between two proportions and 
+the  American  Statistical  Association, 70, 561-567 
 
-the  relative odds  in  the  fourfold  table  Journal  of 
- 
+the  relative odds  in  the  fourfold  table’,  Journal  of 
+(1975). 
 
-  Copeland K T Checkoway H McMichael A J and Holbrook R H Bias due to misclassification in 
+4.  Copeland, K. T., Checkoway, H., McMichael, A. J. and Holbrook, R. H. ‘Bias due to misclassification in 
 
-the estimation  of  relative risk American Jounral  of Epidemiology    
+the estimation  of  relative risk’, American Jounral  of Epidemiology,  105,488-495 (1977). 
 
-  Duffy  S  W  Maximovitch  D  M  and  Day  N  E  External  validation  repeat  determination  and 
-precision of risk estimation in misclassified exposure data in epidemiology Journal  of Epidemiology  and 
-Community Health    
+5.  Duffy,  S.  W.,  Maximovitch,  D.  M.  and  Day,  N.  E.  ‘External  validation,  repeat  determination,  and 
+precision of risk estimation in misclassified exposure data in epidemiology’, Journal  of Epidemiology  and 
+Community Health, 46, 620-624 (1992). 
 
-  Tzonou A  Kaldor J Smith P G Day N E and Trichopoulos D Misclassification in casecontrol 
-studies with  two  dichotomous  risk  factors Revue   Epidtmiologies  et  de  Santt  Publique     
- 
+6.  Tzonou, A.,  Kaldor, J., Smith, P. G., Day, N. E. and Trichopoulos, D. ‘Misclassification in case-control 
+studies with  two  dichotomous  risk  factors’, Revue  6 Epidtmiologies  et  de  Santt  Publique,  34,  10-17 
+(1986). 
 
-  National Research Council Environmental  Tobacco smoke Measuring  Exposures  and Assessing  Health 
+7.  National Research Council. Environmental  Tobacco smoke. Measuring  Exposures  and Assessing  Health 
 
-Eflects National  Academy Press Washington  D C   
+Eflects. National  Academy Press, Washington  D. C.,  1986. 
 
-  US Environmental  Protection  Agency  Smoking  and  Tobacco  Control  Monograph    Respiratory 
-Health  Eflects  of  Passive  Smoking Lung  Cancer and  other  Disorders  National  Institutes  of  Health 
-publication no   August   
+8.  US. Environmental  Protection  Agency.  Smoking  and  Tobacco  Control,  Monograph  4  Respiratory 
+Health  Eflects  of  Passive  Smoking: Lung  Cancer and  other  Disorders’,  National  Institutes  of  Health 
+publication no. 93-3605,  August  1993. 
 
-  Lehnert G Garfinkel L Hirayama T Schmahl D  Uberla K Wynder E L and Lee P N Round 
+9.  Lehnert, G., Garfinkel, L., Hirayama, T., Schmahl, D.,  Uberla, K., Wynder, E. L. and Lee, P. N. ‘Round 
 
-table discussion Preventive  Medicine     
+table discussion’, Preventive  Medicine, 13, 730-746  (1984). 
 
- Wald N J Nanchahal K Thompson S G and Cuckle H S Does breathing other peoples tobacco 
+10. Wald, N. J., Nanchahal, K., Thompson, S. G. and Cuckle, H. S. ‘Does breathing other people’s tobacco 
 
-smoke cause lung cancer  British Medical Journal      
+smoke cause lung cancer?,  British Medical Journal, 293,  1217-1222  (1986). 
 
-  Lee  P  N  Misclassification of  smoking  habits  and  passive  smoking  A  review  of  the  evidence 
-International  Archives  of  Occupational  and  Environmental  Health  Supplement  SpringerVerlag 
-Heidelberg  
+11.  Lee,  P.  N.  ‘Misclassification of  smoking  habits  and  passive  smoking.  A  review  of  the  evidence’, 
+International  Archives  of  Occupational  and  Environmental  Health  Supplement,  Springer-Verlag, 
+Heidelberg (1988). 
 
-  Lee P N Environmental  Tobacco Smoke  and  Mortality  Karger Basle  
-  Lee P N Respiratory health effects of  passive smoking lung cancer and other disorders A commen 
-tary on issues relating to lung cancer in the May   SAB review draft submission to the Scientific 
-Advisory Board of  the US Environmental  Protection Agency  
+12.  Lee, P. N. Environmental  Tobacco Smoke  and  Mortality,  Karger, Basle 1992. 
+13.  Lee, P. N. ‘Respiratory health effects of  passive smoking: lung cancer and other disorders. A commen- 
+tary on issues relating to lung cancer in the May  1992 SAB review draft’, submission to the Scientific 
+Advisory Board of  the U.S. Environmental  Protection Agency, 1992. 
 
-  Correa  P  Pickle L W  Fontham E  Lin Y and Haenszel W  Passive smoking and  lung cancer 
+14.  Correa,  P.,  Pickle, L. W.,  Fontham, E.,  Lin, Y. and Haenszel, W.  ‘Passive smoking and  lung cancer’, 
 
-Lancet    
+Lancet, 2, 595-597 (1983). 
 
-  Brownson R C Alavanja M  C R  Hock E T and Loy T S Passive smoking and lung cancer in 
+15.  Brownson, R. C., Alavanja, M.  C. R.,  Hock, E. T. and Loy, T. S. ‘Passive smoking and lung cancer in 
 
-nonsmoking women American  Journal  of Public  Health     
+nonsmoking women’, American  Journal  of Public  Health, 82, 1525-1530  (1992). 
 
-  Fontham  E T H Correa P  Reynolds P WuWilliams A  Buffler P A  Greenberg R  S Chen 
-V W Alterman T Boyd P Austin D F and Liff J Environmental tobacco smoke and lung cancer 
-in  nonsmoking  women  A  multicenter  study Journal  of  the  American  Medical  Association   
-   
+16.  Fontham,  E. T. H., Correa, P.,  Reynolds, P., Wu-Williams, A.,  Buffler, P. A.,  Greenberg, R.  S., Chen, 
+V. W., Alterman, T., Boyd, P., Austin, D. F. and Liff, J. ‘Environmental tobacco smoke and lung cancer 
+in  nonsmoking  women.  A  multicenter  study’, Journal  of  the  American  Medical  Association,  271, 
+1752-1759  (1994). 
 
-  Garfinkel L Auerbach  and Joubert L Involuntary smoking and lung cancer A case control study 
+17.  Garfinkel, L., Auerbach, 0. and Joubert, L. ‘Involuntary smoking and lung cancer: A case control study’, 
 
-Journal  of the National  Cancer Institute     
+Journal  of the National  Cancer Institute, 75, 463-469  (1985). 
 
-  Stockwell H  G  Goldman  A  L  Lyman  G  H  Nass  C  I  Armstrong  A  W  Pinkham  P  A 
-Candelora E  C and  Brusa M  R  Environmental  tobacco  smoke and lung  cancer  in  nonsmoking 
-women Journal  of the  National  Cancer  Institute     
+18.  Stockwell, H.  G.,  Goldman,  A.  L.,  Lyman,  G.  H.,  Nass,  C.  I.,  Armstrong,  A.  W.,  Pinkham,  P.  A., 
+Candelora, E.  C. and  Brusa, M.  R.  ‘Environmental  tobacco  smoke and lung  cancer  in  nonsmoking 
+women’, Journal  of the  National  Cancer  Institute, 84, 1417-1422  (1992). 
 
-  Brownson R C Reif J S Keefe T J  Ferguson S  W  and  Pritzl J A  Risk factors for adenocar 
+19.  Brownson, R. C., Reif, J. S., Keefe, T. J.,  Ferguson, S.  W.  and  Pritzl, J. A.  ‘Risk factors for adenocar- 
 
-cinoma of  the lung American  Journal  of  Epidemiology      
+cinoma of  the lung’, American  Journal  of  Epidemiology,  125, 25-34  (1987). 
 
-  Burner P A  Pickle L W Mason T J and Contant C The causes of lung cancer in Texas in Mizell M 
-and Correa P eds Lung Cancer Causes and Prevention Verlag Chemie International New York  
-  Garfinkel L Time trends in lung cancer mortality among nonsmokers and a note on passive smoking 
+20.  Burner, P. A.,  Pickle, L. W., Mason, T. J. and Contant, C. ‘The causes of lung cancer in Texas’, in Mizell, M. 
+and Correa, P. (eds), Lung Cancer: Causes and Prevention, Verlag Chemie International, New York, 1984. 
+21.  Garfinkel, L. ‘Time trends in lung cancer mortality among non-smokers and a note on passive smoking’, 
 
-Journl  of the  National  Cancer Institute     
+Journl  of the  National  Cancer Institute, 66, 1061-1066  (1981). 
 
-  Humble C G Samet J  M and Pathak D R  Marriage to a smoker and lung cancer risk  American 
+22.  Humble, C. G., Samet, J.  M. and Pathak, D. R.  ‘Marriage to a smoker and lung cancer risk’,  American 
 
-Journal  of Public  Health     
+Journal  of Public  Health, 77, 598-602  (1987). 
 
-  Janerich D T Thompson W  D Varela L  R Greenwald P Chorost S  Tucci C Zaman  M B 
-Melamed M R Kiely M and McKneally M  F Lung cancer and exposure to tobacco smoke in the 
-household New England  Journal  of Medicine     
+23,  Janerich, D. T., Thompson, W.  D., Varela, L.  R., Greenwald, P., Chorost, S.,  Tucci, C., Zaman,  M. B., 
+Melamed, M. R., Kiely, M. and McKneally, M.  F. ‘Lung cancer and exposure to tobacco smoke in the 
+household‘, New England  Journal  of Medicine, 323, 632-636  (1990). 
 
-  Kabat G C   and Wynder E  L Lung cancer in nonsmokers Cancer     
-  Kabat G C   Epidemiologic studies of the relationship between passive smoking and lung cancer  
+24.  Kabat, G. C .  and Wynder, E.  L. ‘Lung cancer in non-smokers’, Cancer, 53, 1214-1221  (1984). 
+25.  Kabat, G. C .  ‘Epidemiologic studies of the relationship between passive smoking and lung cancer’, 1990 
 
-Winter Toxicologv Forum Washington     
+Winter Toxicologv Forum, Washington,  187-189  (1990). 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS  A SOURCE OF BIAS 
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseMISCLASSIFICATION OF SMOKING HABITS AS  A SOURCE OF BIAS 
 
- 
+605 
 
-  Wu A H Henderson B  E Pike M C and Yu M C Smoking and other risk factors for lung cancer 
+26.  Wu, A. H., Henderson, B.  E., Pike, M. C. and Yu. M. C. ‘Smoking and other risk factors for lung cancer 
 
-in women Journal  of  the National  Cancer Institute     
+in women’, Journal  of  the National  Cancer Institute, 74, 747-751  (1985). 
 
-  Butler T  L  The relationship  of  passive  smoking  to  various  health  outcomes  among  Seventhday 
+27.  Butler, T.  L.  ‘The relationship  of  passive  smoking  to  various  health  outcomes  among  Seventh-day 
 
-Adventists in California Dissertation  University of  California Los Angeles  
+Adventists in California’, Dissertation,  University of  California, Los Angeles, 1988. 
 
-  Fleiss J  L  and  Gross A  J  Metaanalysis in  epidemiology with  special reference to studies  of  the 
-association between exposure to environmental tobacco smoke and lung cancer a critique Journal  of 
-Clinical  Epidemiology      
+28.  Fleiss, J.  L.  and  Gross, A.  J.  ‘Meta-analysis in  epidemiology, with  special reference to studies  of  the 
+association between exposure to environmental tobacco smoke and lung cancer: a critique’ Journal  of 
+Clinical  Epidemiology, 44,  127-139  (1991). 
 
-  Hirayama T Cancer mortality in nonsmoking women with smoking husbands based on a largescale 
+29.  Hirayama, T. ‘Cancer mortality in nonsmoking women with smoking husbands based on a large-scale 
 
-cohort study in Japan Preventive Medicine    
+cohort study in Japan’, Preventive Medicine, 13, 680690 (1984). 
 
-  Sutton G C Assortative marriage for smoking habits Annals  of  Human Biology      
-  Akiba S  Kato H and Blot W J Passive smoking and lung cancer among Japanese women Cancer 
+30.  Sutton, G. C. ‘Assortative marriage for smoking habits’, Annals  of  Human Biology, 7 ,  449-456 (1980). 
+31.  Akiba, S.,  Kato, H. and Blot, W. J. ‘Passive smoking and lung cancer among Japanese women’, Cancer 
 
-Research    
+Research, 46, 48044807 (1986). 
 
-  Lee  P  N  Passive smoking  and  lung  cancer  Association  a  result  of  bias  Human  Toxicology  
+32.  Lee,  P.  N.  ‘Passive smoking  and  lung  cancer.  Association  a  result  of  bias?,  Human  Toxicology, 6, 
 
-   
+517-524  (1987). 
 
-  Lee  P  N  An  estimate of  adult  mortality  in  the United  States from  passive smoking Enuironment 
+33.  Lee,  P.  N.  ‘An  estimate of  adult  mortality  in  the United  States from  passive smoking’, Enuironment 
 
-International     
+International, 19, 91-96  (1993). 
 
-  Wells A  J An estimate of  adult  mortality  in  the United  States from passive smoking a response to 
+34.  Wells, A.  J. ‘An estimate of  adult  mortality  in  the United  States from passive smoking; a response to 
 
-criticism Environment  International     
+criticism’, Environment  International, 17, 382-385  (1991). 
 
-  Wells A J An estimate of adult mortality in the United States from passive smoking A further reply 
+35.  Wells, A. J. ‘An estimate of adult mortality in the United States from passive smoking: A further reply’, 
 
-Enoironment  International     
+Enoironment  International, 19, 97-100  (1993). 
 
-  Jarvis M Dietary nicotine wont mislead on passive smoking unless subjects eat  kg tomatoes a day 
+36.  Jarvis, M. ‘Dietary nicotine won’t mislead on passive smoking unless subjects eat 90 kg tomatoes a day’, 
 
-British  Medical  Journal    
+British  Medical  Journal, 308, 62 (1994). 
 
-  Velicer W F Prochaska J O Rossi J S and Snow M G Assessing outcome in smoking cessation 
+37.  Velicer, W. F., Prochaska, J. O., Rossi, J. S. and Snow, M. G. ‘Assessing outcome in smoking cessation 
 
-studies Psychological Bulletin     
+studies’, Psychological Bulletin,  111, 23-41 (1992). 
 
-  Lee  P N  Lung cancer  and  ETS Is  the  epidemiologic evidence conclusive  American  Statistical 
+38.  Lee,  P. N.  ‘Lung cancer  and  ETS: Is  the  epidemiologic evidence conclusive?,  American  Statistical 
 
-Association Proceedings of  the Section on  Statistics and  the Environment     
+Association, Proceedings of  the Section on  Statistics and  the Environment,  65-73  (1994). 
 
-  Lee P N Marriage to a  smoker may not  be a  valid marker  of  exposure in studies relating environ 
-mental tobacco smoke to risk of lung cancer in Japanese nonsmoking women International  Archives of 
-Occupational  and  Environmental  Medicine in press  
+39.  Lee, P. N. ‘Marriage to a  smoker may not  be a  valid marker  of  exposure in studies relating environ- 
+mental tobacco smoke to risk of lung cancer in Japanese non-smoking women’, International  Archives of 
+Occupational  and  Environmental  Medicine, in press (1995). 
 
-  Layard M  W The background  adjustment  in risk  assessment of  environmental tobacco smoke and 
+40.  Layard, M.  W. ‘The background  adjustment  in risk  assessment of  environmental tobacco smoke and 
 
-lung cancer Enuironment International   
+lung cancer’, Enuironment International, 18,453461 (1992). 
 
-  Lee P N Comparison of  autopsy clinical and death certificate diagnosis with particular reference to 
+41.  Lee, P. N. ‘Comparison of  autopsy, clinical and death certificate diagnosis with particular reference to 
 
-lung cancer A review  of  the published data APMIS Suppl          
+lung cancer. A review  of  the published data’, APMIS, Suppl 45,  102,  1 4 2  (1994). 
 
-  Thornton A J Lee P N and Fry J S Differences between smokers exsmokers passive smokers and 
+42.  Thornton, A. J., Lee, P. N. and Fry, J. S. ‘Differences between smokers, ex-smokers, passive smokers and 
 
-nonsmokers Journal  of  Clinical  Epidemiology      
+non-smokers’, Journal  of  Clinical  Epidemiology, 47,  1143-1 162 (1994). 
 
-  Lee  P  N  An  assessment of the epidemiological evidence relating lung cancer risk in  never smokers 
-to  environmental  tobacco  smoke  exposure  in  Kasuga  H  ed  Environmental  Tobacco  Smoke 
-SpringerVerlag New York   
+43.  Lee,  P.  N.  ‘An  assessment of the epidemiological evidence relating lung cancer risk in  never smokers 
+to  environmental  tobacco  smoke  exposure’,  in:  Kasuga,  H.  (ed),  Environmental  Tobacco  Smoke, 
+Springer-Verlag, New York,  1993. 
 
-  Sugita M  Kamamori M  Izuno T and  Miyakawa  M Estimating a summarized odds ratio  whilst 
-eliminating publication bias in metaanalysis Japanese Jorunal of  Clinical Oncology    
+44,  Sugita, M.,  Kamamori, M.,  Izuno, T. and  Miyakawa,  M. ‘Estimating a summarized odds ratio  whilst 
+eliminating publication bias in meta-analysis’, Japanese Jorunal of  Clinical Oncology, 22,354-358  (1992). 
 
-    Downloaded from httpsonlinelibrarywileycomdoiSICIAIDSIMCOB by Northeastern University Wiley Online Library on  See the Terms and Conditions httpsonlinelibrarywileycomtermsandconditions on Wiley Online Library for rules of use OA articles are governed by the applicable Creative Commons License
+ 10970258, 1996, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(19960330)15:6<581::AID-SIM182>3.0.CO;2-B by Northeastern University, Wiley Online Library on [24/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
