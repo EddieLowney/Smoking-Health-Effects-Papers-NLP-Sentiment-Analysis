@@ -15,6 +15,9 @@ from myopenai import MyOpenAPI
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline
 import dotenv
 import pandas as pd
+import vaderSentiment.vaderSentiment as vs
+from sankey import show_sankey
+
 
 dotenv.load_dotenv()
 api = MyOpenAPI()
@@ -83,8 +86,10 @@ class Textinator:
     def GPT_key_sections(self, text, filename):
         base_name = os.path.splitext(os.path.basename(filename))[0]
         output_name = f'data/GPT_sectioned/{base_name}.txt'
-        prompt = """Find the sections of this text that really contribute to its meaning. Example: find the abstract, key defining
-                    sentences, discussion, and conclusion of a research paper. Only return exactly what the article says. TEXT: """
+        prompt = """Find the sections of this text that really contribute to\
+        its meaning. Example: find the abstract, key defining sentences,\
+        discussion, and conclusion of a research paper. Only return exactly\
+        what the article says. TEXT: """
         prompt += text
         response_text = api.ask(prompt=prompt)
         response_text = re.sub(r"\*\*.*?\*\*", '', response_text)
@@ -124,7 +129,8 @@ class Textinator:
 
         model = AutoModelForSequenceClassification.from_pretrained(model_name)
 
-        classifier = pipeline("text-classification", model=model, tokenizer=tokenizer, device = 'mps')
+        classifier = pipeline("text-classification", model=model,
+                              tokenizer=tokenizer, device = 'mps')
 
         result = {}
         for aspect in ['health effects of cigarettes',
@@ -141,8 +147,52 @@ class Textinator:
         df.to_csv(output_name)
         return df
 
-    def LDA_scores(self, filename):
-        pass
+    def wordcount_sankey(self, word_list = None, k = 5):
+        # print(type(self.data))
+        word_counts = pd.DataFrame()
+
+        stacked_df = pd.DataFrame()
+
+        if word_list is None:
+            word_list = set()
+
+            for text in self.data["wordcount"]:
+                word_list = word_list.union(
+                set(i[0] for i in self.data["wordcount"][text].most_common(k)))
+            word_list = list(word_list)
+            word_list.sort()
+            for text in self.data["wordcount"]:
+                word_counts["Words"] = word_list
+
+            # for text in self.data["wordcount"].keys():
+                word_counts["Text"] = text
+                word_counts["Frequency"] = list(self.data[
+                                "wordcount"][text][word] for word in word_list)
+                stacked_df = pd.concat([
+                    stacked_df, word_counts], ignore_index=True, sort=False)
+        else:
+            for text in self.data["wordcount"]:
+                word_counts["Words"] = word_list
+                word_counts["Text"] = text
+                word_counts["Frequency"] = list(self.data[
+                                "wordcount"][text][word] for word in word_list)
+                stacked_df = pd.concat([
+                    stacked_df, word_counts], ignore_index=True, sort=False)
+
+        show_sankey(stacked_df, "Text", "Words", "Frequency")
+
+    def sentiment_analysis(self):
+        all_words = ""
+        total_sentiment = []
+        text_sentiments = []
+        analyzer = vs.SentimentIntensityAnalyzer()
+
+        for text in self.data["wordcount"]:
+            for i in self.data["wordcount"][text].keys():
+                total_sentiment.append(analyzer.polarity_scores(i)[
+                                "compound"] * self.data["wordcount"][text][i])
+            text_sentiments.append(sum(total_sentiment) / self.data[
+                                                            "numwords"][text])
 
 def main():
 
@@ -150,11 +200,11 @@ def main():
     # T.load_stop_words(STOP_WORDS_FILENAME)
 
     # T.load_text('data/cig_data/independent_1.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_2.pdf', 'I2', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_3.pdf', 'I3', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_4.pdf', 'I4', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_5.pdf', 'I5', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_6.pdf', 'I6', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_2.pdf', 'I1', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_3.pdf', 'I1', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_4.pdf', 'I1', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_5.pdf', 'I1', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_6.pdf', 'I1', parser=T.pdf_parser)
     # T.load_text('data/cig_data/industry_sponsored_1.pdf', 'S1', parser=T.pdf_parser)
     # T.load_text('data/cig_data/industry_sponsored_2.pdf', 'S2', parser=T.pdf_parser)
     # T.load_text('data/cig_data/industry_sponsored_3.pdf', 'S3', parser=T.pdf_parser)
@@ -173,6 +223,8 @@ def main():
     # T.ASBA_scores('data/GPT_sectioned/independent_5.txt')
     # T.ASBA_scores('data/GPT_sectioned/independent_6.txt')
 
+    T.wordcount_sankey(k=5)
+    T.sentiment_analysis()
 
 
 
