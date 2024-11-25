@@ -6,6 +6,8 @@ Output:
 """
 import random as rnd
 from collections import defaultdict, Counter
+
+from param import output
 from pdfminer.high_level import extract_text
 import json
 import os
@@ -13,6 +15,7 @@ import re
 from myopenai import MyOpenAPI
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline
 import dotenv
+import pandas as pd
 
 dotenv.load_dotenv()
 api = MyOpenAPI()
@@ -109,8 +112,12 @@ class Textinator:
                 self.stop_list.append(i.strip())
 
     def ASBA_scores(self, filename):
+        base_name = os.path.splitext(os.path.basename(filename))[0]
+        output_name = f'results/ASBA/{base_name}.csv'
+        print(output_name)
         with open(filename, "r") as file:
             text = file.read()
+
         # Load the ABSA model and tokenizer
         model_name = "yangheng/deberta-v3-base-absa-v1.1"
         tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -119,8 +126,20 @@ class Textinator:
 
         classifier = pipeline("text-classification", model=model, tokenizer=tokenizer, device = 'mps')
 
-        for aspect in ['health effects of cigarettes', 'health impact', 'health effects of e-cigarettes', 'health effects of vapes']:
-            print(aspect, classifier(text, text_pair=aspect))
+        result = {}
+        for aspect in ['health effects of cigarettes',
+                       'health impact',
+                       'health effects of e-cigarettes',
+                       'health effects of vapes',
+                       'impact on lungs',
+                       'impact on heart',
+                       'cigarettes',
+                       'e-cigarettes',
+                       'rainbows and unicorns']:
+            result[aspect] = classifier(text, text_pair=aspect)[0]
+        df = pd.DataFrame.from_dict(result, orient='index')
+        df.to_csv(output_name)
+        return df
 
 def main():
 
@@ -139,7 +158,19 @@ def main():
     # T.load_text('data/cig_data/industry_sponsored_4.pdf', 'S4', parser=T.pdf_parser)
     # T.load_text('data/cig_data/industry_sponsored_5.pdf', 'S5', parser=T.pdf_parser)
     # T.load_text('data/cig_data/industry_sponsored_6.pdf', 'S6')
-    #T.ASBA_scores('data/converted_files/industry_sponsored_1.txt')
+    # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_1.txt')
+    # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_2.txt')
+    # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_3.txt')
+    # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_4.txt')
+    # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_5.txt')
+    # T.ASBA_scores('data/GPT_sectioned/independent_1.txt')
+    # T.ASBA_scores('data/GPT_sectioned/independent_2.txt')
+    # T.ASBA_scores('data/GPT_sectioned/independent_3.txt')
+    # T.ASBA_scores('data/GPT_sectioned/independent_4.txt')
+    # T.ASBA_scores('data/GPT_sectioned/independent_5.txt')
+    # T.ASBA_scores('data/GPT_sectioned/independent_6.txt')
+
+
 
     print(T.data)
 if __name__ == '__main__':
