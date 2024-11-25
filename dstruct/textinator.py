@@ -10,8 +10,9 @@ from pdfminer.high_level import extract_text
 import json
 import os
 import re
+from myopenai import MyOpenAPI
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline
-import openai
+
 
 STOP_WORDS_FILENAME = 'data/stop_words.txt'
 
@@ -81,6 +82,8 @@ class Textinator:
         text = extract_text(filename)
         text = re.sub(r'[^a-zA-Z\s]', '', text)
         cleaned_words = self.filter_words(text.split())
+        api = MyOpenAPI()
+
 
         with open(output_name, 'w') as file:
             file.write(text)
