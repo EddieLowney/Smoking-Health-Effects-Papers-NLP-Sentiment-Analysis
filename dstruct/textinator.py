@@ -11,7 +11,7 @@ from pdfminer.high_level import extract_text
 import json
 import os
 import re
-from myopenai import MyOpenAPI
+# from myopenai import MyOpenAPI
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline
 import dotenv
 import pandas as pd
@@ -20,7 +20,7 @@ from SANKEY import show_sankey
 
 
 dotenv.load_dotenv()
-api = MyOpenAPI()
+# api = MyOpenAPI()
 
 STOP_WORDS_FILENAME = 'data/stop_words.txt'
 
@@ -49,16 +49,24 @@ class Textinator:
             self.data[k][label] = v
 
     def filter_words(self, words):
+        """Given a list of words, removes all specified characters from each
+        word and removes any words that, following the filtering, are not
+        exclusively letters (isalpha), are in the stop words list, or are
+        less than 3 characters"""
+
+        # Creation of translation table to remove characters
         translation_table = str.maketrans(
             {"\n": "", "\t": "", "\r": "", "=": "",
              ",": "", "-": "", "(": "", ")": "",
-             ".": "", ":": "", "?": ""})
+             ".": "", ":": "", "?": "", ";": "", "[": "", "]": "", " ": ""})
 
         cleaned_words = []
+        # Loop iterating through words, applying translate() and lowercase()
         for i in words:
             i = i.translate(translation_table)
             i = i.lower()
-            if i not in self.stop_list and i.isalpha():
+            # Conditional statement checking filtering conditions
+            if i not in self.stop_list and i.isalpha() and len(i) > 2:
                 cleaned_words.append(i)
 
         return cleaned_words
@@ -98,17 +106,25 @@ class Textinator:
             file.write(response_text)
 
     def pdf_parser(self, filename):
+        """Called to parse a PDF file. Extracts text. Uses a PDF library
+        to extract text, calls filter_word() to clean the output, and outputs
+        the cleaned words in the dictionary counter datatype. Also writes the
+        most important parts of the text to separate files using GPT API"""
         base_name = os.path.splitext(os.path.basename(filename))[0]
         output_name = f'data/converted_files/{base_name}.txt'
 
         text = extract_text(filename)
-        self.GPT_key_sections(text, filename)
+        # Writes most important portions of text to separate files using GPT
+        # self.GPT_key_sections(text, filename)
         with open(output_name, 'w') as file:
             file.write(text)
 
+        # Filters words
         cleaned_words = self.filter_words(text.split(" "))
+        # Gets word counts in a Counter datatype
         wc = Counter(cleaned_words)
         num = len(cleaned_words)
+        
         return {'wordcount': wc, 'numwords': num}
 
     def load_stop_words(self, stopwords_file):
@@ -119,7 +135,6 @@ class Textinator:
     def ASBA_scores(self, filename):
         base_name = os.path.splitext(os.path.basename(filename))[0]
         output_name = f'results/ASBA/{base_name}.csv'
-        print(output_name)
         with open(filename, "r") as file:
             text = file.read()
 
@@ -148,9 +163,8 @@ class Textinator:
         return df
 
     def wordcount_sankey(self, word_list = None, k = 5):
-        # print(type(self.data))
+        """"""
         word_counts = pd.DataFrame()
-
         stacked_df = pd.DataFrame()
 
         if word_list is None:
@@ -178,8 +192,7 @@ class Textinator:
                                 "wordcount"][text][word] for word in word_list)
                 stacked_df = pd.concat([
                     stacked_df, word_counts], ignore_index=True, sort=False)
-
-        show_sankey(stacked_df, "Text", "Words", "Frequency")
+        show_sankey(stacked_df, "Text", "Words", vals = "Frequency")
 
     def sentiment_analysis(self):
         all_words = ""
@@ -197,15 +210,15 @@ class Textinator:
 def main():
 
     T = Textinator()
-    # T.load_stop_words(STOP_WORDS_FILENAME)
+    T.load_stop_words(STOP_WORDS_FILENAME)
 
-    # T.load_text('data/cig_data/independent_1.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_2.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_3.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_4.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_5.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_6.pdf', 'I1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/industry_sponsored_1.pdf', 'S1', parser=T.pdf_parser)
+    T.load_text('data/cig_data/independent_1.pdf', 'I1', parser=T.pdf_parser)
+    T.load_text('data/cig_data/independent_2.pdf', 'I2', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_3.pdf', 'I3', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_4.pdf', 'I4', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_5.pdf', 'I5', parser=T.pdf_parser)
+    # T.load_text('data/cig_data/independent_6.pdf', 'I6', parser=T.pdf_parser)
+    T.load_text('data/cig_data/industry_sponsored_1.pdf', 'S1', parser=T.pdf_parser)
     # T.load_text('data/cig_data/industry_sponsored_2.pdf', 'S2', parser=T.pdf_parser)
     # T.load_text('data/cig_data/industry_sponsored_3.pdf', 'S3', parser=T.pdf_parser)
     # T.load_text('data/cig_data/industry_sponsored_4.pdf', 'S4', parser=T.pdf_parser)
@@ -228,6 +241,6 @@ def main():
 
 
 
-    print(T.data)
+    # print(T.data)
 if __name__ == '__main__':
     main()
