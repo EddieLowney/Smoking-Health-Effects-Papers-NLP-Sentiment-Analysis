@@ -3,6 +3,14 @@ import pandas as pd
 
 pd.set_option('future.no_silent_downcasting', True)
 
+# fig.update_layout(
+#     title_text="Basic Sankey Diagram",
+#     font_family="Courier New",
+#     font_color="blue",
+#     font_size=12,
+#     title_font_family="Times New Roman",
+#     title_font_color="red",
+
 def _code_mapping(df, src, targ):
     """ Map labels in src and targ columns to integers """
     # Get distinct labels
@@ -49,7 +57,8 @@ def make_sankey(df, src, targ, vals=None, **kwargs):
     fig.update_layout(
         autosize=False,
         width=width,
-        height=height)
+        height=height,
+        font_size=25)
 
     return fig
 

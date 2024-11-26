@@ -10,7 +10,8 @@ ASPECT_LIST = ['health effects of cigarettes',
                        'impact on lungs',
                        'impact on heart',
                        'cigarettes',
-                       'e-cigarettes']
+                       'e-cigarettes',
+                       'rainbows and unicorns']
 
 WORD_LIST = ["exposure", "risk", "mortality",
                                   "cardiovascular", "ecigarettes",
