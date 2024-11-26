@@ -255,7 +255,7 @@ class Textinator:
 def main():
 
     T = Textinator()
-    print(STOP_WORDS_FILENAME)
+
     T.load_stop_words(STOP_WORDS_FILENAME)
 
     T.load_text('data/cig_data/independent_1.pdf', 'I1', parser=T.pdf_parser)
@@ -263,13 +263,13 @@ def main():
     T.load_text('data/cig_data/independent_3.pdf', 'I3', parser=T.pdf_parser)
     T.load_text('data/cig_data/independent_4.pdf', 'I4', parser=T.pdf_parser)
     T.load_text('data/cig_data/independent_5.pdf', 'I5', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_6.pdf', 'I6', parser=T.pdf_parser)
+
     T.load_text('data/cig_data/industry_sponsored_1.pdf', 'S1', parser=T.pdf_parser)
     T.load_text('data/cig_data/industry_sponsored_2.pdf', 'S2', parser=T.pdf_parser)
     T.load_text('data/cig_data/industry_sponsored_3.pdf', 'S3', parser=T.pdf_parser)
     T.load_text('data/cig_data/industry_sponsored_4.pdf', 'S4', parser=T.pdf_parser)
-    T.load_text('data/cig_data/industry_sponsored_5.pdf', 'S5', parser=T.pdf_parser)
-    T.load_text('data/cig_data/industry_sponsored_6.txt', 'S6')
+    T.load_text('data/cig_data/industry_sponsored_6.txt', 'S5')
+
     # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_1.txt')
     # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_2.txt')
     # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_3.txt')
@@ -282,7 +282,9 @@ def main():
     # T.ASBA_scores('data/GPT_sectioned/independent_5.txt')
     # T.ASBA_scores('data/GPT_sectioned/independent_6.txt')
 
-    T.wordcount_sankey()
+    T.wordcount_sankey(word_list = ["exposure", "risk", "mortality",
+                                    "cardiovascular", "ecigarettes",
+                                    "smoking", "asthma", "airway"])
     T.sentiment_analysis()
 
 
