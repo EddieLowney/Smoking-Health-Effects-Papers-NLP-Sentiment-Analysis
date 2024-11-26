@@ -1,9 +1,3 @@
-import math
-
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import os
 from textinator import Textinator
 
 STOP_WORDS_FILENAME = 'stop_words.txt'

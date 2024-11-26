@@ -2016,9 +2016,9 @@ Pipe or cigar
 Total of current smokers
 1959 male never smokers aged ≥50 years at enrolment
 
-0.9 (87)
-
 1.4 (10)
+
+0.9 (87)
 
 1.0 (41)
 
