@@ -22,6 +22,8 @@ import gensim
 from nltk.stem import WordNetLemmatizer
 import matplotlib.pyplot as plt
 import seaborn as sns
+import pyLDAvis.gensim_models
+import pyLDAvis
 
 dotenv.load_dotenv()
 api = MyOpenAPI()
@@ -120,7 +122,8 @@ class Textinator:
         extract data results in the form of a dictionary. """
 
         base_name = os.path.splitext(os.path.basename(filename))[0]
-        output_name = f'data/converted_files/{base_name}.txt'
+        base_file = re.sub(r'_\d+$', '', base_name)
+        output_name = f'data/converted_files/{base_file}/{base_name}.txt'
         raw_text = []
         with open(filename, 'r') as file:
             text = file.read()
@@ -146,7 +149,8 @@ class Textinator:
         the cleaned words in the dictionary counter datatype. Also writes the
         most important parts of the text to separate files using GPT API"""
         base_name = os.path.splitext(os.path.basename(filename))[0]
-        output_name = f'data/converted_files/{base_name}.txt'
+        base_file = re.sub(r'_\d+$', '', base_name)
+        output_name = f'data/converted_files/{base_file}/{base_name}.txt'
 
         text = extract_text(filename)
         # Writes most important portions of text to separate files using GPT
@@ -157,6 +161,7 @@ class Textinator:
 
         # Filters words
         cleaned_words = self.filter_words(text.split(" "))
+
         # Gets word counts in a Counter datatype
         wc = Counter(cleaned_words)
         num = len(cleaned_words)
@@ -271,16 +276,17 @@ class Textinator:
             df = pd.read_csv(f'results/ASBA/{filename}')
             df['file'] = os.path.splitext(os.path.basename(filename))[0]
             df_list.append(df)
+        df = pd.concat(df_list, ignore_index=True)
+        df.rename(columns={"Unnamed: 0": 'topic'}, inplace=True)
+        return df
 
-            df = pd.concat(df_list, ignore_index=True)
-            df.rename(columns={"Unnamed: 0": 'topic'}, inplace=True)
-
-            return df
 
     def LDA(self, num_topics_per_document, passes, num_words_to_print):
+
         for directory in os.listdir("data/converted_files/"):
             full_directory = os.path.join("data/converted_files", directory)
             text_list = []
+
             for filename in os.listdir(full_directory):
                 full_filename = os.path.join(f'data/converted_files/{directory}', filename)
                 with open(full_filename, "r") as file:
@@ -288,18 +294,24 @@ class Textinator:
                 text = text.strip().split()
                 text = self.filter_words(text)
                 text_list.append(text)
+
             dictionary = corpora.Dictionary(text_list)
+
             corpus = [dictionary.doc2bow(text) for text in text_list]
+
+            # PICKLE THE CORPUS!!!
             pickle.dump(corpus, open('corpus.pkl', 'wb'))
-            dictionary.save('dictionary.gensim')
-            ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=num_topics_per_document,
-                                                       id2word=dictionary, passes=passes)
-            ldamodel.save('model5.gensim')
-            topics = ldamodel.print_topics(num_words=num_words_to_print)
-            for topic in topics:
-                print(topic)
+
+            ldamodel = gensim.models.ldamodel.LdaModel(corpus,
+                                                       num_topics=num_topics_per_document,
+                                                       id2word=dictionary,
+                                                       passes=passes)
+            ldamodel.save('gensim_DS3500.model')
+            vis = pyLDAvis.gensim_models.prepare(ldamodel, corpus, dictionary)
+            pyLDAvis.save_html(vis, 'lda_visualization.html')
 
     def create_dot_plot(self, df):
+        print(df)
         plt.figure(dpi=500)
         plt.size = (12, 10)
 
@@ -314,14 +326,13 @@ class Textinator:
             size='score',  # Dot size is proportional to 'score'
             hue='label',  # Dot color represents the 'label'
             palette=color_labels,
-            legend='brief',
-            alpha=0.7
+            legend='brief'
         )
 
         # Customize the plot
         plt.title("Sentiment and Confidence Score per Category", fontsize=10)
-        plt.xlabel("Academic Paper", fontsize=8)
-        plt.ylabel("Topic", fontsize=8)
+        plt.xlabel("Paper Type", fontsize=10)
+        plt.ylabel("Topic", fontsize=10)
         plt.xticks(rotation=90)  # Rotate X-axis labels for readability
 
         # Adjust legend

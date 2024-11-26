@@ -10,8 +10,7 @@ ASPECT_LIST = ['health effects of cigarettes',
                        'impact on lungs',
                        'impact on heart',
                        'cigarettes',
-                       'e-cigarettes',
-                       'rainbows and unicorns']
+                       'e-cigarettes']
 
 WORD_LIST = ["exposure", "risk", "mortality",
                                   "cardiovascular", "ecigarettes",
@@ -38,23 +37,23 @@ def main():
                 parser=T.pdf_parser, GPT = False)
     T.load_text('data/cig_data/industry_sponsored_6.txt', 'S5', GPT = False)
 
-    T.ASBA_scores('data/GPT_sectioned/industry_sponsored_1.txt', ASPECT_LIST)
-    T.ASBA_scores('data/GPT_sectioned/industry_sponsored_2.txt', ASPECT_LIST)
-    T.ASBA_scores('data/GPT_sectioned/industry_sponsored_3.txt', ASPECT_LIST)
-    T.ASBA_scores('data/GPT_sectioned/industry_sponsored_4.txt', ASPECT_LIST)
-    T.ASBA_scores('data/GPT_sectioned/industry_sponsored_5.txt', ASPECT_LIST)
-    T.ASBA_scores('data/GPT_sectioned/independent_1.txt', ASPECT_LIST)
-    T.ASBA_scores('data/GPT_sectioned/independent_2.txt', ASPECT_LIST)
-    T.ASBA_scores('data/GPT_sectioned/independent_3.txt', ASPECT_LIST)
-    T.ASBA_scores('data/GPT_sectioned/independent_4.txt', ASPECT_LIST)
-    T.ASBA_scores('data/GPT_sectioned/independent_5.txt', ASPECT_LIST)
-    T.ASBA_scores('data/GPT_sectioned/independent_6.txt', ASPECT_LIST)
+    # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_1.txt', ASPECT_LIST)
+    # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_2.txt', ASPECT_LIST)
+    # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_3.txt', ASPECT_LIST)
+    # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_4.txt', ASPECT_LIST)
+    # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_5.txt', ASPECT_LIST)
+    # T.ASBA_scores('data/GPT_sectioned/independent_1.txt', ASPECT_LIST)
+    # T.ASBA_scores('data/GPT_sectioned/independent_2.txt', ASPECT_LIST)
+    # T.ASBA_scores('data/GPT_sectioned/independent_3.txt', ASPECT_LIST)
+    # T.ASBA_scores('data/GPT_sectioned/independent_4.txt', ASPECT_LIST)
+    # T.ASBA_scores('data/GPT_sectioned/independent_5.txt', ASPECT_LIST)
+    #T.ASBA_scores('data/GPT_sectioned/independent_6.txt', ASPECT_LIST)
 
-    T.wordcount_sankey(word_list=WORD_LIST)
-    T.sentiment_analysis()
-    T.LDA(5, 1, 5)
-    df = T.dot_plot_df()
-    T.create_dot_plot(df)
+    #T.wordcount_sankey(word_list=WORD_LIST)
+    #T.sentiment_analysis()
+    T.LDA(5, 30, 5)
+    #df = T.dot_plot_df()
+    #T.create_dot_plot(df)
 
 if __name__ == '__main__':
     main()
