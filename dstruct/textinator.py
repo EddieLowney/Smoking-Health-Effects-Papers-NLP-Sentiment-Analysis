@@ -17,6 +17,10 @@ import dotenv
 import pandas as pd
 import vaderSentiment.vaderSentiment as vs
 from SANKEY import show_sankey
+import gensim.corpora as corpora
+import pickle
+import gensim
+from nltk.stem import WordNetLemmatizer
 
 
 dotenv.load_dotenv()
@@ -82,8 +86,12 @@ class Textinator:
             # Conditional statement checking filtering conditions
             if i not in self.stop_list and i.isalpha() and len(i) > 2:
                 cleaned_words.append(i)
+        lemmatizer = WordNetLemmatizer()
+        final_words = []
+        for i in cleaned_words:
+            final_words.append(lemmatizer.lemmatize(i))
 
-        return cleaned_words
+        return final_words
 
     def default_parser(self, filename):
         """ Parse a standard text file and produce
@@ -219,15 +227,35 @@ class Textinator:
             text_sentiments.append(sum(total_sentiment) / self.data[
                                                             "numwords"][text])
 
-    def LDA(self):
-        pass
+    def LDA(self, num_topics_per_document, passes, num_words_to_print):
+        for directory in os.listdir("data/converted_files/"):
+            full_directory = os.path.join("data/converted_files", directory)
+            text_list = []
+            for filename in os.listdir(full_directory):
+                full_filename = os.path.join(f'data/converted_files/{directory}', filename)
+                with open(full_filename, "r") as file:
+                    text = file.read()
+                text = text.strip().split()
+                text = self.filter_words(text)
+                text_list.append(text)
+            dictionary = corpora.Dictionary(text_list)
+            corpus = [dictionary.doc2bow(text) for text in text_list]
+            pickle.dump(corpus, open('corpus.pkl', 'wb'))
+            dictionary.save('dictionary.gensim')
+            ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=num_topics_per_document,
+                                                       id2word=dictionary, passes=passes)
+            ldamodel.save('model5.gensim')
+            topics = ldamodel.print_topics(num_words=num_words_to_print)
+            for topic in topics:
+                print(topic)
+
 
 def main():
 
     T = Textinator()
     T.load_stop_words(STOP_WORDS_FILENAME)
 
-    # T.load_text('data/cig_data/independent_1.pdf', 'I1', parser=T.pdf_parser)
+    #T.load_text('data/cig_data/independent_1.pdf', 'I1', parser=T.pdf_parser)
     # T.load_text('data/cig_data/independent_2.pdf', 'I2', parser=T.pdf_parser)
     # T.load_text('data/cig_data/independent_3.pdf', 'I3', parser=T.pdf_parser)
     # T.load_text('data/cig_data/independent_4.pdf', 'I4', parser=T.pdf_parser)
@@ -251,10 +279,10 @@ def main():
     # T.ASBA_scores('data/GPT_sectioned/independent_4.txt')
     # T.ASBA_scores('data/GPT_sectioned/independent_5.txt')
     # T.ASBA_scores('data/GPT_sectioned/independent_6.txt')
+    T.LDA(10, 45, 10)
+    #T.wordcount_sankey(k=5)
+    #T.sentiment_analysis()
 
-    T.wordcount_sankey(k=5)
-    T.sentiment_analysis()
-    
 
 
     # print(T.data)

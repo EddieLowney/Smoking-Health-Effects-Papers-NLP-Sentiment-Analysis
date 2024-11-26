@@ -1,37 +1,34 @@
-Certainly! Here are the key sections of the provided text extracted and presented verbatim:
-
-### Abstract:
   
-Electronic cigarettes (ecigarettes) are promoted as a less risky alternative to conventional cigarettes and have grown in popularity. Experimental and clinical evidence suggests that they could increase the risk of myocardial infarction.  
+Introduction: Electronic cigarettes (ecigarettes) are promoted as a less risky alternative to conventional cigarettes and have grown in popularity. Experimental and clinical evidence suggests that they could increase the risk of myocardial infarction.  
+
+Methods: The National Health Interview Surveys of 2014 (n=36,697) and 2016 (n=33,028) were used to examine the crosssectional association between ecigarette use (never, former, some days, daily) and cigarette smoking (same categories) and myocardial infarction in a single logistic regression model that also included demographics (age, gender, BMI) and health characteristics (hypertension, diabetes, and hypercholesterolemia) using logistic regression. Data were collected in 2014 and 2016 and analyzed in 2017 and 2018.  
+
+Results: Daily ecigarette use was independently associated with increased odds of having had a myocardial infarction (OR=1.79, 95% CI=1.20, 2.66, p=0.004) as was daily conventional cigarette smoking (OR=2.72, 95% CI=2.29, 3.24, p<0.001). Former and some day ecigarette use were not significantly associated with having had a myocardial infarction (p=0.608 and p=0.392) whereas former (OR=1.70, p<0.001) and some day cigarette smoking (OR=2.36, p<0.001) were. Odds of a myocardial infarction were also increased with history of hypertension (OR=2.32, p<0.001); high cholesterol (OR=2.36, p<0.001); and diabetes (OR=1.77, p<0.001); and age (OR=1.65 per 10 years, p<0.001). Women (OR=0.47, p<0.001) had lower odds of myocardial infarction.  
+
+Conclusions: Daily ecigarette use, adjusted for smoking conventional cigarettes as well as other risk factors, is associated with increased risk of myocardial infarction.  
+
+
 
   
-The National Health Interview Surveys of 2014 (n=36,697) and 2016 (n=33,028) were used to examine the crosssectional association between ecigarette use (never, former, some days, daily) and cigarette smoking (same categories) and myocardial infarction in a single logistic regression model that also included demographics (age, gender, BMI) and health characteristics (hypertension, diabetes, and hypercholesterolemia) using logistic regression. Data were collected in 2014 and 2016 and analyzed in 2017 and 2018.  
+ "Daily ecigarette use was independently associated with increased odds of having had a myocardial infarction (OR=1.79, 95% CI=1.20, 2.66, p=0.004) as was daily conventional cigarette smoking (OR=2.72, 95% CI=2.29, 3.24, p<0.001)."  
+ "Former and some day ecigarette use were not significantly associated with having had a myocardial infarction (p=0.608 and p=0.392) whereas former (OR=1.70, p<0.001) and some day cigarette smoking (OR=2.36, p<0.001) were."  
+ "Dual use of ecigarettes and conventional cigarettes appears to be more dangerous than using either product alone."  
+ "Recreational use of ecigarettes or use of ecigarettes for smoking cessation should not be recommended."  
+
+
 
   
-Daily ecigarette use was independently associated with increased odds of having had a myocardial infarction (OR=1.79, 95% CI=1.20, 2.66, p=0.004) as was daily conventional cigarette smoking (OR=2.72, 95% CI=2.29, 3.24, p<0.001). Former and some day ecigarette use were not significantly associated with having had a myocardial infarction (p=0.608 and p=0.392) whereas former (OR=1.70, p<0.001) and some day cigarette smoking (OR=2.36, p<0.001) were. Odds of a myocardial infarction were also increased with history of hypertension (OR=2.32, p<0.001); high cholesterol (OR=2.36, p<0.001); and diabetes (OR=1.77, p<0.001); and age (OR=1.65 per 10 years, p<0.001). Women (OR=0.47, p<0.001) had lower odds of myocardial infarction.  
+"This is the first study to examine the relationship between ecigarette use and MI. The fact that the use of ecigarettes and conventional cigarettes are both included in the same logistic regression means that they both independently contribute to the risk of having had an MI after adjusting for other risk factors (including the use of the other product). All the ORs in Table 2 estimate the independent risks compared with people who have never used ecigarettes or cigarettes."  
+
+"Because the different products are independently associated with risk of having had an MI, it is possible to use the results in Table 2 to estimate other behaviors, including dual use and switching from cigarettes to ecigarettes. For example, the total odds of having had an MI among a former cigarette smoker who currently uses ecigarettes daily is (odds of MI among former smokers) × (odds of MI among daily ecigarette user) = 1.70 × 1.79 = 3.04 compared with a never smoker who has never used ecigarettes. Thus, odds of having had a heart attack for an individual who switched from daily smoking to daily ecigarette use would change by a factor of  
+odds of MI among former smoker × odds of MI among daily ecigarette user  
+/ odds of MI among daily smoker = 1.70  ×  1.79 /2.79  =  1.09."  
+
+"By contrast, the total odds of having had an MI among a current daily dual user who both smokes cigarettes daily and also uses ecigarettes daily is (odds of MI among daily smoker) × (odds of MI among daily ecigarette user) = 2.72 × 1.70 = 4.62 compared with a never smoker who has never used ecigarettes. In other words, dual use of ecigarettes and conventional cigarettes appears to be more dangerous than using either product alone."  
+
+"The point estimate of the odds of MI associated with daily ecigarette use (1.79, 95% CI=1.20, 2.66) is lower than current cigarette smoking (2.72, 95% CI=2.29, 3.24) in the adjusted models (Table 2). The difference may be because ecigarettes are not as dangerous as cigarettes, statistical uncertainty, or the fact that some ecigarette users likely had MIs before ecigarettes became available, which will bias the estimated OR to the null."  
+
+
 
   
-Daily ecigarette use, adjusted for smoking conventional cigarettes as well as other risk factors, is associated with increased risk of myocardial infarction.
-
-
-
-### Key Defining Sentences:
-1. Daily ecigarette use was independently associated with increased odds of having had a myocardial infarction.  
-2. Dual use of ecigarettes and conventional cigarettes appears to be more dangerous than using either product alone.  
-3. Recreational use of ecigarettes or use of ecigarettes for smoking cessation should not be recommended.  
-
-
-
-### Discussion:
-This is the first study to examine the relationship between ecigarette use and MI. The fact that the use of ecigarettes and conventional cigarettes are both included in the same logistic regression means that they both independently contribute to the risk of having had an MI after adjusting for other risk factors (including the use of the other product).  
-
-Because the different products are independently associated with risk of having had an MI, it is possible to use the results in Table 2 to estimate other behaviors, including dual use and switching from cigarettes to ecigarettes. For example, the total odds of having had an MI among a former cigarette smoker who currently uses ecigarettes daily is (odds of MI among former smokers) × (odds of MI among daily ecigarette user) = 1.70 × 1.79 = 3.04 compared with a never smoker who has never used ecigarettes. Thus, odds of having had a heart attack for an individual who switched from daily smoking to daily ecigarette use would change by a factor of … = 1.09.  
-
-… Finally, the total odds of having had a heart attack for an individual who switched from daily smoking to daily ecigarette use compared with quitting smoking “cold turkey” would be … = 1.79.  
-
-These results suggest that ecigarettes represent an independent risk factor for MI on top of the effects of smoking.
-
-
-
-### Conclusion:
-Daily ecigarette use is associated with increased odds of MI independent of and in addition to the risks associated with smoking and other risk factors. Dual use of ecigarettes and conventional cigarettes—the most common use pattern among ecigarette users—is more dangerous than using either product alone. From these findings, recreational use of ecigarettes or use of ecigarettes for smoking cessation should not be recommended.  
+"Daily ecigarette use is associated with increased odds of MI independent of and in addition to the risks associated with smoking and other risk factors. Dual use of ecigarettes and conventional cigarettes—the most common use pattern among ecigarette users—is more dangerous than using either product alone. From these findings, recreational use of ecigarettes or use of ecigarettes for smoking cessation should not be recommended."
