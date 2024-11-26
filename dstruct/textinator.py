@@ -25,6 +25,7 @@ import seaborn as sns
 import pyLDAvis.gensim_models
 import pyLDAvis
 
+
 dotenv.load_dotenv()
 api = MyOpenAPI()
 
@@ -268,6 +269,9 @@ class Textinator:
                 total_sentiment.append(analyzer.polarity_scores(i)[
                                 "compound"] * self.data["wordcount"][text][i])
             # Averages text sentiment scores for the whole text
+            if self.data["numwords"][text] == 0:
+                self.data["numwords"][text] = 0.0000001
+
             text_sentiments.append(sum(total_sentiment) / self.data[
                                                             "numwords"][text])
     def dot_plot_df(self):
@@ -281,8 +285,7 @@ class Textinator:
         return df
 
 
-    def LDA(self, num_topics_per_document, passes, num_words_to_print):
-
+    def LDA(self, num_topics_per_document, passes):
         for directory in os.listdir("data/converted_files/"):
             full_directory = os.path.join("data/converted_files", directory)
             text_list = []
@@ -299,16 +302,42 @@ class Textinator:
 
             corpus = [dictionary.doc2bow(text) for text in text_list]
 
-            # PICKLE THE CORPUS!!!
+            # !!! PICKLE THE CORPUS !!!
             pickle.dump(corpus, open('corpus.pkl', 'wb'))
 
             ldamodel = gensim.models.ldamodel.LdaModel(corpus,
                                                        num_topics=num_topics_per_document,
                                                        id2word=dictionary,
                                                        passes=passes)
-            ldamodel.save('gensim_DS3500.model')
+
             vis = pyLDAvis.gensim_models.prepare(ldamodel, corpus, dictionary)
-            pyLDAvis.save_html(vis, 'lda_visualization.html')
+            pyLDAvis.save_html(vis, f'lda_visualization{directory}.html')
+
+            data = ldamodel.show_topics(num_topics=num_topics_per_document)
+            topics = []
+            for topic_id, keywords in data:
+                words = []
+                weights = []
+                for item in keywords.split(" + "):
+                    weight, word = item.split("*")
+                    weights.append(float(weight))
+                    words.append(word.strip('"'))
+                topics.append((topic_id, words, weights))
+
+            # Create subplots
+            num_topics = len(topics)
+            fig, axes = plt.subplots(1, num_topics, figsize=(15, 5), sharey=True)
+
+            for i, (topic_id, words, weights) in enumerate(topics):
+                axes[i].barh(words, weights, align='center')
+                axes[i].set_title(f"Topic {topic_id}")
+
+            # Adjust layout
+            plt.xticks(rotation=45)
+            plt.tight_layout()
+            plt.show()
+
+
 
     def create_dot_plot(self, df):
         print(df)
