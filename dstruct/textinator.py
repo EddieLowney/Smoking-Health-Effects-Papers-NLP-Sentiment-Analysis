@@ -18,11 +18,13 @@ import pandas as pd
 import vaderSentiment.vaderSentiment as vs
 from SANKEY import show_sankey
 
+import math
+import matplotlib.pyplot as plt
+import seaborn as sns
+
 
 dotenv.load_dotenv()
 # api = MyOpenAPI()
-
-STOP_WORDS_FILENAME = 'stop_words.txt'
 
 class Textinator:
     def __init__(self):
@@ -147,7 +149,7 @@ class Textinator:
             for i in infile:
                 self.stop_list.append(i.strip())
 
-    def ASBA_scores(self, filename):
+    def ASBA_scores(self, filename, aspect_list):
         """"""
         base_name = os.path.splitext(os.path.basename(filename))[0]
         output_name = f'results/ASBA/{base_name}.csv'
@@ -164,15 +166,7 @@ class Textinator:
                               tokenizer=tokenizer, device = 'mps')
 
         result = {}
-        for aspect in ['health effects of cigarettes',
-                       'health impact',
-                       'health effects of e-cigarettes',
-                       'health effects of vapes',
-                       'impact on lungs',
-                       'impact on heart',
-                       'cigarettes',
-                       'e-cigarettes',
-                       'rainbows and unicorns']:
+        for aspect in aspect_list:
             result[aspect] = classifier(text, text_pair=aspect)[0]
         df = pd.DataFrame.from_dict(result, orient='index')
         df.to_csv(output_name)
@@ -251,44 +245,44 @@ class Textinator:
             # Averages text sentiment scores for the whole text
             text_sentiments.append(sum(total_sentiment) / self.data[
                                                             "numwords"][text])
+    def dot_plot_df(self):
+        df_list = []
+        for filename in os.listdir("results/ASBA"):
+            df = pd.read_csv(f'results/ASBA/{filename}')
+            df['file'] = os.path.splitext(os.path.basename(filename))[0]
+            df_list.append(df)
 
-def main():
+        df = pd.concat(df_list, ignore_index=True)
+        df.rename(columns={"Unnamed: 0": 'topic'}, inplace=True)
 
-    T = Textinator()
+        return df
 
-    T.load_stop_words(STOP_WORDS_FILENAME)
+    def create_dot_plot(self, df):
+        plt.figure(dpi=500)
+        plt.size = (12, 10)
 
-    T.load_text('data/cig_data/independent_1.pdf', 'I1', parser=T.pdf_parser)
-    T.load_text('data/cig_data/independent_2.pdf', 'I2', parser=T.pdf_parser)
-    T.load_text('data/cig_data/independent_3.pdf', 'I3', parser=T.pdf_parser)
-    T.load_text('data/cig_data/independent_4.pdf', 'I4', parser=T.pdf_parser)
-    T.load_text('data/cig_data/independent_5.pdf', 'I5', parser=T.pdf_parser)
+        color_labels = {"Positive": "red", "Negative": "blue",
+                        "Neutral": "grey"}
+        df["color"] = df["label"].map(color_labels)
 
-    T.load_text('data/cig_data/industry_sponsored_1.pdf', 'S1', parser=T.pdf_parser)
-    T.load_text('data/cig_data/industry_sponsored_2.pdf', 'S2', parser=T.pdf_parser)
-    T.load_text('data/cig_data/industry_sponsored_3.pdf', 'S3', parser=T.pdf_parser)
-    T.load_text('data/cig_data/industry_sponsored_4.pdf', 'S4', parser=T.pdf_parser)
-    T.load_text('data/cig_data/industry_sponsored_6.txt', 'S5')
+        sns.scatterplot(
+            data=df,
+            x='file',  # X-axis is the 'label' column
+            y='topic',  # Y-axis is the DataFrame identifier
+            size='score',  # Dot size is proportional to 'score'
+            hue='label',  # Dot color represents the 'label'
+            palette=color_labels,
+            legend='brief',
+            alpha=0.7
+        )
 
-    # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_1.txt')
-    # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_2.txt')
-    # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_3.txt')
-    # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_4.txt')
-    # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_5.txt')
-    # T.ASBA_scores('data/GPT_sectioned/independent_1.txt')
-    # T.ASBA_scores('data/GPT_sectioned/independent_2.txt')
-    # T.ASBA_scores('data/GPT_sectioned/independent_3.txt')
-    # T.ASBA_scores('data/GPT_sectioned/independent_4.txt')
-    # T.ASBA_scores('data/GPT_sectioned/independent_5.txt')
-    # T.ASBA_scores('data/GPT_sectioned/independent_6.txt')
+        # Customize the plot
+        plt.title("Sentiment and Confidence Score per Category", fontsize=10)
+        plt.xlabel("Academic Paper", fontsize=8)
+        plt.ylabel("Topic", fontsize=8)
+        plt.xticks(rotation=90)  # Rotate X-axis labels for readability
 
-    T.wordcount_sankey(word_list = ["exposure", "risk", "mortality",
-                                    "cardiovascular", "ecigarettes",
-                                    "smoking", "asthma", "airway"])
-    T.sentiment_analysis()
-
-
-
-    # print(T.data)
-if __name__ == '__main__':
-    main()
+        # Adjust legend
+        plt.legend(title="Labels", bbox_to_anchor=(1.05, 1), loc='upper left')
+        plt.tight_layout()
+        plt.show()
