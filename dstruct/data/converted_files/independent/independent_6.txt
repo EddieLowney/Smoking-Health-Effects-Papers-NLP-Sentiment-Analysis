@@ -328,11 +328,11 @@ or non-smoker mortality rate for age group i) [19].
 
 ÞMRi
 
+ð
+
 X
 x
 i¼ 45−54
-
-ð
 
 All statistical tests were two-sided, using a significance
 level of 5%. Analyses were carried out using SAS® ver-
@@ -1149,9 +1149,9 @@ comparative risk assessment of burden of disease and injury attributable
 
 Page 10 of 10
 
-4.
-
 3.
+
+4.
 
 6.
 
@@ -1186,9 +1186,9 @@ Accessed 30 April 2014.
 
 7.
 
-8.
-
 9.
+
+8.
 
 11. Banks E, Redman S, Jorm L, Armstrong B, Bauman A, Beard J, et al. Cohort
 
