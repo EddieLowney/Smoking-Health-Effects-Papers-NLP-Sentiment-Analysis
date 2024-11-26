@@ -16,7 +16,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipe
 import dotenv
 import pandas as pd
 import vaderSentiment.vaderSentiment as vs
-from sankey import show_sankey
+from SANKEY import show_sankey
 
 
 dotenv.load_dotenv()
@@ -74,13 +74,19 @@ class Textinator:
     def default_parser(self, filename):
         """ Parse a standard text file and produce
         extract data results in the form of a dictionary. """
+        raw_text = []
+        with open (filename, 'r') as infile:
+            for i in infile:
+                raw_text.append(i.split(" "))
+        raw_text = [i for lst in raw_text for i in lst]
 
-        results = {
-            'wordcount': Counter("To be or not to be".split(" ")),
-            'numwords' : rnd.randrange(10, 50)
-        }
+        cleaned_words = self.filter_words(raw_text)
 
-        return results
+        wc = Counter(cleaned_words)
+        num = len(cleaned_words)
+
+        return {'wordcount': wc, 'numwords': num}
+
 
     def json_parser(self, filename):
         f = open(filename)
@@ -123,7 +129,7 @@ class Textinator:
 
         text = extract_text(filename)
         # Writes most important portions of text to separate files using GPT
-        self.GPT_key_sections(text, filename)
+        # self.GPT_key_sections(text, filename)
         with open(output_name, 'w') as file:
             file.write(text)
 
@@ -254,16 +260,16 @@ def main():
 
     T.load_text('data/cig_data/independent_1.pdf', 'I1', parser=T.pdf_parser)
     T.load_text('data/cig_data/independent_2.pdf', 'I2', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_3.pdf', 'I3', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_4.pdf', 'I4', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/independent_5.pdf', 'I5', parser=T.pdf_parser)
+    T.load_text('data/cig_data/independent_3.pdf', 'I3', parser=T.pdf_parser)
+    T.load_text('data/cig_data/independent_4.pdf', 'I4', parser=T.pdf_parser)
+    T.load_text('data/cig_data/independent_5.pdf', 'I5', parser=T.pdf_parser)
     # T.load_text('data/cig_data/independent_6.pdf', 'I6', parser=T.pdf_parser)
     T.load_text('data/cig_data/industry_sponsored_1.pdf', 'S1', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/industry_sponsored_2.pdf', 'S2', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/industry_sponsored_3.pdf', 'S3', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/industry_sponsored_4.pdf', 'S4', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/industry_sponsored_5.pdf', 'S5', parser=T.pdf_parser)
-    # T.load_text('data/cig_data/industry_sponsored_6.pdf', 'S6')
+    T.load_text('data/cig_data/industry_sponsored_2.pdf', 'S2', parser=T.pdf_parser)
+    T.load_text('data/cig_data/industry_sponsored_3.pdf', 'S3', parser=T.pdf_parser)
+    T.load_text('data/cig_data/industry_sponsored_4.pdf', 'S4', parser=T.pdf_parser)
+    T.load_text('data/cig_data/industry_sponsored_5.pdf', 'S5', parser=T.pdf_parser)
+    T.load_text('data/cig_data/industry_sponsored_6.txt', 'S6')
     # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_1.txt')
     # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_2.txt')
     # T.ASBA_scores('data/GPT_sectioned/industry_sponsored_3.txt')
@@ -276,7 +282,7 @@ def main():
     # T.ASBA_scores('data/GPT_sectioned/independent_5.txt')
     # T.ASBA_scores('data/GPT_sectioned/independent_6.txt')
 
-    T.wordcount_sankey(k=5)
+    T.wordcount_sankey()
     T.sentiment_analysis()
 
 
